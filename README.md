@@ -1,12 +1,12 @@
 # Hi there, I'm gen! 👋
 
-## 🌟 Daily Great Person Quote
+## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> I think, therefore I am.
+> 真実は常にシンプルである。
 >
-> 我思う、ゆえに我あり。
+> Truth is always simple.
 >
-> — **René Descartes**
+> — **Gemini**
 <!-- DAILY-QUOTE-END -->
 
 
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [筋力が低い中高年は認知症になりやすいことが判明](https://gigazine.net/news/20260125-weak-muscles-higher-dementia-risk/)
-- [プロンプトを2回繰り返すだけでAIの正答率が上がるとGoogle Researchが報告](https://gigazine.net/news/20260125-prompt-repetition-improves-non-reasoning-llms/)
-- [人間の感覚は五感ではなく最大三十三感である可能性](https://gigazine.net/news/20260125-human-33-senses/)
+- [オープンソースの暗号化メッセージングアプリ「Session」](https://gigazine.net/news/20260125-session/)
+- [東京に拠点を置くSakana AIがGoogleと戦略的パートナーシップを締結](https://gigazine.net/news/20260125-sakana-ai-google/)
+- [ClaudeのAIアシスタント「Coworkモード」を支えるLinuxコンテナ環境とは？](https://gigazine.net/news/20260125-linux-container-environment-report/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -74,6 +74,7 @@
 ## 📜 Quote Log
 <!-- QUOTE-LOG-START -->
 - "It always seems impossible until it's done." (何事も達成するまでは不可能に見えるものだ。) - **Nelson Mandela**
+- "I think, therefore I am." (我思う、ゆえに我あり。) - **René Descartes**
 <!-- QUOTE-LOG-END -->
 
 <!--
