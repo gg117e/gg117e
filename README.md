@@ -15,7 +15,7 @@
 
 ```git
 On branch graduation-2028
-Your branch is up to date with 'origin/main'.
+Your branch is up to date with 'origin/graduation-2028'.
 
 Changes to be committed:
   (use "git restore --staged <file>..." to unstage)
