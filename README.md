@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=s4ZThuWQdhA'>
-        <img src='https://i.ytimg.com/vi/s4ZThuWQdhA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBL2544KnUtG-gjg-ro3N-gIAIgbw' width='200px' alt='Que Sera Sera'>
+      <a href='https://www.youtube.com/watch?v=MS94B8_eiII'>
+        <img src='https://i.ytimg.com/vi/MS94B8_eiII/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6buPo_SDBHZdDQiY5s8m2GCntVA' width='200px' alt='ハミング'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=s4ZThuWQdhA'>Que Sera Sera</a>
+      <a href='https://www.youtube.com/watch?v=MS94B8_eiII'>ハミング</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=LoyA7GvfOwA'>
-        <img src='https://i.ytimg.com/vi/LoyA7GvfOwA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAuADigIMCAAQARhkIGQoZDAP&rs=AOn4CLBk6pXQ6KVrYlVuaAckuf6xf3Owbg' width='200px' alt='Sad Song'>
+      <a href='https://www.youtube.com/watch?v=mN5F3l3r8QM'>
+        <img src='https://i.ytimg.com/vi/mN5F3l3r8QM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoS8UnfB9Cul4GAuAc-URqS0drDw' width='200px' alt='Romanticism'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=LoyA7GvfOwA'>Sad Song</a>
+      <a href='https://www.youtube.com/watch?v=mN5F3l3r8QM'>Romanticism</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=sFd0qdA32d8'>
-        <img src='https://i.ytimg.com/vi/sFd0qdA32d8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsbiKsqGRozBBhXS18xarw4KRGhw' width='200px' alt='Turquoise'>
+      <a href='https://www.youtube.com/watch?v=6IyRj4ui6ZA'>
+        <img src='https://i.ytimg.com/vi/6IyRj4ui6ZA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJnIeUXRMUh1719QYWf9nI8gyUUA' width='200px' alt='Boom Boom Back'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=sFd0qdA32d8'>Turquoise</a>
+      <a href='https://www.youtube.com/watch?v=6IyRj4ui6ZA'>Boom Boom Back</a>
     </td>
   </tr>
 </table>
