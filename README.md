@@ -1,6 +1,4 @@
-# Hi there, I'm gg117e! 👋
-
-GitHubのプロフィール画面へようこそ！
+# Hi there, I'm gen! 👋
 
 ## 🌟 Daily Great Person Quote
 <!-- DAILY-QUOTE-START -->
@@ -11,12 +9,37 @@ GitHubのプロフィール画面へようこそ！
 > — **Nelson Mandela**
 <!-- DAILY-QUOTE-END -->
 
-## 🔧 Technologies & Tools
 
-- Python
-- JavaScript
-- HTML/CSS
-- (Add your other skills here)
+<!-- YOUTUBE-SONGS-START -->
+## 🎵 Daily Recommended Songs
+
+<table>
+  <tr>
+    <td align='center'>
+      <a href='https://www.youtube.com/watch?v=E-2VQqidJL0'>
+        <img src='https://i.ytimg.com/vi/E-2VQqidJL0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaB1Y_Kb4wcIUX9klPvPTnq-AHew' width='200px' alt='CITRUS'>
+      </a>
+      <br />
+      <a href='https://www.youtube.com/watch?v=E-2VQqidJL0'>CITRUS</a>
+    </td>
+    <td align='center'>
+      <a href='https://www.youtube.com/watch?v=0Ac1TwKuwCQ'>
+        <img src='https://i.ytimg.com/vi/0Ac1TwKuwCQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqufMDYaRonIKh0kldxsPueBAd9g' width='200px' alt='ラストソング'>
+      </a>
+      <br />
+      <a href='https://www.youtube.com/watch?v=0Ac1TwKuwCQ'>ラストソング</a>
+    </td>
+    <td align='center'>
+      <a href='https://www.youtube.com/watch?v=Def4ipTm-y4'>
+        <img src='https://i.ytimg.com/vi/Def4ipTm-y4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCixEcYjMmjLWOaqoEVhRfGcylceQ' width='200px' alt='Lovin''>
+      </a>
+      <br />
+      <a href='https://www.youtube.com/watch?v=Def4ipTm-y4'>Lovin'</a>
+    </td>
+  </tr>
+</table>
+
+<!-- YOUTUBE-SONGS-END -->
 
 ## 📫 Connect with me
 
