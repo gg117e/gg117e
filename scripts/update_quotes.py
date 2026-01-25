@@ -3,6 +3,7 @@ import datetime
 import os
 import re
 import feedparser
+import google.generativeai as genai
 
 QUOTES_FILE = 'quotes.json'
 README_FILE = 'README.md'
@@ -90,6 +91,41 @@ def get_gigazine_news():
     except Exception as e:
         print(f"Error fetching GIGAZINE news: {e}")
         return None
+
+def generate_gemini_quote(news_context=None):
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key:
+        raise ValueError("GEMINI_API_KEY not found")
+
+    genai.configure(api_key=api_key)
+    model = genai.GenerativeModel('gemini-pro')
+
+    context_str = ""
+    if news_context:
+        context_str = f"以下は最近のニュース見出しです。これらを参考に現在の世界情勢を把握してください:\n{news_context}\n\n"
+
+    prompt = (
+        f"{context_str}"
+        "あなたは賢者です。現在の世界の情勢、生命の価値観、人としての生き方を深く考慮し、"
+        "今を生きる私たちに向けた短く心に響く格言・アドバイスを日本語で作成してください。"
+        "また、その英語訳も提供してください。"
+        "結果は以下のキーを持つJSONオブジェクトとして出力してください: "
+        "'quote' (日本語のテキスト), 'translation' (英語のテキスト), 'author' (固定値 'Gemini')。"
+        "JSON以外のテキストは出力しないでください。"
+    )
+
+    response = model.generate_content(prompt)
+
+    # Simple cleanup to handle potential markdown code blocks in response
+    text = response.text.strip()
+    if text.startswith("```json"):
+        text = text[7:]
+    if text.startswith("```"):
+        text = text[3:]
+    if text.endswith("```"):
+        text = text[:-3]
+
+    return json.loads(text.strip())
 
 def update_readme(new_quote):
     if not os.path.exists(README_FILE):
@@ -225,13 +261,29 @@ def update_readme(new_quote):
     print(f"Updated daily quote to: {new_quote['quote']}")
 
 def main():
-    if not os.path.exists(QUOTES_FILE):
-        print(f"{QUOTES_FILE} not found.")
-        return
+    gemini_quote = None
+    if os.environ.get("GEMINI_API_KEY"):
+         try:
+             news_context = get_gigazine_news()
+             gemini_quote = generate_gemini_quote(news_context)
+         except Exception as e:
+             print(f"Gemini generation failed: {e}")
+
+    if gemini_quote:
+        todays_quote = gemini_quote
+    else:
+        if not os.path.exists(QUOTES_FILE):
+            print(f"{QUOTES_FILE} not found.")
+            return
+
+        try:
+            quotes = load_quotes()
+            todays_quote = get_todays_quote(quotes)
+        except Exception as e:
+            print(f"Error loading local quotes: {e}")
+            return
 
     try:
-        quotes = load_quotes()
-        todays_quote = get_todays_quote(quotes)
         update_readme(todays_quote)
     except Exception as e:
         print(f"An error occurred: {e}")
