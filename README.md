@@ -13,15 +13,17 @@
 <!-- GRADUATION-COUNTDOWN-START -->
 ## 🎓 Days until Graduation
 
-```git
-On branch graduation-2028
-Your branch is up to date with 'origin/graduation-2028'.
-
-Changes to be committed:
-  (use "git restore --staged <file>..." to unstage)
-	modified:   days_remaining.txt
-
-   796 days left until 2028-03-31
+```text
+╔══════════════════════════════════════════╗
+║                                          ║
+║        🎓  GRADUATION COUNTDOWN  🎓      ║
+║                                          ║
+║                   796                    ║
+║                DAYS LEFT                 ║
+║                                          ║
+║           Until: 2028-03-31              ║
+║                                          ║
+╚══════════════════════════════════════════╝
 ```
 <!-- GRADUATION-COUNTDOWN-END -->
 

@@ -132,18 +132,31 @@ def update_readme(new_quote):
     # Update Graduation Countdown
     if grad_match:
         days_left = get_days_until_graduation()
+        # Create a visual board using box-drawing characters
+        # The inner width is 42 characters.
+        days_str = str(days_left)
+        inner_width = 42
+        padding_total = inner_width - len(days_str)
+        pad_left = padding_total // 2
+        pad_right = padding_total - pad_left
+
+        space_left = " " * pad_left
+        space_right = " " * pad_right
+
         grad_content = f"""
 ## 🎓 Days until Graduation
 
-```git
-On branch graduation-2028
-Your branch is up to date with 'origin/graduation-2028'.
-
-Changes to be committed:
-  (use "git restore --staged <file>..." to unstage)
-	modified:   days_remaining.txt
-
-   {days_left} days left until 2028-03-31
+```text
+╔══════════════════════════════════════════╗
+║                                          ║
+║        🎓  GRADUATION COUNTDOWN  🎓      ║
+║                                          ║
+║{space_left}{days_str}{space_right}║
+║                DAYS LEFT                 ║
+║                                          ║
+║           Until: 2028-03-31              ║
+║                                          ║
+╚══════════════════════════════════════════╝
 ```
 """
         # We need to find the match again in case content changed (though unlikely to overlap with graduation section)
