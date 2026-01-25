@@ -1,4 +1,4 @@
-name: Hourly Quote Update
+name: Daily Quote Update
 
 on:
   schedule:
