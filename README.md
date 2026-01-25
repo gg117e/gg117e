@@ -13,7 +13,10 @@
 <!-- GRADUATION-COUNTDOWN-START -->
 ## 🎓 Days until Graduation
 
-![Graduation Countdown](graduation.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="graduation-dark.svg">
+  <img alt="Graduation Countdown" src="graduation-light.svg">
+</picture>
 <!-- GRADUATION-COUNTDOWN-END -->
 
 
