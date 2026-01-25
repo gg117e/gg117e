@@ -71,6 +71,11 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gg117e&theme=radical)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gg117e&theme=react-dark">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gg117e&theme=github">
+</picture>
+
 ## 📜 Quote Log
 <!-- QUOTE-LOG-START -->
 - "It always seems impossible until it's done." (何事も達成するまでは不可能に見えるものだ。) - **Nelson Mandela**
