@@ -1,0 +1,17 @@
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #2f80ed; }
+        .stat { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #333; }
+        .days { font: 800 50px 'Segoe UI', Ubuntu, Sans-Serif; fill: #333; }
+        .desc { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #666; }
+        .bg { fill: #fffefe; stroke: #e4e2e2; }
+    </style>
+    <rect x="0.5" y="0.5" width="494" height="194" rx="4.5" class="bg" stroke-opacity="1"/>
+
+    <text x="25" y="35" class="header">🎓 Graduation Countdown</text>
+
+    <text x="247.5" y="100" text-anchor="middle" class="days">796</text>
+    <text x="247.5" y="130" text-anchor="middle" class="stat">Days Left</text>
+
+    <text x="25" y="170" class="desc">Until March 31, 2028</text>
+</svg>

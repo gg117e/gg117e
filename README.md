@@ -13,18 +13,7 @@
 <!-- GRADUATION-COUNTDOWN-START -->
 ## 🎓 Days until Graduation
 
-```text
-╔══════════════════════════════════════════╗
-║                                          ║
-║        🎓  GRADUATION COUNTDOWN  🎓      ║
-║                                          ║
-║                   796                    ║
-║                DAYS LEFT                 ║
-║                                          ║
-║           Until: 2028-03-31              ║
-║                                          ║
-╚══════════════════════════════════════════╝
-```
+![Graduation Countdown](graduation.svg)
 <!-- GRADUATION-COUNTDOWN-END -->
 
 

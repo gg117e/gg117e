@@ -24,6 +24,29 @@ def get_days_until_graduation():
     delta = target_date - today
     return delta.days
 
+def generate_countdown_svg(days_left):
+    """Generates an SVG file for the graduation countdown."""
+    svg_content = f"""<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .header {{ font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #2f80ed; }}
+        .stat {{ font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #333; }}
+        .days {{ font: 800 50px 'Segoe UI', Ubuntu, Sans-Serif; fill: #333; }}
+        .desc {{ font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #666; }}
+        .bg {{ fill: #fffefe; stroke: #e4e2e2; }}
+    </style>
+    <rect x="0.5" y="0.5" width="494" height="194" rx="4.5" class="bg" stroke-opacity="1"/>
+
+    <text x="25" y="35" class="header">🎓 Graduation Countdown</text>
+
+    <text x="247.5" y="100" text-anchor="middle" class="days">{days_left}</text>
+    <text x="247.5" y="130" text-anchor="middle" class="stat">Days Left</text>
+
+    <text x="25" y="170" class="desc">Until March 31, 2028</text>
+</svg>
+"""
+    with open('graduation.svg', 'w', encoding='utf-8') as f:
+        f.write(svg_content)
+
 def update_readme(new_quote):
     if not os.path.exists(README_FILE):
         print(f"Error: {README_FILE} not found.")
@@ -132,33 +155,10 @@ def update_readme(new_quote):
     # Update Graduation Countdown
     if grad_match:
         days_left = get_days_until_graduation()
-        # Create a visual board using box-drawing characters
-        # The inner width is 42 characters.
-        days_str = str(days_left)
-        inner_width = 42
-        padding_total = inner_width - len(days_str)
-        pad_left = padding_total // 2
-        pad_right = padding_total - pad_left
+        generate_countdown_svg(days_left)
 
-        space_left = " " * pad_left
-        space_right = " " * pad_right
+        grad_content = f"\n## 🎓 Days until Graduation\n\n![Graduation Countdown](graduation.svg)\n"
 
-        grad_content = f"""
-## 🎓 Days until Graduation
-
-```text
-╔══════════════════════════════════════════╗
-║                                          ║
-║        🎓  GRADUATION COUNTDOWN  🎓      ║
-║                                          ║
-║{space_left}{days_str}{space_right}║
-║                DAYS LEFT                 ║
-║                                          ║
-║           Until: 2028-03-31              ║
-║                                          ║
-╚══════════════════════════════════════════╝
-```
-"""
         # We need to find the match again in case content changed (though unlikely to overlap with graduation section)
         # But for safety, we can just replace the original match string if it was unique, or regex search again.
         # Since graduation section is separate, searching again is safer.
