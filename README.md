@@ -48,6 +48,13 @@
 
 <!-- YOUTUBE-SONGS-END -->
 
+## 📰 Daily GIGAZINE News
+<!-- GIGAZINE-NEWS-START -->
+- [筋力が低い中高年は認知症になりやすいことが判明](https://gigazine.net/news/20260125-weak-muscles-higher-dementia-risk/)
+- [プロンプトを2回繰り返すだけでAIの正答率が上がるとGoogle Researchが報告](https://gigazine.net/news/20260125-prompt-repetition-improves-non-reasoning-llms/)
+- [人間の感覚は五感ではなく最大三十三感である可能性](https://gigazine.net/news/20260125-human-33-senses/)
+<!-- GIGAZINE-NEWS-END -->
+
 ## 📫 Connect with me
 
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/)

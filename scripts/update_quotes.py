@@ -2,9 +2,11 @@ import json
 import datetime
 import os
 import re
+import feedparser
 
 QUOTES_FILE = 'quotes.json'
 README_FILE = 'README.md'
+GIGAZINE_RSS_URL = "https://gigazine.net/news/rss_2.0/"
 
 def load_quotes():
     with open(QUOTES_FILE, 'r', encoding='utf-8') as f:
@@ -24,6 +26,23 @@ def get_days_until_graduation():
     delta = target_date - today
     return delta.days
 
+def get_gigazine_news():
+    try:
+        feed = feedparser.parse(GIGAZINE_RSS_URL)
+        if not feed.entries:
+            return None
+
+        news_items = []
+        for i in range(min(3, len(feed.entries))):
+            entry = feed.entries[i]
+            # Format: - [Title](Link)
+            news_items.append(f"- [{entry.title}]({entry.link})")
+
+        return "\n".join(news_items)
+    except Exception as e:
+        print(f"Error fetching GIGAZINE news: {e}")
+        return None
+
 def update_readme(new_quote):
     if not os.path.exists(README_FILE):
         print(f"Error: {README_FILE} not found.")
@@ -39,15 +58,19 @@ def update_readme(new_quote):
     log_end = '<!-- QUOTE-LOG-END -->'
     grad_start = '<!-- GRADUATION-COUNTDOWN-START -->'
     grad_end = '<!-- GRADUATION-COUNTDOWN-END -->'
+    news_start = '<!-- GIGAZINE-NEWS-START -->'
+    news_end = '<!-- GIGAZINE-NEWS-END -->'
 
     # Regex patterns
     daily_pattern = re.compile(f'({re.escape(daily_start)})(.*?)({re.escape(daily_end)})', re.DOTALL)
     log_pattern = re.compile(f'({re.escape(log_start)})(.*?)({re.escape(log_end)})', re.DOTALL)
     grad_pattern = re.compile(f'({re.escape(grad_start)})(.*?)({re.escape(grad_end)})', re.DOTALL)
+    news_pattern = re.compile(f'({re.escape(news_start)})(.*?)({re.escape(news_end)})', re.DOTALL)
 
     daily_match = daily_pattern.search(content)
     log_match = log_pattern.search(content)
     grad_match = grad_pattern.search(content)
+    news_match = news_pattern.search(content)
 
     if not daily_match:
         print("Error: Daily quote markers not found in README.md.")
@@ -103,28 +126,9 @@ def update_readme(new_quote):
             print(f"Warning: Error parsing previous quote: {e}")
 
     # Update Log Section First (replace content between markers)
-    # We reconstruct the file content to handle replacements safely
-
-    # Update the content variable with the new log
-    # We need to find the match again or use the indices from the previous match?
-    # String replacement is safe if markers are unique.
     content = content.replace(log_match.group(0), f"{log_start}{updated_log_content}{log_end}")
 
     # Update Daily Section
-    # Note: Regex match object is based on original string.
-    # Since we modified 'content', the daily_match indices are no longer valid if the log appeared BEFORE the daily section
-    # and the length changed.
-    # However, usually Daily is top, Log is bottom.
-    # But to be safe, let's re-run the search or use replace on the string key.
-
-    # Simple string replace of the *entire* old block with new block
-    # This works regardless of position as long as the old block text is unique enough or we use the markers.
-
-    # Using markers + old content to replace might be risky if we just modified it?
-    # No, we modified 'content' variable.
-    # We just replaced the LOG block. The DAILY block is untouched in 'content'.
-    # We can search for the DAILY block again in the *new* content variable.
-
     daily_match_new = daily_pattern.search(content)
     if daily_match_new:
         content = content.replace(daily_match_new.group(0), f"{daily_start}{new_daily_content}{daily_end}")
@@ -133,14 +137,26 @@ def update_readme(new_quote):
     if grad_match:
         days_left = get_days_until_graduation()
         grad_content = f"\n## 🎓 Days until Graduation\n\n**{days_left}** days left until March 31, 2028!\n"
-        # We need to find the match again in case content changed (though unlikely to overlap with graduation section)
-        # But for safety, we can just replace the original match string if it was unique, or regex search again.
-        # Since graduation section is separate, searching again is safer.
         grad_match_new = grad_pattern.search(content)
         if grad_match_new:
             content = content.replace(grad_match_new.group(0), f"{grad_start}{grad_content}{grad_end}")
     else:
         print("Warning: Graduation countdown markers not found in README.md.")
+
+    # Update GIGAZINE News
+    if news_match:
+        news_content = get_gigazine_news()
+        if news_content:
+            formatted_news = f"\n{news_content}\n"
+            # Search again because content has changed
+            news_match_new = news_pattern.search(content)
+            if news_match_new:
+                 content = content.replace(news_match_new.group(0), f"{news_start}{formatted_news}{news_end}")
+            print("Updated GIGAZINE news.")
+        else:
+            print("No news fetched, skipping update.")
+    else:
+        print("Warning: GIGAZINE news markers not found in README.md.")
 
     with open(README_FILE, 'w', encoding='utf-8') as f:
         f.write(content)
