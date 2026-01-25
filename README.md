@@ -1,12 +1,12 @@
 # Hi there, I'm gen! 👋
 
-## 🌟 Daily Great Person Quote
+## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> I think, therefore I am.
+> 真実は常にシンプルである。
 >
-> 我思う、ゆえに我あり。
+> Truth is always simple.
 >
-> — **René Descartes**
+> — **Gemini**
 <!-- DAILY-QUOTE-END -->
 
 
@@ -74,6 +74,7 @@
 ## 📜 Quote Log
 <!-- QUOTE-LOG-START -->
 - "It always seems impossible until it's done." (何事も達成するまでは不可能に見えるものだ。) - **Nelson Mandela**
+- "I think, therefore I am." (我思う、ゆえに我あり。) - **René Descartes**
 <!-- QUOTE-LOG-END -->
 
 <!--
