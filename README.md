@@ -13,7 +13,10 @@
 <!-- GRADUATION-COUNTDOWN-START -->
 ## 🎓 Days until Graduation
 
-**796** days left until March 31, 2028!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="graduation-dark.svg">
+  <img alt="Graduation Countdown" src="graduation-light.svg">
+</picture>
 <!-- GRADUATION-COUNTDOWN-END -->
 
 

@@ -26,22 +26,50 @@ def get_days_until_graduation():
     delta = target_date - today
     return delta.days
 
-def get_gigazine_news():
-    try:
-        feed = feedparser.parse(GIGAZINE_RSS_URL)
-        if not feed.entries:
-            return None
+def generate_countdown_svg(days_left):
+    """Generates SVG files for the graduation countdown (light and dark modes)."""
 
-        news_items = []
-        for i in range(min(3, len(feed.entries))):
-            entry = feed.entries[i]
-            # Format: - [Title](Link)
-            news_items.append(f"- [{entry.title}]({entry.link})")
+    # Common SVG template
+    def get_svg(theme):
+        if theme == 'dark':
+            bg_fill = "#0d1117"
+            bg_stroke = "#30363d"
+            text_header = "#2f80ed"
+            text_stat = "#c9d1d9"
+            text_days = "#c9d1d9"
+            text_desc = "#8b949e"
+        else:
+            bg_fill = "#fffefe"
+            bg_stroke = "#e4e2e2"
+            text_header = "#2f80ed"
+            text_stat = "#333"
+            text_days = "#333"
+            text_desc = "#666"
 
-        return "\n".join(news_items)
-    except Exception as e:
-        print(f"Error fetching GIGAZINE news: {e}")
-        return None
+        return f"""<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .header {{ font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: {text_header}; }}
+        .stat {{ font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: {text_stat}; }}
+        .days {{ font: 800 50px 'Segoe UI', Ubuntu, Sans-Serif; fill: {text_days}; }}
+        .desc {{ font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: {text_desc}; }}
+        .bg {{ fill: {bg_fill}; stroke: {bg_stroke}; }}
+    </style>
+    <rect x="0.5" y="0.5" width="494" height="194" rx="4.5" class="bg" stroke-opacity="1"/>
+
+    <text x="25" y="35" class="header">🎓 Graduation Countdown</text>
+
+    <text x="247.5" y="100" text-anchor="middle" class="days">{days_left}</text>
+    <text x="247.5" y="130" text-anchor="middle" class="stat">Days Left</text>
+
+    <text x="25" y="170" class="desc">Until March 31, 2028</text>
+</svg>
+"""
+
+    with open('graduation-light.svg', 'w', encoding='utf-8') as f:
+        f.write(get_svg('light'))
+
+    with open('graduation-dark.svg', 'w', encoding='utf-8') as f:
+        f.write(get_svg('dark'))
 
 def update_readme(new_quote):
     if not os.path.exists(README_FILE):
@@ -136,6 +164,20 @@ def update_readme(new_quote):
     # Update Graduation Countdown
     if grad_match:
         days_left = get_days_until_graduation()
+        generate_countdown_svg(days_left)
+
+        grad_content = f"""
+## 🎓 Days until Graduation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="graduation-dark.svg">
+  <img alt="Graduation Countdown" src="graduation-light.svg">
+</picture>
+"""
+
+        # We need to find the match again in case content changed (though unlikely to overlap with graduation section)
+        # But for safety, we can just replace the original match string if it was unique, or regex search again.
+        # Since graduation section is separate, searching again is safer.
         grad_content = f"\n## 🎓 Days until Graduation\n\n**{days_left}** days left until March 31, 2028!\n"
         grad_match_new = grad_pattern.search(content)
         if grad_match_new:
