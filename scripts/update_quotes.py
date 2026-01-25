@@ -78,29 +78,24 @@ def generate_countdown_svg(days_left):
 def get_news_context():
     news_items = []
 
-    # Fetch Gigazine
-    try:
-        feed = feedparser.parse(GIGAZINE_RSS_URL)
-        if feed.entries:
-            entries = feed.entries[:3]
-            for entry in entries:
-                title = entry.title
-                link = entry.link
-                news_items.append(f"- [Gigazine] {title}")
-    except Exception as e:
-        print(f"Error fetching GIGAZINE news: {e}")
+    urls = {
+        "Gigazine": GIGAZINE_RSS_URL,
+        "World News": YAHOO_WORLD_NEWS_RSS_URL,
+        "Hatena IT": "https://b.hatena.ne.jp/hotentry/it.rss",
+        "Hatena General": "https://b.hatena.ne.jp/hotentry/general.rss",
+        "NHK News": "https://www.nhk.or.jp/rss/news/cat0.xml"
+    }
 
-    # Fetch Yahoo World News
-    try:
-        feed = feedparser.parse(YAHOO_WORLD_NEWS_RSS_URL)
-        if feed.entries:
-            entries = feed.entries[:3]
-            for entry in entries:
-                title = entry.title
-                link = entry.link
-                news_items.append(f"- [World News] {title}")
-    except Exception as e:
-         print(f"Error fetching Yahoo World news: {e}")
+    for source, url in urls.items():
+        try:
+            feed = feedparser.parse(url)
+            if feed.entries:
+                entries = feed.entries[:5]
+                for entry in entries:
+                    title = entry.title
+                    news_items.append(f"- [{source}] {title}")
+        except Exception as e:
+            print(f"Error fetching {source} news: {e}")
 
     if not news_items:
         return None
@@ -139,8 +134,9 @@ def generate_gemini_quote(news_context=None):
 
     prompt = (
         f"{context_str}"
-        "あなたは賢者です。現在の世界の情勢（GIGAZINEや国際ニュースなど）、生命の価値観、人としての生き方を深く考慮し、"
+        "あなたは賢者です。現在の世界の情勢（GIGAZINEや国際ニュース、技術トレンドなど）、生命の価値観、人としての生き方を深く考慮し、"
         "今を生きる私たちに向けた短く心に響く格言・アドバイスを日本語で作成してください。"
+        "この処理は1時間ごとに実行されます。直近のニュースの多様なトピックからインスピレーションを得て、毎回異なる視点や話題を取り入れたユニークな格言を作成し、マンネリ化を防いでください。"
         "格言の長さは100字程度を目安にしてください。"
         "また、その英語訳も提供してください。"
         "結果は以下のキーを持つJSONオブジェクトとして出力してください: "
