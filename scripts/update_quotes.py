@@ -33,6 +33,13 @@ def generate_countdown_svg(days_left):
         .days {{ font: 800 50px 'Segoe UI', Ubuntu, Sans-Serif; fill: #333; }}
         .desc {{ font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #666; }}
         .bg {{ fill: #fffefe; stroke: #e4e2e2; }}
+
+        @media (prefers-color-scheme: dark) {{
+            .stat {{ fill: #c9d1d9; }}
+            .days {{ fill: #c9d1d9; }}
+            .desc {{ fill: #8b949e; }}
+            .bg {{ fill: #0d1117; stroke: #30363d; }}
+        }}
     </style>
     <rect x="0.5" y="0.5" width="494" height="194" rx="4.5" class="bg" stroke-opacity="1"/>
 
