@@ -1,9 +1,17 @@
-# Hi there, I'm gg117e! 👋
+# Hi there, I'm gen! 👋
 
-GitHubのプロフィール画面へようこそ！
+## 🌟 Daily Great Person Quote
+<!-- DAILY-QUOTE-START -->
+> It always seems impossible until it's done.
+>
+> 何事も達成するまでは不可能に見えるものだ。
+>
+> — **Nelson Mandela**
+<!-- DAILY-QUOTE-END -->
+
 
 <!-- YOUTUBE-SONGS-START -->
-### 🎵 Daily Recommended Songs
+## 🎵 Daily Recommended Songs
 
 <table>
   <tr>
@@ -45,6 +53,10 @@ GitHubのプロフィール画面へようこそ！
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gg117e&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gg117e&theme=radical)
+
+## 📜 Quote Log
+<!-- QUOTE-LOG-START -->
+<!-- QUOTE-LOG-END -->
 
 <!--
 **Note:** To make this README appear on your GitHub profile page, you need to create a repository named `gg117e` (if it doesn't exist) and place this `README.md` file in it.
