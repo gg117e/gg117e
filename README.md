@@ -2,12 +2,28 @@
 
 ## 🌟 Daily Great Person Quote
 <!-- DAILY-QUOTE-START -->
-> It always seems impossible until it's done.
+> I think, therefore I am.
 >
-> 何事も達成するまでは不可能に見えるものだ。
+> 我思う、ゆえに我あり。
 >
-> — **Nelson Mandela**
+> — **René Descartes**
 <!-- DAILY-QUOTE-END -->
+
+
+<!-- GRADUATION-COUNTDOWN-START -->
+## 🎓 Days until Graduation
+
+```git
+On branch graduation-2028
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   days_remaining.txt
+
+   796 days left until 2028-03-31
+```
+<!-- GRADUATION-COUNTDOWN-END -->
 
 
 <!-- YOUTUBE-SONGS-START -->
@@ -56,6 +72,7 @@
 
 ## 📜 Quote Log
 <!-- QUOTE-LOG-START -->
+- "It always seems impossible until it's done." (何事も達成するまでは不可能に見えるものだ。) - **Nelson Mandela**
 <!-- QUOTE-LOG-END -->
 
 <!--

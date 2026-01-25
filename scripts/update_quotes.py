@@ -18,6 +18,12 @@ def get_todays_quote(quotes):
     index = day_of_year % len(quotes)
     return quotes[index]
 
+def get_days_until_graduation():
+    target_date = datetime.date(2028, 3, 31)
+    today = datetime.datetime.now(datetime.timezone.utc).date()
+    delta = target_date - today
+    return delta.days
+
 def update_readme(new_quote):
     if not os.path.exists(README_FILE):
         print(f"Error: {README_FILE} not found.")
@@ -31,13 +37,17 @@ def update_readme(new_quote):
     daily_end = '<!-- DAILY-QUOTE-END -->'
     log_start = '<!-- QUOTE-LOG-START -->'
     log_end = '<!-- QUOTE-LOG-END -->'
+    grad_start = '<!-- GRADUATION-COUNTDOWN-START -->'
+    grad_end = '<!-- GRADUATION-COUNTDOWN-END -->'
 
     # Regex patterns
     daily_pattern = re.compile(f'({re.escape(daily_start)})(.*?)({re.escape(daily_end)})', re.DOTALL)
     log_pattern = re.compile(f'({re.escape(log_start)})(.*?)({re.escape(log_end)})', re.DOTALL)
+    grad_pattern = re.compile(f'({re.escape(grad_start)})(.*?)({re.escape(grad_end)})', re.DOTALL)
 
     daily_match = daily_pattern.search(content)
     log_match = log_pattern.search(content)
+    grad_match = grad_pattern.search(content)
 
     if not daily_match:
         print("Error: Daily quote markers not found in README.md.")
@@ -118,6 +128,32 @@ def update_readme(new_quote):
     daily_match_new = daily_pattern.search(content)
     if daily_match_new:
         content = content.replace(daily_match_new.group(0), f"{daily_start}{new_daily_content}{daily_end}")
+
+    # Update Graduation Countdown
+    if grad_match:
+        days_left = get_days_until_graduation()
+        grad_content = f"""
+## 🎓 Days until Graduation
+
+```git
+On branch graduation-2028
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   days_remaining.txt
+
+   {days_left} days left until 2028-03-31
+```
+"""
+        # We need to find the match again in case content changed (though unlikely to overlap with graduation section)
+        # But for safety, we can just replace the original match string if it was unique, or regex search again.
+        # Since graduation section is separate, searching again is safer.
+        grad_match_new = grad_pattern.search(content)
+        if grad_match_new:
+            content = content.replace(grad_match_new.group(0), f"{grad_start}{grad_content}{grad_end}")
+    else:
+        print("Warning: Graduation countdown markers not found in README.md.")
 
     with open(README_FILE, 'w', encoding='utf-8') as f:
         f.write(content)
