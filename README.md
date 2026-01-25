@@ -2,13 +2,6 @@
 
 GitHubのプロフィール画面へようこそ！
 
-## 🔧 Technologies & Tools
-
-- Python
-- JavaScript
-- HTML/CSS
-- (Add your other skills here)
-
 <!-- YOUTUBE-SONGS-START -->
 ### 🎵 Daily Recommended Songs
 
