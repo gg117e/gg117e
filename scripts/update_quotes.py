@@ -8,6 +8,7 @@ import google.generativeai as genai
 QUOTES_FILE = 'quotes.json'
 README_FILE = 'README.md'
 GIGAZINE_RSS_URL = "https://gigazine.net/news/rss_2.0/"
+YAHOO_WORLD_NEWS_RSS_URL = "https://news.yahoo.co.jp/rss/topics/world.xml"
 
 def load_quotes():
     with open(QUOTES_FILE, 'r', encoding='utf-8') as f:
@@ -74,7 +75,39 @@ def generate_countdown_svg(days_left):
     with open('graduation-dark.svg', 'w', encoding='utf-8') as f:
         f.write(get_svg('dark'))
 
-def get_gigazine_news():
+def get_news_context():
+    news_items = []
+
+    # Fetch Gigazine
+    try:
+        feed = feedparser.parse(GIGAZINE_RSS_URL)
+        if feed.entries:
+            entries = feed.entries[:3]
+            for entry in entries:
+                title = entry.title
+                link = entry.link
+                news_items.append(f"- [Gigazine] {title}")
+    except Exception as e:
+        print(f"Error fetching GIGAZINE news: {e}")
+
+    # Fetch Yahoo World News
+    try:
+        feed = feedparser.parse(YAHOO_WORLD_NEWS_RSS_URL)
+        if feed.entries:
+            entries = feed.entries[:3]
+            for entry in entries:
+                title = entry.title
+                link = entry.link
+                news_items.append(f"- [World News] {title}")
+    except Exception as e:
+         print(f"Error fetching Yahoo World news: {e}")
+
+    if not news_items:
+        return None
+
+    return "\n".join(news_items)
+
+def get_gigazine_news_formatted():
     try:
         feed = feedparser.parse(GIGAZINE_RSS_URL)
         if not feed.entries:
@@ -106,8 +139,9 @@ def generate_gemini_quote(news_context=None):
 
     prompt = (
         f"{context_str}"
-        "あなたは賢者です。現在の世界の情勢、生命の価値観、人としての生き方を深く考慮し、"
+        "あなたは賢者です。現在の世界の情勢（GIGAZINEや国際ニュースなど）、生命の価値観、人としての生き方を深く考慮し、"
         "今を生きる私たちに向けた短く心に響く格言・アドバイスを日本語で作成してください。"
+        "格言の長さは200字程度を目安にしてください。"
         "また、その英語訳も提供してください。"
         "結果は以下のキーを持つJSONオブジェクトとして出力してください: "
         "'quote' (日本語のテキスト), 'translation' (英語のテキスト), 'author' (固定値 'Gemini')。"
@@ -242,7 +276,7 @@ def update_readme(new_quote):
 
     # Update GIGAZINE News
     if news_match:
-        news_content = get_gigazine_news()
+        news_content = get_gigazine_news_formatted()
         if news_content:
             formatted_news = f"\n{news_content}\n"
             # Search again because content has changed
@@ -264,7 +298,7 @@ def main():
     gemini_quote = None
     if os.environ.get("GEMINI_API_KEY"):
          try:
-             news_context = get_gigazine_news()
+             news_context = get_news_context()
              gemini_quote = generate_gemini_quote(news_context)
          except Exception as e:
              print(f"Gemini generation failed: {e}")
