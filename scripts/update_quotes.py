@@ -14,15 +14,17 @@ def load_quotes():
 
 def get_todays_quote(quotes):
     # Use day of year to deterministically pick a quote
-    # Using UTC to ensure consistency across environments
-    day_of_year = datetime.datetime.now(datetime.timezone.utc).timetuple().tm_yday
+    # Using JST to ensure consistency with user's time
+    jst = datetime.timezone(datetime.timedelta(hours=9))
+    day_of_year = datetime.datetime.now(jst).timetuple().tm_yday
     # Ensure we don't go out of bounds
     index = day_of_year % len(quotes)
     return quotes[index]
 
 def get_days_until_graduation():
     target_date = datetime.date(2028, 3, 31)
-    today = datetime.datetime.now(datetime.timezone.utc).date()
+    jst = datetime.timezone(datetime.timedelta(hours=9))
+    today = datetime.datetime.now(jst).date()
     delta = target_date - today
     return delta.days
 
@@ -70,6 +72,24 @@ def generate_countdown_svg(days_left):
 
     with open('graduation-dark.svg', 'w', encoding='utf-8') as f:
         f.write(get_svg('dark'))
+
+def get_gigazine_news():
+    try:
+        feed = feedparser.parse(GIGAZINE_RSS_URL)
+        if not feed.entries:
+            return None
+
+        entries = feed.entries[:3]
+        news_items = []
+        for entry in entries:
+            title = entry.title
+            link = entry.link
+            news_items.append(f"- [{title}]({link})")
+
+        return "\n".join(news_items)
+    except Exception as e:
+        print(f"Error fetching GIGAZINE news: {e}")
+        return None
 
 def update_readme(new_quote):
     if not os.path.exists(README_FILE):
@@ -178,7 +198,6 @@ def update_readme(new_quote):
         # We need to find the match again in case content changed (though unlikely to overlap with graduation section)
         # But for safety, we can just replace the original match string if it was unique, or regex search again.
         # Since graduation section is separate, searching again is safer.
-        grad_content = f"\n## 🎓 Days until Graduation\n\n**{days_left}** days left until March 31, 2028!\n"
         grad_match_new = grad_pattern.search(content)
         if grad_match_new:
             content = content.replace(grad_match_new.group(0), f"{grad_start}{grad_content}{grad_end}")
