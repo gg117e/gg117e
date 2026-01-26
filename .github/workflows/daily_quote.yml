@@ -21,30 +21,12 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Debug and ensure clean working tree
+      - name: Ensure clean working tree
         run: |
           set -euxo pipefail
-          echo "=== BEFORE CLEAN ==="
-          git status --porcelain=v1 || true
-          git diff --name-only || true
-
-          echo "=== CLEAN ==="
           git reset --hard
           git clean -fdx
-
-          echo "=== AFTER CLEAN ==="
-          git status --porcelain=v1 || true
-
-          echo "=== GIT CONFIG (HEAD) ==="
-          git config --list --show-origin | sed -n '1,200p' || true
-
-      # 注意．通常 actions/checkout 後に pull は不要です．
-      # どうしても最新を取り込みたい場合は，このステップを残してください．
-      # 競合やリモート更新が頻繁なら，pull を削除して push 競合時は次回実行に任せるのが安定です．
-      - name: Pull latest changes
-        run: |
-          set -euxo pipefail
-          git pull --rebase
+          git status --porcelain=v1
 
       - name: Set up Python
         uses: actions/setup-python@v5
