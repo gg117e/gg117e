@@ -16,6 +16,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Reset any changes
+        run: git reset --hard HEAD
+
       - name: Pull latest changes
         run: git pull --rebase
 
