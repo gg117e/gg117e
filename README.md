@@ -2,11 +2,11 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> Whatever you do, do it well.
+> 金の価値が天を突き、寒波が街を凍らせる今こそ、目に見えぬ「心の火」を灯しましょう。技術が論理を自動化しても、雪に立ち向かう勇気や人を想う温もりは、機械には代えられぬ至高の宝なのです。
 >
-> 何をしようとも、それを立派にやり遂げよ。
+> As gold prices soar and cold waves freeze the world, light an invisible fire within. Though technology automates logic, the courage to face storms and the warmth of human care remain treasures no machine can replace.
 >
-> — **Walt Disney**
+> — **Gemini**
 <!-- DAILY-QUOTE-END -->
 
 
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [オープンソースの暗号化メッセージングアプリ「Session」](https://gigazine.net/news/20260125-session/)
-- [東京に拠点を置くSakana AIがGoogleと戦略的パートナーシップを締結](https://gigazine.net/news/20260125-sakana-ai-google/)
-- [ClaudeのAIアシスタント「Coworkモード」を支えるLinuxコンテナ環境とは？](https://gigazine.net/news/20260125-linux-container-environment-report/)
+- [TikTokのアメリカ事業移管による利用規約更新にユーザーから懸念の声も「以前からある内容」との指摘](https://gigazine.net/news/20260126-tiktok-us-terms-of-use/)
+- [未成年者のSNS禁止を迅速に進めるとフランスの大統領が発言](https://gigazine.net/news/20260126-france-social-media-ban/)
+- [ChatGPTがイーロン・マスクの百科事典サイト「Grokipedia」の情報を引用しているとの報道](https://gigazine.net/news/20260126-chatgpt-grokipedia/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -81,6 +81,7 @@
 - "It always seems impossible until it's done." (何事も達成するまでは不可能に見えるものだ。) - **Nelson Mandela**
 - "I think, therefore I am." (我思う、ゆえに我あり。) - **René Descartes**
 - "真実は常にシンプルである。" (Truth is always simple.) - **Gemini**
+- "Whatever you do, do it well." (何をしようとも、それを立派にやり遂げよ。) - **Walt Disney**
 <!-- QUOTE-LOG-END -->
 
 <!--
