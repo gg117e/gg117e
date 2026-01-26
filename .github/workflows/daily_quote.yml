@@ -2,7 +2,7 @@ name: Daily Quote Update
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -21,15 +21,35 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Ensure clean working tree
+      - name: Debug and ensure clean working tree
         run: |
+          set -euxo pipefail
+          echo "=== BEFORE CLEAN ==="
+          git status --porcelain=v1 || true
+          git diff --name-only || true
+
+          echo "=== CLEAN ==="
           git reset --hard
           git clean -fdx
+
+          echo "=== AFTER CLEAN ==="
+          git status --porcelain=v1 || true
+
+          echo "=== GIT CONFIG (HEAD) ==="
+          git config --list --show-origin | sed -n '1,200p' || true
+
+      # 注意．通常 actions/checkout 後に pull は不要です．
+      # どうしても最新を取り込みたい場合は，このステップを残してください．
+      # 競合やリモート更新が頻繁なら，pull を削除して push 競合時は次回実行に任せるのが安定です．
+      - name: Pull latest changes
+        run: |
+          set -euxo pipefail
+          git pull --rebase
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: "3.x"
 
       - name: Install dependencies
         run: pip install -r requirements.txt
@@ -38,16 +58,6 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/update_quotes.py
-
-      - name: Fail if remote changed (avoid rebase issues)
-        run: |
-          git fetch origin
-          LOCAL=$(git rev-parse HEAD)
-          REMOTE=$(git rev-parse @{u})
-          if [ "$LOCAL" != "$REMOTE" ]; then
-            echo "Remote updated while running. Please retry on next schedule."
-            exit 1
-          fi
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
