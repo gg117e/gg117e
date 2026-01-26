@@ -1,0 +1,44 @@
+name: Jules on Issue
+
+on:
+  issues:
+    types: [opened, labeled, edited]
+
+jobs:
+  jules:
+    # julesラベルが付いたIssueだけ起動
+    if: ${{ contains(github.event.issue.labels.*.name, 'jules') }}
+    runs-on: ubuntu-latest
+
+    # JulesがPRを作るための権限
+    permissions:
+      contents: write
+      pull-requests: write
+      issues: read
+
+    steps:
+      - name: Invoke Jules (allowlist)
+        # 悪用防止．許可したユーザが作成したIssueだけ実行
+        if: ${{ contains(fromJSON('["gg117e"]'), github.event.issue.user.login) }}
+        uses: google-labs-code/jules-invoke@main
+        with:
+          jules_api_key: ${{ secrets.JULES_API_KEY }}
+          prompt: |
+            You are Jules, a coding agent working in this repository.
+
+            Goal:
+            - Address the GitHub Issue below by making a small, safe change.
+            - Create a Pull Request with a clear title and description.
+            - Keep the diff focused and minimal.
+            - If tests exist, run them. If not, explain what you checked.
+
+            Issue Title:
+            ${{ github.event.issue.title }}
+
+            Issue Body:
+            ${{ github.event.issue.body }}
+
+            Constraints:
+            - Do not modify secrets or workflows unless explicitly requested.
+            - Prefer changes under ~200 lines unless necessary.
+            - If requirements are unclear, propose the smallest reasonable interpretation in the PR description.
