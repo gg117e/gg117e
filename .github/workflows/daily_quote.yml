@@ -2,12 +2,15 @@ name: Daily Quote Update
 
 on:
   schedule:
-    # Runs hourly
     - cron: '0 * * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: daily-quote-update
+  cancel-in-progress: false
 
 jobs:
   update-quote:
@@ -15,12 +18,13 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Reset any changes
-        run: git reset --hard HEAD
-
-      - name: Pull latest changes
-        run: git pull --rebase
+      - name: Ensure clean working tree
+        run: |
+          git reset --hard
+          git clean -fdx
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -34,6 +38,16 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/update_quotes.py
+
+      - name: Fail if remote changed (avoid rebase issues)
+        run: |
+          git fetch origin
+          LOCAL=$(git rev-parse HEAD)
+          REMOTE=$(git rev-parse @{u})
+          if [ "$LOCAL" != "$REMOTE" ]; then
+            echo "Remote updated while running. Please retry on next schedule."
+            exit 1
+          fi
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
