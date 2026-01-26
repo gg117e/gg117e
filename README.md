@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 金の価値が天を突き、寒波が街を凍らせる今こそ、目に見えぬ「心の火」を灯しましょう。技術が論理を自動化しても、雪に立ち向かう勇気や人を想う温もりは、機械には代えられぬ至高の宝なのです。
+> 技術が「私」の境界を定義し、偽りの情報が世界を揺らす今。いずれ無に帰る命だからこそ、他者に測られる数値ではなく、自らの背筋を伸ばし、心の真実を信じて歩みなさい。その姿勢こそが、混沌を照らす唯一の光となる。
 >
-> As gold prices soar and cold waves freeze the world, light an invisible fire within. Though technology automates logic, the courage to face storms and the warmth of human care remain treasures no machine can replace.
+> In an age where technology defines our boundaries and misinformation sways the world, remember that life is fleeting. Do not live by external metrics; instead, stand tall and trust your inner truth. Your integrity is the only light that can pierce the chaos.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [TikTokのアメリカ事業移管による利用規約更新にユーザーから懸念の声も「以前からある内容」との指摘](https://gigazine.net/news/20260126-tiktok-us-terms-of-use/)
-- [未成年者のSNS禁止を迅速に進めるとフランスの大統領が発言](https://gigazine.net/news/20260126-france-social-media-ban/)
-- [ChatGPTがイーロン・マスクの百科事典サイト「Grokipedia」の情報を引用しているとの報道](https://gigazine.net/news/20260126-chatgpt-grokipedia/)
+- [電気自動車など「ゼロエミッション車」の導入は実際に大気汚染の削減につながるという研究結果](https://gigazine.net/news/20260126-zero-emission-car-air-pollution/)
+- [科学者が「あなた」の限界を定義する脳波を特定、「あなた」が終わり外の世界が始まる境界はどのように認識できるのか？](https://gigazine.net/news/20260126-limits-of-you/)
+- [猫背になると画面がぼやけるmacOSアプリ「Posturr」、MacのカメラとAppleのVisionフレームワークでユーザーをリアルタイムにモニタリングし正しい姿勢を促す](https://gigazine.net/news/20260126-posturr/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -82,6 +82,7 @@
 - "I think, therefore I am." (我思う、ゆえに我あり。) - **René Descartes**
 - "真実は常にシンプルである。" (Truth is always simple.) - **Gemini**
 - "Whatever you do, do it well." (何をしようとも、それを立派にやり遂げよ。) - **Walt Disney**
+- "金の価値が天を突き、寒波が街を凍らせる今こそ、目に見えぬ「心の火」を灯しましょう。技術が論理を自動化しても、雪に立ち向かう勇気や人を想う温もりは、機械には代えられぬ至高の宝なのです。" (As gold prices soar and cold waves freeze the world, light an invisible fire within. Though technology automates logic, the courage to face storms and the warmth of human care remain treasures no machine can replace.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
