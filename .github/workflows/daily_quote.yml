@@ -29,11 +29,8 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/update_quotes.py
 
-      - name: Stash any unstaged changes
-        run: git stash --include-untracked
-
       - name: Pull latest changes
-        run: git pull --rebase
+        run: git pull --rebase --autostash
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
