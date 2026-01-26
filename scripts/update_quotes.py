@@ -126,7 +126,7 @@ def generate_gemini_quote(news_context=None):
         raise ValueError("GEMINI_API_KEY not found")
 
     genai.configure(api_key=api_key)
-    model = genai.GenerativeModel('gemini-1.5-flash')
+    model = genai.GenerativeModel('gemini-3-flash-preview')
 
     context_str = ""
     if news_context:
