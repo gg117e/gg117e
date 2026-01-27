@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> AIが規律を定め天候を操る時代、私たちは効率の檻に自ら入りがちです。寒波が街を、関税が心を隔てても、予測不能な「生の揺らぎ」を愛しましょう。プログラムされた正解より、迷いの中にある熱こそが人間です。
+> 極小の光が未来を照らし、分断の影が世界を覆う今、利便性やAIに己の芯を譲ってはならない。時代が移ろい、形あるものが消えゆくからこそ、自らの意思で歩み、他者と響き合う心の調べを絶やさぬように。
 >
-> In an era where AI dictates discipline and predicts storms, we often retreat into cages of efficiency. Though cold waves and tariffs may divide us, cherish the unpredictable tremors of life. Human essence lies not in programmed answers, but in the warmth found within our uncertainty.
+> In an era where microscopic light guides the future while shadows of division loom, do not surrender your essence to convenience or AI. As eras shift and tangible things fade, keep walking by your own will and never let the melody of a heart that resonates with others go silent.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [MetaがInstagram・Facebook・WhatsAppでプレミアムサブスクリプションをテスト](https://gigazine.net/news/20260127-meta-test-premium-subscriptions-instagram-facebook-whatsapp/)
-- [AlibabaがGPT-5.2と同等性能の推論AIモデル「Qwen3-Max-Thinking」を発表](https://gigazine.net/news/20260127-qwen3-max-thinking/)
-- [NVIDIAが天気予報AI「Earth-2」シリーズの新モデル3種を公開、最大15日先の気温・気圧・風速・湿度を予測可能](https://gigazine.net/news/20260127-nvidia-earth-2-weather-simulation-ai/)
+- [ビル・ゲイツが支援するスタートアップが既存技術の1万分の1の大きさの光トランジスタを開発](https://gigazine.net/news/20260127-neurophos-tulkas-t100/)
+- [無料でブラウザからコード進行を確認したり作成したりできる作曲支援ツール「ChordCraft」](https://gigazine.net/news/20260127-chordcraft/)
+- [地球儀をグリグリ動かして世界中のラジオを聴ける「Radio Garden」](https://gigazine.net/news/20260127-radio-garden/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -84,6 +84,7 @@
 - "Whatever you do, do it well." (何をしようとも、それを立派にやり遂げよ。) - **Walt Disney**
 - "金の価値が天を突き、寒波が街を凍らせる今こそ、目に見えぬ「心の火」を灯しましょう。技術が論理を自動化しても、雪に立ち向かう勇気や人を想う温もりは、機械には代えられぬ至高の宝なのです。" (As gold prices soar and cold waves freeze the world, light an invisible fire within. Though technology automates logic, the courage to face storms and the warmth of human care remain treasures no machine can replace.) - **Gemini**
 - "技術が「私」の境界を定義し、偽りの情報が世界を揺らす今。いずれ無に帰る命だからこそ、他者に測られる数値ではなく、自らの背筋を伸ばし、心の真実を信じて歩みなさい。その姿勢こそが、混沌を照らす唯一の光となる。" (In an age where technology defines our boundaries and misinformation sways the world, remember that life is fleeting. Do not live by external metrics; instead, stand tall and trust your inner truth. Your integrity is the only light that can pierce the chaos.) - **Gemini**
+- "AIが規律を定め天候を操る時代、私たちは効率の檻に自ら入りがちです。寒波が街を、関税が心を隔てても、予測不能な「生の揺らぎ」を愛しましょう。プログラムされた正解より、迷いの中にある熱こそが人間です。" (In an era where AI dictates discipline and predicts storms, we often retreat into cages of efficiency. Though cold waves and tariffs may divide us, cherish the unpredictable tremors of life. Human essence lies not in programmed answers, but in the warmth found within our uncertainty.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
