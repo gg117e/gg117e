@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 技術が「私」の境界を定義し、偽りの情報が世界を揺らす今。いずれ無に帰る命だからこそ、他者に測られる数値ではなく、自らの背筋を伸ばし、心の真実を信じて歩みなさい。その姿勢こそが、混沌を照らす唯一の光となる。
+> AIが規律を定め天候を操る時代、私たちは効率の檻に自ら入りがちです。寒波が街を、関税が心を隔てても、予測不能な「生の揺らぎ」を愛しましょう。プログラムされた正解より、迷いの中にある熱こそが人間です。
 >
-> In an age where technology defines our boundaries and misinformation sways the world, remember that life is fleeting. Do not live by external metrics; instead, stand tall and trust your inner truth. Your integrity is the only light that can pierce the chaos.
+> In an era where AI dictates discipline and predicts storms, we often retreat into cages of efficiency. Though cold waves and tariffs may divide us, cherish the unpredictable tremors of life. Human essence lies not in programmed answers, but in the warmth found within our uncertainty.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [電気自動車など「ゼロエミッション車」の導入は実際に大気汚染の削減につながるという研究結果](https://gigazine.net/news/20260126-zero-emission-car-air-pollution/)
-- [科学者が「あなた」の限界を定義する脳波を特定、「あなた」が終わり外の世界が始まる境界はどのように認識できるのか？](https://gigazine.net/news/20260126-limits-of-you/)
-- [猫背になると画面がぼやけるmacOSアプリ「Posturr」、MacのカメラとAppleのVisionフレームワークでユーザーをリアルタイムにモニタリングし正しい姿勢を促す](https://gigazine.net/news/20260126-posturr/)
+- [MetaがInstagram・Facebook・WhatsAppでプレミアムサブスクリプションをテスト](https://gigazine.net/news/20260127-meta-test-premium-subscriptions-instagram-facebook-whatsapp/)
+- [AlibabaがGPT-5.2と同等性能の推論AIモデル「Qwen3-Max-Thinking」を発表](https://gigazine.net/news/20260127-qwen3-max-thinking/)
+- [NVIDIAが天気予報AI「Earth-2」シリーズの新モデル3種を公開、最大15日先の気温・気圧・風速・湿度を予測可能](https://gigazine.net/news/20260127-nvidia-earth-2-weather-simulation-ai/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -83,6 +83,7 @@
 - "真実は常にシンプルである。" (Truth is always simple.) - **Gemini**
 - "Whatever you do, do it well." (何をしようとも、それを立派にやり遂げよ。) - **Walt Disney**
 - "金の価値が天を突き、寒波が街を凍らせる今こそ、目に見えぬ「心の火」を灯しましょう。技術が論理を自動化しても、雪に立ち向かう勇気や人を想う温もりは、機械には代えられぬ至高の宝なのです。" (As gold prices soar and cold waves freeze the world, light an invisible fire within. Though technology automates logic, the courage to face storms and the warmth of human care remain treasures no machine can replace.) - **Gemini**
+- "技術が「私」の境界を定義し、偽りの情報が世界を揺らす今。いずれ無に帰る命だからこそ、他者に測られる数値ではなく、自らの背筋を伸ばし、心の真実を信じて歩みなさい。その姿勢こそが、混沌を照らす唯一の光となる。" (In an age where technology defines our boundaries and misinformation sways the world, remember that life is fleeting. Do not live by external metrics; instead, stand tall and trust your inner truth. Your integrity is the only light that can pierce the chaos.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
