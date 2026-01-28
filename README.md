@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=wggigwtz4dQ'>
-        <img src='https://i.ytimg.com/vi/wggigwtz4dQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDx8lLV4A1ksdgMSl8ktaqa75bzKw' width='200px' alt='IRIS OUT'>
+      <a href='https://www.youtube.com/watch?v=ME_ZU0ME4vQ'>
+        <img src='https://i.ytimg.com/vi/ME_ZU0ME4vQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcg2wcDNON6jYjuxGICte2SY1Adg' width='200px' alt='ゼロのままでいられたら'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=wggigwtz4dQ'>IRIS OUT</a>
+      <a href='https://www.youtube.com/watch?v=ME_ZU0ME4vQ'>ゼロのままでいられたら</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=WjIsq1-ZBaw'>
-        <img src='https://i.ytimg.com/vi/WjIsq1-ZBaw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCh9rmrKCmdRlaAejuSaWKVb-hTg' width='200px' alt='平井 大 / 栄光の扉（Music Video）'>
+      <a href='https://www.youtube.com/watch?v=N1XUt-ZcOf4'>
+        <img src='https://i.ytimg.com/vi/N1XUt-ZcOf4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxk96uW-3O9eGb8qj27Cr0CMOCqw' width='200px' alt='Columbus'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=WjIsq1-ZBaw'>平井 大 / 栄光の扉（Music Video）</a>
+      <a href='https://www.youtube.com/watch?v=N1XUt-ZcOf4'>Columbus</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=NSTnKXkUoA8'>
-        <img src='https://i.ytimg.com/vi/NSTnKXkUoA8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBWVMg_nG1Bb15CwFZjpgPDD4t6g' width='200px' alt='フィルム'>
+      <a href='https://www.youtube.com/watch?v=H2r25lVcIHw'>
+        <img src='https://i.ytimg.com/vi/H2r25lVcIHw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgiffVYvt42FuGzVoZ1W9jo3MUFQ' width='200px' alt='花の塔'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=NSTnKXkUoA8'>フィルム</a>
+      <a href='https://www.youtube.com/watch?v=H2r25lVcIHw'>花の塔</a>
     </td>
   </tr>
 </table>
