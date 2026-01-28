@@ -2,6 +2,7 @@ import json
 import datetime
 import os
 import re
+import concurrent.futures
 import feedparser
 import google.generativeai as genai
 
@@ -75,9 +76,20 @@ def generate_countdown_svg(days_left):
     with open('graduation-dark.svg', 'w', encoding='utf-8') as f:
         f.write(get_svg('dark'))
 
-def get_news_context():
+def fetch_feed_data(source, url):
     news_items = []
+    try:
+        feed = feedparser.parse(url)
+        if feed.entries:
+            entries = feed.entries[:5]
+            for entry in entries:
+                title = entry.title
+                news_items.append(f"- [{source}] {title}")
+    except Exception as e:
+        print(f"Error fetching {source} news: {e}")
+    return news_items
 
+def get_news_context():
     urls = {
         "Gigazine": GIGAZINE_RSS_URL,
         "World News": YAHOO_WORLD_NEWS_RSS_URL,
@@ -86,16 +98,13 @@ def get_news_context():
         "NHK News": "https://www.nhk.or.jp/rss/news/cat0.xml"
     }
 
-    for source, url in urls.items():
-        try:
-            feed = feedparser.parse(url)
-            if feed.entries:
-                entries = feed.entries[:5]
-                for entry in entries:
-                    title = entry.title
-                    news_items.append(f"- [{source}] {title}")
-        except Exception as e:
-            print(f"Error fetching {source} news: {e}")
+    news_items = []
+    with concurrent.futures.ThreadPoolExecutor() as executor:
+        # Use map to preserve order of results based on order of calls
+        results = executor.map(lambda item: fetch_feed_data(*item), urls.items())
+
+        for result in results:
+            news_items.extend(result)
 
     if not news_items:
         return None
