@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ME_ZU0ME4vQ'>
-        <img src='https://i.ytimg.com/vi/ME_ZU0ME4vQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcg2wcDNON6jYjuxGICte2SY1Adg' width='200px' alt='ゼロのままでいられたら'>
+      <a href='https://www.youtube.com/watch?v=pjepmiuuH-A'>
+        <img src='https://i.ytimg.com/vi/pjepmiuuH-A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGCPr1dhG8TgZYOg5-RB6sHh5hGA' width='200px' alt='Glorious'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ME_ZU0ME4vQ'>ゼロのままでいられたら</a>
+      <a href='https://www.youtube.com/watch?v=pjepmiuuH-A'>Glorious</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=cYWYGUDIQvo'>
-        <img src='https://i.ytimg.com/vi/cYWYGUDIQvo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_gw6gV71AGn1_EXczPMsjjgpHPQ' width='200px' alt='ドラえもん'>
+      <a href='https://www.youtube.com/watch?v=Uwhbouk64K4'>
+        <img src='https://i.ytimg.com/vi/Uwhbouk64K4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKHPfVfHTzdk0VxCwn9_cdeQqAbw' width='200px' alt='Smile Again'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=cYWYGUDIQvo'>ドラえもん</a>
+      <a href='https://www.youtube.com/watch?v=Uwhbouk64K4'>Smile Again</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=9aveQLtaK30'>
-        <img src='https://i.ytimg.com/vi/9aveQLtaK30/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHLn-eCWxffBVVG5Hi7FNb98J-PA' width='200px' alt='ひまわり'>
+      <a href='https://www.youtube.com/watch?v=W8Q9Hs7Tgzg'>
+        <img src='https://i.ytimg.com/vi/W8Q9Hs7Tgzg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCF1Qy_4gJ79JnrDpU1uHuW0YOKUg' width='200px' alt='Wanted! Wanted!'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=9aveQLtaK30'>ひまわり</a>
+      <a href='https://www.youtube.com/watch?v=W8Q9Hs7Tgzg'>Wanted! Wanted!</a>
     </td>
   </tr>
 </table>
