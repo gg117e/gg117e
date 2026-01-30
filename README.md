@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Pz9-XJ8SFKU'>
-        <img src='https://i.ytimg.com/vi/Pz9-XJ8SFKU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBq-Etp03Dzv0fNmneyfOmTHqbeTQ' width='200px' alt='Taketen'>
+      <a href='https://www.youtube.com/watch?v=zuXiyCtrM2c'>
+        <img src='https://i.ytimg.com/vi/zuXiyCtrM2c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxAiQr_LrDmcdvKKiie81xFKnnzQ' width='200px' alt='ドライフラワー'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Pz9-XJ8SFKU'>Taketen</a>
+      <a href='https://www.youtube.com/watch?v=zuXiyCtrM2c'>ドライフラワー</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=HrZX4KFfniU'>
-        <img src='https://i.ytimg.com/vi/HrZX4KFfniU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCj4NYNo6f32MhY3ua3KFVZQcplOw' width='200px' alt='Earthchild'>
+      <a href='https://www.youtube.com/watch?v=uTt67zwzLdo'>
+        <img src='https://i.ytimg.com/vi/uTt67zwzLdo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNz1DV3wReqjvonmJoIoIbRRqIxQ' width='200px' alt='あなたがいることで'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=HrZX4KFfniU'>Earthchild</a>
+      <a href='https://www.youtube.com/watch?v=uTt67zwzLdo'>あなたがいることで</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ldJJO0nJc_A'>
-        <img src='https://i.ytimg.com/vi/ldJJO0nJc_A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAt3Zfw447sqXwKA96duHdwFqzwA' width='200px' alt='Itsumademo'>
+      <a href='https://www.youtube.com/watch?v=ArN80_ahos0'>
+        <img src='https://i.ytimg.com/vi/ArN80_ahos0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0St2Q4-pGDvfGebZ98ijNN0K2qQ' width='200px' alt='Anatani'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ldJJO0nJc_A'>Itsumademo</a>
+      <a href='https://www.youtube.com/watch?v=ArN80_ahos0'>Anatani</a>
     </td>
   </tr>
 </table>
