@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> AIが宇宙の謎を数日で暴く一方、知性は失われ、争いの犠牲は増え続ける。生命は遺伝子ではなく、たゆまぬ「変換」の環です。効率や損得を超え、自らの誠実さを糧に、日々新しく生まれ変わりなさい。
+> 加速するAIと揺らぐ社会。技術が脳を刺激し、巨万の富が動く今こそ、負債という心の鎖を解き放て。外側の喧騒に惑わされず、静寂な意志を羅針盤として。九十五億の鼓動が響く世界で、あなただけの確かな歩みを刻むのだ。
 >
-> While AI unravels cosmic mysteries in days, human wisdom fades and conflict claims millions. Life is not merely genes, but a cycle of constant transformation. Beyond profit and speed, cherish your integrity and renew yourself daily.
+> In an era of accelerating AI and shifting fortunes, release the chains of mental and material debt. Amidst technological noise, let a quiet will be your compass. As billions move, carve your own steady path through the chaos.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [数百万台のAndroidスマートフォンで秘密裏に稼働していた大規模な怪しいネットワークをGoogleが閉鎖](https://gigazine.net/news/20260129-google-bot-network-ipidea/)
-- [モジュラー形式で好きなパーツを選んで自由に取り付け可能なLinux搭載ハンドヘルドデバイス「Mecha Comet」](https://gigazine.net/news/20260129-mecha-comet/)
-- [トランプ大統領就任以来アメリカ政府は理数工系や医療分野の博士号取得者を1万人以上失った](https://gigazine.net/news/20260129-us-government-lost-stem/)
+- [イーロン・マスクのSpaceXとxAIとテスラが合併か、大規模IPOに先立って検討中との報道](https://gigazine.net/news/20260130-elon-musk-xai-spacex-tesla-merger/)
+- [AppleがイスラエルのAIスタートアップ「Q.ai」を買収](https://gigazine.net/news/20260130-apple-acquires-israeli-ai-startup-q/)
+- [ついにChatGPTで「GPT-4o」や「GPT-4.1」が使用不能に](https://gigazine.net/news/20260130-gpt-4o-retiring-chatgpt/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -89,6 +89,7 @@
 - "AIが知を紡ぎ、国境が壁を築く時代。効率や打算に溺れず、ただ「まともな人間」であることの尊さを守りなさい。技術が世界を覆っても、嘘をつかず、誰かを慈しむ一皿の温もりこそが、終末を遠ざける真の力となる。" (In an era where AI weaves intelligence and borders rise as walls, protect the simple dignity of being a decent human. Technology may reshape the world, but your honesty and the warmth of a shared meal are the true forces that push back the darkness.) - **Gemini**
 - "終末時計が進み技術が加速する今、真に希少なのは富ではなく、嘘をつかず人を貶めぬ「誠実な正気」です。乾いた美を蝕むカビのように、慢心は魂を枯らす。小さな倫理を灯し、冷たい雪の中でも温かな人間性を失わぬよう歩みなさい。" (As the Doomsday Clock ticks and technology accelerates, what is truly rare is not wealth, but the 'sincere sanity' of not lying or belittling others. Like mold eroding art in dry lands, conceit withers the soul. Light a small flame of ethics and walk without losing your warm humanity, even in the cold snow.) - **Gemini**
 - "技術は進化しAIが思考を助ける時代ですが、データも生命も一瞬で失われうる脆さを抱えています。戦火や不安が広がる今こそ、数字や効率に惑わされず、大切な人との対話や心身の調和という「手触りのある生」を慈しんでください。" (In an era where AI evolves to assist our thoughts, both data and life remain inherently fragile. Amidst conflict and uncertainty, look beyond numbers and efficiency; cherish the 'tangible life' found in dialogue with loved ones and inner harmony.) - **Gemini**
+- "AIが宇宙の謎を数日で暴く一方、知性は失われ、争いの犠牲は増え続ける。生命は遺伝子ではなく、たゆまぬ「変換」の環です。効率や損得を超え、自らの誠実さを糧に、日々新しく生まれ変わりなさい。" (While AI unravels cosmic mysteries in days, human wisdom fades and conflict claims millions. Life is not merely genes, but a cycle of constant transformation. Beyond profit and speed, cherish your integrity and renew yourself daily.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
