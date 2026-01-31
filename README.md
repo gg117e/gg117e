@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Fay3ZhHS1rU'>
-        <img src='https://i.ytimg.com/vi/Fay3ZhHS1rU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjDVfcid0spA__YFixGLdGLPV6kA' width='200px' alt='桑田佳祐 – 100万年の幸せ!!（Full ver.）'>
+      <a href='https://www.youtube.com/watch?v=yFRNB8Jji4Y'>
+        <img src='https://i.ytimg.com/vi/yFRNB8Jji4Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAa-LXQ-EF_QYmSvbdUJF-CyB5nwA' width='200px' alt='燈'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Fay3ZhHS1rU'>桑田佳祐 – 100万年の幸せ!!（Full ver.）</a>
+      <a href='https://www.youtube.com/watch?v=yFRNB8Jji4Y'>燈</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=N1XUt-ZcOf4'>
-        <img src='https://i.ytimg.com/vi/N1XUt-ZcOf4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxk96uW-3O9eGb8qj27Cr0CMOCqw' width='200px' alt='Columbus'>
+      <a href='https://www.youtube.com/watch?v=P7bVX6fJfCg'>
+        <img src='https://i.ytimg.com/vi/P7bVX6fJfCg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCibqA8MwaVWSpL2VR6z3K_i0S3Rw' width='200px' alt='Omoinotake | IKUOKUKONEN 【Official Music Video】'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=N1XUt-ZcOf4'>Columbus</a>
+      <a href='https://www.youtube.com/watch?v=P7bVX6fJfCg'>Omoinotake | IKUOKUKONEN 【Official Music Video】</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=YFOg4grr_yA'>
-        <img src='https://i.ytimg.com/vi/YFOg4grr_yA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA78r8IZpJxtjfrvHIwGm6oVawSAg' width='200px' alt='紙一重'>
+      <a href='https://www.youtube.com/watch?v=a1AhJHqB6Sw'>
+        <img src='https://i.ytimg.com/vi/a1AhJHqB6Sw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-ychpIWP6288wouYECnGIj9mP1Q' width='200px' alt='ありがとう'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=YFOg4grr_yA'>紙一重</a>
+      <a href='https://www.youtube.com/watch?v=a1AhJHqB6Sw'>ありがとう</a>
     </td>
   </tr>
 </table>
