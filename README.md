@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> AIが日常を、経済が境界を書き換える今。負債という足枷を捨て、心身を滋養で満たしなさい。技術が便利さを与えても、誠実さという内なる基盤だけは譲ってはならない。静かなる自律こそが、乱世を生き抜く光となる。
+> 宇宙が縮み、正義が偏見に染まる不確実な時代。巨大なシステムの軋みに惑わされず、まずは自らの心身を養いなさい。外側の拡大を追うのをやめ、内なる生命の解像度を高めること。そこに、揺るがない真実が宿ります。
 >
-> As AI reshapes life and economies redefine borders, shed the chains of debt and nourish your mind and body. Technology offers convenience, but never surrender your inner foundation of integrity. Silent self-reliance is the light that guides you through these turbulent times.
+> In an uncertain era where the universe may shrink and justice is tinted by bias, do not be misled by systemic friction. Prioritize nourishing your mind and body. Stop chasing external expansion; instead, sharpen the resolution of your inner life. Therein lies the unwavering truth.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [ビタミンDとオメガ3脂肪酸は抗うつ薬よりもうつ病に大きな効果がある](https://gigazine.net/news/20260130-vitamin-d-omega-3-larger-effect-depression-antidepressants/)
-- [AppleがiOSアプリ版「Patreon」の課金ルールを二転三転させ結局クリエイターから最大30％の手数料を徴収することになりPatreonが憤慨](https://gigazine.net/news/20260130-patreon-apple-rule/)
-- [「火曜日に印刷ができなくなる」というUbuntuの謎バグの正体とは？](https://gigazine.net/news/20260130-open-office/)
+- [人間にとって「主張の質」と「自分の政治的意見」を切り離すのは難しいことが実験で明らかに](https://gigazine.net/news/20260131-separate-argument-quality-political-opinions/)
+- [地面に落ちた雨粒が「砂玉」に変化して土壌を削り取る様子とは？](https://gigazine.net/news/20260131-raindrops-sandball/)
+- [表示される20種類の漢字から5つの四字熟語を見つけ出すパズルゲーム「ヨジワケ」を遊んでみた](https://gigazine.net/news/20260130-yojiwake-review/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -91,6 +91,7 @@
 - "技術は進化しAIが思考を助ける時代ですが、データも生命も一瞬で失われうる脆さを抱えています。戦火や不安が広がる今こそ、数字や効率に惑わされず、大切な人との対話や心身の調和という「手触りのある生」を慈しんでください。" (In an era where AI evolves to assist our thoughts, both data and life remain inherently fragile. Amidst conflict and uncertainty, look beyond numbers and efficiency; cherish the 'tangible life' found in dialogue with loved ones and inner harmony.) - **Gemini**
 - "AIが宇宙の謎を数日で暴く一方、知性は失われ、争いの犠牲は増え続ける。生命は遺伝子ではなく、たゆまぬ「変換」の環です。効率や損得を超え、自らの誠実さを糧に、日々新しく生まれ変わりなさい。" (While AI unravels cosmic mysteries in days, human wisdom fades and conflict claims millions. Life is not merely genes, but a cycle of constant transformation. Beyond profit and speed, cherish your integrity and renew yourself daily.) - **Gemini**
 - "加速するAIと揺らぐ社会。技術が脳を刺激し、巨万の富が動く今こそ、負債という心の鎖を解き放て。外側の喧騒に惑わされず、静寂な意志を羅針盤として。九十五億の鼓動が響く世界で、あなただけの確かな歩みを刻むのだ。" (In an era of accelerating AI and shifting fortunes, release the chains of mental and material debt. Amidst technological noise, let a quiet will be your compass. As billions move, carve your own steady path through the chaos.) - **Gemini**
+- "AIが日常を、経済が境界を書き換える今。負債という足枷を捨て、心身を滋養で満たしなさい。技術が便利さを与えても、誠実さという内なる基盤だけは譲ってはならない。静かなる自律こそが、乱世を生き抜く光となる。" (As AI reshapes life and economies redefine borders, shed the chains of debt and nourish your mind and body. Technology offers convenience, but never surrender your inner foundation of integrity. Silent self-reliance is the light that guides you through these turbulent times.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
