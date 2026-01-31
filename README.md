@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=yFRNB8Jji4Y'>
-        <img src='https://i.ytimg.com/vi/yFRNB8Jji4Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAa-LXQ-EF_QYmSvbdUJF-CyB5nwA' width='200px' alt='燈'>
+      <a href='https://www.youtube.com/watch?v=3qvMBFAPgD8'>
+        <img src='https://i.ytimg.com/vi/3qvMBFAPgD8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeKQJOW3hP4i6nsR5UUMv4-USrxw' width='200px' alt='ベテルギウス'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=yFRNB8Jji4Y'>燈</a>
+      <a href='https://www.youtube.com/watch?v=3qvMBFAPgD8'>ベテルギウス</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=P7bVX6fJfCg'>
-        <img src='https://i.ytimg.com/vi/P7bVX6fJfCg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCibqA8MwaVWSpL2VR6z3K_i0S3Rw' width='200px' alt='Omoinotake | IKUOKUKONEN 【Official Music Video】'>
+      <a href='https://www.youtube.com/watch?v=ZosT1iyOU2g'>
+        <img src='https://i.ytimg.com/vi/ZosT1iyOU2g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDiKwFTggMjRRJLDfVRhNfXfoYJw' width='200px' alt='手紙 〜拝啓　十五の君へ〜'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=P7bVX6fJfCg'>Omoinotake | IKUOKUKONEN 【Official Music Video】</a>
+      <a href='https://www.youtube.com/watch?v=ZosT1iyOU2g'>手紙 〜拝啓　十五の君へ〜</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=a1AhJHqB6Sw'>
-        <img src='https://i.ytimg.com/vi/a1AhJHqB6Sw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-ychpIWP6288wouYECnGIj9mP1Q' width='200px' alt='ありがとう'>
+      <a href='https://www.youtube.com/watch?v=9aveQLtaK30'>
+        <img src='https://i.ytimg.com/vi/9aveQLtaK30/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHLn-eCWxffBVVG5Hi7FNb98J-PA' width='200px' alt='ひまわり'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=a1AhJHqB6Sw'>ありがとう</a>
+      <a href='https://www.youtube.com/watch?v=9aveQLtaK30'>ひまわり</a>
     </td>
   </tr>
 </table>
