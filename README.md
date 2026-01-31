@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=mj4Pa0ldUp8'>
-        <img src='https://i.ytimg.com/vi/mj4Pa0ldUp8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD14lODcjMhcKlqfeZWoy1pyMFyqg' width='200px' alt='地獄でなぜ悪い'>
+      <a href='https://www.youtube.com/watch?v=mQgpJPStoYQ'>
+        <img src='https://i.ytimg.com/vi/mQgpJPStoYQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQh25MLFhpwmdOqMrf8DSEWT_akg' width='200px' alt='切望'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=mj4Pa0ldUp8'>地獄でなぜ悪い</a>
+      <a href='https://www.youtube.com/watch?v=mQgpJPStoYQ'>切望</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=A0plb7gdzW4'>
-        <img src='https://i.ytimg.com/vi/A0plb7gdzW4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhPB6jEwaOqitRIOiPhQQSfsOuDw' width='200px' alt='Attitude'>
+      <a href='https://www.youtube.com/watch?v=HUEoF7ntswo'>
+        <img src='https://i.ytimg.com/vi/HUEoF7ntswo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIjbJtv5eJ_d1UP7Ty9mQ5ADAXyQ' width='200px' alt='Love Song'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=A0plb7gdzW4'>Attitude</a>
+      <a href='https://www.youtube.com/watch?v=HUEoF7ntswo'>Love Song</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Jm2jOK45btw'>
-        <img src='https://i.ytimg.com/vi/Jm2jOK45btw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPMCDVE0qm5SI2owO0-6JB-sPNYw' width='200px' alt='Aiueongaku'>
+      <a href='https://www.youtube.com/watch?v=oisKs2G_zcg'>
+        <img src='https://i.ytimg.com/vi/oisKs2G_zcg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArVt4enRACWU-rfRjub596ca-ZfA' width='200px' alt='心絵'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Jm2jOK45btw'>Aiueongaku</a>
+      <a href='https://www.youtube.com/watch?v=oisKs2G_zcg'>心絵</a>
     </td>
   </tr>
 </table>
