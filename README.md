@@ -33,18 +33,18 @@
       <a href='https://www.youtube.com/watch?v=pjepmiuuH-A'>Glorious</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=6qcELHEilnQ'>
-        <img src='https://i.ytimg.com/vi/6qcELHEilnQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBd6ScUlxU0bLM9fk6y64sP8k6oRw' width='200px' alt='Shiori'>
+      <a href='https://www.youtube.com/watch?v=whlXRYLhgx0'>
+        <img src='https://i.ytimg.com/vi/whlXRYLhgx0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGlE00IU9bwRQqqzhxwGDuajZ0HA' width='200px' alt='Bedroom Talk'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=6qcELHEilnQ'>Shiori</a>
+      <a href='https://www.youtube.com/watch?v=whlXRYLhgx0'>Bedroom Talk</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=_bH_0NIi_Vc'>
-        <img src='https://i.ytimg.com/vi/_bH_0NIi_Vc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsceiLz7G_AJQoMUqKRGRR0QUfJA' width='200px' alt='日曜日のラブレター'>
+      <a href='https://www.youtube.com/watch?v=tIKnAwgjHWU'>
+        <img src='https://i.ytimg.com/vi/tIKnAwgjHWU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMg_KeVtmmXSjur37sZtESTrMehg' width='200px' alt='Shunshu'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=_bH_0NIi_Vc'>日曜日のラブレター</a>
+      <a href='https://www.youtube.com/watch?v=tIKnAwgjHWU'>Shunshu</a>
     </td>
   </tr>
 </table>
