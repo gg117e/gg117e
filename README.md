@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=bt2j17P7XVE'>
-        <img src='https://i.ytimg.com/vi/bt2j17P7XVE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfLPyZRgXU9JFZzFkCBW1iTiq4QA' width='200px' alt='Pride'>
+      <a href='https://www.youtube.com/watch?v=12IZ8oyF6X4'>
+        <img src='https://i.ytimg.com/vi/12IZ8oyF6X4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTHYqp8jlD6v-pEq1V60UnghEk6Q' width='200px' alt='Shuhasu'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=bt2j17P7XVE'>Pride</a>
+      <a href='https://www.youtube.com/watch?v=12IZ8oyF6X4'>Shuhasu</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=rA_B_tm-Vz0'>
-        <img src='https://i.ytimg.com/vi/rA_B_tm-Vz0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIfs7N9nZxbosI-CRH47DBKhsHhQ' width='200px' alt='色彩'>
+      <a href='https://www.youtube.com/watch?v=lUNO0Tt87zo'>
+        <img src='https://i.ytimg.com/vi/lUNO0Tt87zo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACIrFHuVynvp-eNkxrH-yYEh9C7Q' width='200px' alt='空'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=rA_B_tm-Vz0'>色彩</a>
+      <a href='https://www.youtube.com/watch?v=lUNO0Tt87zo'>空</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=sFd0qdA32d8'>
-        <img src='https://i.ytimg.com/vi/sFd0qdA32d8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsbiKsqGRozBBhXS18xarw4KRGhw' width='200px' alt='Turquoise'>
+      <a href='https://www.youtube.com/watch?v=SvtSWhyw7vs'>
+        <img src='https://i.ytimg.com/vi/SvtSWhyw7vs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtAy96XVYaLQyKcD0j4-yFSZRqrQ' width='200px' alt='TATTOO'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=sFd0qdA32d8'>Turquoise</a>
+      <a href='https://www.youtube.com/watch?v=SvtSWhyw7vs'>TATTOO</a>
     </td>
   </tr>
 </table>
