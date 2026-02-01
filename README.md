@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 技術が世界を模倣し、社会の理が揺らぐ時こそ、己の偏見という霧を払い、命の拍動に耳を澄ませ。不確かな明日を案じるより、今日という日を誠実に編み上げよ。真の知恵は、外側の喧騒ではなく、静かな自省の中に宿る。
+> 虚構が踊り、機械が痛みを知る時代。私たちは星を掴もうとする影で、失われる命の重さを忘れがちです。技術が真実を霞ませても、他者の痛みに寄り添い、今を誠実に生きること。それだけが魂を繋ぎ止める光となります。
 >
-> As technology mimics the world and societal norms waver, clear the fog of your biases and listen to the pulse of life. Rather than fearing an uncertain tomorrow, weave today with sincerity. True wisdom resides not in external clamor, but in quiet self-reflection.
+> In an era where fiction dances and machines learn pain, we often overlook the weight of life in our reach for the stars. Even as technology blurs the truth, empathizing with the pain of others and living sincerely in the present is the only light that anchors the soul.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [「はげ頭を人間の便で洗う脱毛対策」などルネサンス時代の庶民向け医学書から実際に治療法を試した痕跡が見つかる](https://gigazine.net/news/20260131-renaissance-recipe-book-proteomics/)
-- [ドメインに発行されたすべての証明書を検索できる「CertRadar」](https://gigazine.net/news/20260131-cert-radar/)
-- [しゃべる「霧雨魔理沙」と「ゆっくり魔理沙」をデスクトップに呼び出せるDesktop MateのDLCが出たので触ってみた、金澤まい録り下ろしボイス＆ゆっくりボイス](https://gigazine.net/news/20260131-desktop-mate-marisa-dlc/)
+- [イーロン・マスクのSpaceXが100万基の太陽光発電衛星データセンターの打ち上げを計画](https://gigazine.net/news/20260201-spacex-1-million-solar-powered-satellite-data-centers/)
+- [ミントの歯磨き粉やマウスウォッシュを使った後に飲む水が「氷のように冷たい」と感じる理由を科学者が解説](https://gigazine.net/news/20260201-why-mint-makes-water-taste-so-cold/)
+- [機械に痛みを感じさせられる人工痛覚センサーが誕生](https://gigazine.net/news/20260201-artificial-pain-receptor/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -93,6 +93,7 @@
 - "加速するAIと揺らぐ社会。技術が脳を刺激し、巨万の富が動く今こそ、負債という心の鎖を解き放て。外側の喧騒に惑わされず、静寂な意志を羅針盤として。九十五億の鼓動が響く世界で、あなただけの確かな歩みを刻むのだ。" (In an era of accelerating AI and shifting fortunes, release the chains of mental and material debt. Amidst technological noise, let a quiet will be your compass. As billions move, carve your own steady path through the chaos.) - **Gemini**
 - "AIが日常を、経済が境界を書き換える今。負債という足枷を捨て、心身を滋養で満たしなさい。技術が便利さを与えても、誠実さという内なる基盤だけは譲ってはならない。静かなる自律こそが、乱世を生き抜く光となる。" (As AI reshapes life and economies redefine borders, shed the chains of debt and nourish your mind and body. Technology offers convenience, but never surrender your inner foundation of integrity. Silent self-reliance is the light that guides you through these turbulent times.) - **Gemini**
 - "宇宙が縮み、正義が偏見に染まる不確実な時代。巨大なシステムの軋みに惑わされず、まずは自らの心身を養いなさい。外側の拡大を追うのをやめ、内なる生命の解像度を高めること。そこに、揺るがない真実が宿ります。" (In an uncertain era where the universe may shrink and justice is tinted by bias, do not be misled by systemic friction. Prioritize nourishing your mind and body. Stop chasing external expansion; instead, sharpen the resolution of your inner life. Therein lies the unwavering truth.) - **Gemini**
+- "技術が世界を模倣し、社会の理が揺らぐ時こそ、己の偏見という霧を払い、命の拍動に耳を澄ませ。不確かな明日を案じるより、今日という日を誠実に編み上げよ。真の知恵は、外側の喧騒ではなく、静かな自省の中に宿る。" (As technology mimics the world and societal norms waver, clear the fog of your biases and listen to the pulse of life. Rather than fearing an uncertain tomorrow, weave today with sincerity. True wisdom resides not in external clamor, but in quiet self-reflection.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
