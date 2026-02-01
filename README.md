@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=TDpJAuxpfMs'>
-        <img src='https://i.ytimg.com/vi/TDpJAuxpfMs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9Cz2hEIi2OAbI-OqYwpBuvb91ZQ' width='200px' alt='愛に出会い恋は続く／HoneyWorks feat.Kotoha'>
+      <a href='https://www.youtube.com/watch?v=ArN80_ahos0'>
+        <img src='https://i.ytimg.com/vi/ArN80_ahos0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0St2Q4-pGDvfGebZ98ijNN0K2qQ' width='200px' alt='Anatani'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=TDpJAuxpfMs'>愛に出会い恋は続く／HoneyWorks feat.Kotoha</a>
+      <a href='https://www.youtube.com/watch?v=ArN80_ahos0'>Anatani</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=dGZqpVCJP3k'>
-        <img src='https://i.ytimg.com/vi/dGZqpVCJP3k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7TuZC6EGVoQIpgUkBaKKSxjMCrw' width='200px' alt='群青'>
+      <a href='https://www.youtube.com/watch?v=1Zj84ajLO0E'>
+        <img src='https://i.ytimg.com/vi/1Zj84ajLO0E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzCzHeBm0IcTaqcvSVnADwwMndqw' width='200px' alt='Sasanqua'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=dGZqpVCJP3k'>群青</a>
+      <a href='https://www.youtube.com/watch?v=1Zj84ajLO0E'>Sasanqua</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=SVkGRoLicuA'>
-        <img src='https://i.ytimg.com/vi/SVkGRoLicuA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEGWRcMYMGbnY-HOcgFSINA1NRIA' width='200px' alt='Sukidakara'>
+      <a href='https://www.youtube.com/watch?v=M5R9z0vFjOs'>
+        <img src='https://i.ytimg.com/vi/M5R9z0vFjOs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUoxXdI7QdD2MULr-UX0i6XYXdSA' width='200px' alt='ビリミリオン'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=SVkGRoLicuA'>Sukidakara</a>
+      <a href='https://www.youtube.com/watch?v=M5R9z0vFjOs'>ビリミリオン</a>
     </td>
   </tr>
 </table>
