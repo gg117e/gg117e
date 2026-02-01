@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ErqUUYWfOBo'>
-        <img src='https://i.ytimg.com/vi/ErqUUYWfOBo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOSuaDQ-44YRfAfNZSNO7AyglYcA' width='200px' alt='決戦スピリット／CHiCO with HoneyWorks'>
+      <a href='https://www.youtube.com/watch?v=asVlmxMXKb4'>
+        <img src='https://i.ytimg.com/vi/asVlmxMXKb4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWo0sJb27OZVeryzeBVI-3VNsYQw' width='200px' alt='Happiness'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ErqUUYWfOBo'>決戦スピリット／CHiCO with HoneyWorks</a>
+      <a href='https://www.youtube.com/watch?v=asVlmxMXKb4'>Happiness</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=45Ft2gmvgPg'>
-        <img src='https://i.ytimg.com/vi/45Ft2gmvgPg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1kxULQ0K3eBvcMa7bJFsQp2eoow' width='200px' alt='Nemurihime'>
+      <a href='https://www.youtube.com/watch?v=KKi7KXynBwA'>
+        <img src='https://i.ytimg.com/vi/KKi7KXynBwA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFTKwBCcvNjWzxputKmC9GKipoZQ' width='200px' alt='名前を呼ぶよ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=45Ft2gmvgPg'>Nemurihime</a>
+      <a href='https://www.youtube.com/watch?v=KKi7KXynBwA'>名前を呼ぶよ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=SvtSWhyw7vs'>
-        <img src='https://i.ytimg.com/vi/SvtSWhyw7vs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtAy96XVYaLQyKcD0j4-yFSZRqrQ' width='200px' alt='TATTOO'>
+      <a href='https://www.youtube.com/watch?v=lFGguUWgrkc'>
+        <img src='https://i.ytimg.com/vi/lFGguUWgrkc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDztK_FjWUbCrRad7BEkd3LL4YhTg' width='200px' alt='虹'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=SvtSWhyw7vs'>TATTOO</a>
+      <a href='https://www.youtube.com/watch?v=lFGguUWgrkc'>虹</a>
     </td>
   </tr>
 </table>
