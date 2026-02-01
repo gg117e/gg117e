@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=8E2VN7GO5eM'>
-        <img src='https://i.ytimg.com/vi/8E2VN7GO5eM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjez16ntm7mb1BHVpaPnxkJht3Mg' width='200px' alt='気まぐれロマンティック'>
+      <a href='https://www.youtube.com/watch?v=hSdcy2_vtaQ'>
+        <img src='https://i.ytimg.com/vi/hSdcy2_vtaQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPw24hhUebfUwdjUQ9IOX0zI-_3Q' width='200px' alt='僕らまた (Us, again) - SG (Official Lyric Video)'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=8E2VN7GO5eM'>気まぐれロマンティック</a>
+      <a href='https://www.youtube.com/watch?v=hSdcy2_vtaQ'>僕らまた (Us, again) - SG (Official Lyric Video)</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=x9v8aNl6Aps'>
-        <img src='https://i.ytimg.com/vi/x9v8aNl6Aps/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVvWYRclYEKfr0HcfVA2vAvYjv6g' width='200px' alt='ONE OK ROCK - Heartache [Studio Jam Session]'>
+      <a href='https://www.youtube.com/watch?v=mQgpJPStoYQ'>
+        <img src='https://i.ytimg.com/vi/mQgpJPStoYQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQh25MLFhpwmdOqMrf8DSEWT_akg' width='200px' alt='切望'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=x9v8aNl6Aps'>ONE OK ROCK - Heartache [Studio Jam Session]</a>
+      <a href='https://www.youtube.com/watch?v=mQgpJPStoYQ'>切望</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=l2nqfPAMrSo'>
-        <img src='https://i.ytimg.com/vi/l2nqfPAMrSo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0nDqcmoaPuUfFdBbIX_7HAyJA8w' width='200px' alt='Chessboard'>
+      <a href='https://www.youtube.com/watch?v=V6TEcoNUmc8'>
+        <img src='https://i.ytimg.com/vi/V6TEcoNUmc8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSLIKEiQCOt42rwL4jDoKMEret8g' width='200px' alt='Ditto'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=l2nqfPAMrSo'>Chessboard</a>
+      <a href='https://www.youtube.com/watch?v=V6TEcoNUmc8'>Ditto</a>
     </td>
   </tr>
 </table>
