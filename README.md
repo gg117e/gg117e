@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=hmTKQf7khaE'>
-        <img src='https://i.ytimg.com/vi/hmTKQf7khaE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUCEZYFa01YzKxYxchVAFSzHm3hg' width='200px' alt='Automatic'>
+      <a href='https://www.youtube.com/watch?v=DO_aopUeFnw'>
+        <img src='https://i.ytimg.com/vi/DO_aopUeFnw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKWBCw1miJEhYdmMNyNruwf_BWDA' width='200px' alt='Lilac'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=hmTKQf7khaE'>Automatic</a>
+      <a href='https://www.youtube.com/watch?v=DO_aopUeFnw'>Lilac</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ldJJO0nJc_A'>
-        <img src='https://i.ytimg.com/vi/ldJJO0nJc_A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAt3Zfw447sqXwKA96duHdwFqzwA' width='200px' alt='Itsumademo'>
+      <a href='https://www.youtube.com/watch?v=W8Q9Hs7Tgzg'>
+        <img src='https://i.ytimg.com/vi/W8Q9Hs7Tgzg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCF1Qy_4gJ79JnrDpU1uHuW0YOKUg' width='200px' alt='Wanted! Wanted!'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ldJJO0nJc_A'>Itsumademo</a>
+      <a href='https://www.youtube.com/watch?v=W8Q9Hs7Tgzg'>Wanted! Wanted!</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=mS7iQKWy9HU'>
-        <img src='https://i.ytimg.com/vi/mS7iQKWy9HU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtJV-grxMKT9h26f-DU1NjRvTCBw' width='200px' alt='未完成なままで'>
+      <a href='https://www.youtube.com/watch?v=NytDYFWc--s'>
+        <img src='https://i.ytimg.com/vi/NytDYFWc--s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAam1nXolU_zNGmcEIM13wXQ3X_wQ' width='200px' alt='虹色の戦争'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=mS7iQKWy9HU'>未完成なままで</a>
+      <a href='https://www.youtube.com/watch?v=NytDYFWc--s'>虹色の戦争</a>
     </td>
   </tr>
 </table>
