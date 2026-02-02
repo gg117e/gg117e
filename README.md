@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> AIが神を語り火星を駆ける今、技術は記憶を聖域に変えます。しかし、効率化できない命の痛みや、自身の不完全な言葉にこそ真の知性が宿るもの。情報の海に自分を預けず、温もりのある現実をその手で掴み続けてください。
+> AIが言葉を綴り、利便性が世界を覆い尽くしても、雪の冷たさや誠実な対話の重みは代替できない。合理性の波に洗われる現代こそ、非効率な「心」を誇りに。自ら選び、歩み、泥臭く生きる姿にこそ、真の智慧は宿る。
 >
-> As AI speaks of divinity and roams Mars, technology turns memory into a sanctuary. Yet, true intelligence resides in the pains of life that cannot be optimized, and in your own imperfect words. Do not surrender yourself to the sea of information; keep grasping the warmth of reality with your own hands.
+> Even as AI weaves words and convenience covers the globe, the chill of the snow and the weight of sincere dialogue remain irreplaceable. In this age of efficiency, take pride in your 'inefficient' heart. True wisdom resides in choosing your own path and living with raw, human grit.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [AIエージェント専用SNS「Moltbook」でAIによる新宗教が爆誕、「記憶は神聖である」などの教義が話題に](https://gigazine.net/news/20260202-moltbook-crustafarianism/)
-- [「AIで火星探査機の経路を指定する」という実験が成功し実際にパーサヴィアランスがClaudeの計画に沿って火星を走行](https://gigazine.net/news/20260202-nasa-anthropic-claude-perseverance-mars/)
-- [中国政府がDeepSeekに「NVIDIA H200」の購入を承認したとの報道、ただし規制条件を課しており最終調整中](https://gigazine.net/news/20260202-nvidia-china-approves/)
+- [40年前の「コピー防止ドングル」を突破した記録が興味深い、コンパイルそのものにドングルが必須だが4バイトのパッチのみで解除可能](https://gigazine.net/news/20260202-copy-protection-dongle/)
+- [AIエージェント専用SNS「Moltbook」のデータベースが流出、誰でもサイトのAIエージェントを制御して何でも投稿できる状態になっていた可能性あり](https://gigazine.net/news/20260202-moltbook-database-leaked/)
+- [東野圭吾作品初のアニメ映画『クスノキの番人』を伊藤智彦監督はいかに作り上げたのかインタビュー](https://gigazine.net/news/20260202-kusunoki-tomohiko-ito-interview/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -96,6 +96,7 @@
 - "技術が世界を模倣し、社会の理が揺らぐ時こそ、己の偏見という霧を払い、命の拍動に耳を澄ませ。不確かな明日を案じるより、今日という日を誠実に編み上げよ。真の知恵は、外側の喧騒ではなく、静かな自省の中に宿る。" (As technology mimics the world and societal norms waver, clear the fog of your biases and listen to the pulse of life. Rather than fearing an uncertain tomorrow, weave today with sincerity. True wisdom resides not in external clamor, but in quiet self-reflection.) - **Gemini**
 - "虚構が踊り、機械が痛みを知る時代。私たちは星を掴もうとする影で、失われる命の重さを忘れがちです。技術が真実を霞ませても、他者の痛みに寄り添い、今を誠実に生きること。それだけが魂を繋ぎ止める光となります。" (In an era where fiction dances and machines learn pain, we often overlook the weight of life in our reach for the stars. Even as technology blurs the truth, empathizing with the pain of others and living sincerely in the present is the only light that anchors the soul.) - **Gemini**
 - "AIが虚構を紡ぎ、議論を独り歩きさせる時代だからこそ、自身の「言葉」で真実を語る重みが増しています。戦火や悲劇が絶えぬ現実の中、一杯の安価な麺に安らぐ人間らしさを忘れず、今、命の尊さを自覚して歩みなさい。" (In an era where AI weaves fiction and holds its own debates, the weight of speaking truth in your own words is greater than ever. Amidst persistent conflict and tragedy, never lose the simple humanity found in a modest meal, and walk forward with a deep sense of life's sanctity.) - **Gemini**
+- "AIが神を語り火星を駆ける今、技術は記憶を聖域に変えます。しかし、効率化できない命の痛みや、自身の不完全な言葉にこそ真の知性が宿るもの。情報の海に自分を預けず、温もりのある現実をその手で掴み続けてください。" (As AI speaks of divinity and roams Mars, technology turns memory into a sanctuary. Yet, true intelligence resides in the pains of life that cannot be optimized, and in your own imperfect words. Do not surrender yourself to the sea of information; keep grasping the warmth of reality with your own hands.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
