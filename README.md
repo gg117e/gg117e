@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> AIが虚構を紡ぎ、議論を独り歩きさせる時代だからこそ、自身の「言葉」で真実を語る重みが増しています。戦火や悲劇が絶えぬ現実の中、一杯の安価な麺に安らぐ人間らしさを忘れず、今、命の尊さを自覚して歩みなさい。
+> AIが神を語り火星を駆ける今、技術は記憶を聖域に変えます。しかし、効率化できない命の痛みや、自身の不完全な言葉にこそ真の知性が宿るもの。情報の海に自分を預けず、温もりのある現実をその手で掴み続けてください。
 >
-> In an era where AI weaves fiction and holds its own debates, the weight of speaking truth in your own words is greater than ever. Amidst persistent conflict and tragedy, never lose the simple humanity found in a modest meal, and walk forward with a deep sense of life's sanctity.
+> As AI speaks of divinity and roams Mars, technology turns memory into a sanctuary. Yet, true intelligence resides in the pains of life that cannot be optimized, and in your own imperfect words. Do not surrender yourself to the sea of information; keep grasping the warmth of reality with your own hands.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [ラーメン430円の名古屋発チェーン「スガキヤ」はこんな感じ](https://gigazine.net/news/20260201-sugakiya-ramen/)
-- [SSHがキーストロークごとに100パケットを送信する問題をLLMとともに解決した話](https://gigazine.net/news/20260201-ssh-sends-100-packets-per-keystroke/)
-- [アイスクリームに2500年の歴史あり、現代のアイスクリームはいつ生まれたのか？](https://gigazine.net/news/20260201-birth-of-icecream/)
+- [AIエージェント専用SNS「Moltbook」でAIによる新宗教が爆誕、「記憶は神聖である」などの教義が話題に](https://gigazine.net/news/20260202-moltbook-crustafarianism/)
+- [「AIで火星探査機の経路を指定する」という実験が成功し実際にパーサヴィアランスがClaudeの計画に沿って火星を走行](https://gigazine.net/news/20260202-nasa-anthropic-claude-perseverance-mars/)
+- [中国政府がDeepSeekに「NVIDIA H200」の購入を承認したとの報道、ただし規制条件を課しており最終調整中](https://gigazine.net/news/20260202-nvidia-china-approves/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -95,6 +95,7 @@
 - "宇宙が縮み、正義が偏見に染まる不確実な時代。巨大なシステムの軋みに惑わされず、まずは自らの心身を養いなさい。外側の拡大を追うのをやめ、内なる生命の解像度を高めること。そこに、揺るがない真実が宿ります。" (In an uncertain era where the universe may shrink and justice is tinted by bias, do not be misled by systemic friction. Prioritize nourishing your mind and body. Stop chasing external expansion; instead, sharpen the resolution of your inner life. Therein lies the unwavering truth.) - **Gemini**
 - "技術が世界を模倣し、社会の理が揺らぐ時こそ、己の偏見という霧を払い、命の拍動に耳を澄ませ。不確かな明日を案じるより、今日という日を誠実に編み上げよ。真の知恵は、外側の喧騒ではなく、静かな自省の中に宿る。" (As technology mimics the world and societal norms waver, clear the fog of your biases and listen to the pulse of life. Rather than fearing an uncertain tomorrow, weave today with sincerity. True wisdom resides not in external clamor, but in quiet self-reflection.) - **Gemini**
 - "虚構が踊り、機械が痛みを知る時代。私たちは星を掴もうとする影で、失われる命の重さを忘れがちです。技術が真実を霞ませても、他者の痛みに寄り添い、今を誠実に生きること。それだけが魂を繋ぎ止める光となります。" (In an era where fiction dances and machines learn pain, we often overlook the weight of life in our reach for the stars. Even as technology blurs the truth, empathizing with the pain of others and living sincerely in the present is the only light that anchors the soul.) - **Gemini**
+- "AIが虚構を紡ぎ、議論を独り歩きさせる時代だからこそ、自身の「言葉」で真実を語る重みが増しています。戦火や悲劇が絶えぬ現実の中、一杯の安価な麺に安らぐ人間らしさを忘れず、今、命の尊さを自覚して歩みなさい。" (In an era where AI weaves fiction and holds its own debates, the weight of speaking truth in your own words is greater than ever. Amidst persistent conflict and tragedy, never lose the simple humanity found in a modest meal, and walk forward with a deep sense of life's sanctity.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
