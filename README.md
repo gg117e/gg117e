@@ -26,6 +26,13 @@
 <table>
   <tr>
     <td align='center'>
+      <a href='https://www.youtube.com/watch?v=3jwzfhaIf3U'>
+        <img src='https://i.ytimg.com/vi/3jwzfhaIf3U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyDkEcU9JaqmusItqe-hAV56rH3A' width='200px' alt='Eikouno Kakehashi'>
+      </a>
+      <br />
+      <a href='https://www.youtube.com/watch?v=3jwzfhaIf3U'>Eikouno Kakehashi</a>
+    </td>
+    <td align='center'>
       <a href='https://www.youtube.com/watch?v=Q6MCyXi7ygA'>
         <img src='https://i.ytimg.com/vi/Q6MCyXi7ygA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyF8uAZ8LWVRze3HuSHjbzwarW9A' width='200px' alt='Grand Escape'>
       </a>
@@ -33,18 +40,11 @@
       <a href='https://www.youtube.com/watch?v=Q6MCyXi7ygA'>Grand Escape</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=lkBsQjXthT8'>
-        <img src='https://i.ytimg.com/vi/lkBsQjXthT8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClS4XjBBpC-70uJ1h1-WbGfyPDOg' width='200px' alt='HEART BEAT'>
+      <a href='https://www.youtube.com/watch?v=HZFQbyb39lU'>
+        <img src='https://i.ytimg.com/vi/HZFQbyb39lU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAb_miPNN8kFLEVyEwuBij_-Pqiyw' width='200px' alt='I Want You Back'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=lkBsQjXthT8'>HEART BEAT</a>
-    </td>
-    <td align='center'>
-      <a href='https://www.youtube.com/watch?v=dhgaMyKT-l0'>
-        <img src='https://i.ytimg.com/vi/dhgaMyKT-l0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0RNrPMVRqJn3jAsnvDMXYtlKm9A' width='200px' alt='Kuchibue'>
-      </a>
-      <br />
-      <a href='https://www.youtube.com/watch?v=dhgaMyKT-l0'>Kuchibue</a>
+      <a href='https://www.youtube.com/watch?v=HZFQbyb39lU'>I Want You Back</a>
     </td>
   </tr>
 </table>
