@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=mN5F3l3r8QM'>
-        <img src='https://i.ytimg.com/vi/mN5F3l3r8QM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoS8UnfB9Cul4GAuAc-URqS0drDw' width='200px' alt='Romanticism'>
+      <a href='https://www.youtube.com/watch?v=A0plb7gdzW4'>
+        <img src='https://i.ytimg.com/vi/A0plb7gdzW4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhPB6jEwaOqitRIOiPhQQSfsOuDw' width='200px' alt='Attitude'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=mN5F3l3r8QM'>Romanticism</a>
+      <a href='https://www.youtube.com/watch?v=A0plb7gdzW4'>Attitude</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=HUEoF7ntswo'>
-        <img src='https://i.ytimg.com/vi/HUEoF7ntswo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIjbJtv5eJ_d1UP7Ty9mQ5ADAXyQ' width='200px' alt='Love Song'>
+      <a href='https://www.youtube.com/watch?v=cMLTX2FClxw'>
+        <img src='https://i.ytimg.com/vi/cMLTX2FClxw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdhytK3vnYCrOsTlHB2LeYE2Kp5g' width='200px' alt='Official髭男dism - ビンテージ［Official Video］'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=HUEoF7ntswo'>Love Song</a>
+      <a href='https://www.youtube.com/watch?v=cMLTX2FClxw'>Official髭男dism - ビンテージ［Official Video］</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=vs-cO8XXDTc'>
-        <img src='https://i.ytimg.com/vi/vs-cO8XXDTc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0RhpW6ipEyFYy22iPoM--YLW-Ew' width='200px' alt='ファーストラヴ'>
+      <a href='https://www.youtube.com/watch?v=KJBoof4rjrg'>
+        <img src='https://i.ytimg.com/vi/KJBoof4rjrg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYlPGVYfBk7q9cXddAm78dnu8oAQ' width='200px' alt='Tatta'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=vs-cO8XXDTc'>ファーストラヴ</a>
+      <a href='https://www.youtube.com/watch?v=KJBoof4rjrg'>Tatta</a>
     </td>
   </tr>
 </table>
