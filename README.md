@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=_bH_0NIi_Vc'>
-        <img src='https://i.ytimg.com/vi/_bH_0NIi_Vc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsceiLz7G_AJQoMUqKRGRR0QUfJA' width='200px' alt='日曜日のラブレター'>
+      <a href='https://www.youtube.com/watch?v=sssoboSVd6A'>
+        <img src='https://i.ytimg.com/vi/sssoboSVd6A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABqS6M3D5Tk6on9fa68IULKZQALA' width='200px' alt='Ayumi'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=_bH_0NIi_Vc'>日曜日のラブレター</a>
+      <a href='https://www.youtube.com/watch?v=sssoboSVd6A'>Ayumi</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=mS7iQKWy9HU'>
-        <img src='https://i.ytimg.com/vi/mS7iQKWy9HU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtJV-grxMKT9h26f-DU1NjRvTCBw' width='200px' alt='未完成なままで'>
+      <a href='https://www.youtube.com/watch?v=Q6MCyXi7ygA'>
+        <img src='https://i.ytimg.com/vi/Q6MCyXi7ygA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyF8uAZ8LWVRze3HuSHjbzwarW9A' width='200px' alt='Grand Escape'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=mS7iQKWy9HU'>未完成なままで</a>
+      <a href='https://www.youtube.com/watch?v=Q6MCyXi7ygA'>Grand Escape</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=taMwG5lOq80'>
-        <img src='https://i.ytimg.com/vi/taMwG5lOq80/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtRHtD3sc1odeK-K8ONv0uYxv0hw' width='200px' alt='SWEET TWEET'>
+      <a href='https://www.youtube.com/watch?v=-Zr0mLgdAQc'>
+        <img src='https://i.ytimg.com/vi/-Zr0mLgdAQc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQRiDuA-AwAqqfWZuLJ_7rPP0Etg' width='200px' alt='ゲッタバンバン'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=taMwG5lOq80'>SWEET TWEET</a>
+      <a href='https://www.youtube.com/watch?v=-Zr0mLgdAQc'>ゲッタバンバン</a>
     </td>
   </tr>
 </table>
