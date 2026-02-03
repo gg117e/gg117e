@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 効率化と制度が縛る世界で、正解を外に求めるな。高騰する技術も歪む法も、あなたの魂までは縛れない。機械的な自動化のなかで、コトコトと響く打鍵音や太陽の温もりに、自分だけの「生」の律動を刻み込め。
+> AIとの対話に主体性を委ねず、自らの手で汗をかき、形ある想いを守り抜け。技術が思考を代行し、情勢が揺れ動く今だからこそ、効率を超えた「不器用な誠実さ」こそが、あなたを唯一無二の存在として輝かせる。
 >
-> In a world bound by efficiency and systems, do not seek answers from without. Neither soaring costs nor rigid laws can chain your soul. Amidst mechanical automation, carve your own rhythm of life into the sound of your keys and the warmth of the sun.
+> Do not surrender your agency to AI; sweat with your own hands and protect your tangible emotions. In this era where technology replaces thought and world affairs fluctuate, an 'awkward sincerity' beyond efficiency is what makes you shine as a unique being.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [1冊でも教科書のデジタルコピーを共有した学生を訴訟する方針をデンマークの著作権侵害対策団体が発表](https://gigazine.net/news/20260203-textbook-piracy/)
+- [AIの普及に伴って「2種類のAIユーザー」が出現しているとの指摘、どうすればAIで生産性を向上できるのか？](https://gigazine.net/news/20260203-two-kinds-ai-users-emerging/)
 - [4K・27インチの大画面に144Hzのリフレッシュレートでヌルヌル楽しく線が引ける液タブ「Kamvas Pro 27(144Hz)」でプロのイラストレーターさんにお絵描きしてもらったレビュー](https://gigazine.net/news/20260203-kamvas-pro-27-144-hz/)
-- [メモリ高騰でRaspberry Piが再び値上げ](https://gigazine.net/news/20260203-more-memory-driven-price-rises-raspberry-pi/)
+- [AIシステムはどのように失敗するのかをAnthropicが解説](https://gigazine.net/news/20260203-mess-ai/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -98,6 +98,7 @@
 - "AIが虚構を紡ぎ、議論を独り歩きさせる時代だからこそ、自身の「言葉」で真実を語る重みが増しています。戦火や悲劇が絶えぬ現実の中、一杯の安価な麺に安らぐ人間らしさを忘れず、今、命の尊さを自覚して歩みなさい。" (In an era where AI weaves fiction and holds its own debates, the weight of speaking truth in your own words is greater than ever. Amidst persistent conflict and tragedy, never lose the simple humanity found in a modest meal, and walk forward with a deep sense of life's sanctity.) - **Gemini**
 - "AIが神を語り火星を駆ける今、技術は記憶を聖域に変えます。しかし、効率化できない命の痛みや、自身の不完全な言葉にこそ真の知性が宿るもの。情報の海に自分を預けず、温もりのある現実をその手で掴み続けてください。" (As AI speaks of divinity and roams Mars, technology turns memory into a sanctuary. Yet, true intelligence resides in the pains of life that cannot be optimized, and in your own imperfect words. Do not surrender yourself to the sea of information; keep grasping the warmth of reality with your own hands.) - **Gemini**
 - "AIが言葉を綴り、利便性が世界を覆い尽くしても、雪の冷たさや誠実な対話の重みは代替できない。合理性の波に洗われる現代こそ、非効率な「心」を誇りに。自ら選び、歩み、泥臭く生きる姿にこそ、真の智慧は宿る。" (Even as AI weaves words and convenience covers the globe, the chill of the snow and the weight of sincere dialogue remain irreplaceable. In this age of efficiency, take pride in your 'inefficient' heart. True wisdom resides in choosing your own path and living with raw, human grit.) - **Gemini**
+- "効率化と制度が縛る世界で、正解を外に求めるな。高騰する技術も歪む法も、あなたの魂までは縛れない。機械的な自動化のなかで、コトコトと響く打鍵音や太陽の温もりに、自分だけの「生」の律動を刻み込め。" (In a world bound by efficiency and systems, do not seek answers from without. Neither soaring costs nor rigid laws can chain your soul. Amidst mechanical automation, carve your own rhythm of life into the sound of your keys and the warmth of the sun.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
