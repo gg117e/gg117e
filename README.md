@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ZODK5o0PCbk'>
-        <img src='https://i.ytimg.com/vi/ZODK5o0PCbk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCO4i_-hjOexA9d03JV7fqdobq3yg' width='200px' alt='Imato Anokorono Bokura'>
+      <a href='https://www.youtube.com/watch?v=LM_5KevVmYc'>
+        <img src='https://i.ytimg.com/vi/LM_5KevVmYc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4NqYuC703bhnQxOo1CE59_WIg0w' width='200px' alt='I Love You'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ZODK5o0PCbk'>Imato Anokorono Bokura</a>
+      <a href='https://www.youtube.com/watch?v=LM_5KevVmYc'>I Love You</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=_wbuPAwbfQ8'>
-        <img src='https://i.ytimg.com/vi/_wbuPAwbfQ8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjRP1GKeylm1IkHC4eNNlptx1z2A' width='200px' alt='ユキトキ'>
+      <a href='https://www.youtube.com/watch?v=Q-y3TtiKxsU'>
+        <img src='https://i.ytimg.com/vi/Q-y3TtiKxsU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJYbnkxTXam_a4M0GF97NMTrAoHg' width='200px' alt='チャンカパーナ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=_wbuPAwbfQ8'>ユキトキ</a>
+      <a href='https://www.youtube.com/watch?v=Q-y3TtiKxsU'>チャンカパーナ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=aaAxYOuqstw'>
-        <img src='https://i.ytimg.com/vi/aaAxYOuqstw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjpF41n5dcKHxz2qhWJuwBqizncg' width='200px' alt='Slow & Easy'>
+      <a href='https://www.youtube.com/watch?v=ZF5w7kkk7Yo'>
+        <img src='https://i.ytimg.com/vi/ZF5w7kkk7Yo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeQUEP3L5-r_AuGcf6CLbp0loxww' width='200px' alt='What's Going On?'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=aaAxYOuqstw'>Slow & Easy</a>
+      <a href='https://www.youtube.com/watch?v=ZF5w7kkk7Yo'>What's Going On?</a>
     </td>
   </tr>
 </table>
