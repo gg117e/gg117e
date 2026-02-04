@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=sKYvPBCoe2o'>
-        <img src='https://i.ytimg.com/vi/sKYvPBCoe2o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeFoQhk4ynA8iVDTickXeYyAivcg' width='200px' alt='LADY'>
+      <a href='https://www.youtube.com/watch?v=CCRWKZ7VVlg'>
+        <img src='https://i.ytimg.com/vi/CCRWKZ7VVlg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsNn5PmmhUQvDGLt33zb6ootAS8w' width='200px' alt='笑顔'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=sKYvPBCoe2o'>LADY</a>
+      <a href='https://www.youtube.com/watch?v=CCRWKZ7VVlg'>笑顔</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=69yZ00BJCgM'>
-        <img src='https://i.ytimg.com/vi/69yZ00BJCgM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKJVbc2I-1y38yhjMYtYuwPhN2qA' width='200px' alt='Tokimeki'>
+      <a href='https://www.youtube.com/watch?v=bt2j17P7XVE'>
+        <img src='https://i.ytimg.com/vi/bt2j17P7XVE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfLPyZRgXU9JFZzFkCBW1iTiq4QA' width='200px' alt='Pride'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=69yZ00BJCgM'>Tokimeki</a>
+      <a href='https://www.youtube.com/watch?v=bt2j17P7XVE'>Pride</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=M74KYy2jpyM'>
-        <img src='https://i.ytimg.com/vi/M74KYy2jpyM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-To5xuUwT9bMnLKHWzSqxU503dQ' width='200px' alt='Sharon'>
+      <a href='https://www.youtube.com/watch?v=P6UsnAkgN4U'>
+        <img src='https://i.ytimg.com/vi/P6UsnAkgN4U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDN99wUcqZRQMOUoYD12Wj-269sdQ' width='200px' alt='Setsuna'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=M74KYy2jpyM'>Sharon</a>
+      <a href='https://www.youtube.com/watch?v=P6UsnAkgN4U'>Setsuna</a>
     </td>
   </tr>
 </table>
