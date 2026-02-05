@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Uv_m-vcPlsw'>
-        <img src='https://i.ytimg.com/vi/Uv_m-vcPlsw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdJGOfDvDRGCIz8C7eoa0E5MEmtA' width='200px' alt='Koi'>
+      <a href='https://www.youtube.com/watch?v=3qvMBFAPgD8'>
+        <img src='https://i.ytimg.com/vi/3qvMBFAPgD8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeKQJOW3hP4i6nsR5UUMv4-USrxw' width='200px' alt='ベテルギウス'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Uv_m-vcPlsw'>Koi</a>
+      <a href='https://www.youtube.com/watch?v=3qvMBFAPgD8'>ベテルギウス</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=37W7Y2RRyiM'>
-        <img src='https://i.ytimg.com/vi/37W7Y2RRyiM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDm5Sq8W3leIBeRoIRalhEJDqGniQ' width='200px' alt='Pretender'>
+      <a href='https://www.youtube.com/watch?v=YFzG-JABlnw'>
+        <img src='https://i.ytimg.com/vi/YFzG-JABlnw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhBfecarKFUXPR0upUKWOKIO5KYQ' width='200px' alt='Rashisa'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=37W7Y2RRyiM'>Pretender</a>
+      <a href='https://www.youtube.com/watch?v=YFzG-JABlnw'>Rashisa</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ME_ZU0ME4vQ'>
-        <img src='https://i.ytimg.com/vi/ME_ZU0ME4vQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcg2wcDNON6jYjuxGICte2SY1Adg' width='200px' alt='ゼロのままでいられたら'>
+      <a href='https://www.youtube.com/watch?v=HBqH4uJS0PU'>
+        <img src='https://i.ytimg.com/vi/HBqH4uJS0PU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGkaM2ZcnyB8o3mbXgfhwYnNF3NQ' width='200px' alt='Magnetic'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ME_ZU0ME4vQ'>ゼロのままでいられたら</a>
+      <a href='https://www.youtube.com/watch?v=HBqH4uJS0PU'>Magnetic</a>
     </td>
   </tr>
 </table>
