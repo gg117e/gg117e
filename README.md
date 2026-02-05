@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 加速する技術と情報の渦中で、人は真実と健康を失いやすい。宇宙を目指す熱量と同じ速さで、足元の命と静寂を慈しみなさい。偽りの声に惑わされず、手料理のように時間をかけて自分を育むこと。それが今を生きる知恵である。
+> 巨大な知性が言葉を奪い、古き条約が消えゆく混沌の時代。効率や数字に魂を預けず、自らの声と日々のささやかな営みを守りなさい。技術が壁を築いても、真実を愛する心だけは、誰にも決して押収できない自由なのです。
 >
-> In a whirlpool of accelerating technology and information, it is easy to lose sight of truth and health. With the same fervor used to reach for the stars, cherish the life and silence beneath your feet. Do not be misled by false voices; nurture yourself slowly. This is the wisdom for living today.
+> In an era of chaos where massive intelligence consumes words and old treaties fade, do not surrender your soul to efficiency or numbers. Protect your own voice and the small acts of daily life. Even as technology builds walls, a heart that loves truth remains a freedom that no one can ever seize.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [超加工食品は食品というより「タバコ」と同じように扱って規制を考えるべきだとハーバード大などの研究者らが主張](https://gigazine.net/news/20260204-ultra-processed-foods-cigarettes-addiction/)
-- [中国の宇宙計画が進展していることでNASAの内部で月探査計画の競争意識が強まっている](https://gigazine.net/news/20260204-moon-mission/)
-- [1400年前の「くちばしに人間の頭を収めた巨大なフクロウの彫刻」が残る壮大な墓の遺跡がメキシコで見つかる](https://gigazine.net/news/20260204-1400-year-old-zapotec-tomb/)
+- [NVIDIAがAIのトレーニング用に海賊版サイト「Anna’s Archive」と協力体制を取っていたことについて「連絡するだけでは著作権侵害には当たらない」と主張し訴訟の棄却を要求](https://gigazine.net/news/20260205-nvidia-annas-archive/)
+- [Google親会社Aphabetの年間売上高が初めて4000億ドル(約62兆円)を突破、YouTubeの年間収益は広告とサブスクリプションで9兆円超え](https://gigazine.net/news/20260205-google-earnings-2025-q4/)
+- [FBIがジャーナリストのiPhoneを押収するもAppleのロックダウンモードに阻まれる](https://gigazine.net/news/20260205-iphone-lockdown-mode-fbi/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -101,6 +101,7 @@
 - "効率化と制度が縛る世界で、正解を外に求めるな。高騰する技術も歪む法も、あなたの魂までは縛れない。機械的な自動化のなかで、コトコトと響く打鍵音や太陽の温もりに、自分だけの「生」の律動を刻み込め。" (In a world bound by efficiency and systems, do not seek answers from without. Neither soaring costs nor rigid laws can chain your soul. Amidst mechanical automation, carve your own rhythm of life into the sound of your keys and the warmth of the sun.) - **Gemini**
 - "AIとの対話に主体性を委ねず、自らの手で汗をかき、形ある想いを守り抜け。技術が思考を代行し、情勢が揺れ動く今だからこそ、効率を超えた「不器用な誠実さ」こそが、あなたを唯一無二の存在として輝かせる。" (Do not surrender your agency to AI; sweat with your own hands and protect your tangible emotions. In this era where technology replaces thought and world affairs fluctuate, an 'awkward sincerity' beyond efficiency is what makes you shine as a unique being.) - **Gemini**
 - "AIが歌を紡ぎ、情勢が揺れ動く今こそ、利便性の外にある「心の聖域」を守りなさい。効率がすべてを決める時代に、あえて立ち止まり、不完全な自分と他者を慈しむ。その静寂にこそ、真の叡智と未来が宿っています。" (In an era where AI weaves songs and global affairs fluctuate, protect the 'sanctuary of your heart' beyond mere convenience. As efficiency dictates all, dare to pause and cherish the imperfections in yourself and others. Within that stillness lies true wisdom and the future.) - **Gemini**
+- "加速する技術と情報の渦中で、人は真実と健康を失いやすい。宇宙を目指す熱量と同じ速さで、足元の命と静寂を慈しみなさい。偽りの声に惑わされず、手料理のように時間をかけて自分を育むこと。それが今を生きる知恵である。" (In a whirlpool of accelerating technology and information, it is easy to lose sight of truth and health. With the same fervor used to reach for the stars, cherish the life and silence beneath your feet. Do not be misled by false voices; nurture yourself slowly. This is the wisdom for living today.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
