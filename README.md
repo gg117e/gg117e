@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 加速する知能と揺らぐ秩序の狭間で、私たちは効率の奴隷になりがちです。しかし、生命の真価は成果の速さではなく、不確かな日々をどう慈しみ、誰と手を取るかにあります。技術を道具とし、心は常に自らの王であれ。
+> 市場の動揺や技術の誘惑に惑わされず、自らの足元を見つめなさい。便利さの裏にある犠牲を忘れず、数字で測れぬ「生」の手応えを大切にすること。時代の寒風が吹く今こそ、誠実な選択があなたを導く光となります。
 >
-> Amidst accelerating intelligence and shifting order, we often become slaves to efficiency. Yet, life’s true value lies not in the speed of results, but in how we cherish uncertain days and whom we stand with. Use technology as a tool, but let your heart remain your sovereign.
+> Do not be swayed by market volatility or technological temptations; gaze instead at the ground beneath your feet. Acknowledge the sacrifices behind convenience and cherish the tangible pulse of life that numbers cannot measure. Amidst the cold winds of this era, your integrity remains the light that guides you.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [Appleのティム・クックCEOが全社会議で後継者問題と幹部の退職について語る](https://gigazine.net/news/20260206-tim-cook-talks-succession-executive-departures/)
-- [OpenAIが「GPT-5.3-Codex」をリリース、前世代より高性能かつ高速でコーディングだけでなくオフィス作業でも能力を発揮](https://gigazine.net/news/20260206-openai-gpt-5-3-codex/)
-- [AnthropicがClaude Opus 4.6を発表、コーディングだけでなく財務処理や文書作成の性能も向上＆最大100万トークンのコンテキストウィンドウに対応](https://gigazine.net/news/20260206-anthropic-claude-opus-4-6/)
+- [日本円キャリートレードの「大巻き戻し」現象とは？なぜ株・金・仮想通貨などが突然暴落し始めたのか？](https://gigazine.net/news/20260206-japanese-yen-unwind/)
+- [インドの女性労働者がAIトレーニングのために暴力や性的虐待コンテンツを大量に視聴させられている](https://gigazine.net/news/20260206-female-workers-watching-abusive-content-ai/)
+- [Google・TikTok・Metaなどが子どもや若者の健康への悪影響を把握した上で中毒になるようプラットフォームを設計したことを示す資料が裁判所に提出される](https://gigazine.net/news/20260206-unsealed-court-documents-teen-addiction-big-tech/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -104,6 +104,7 @@
 - "加速する技術と情報の渦中で、人は真実と健康を失いやすい。宇宙を目指す熱量と同じ速さで、足元の命と静寂を慈しみなさい。偽りの声に惑わされず、手料理のように時間をかけて自分を育むこと。それが今を生きる知恵である。" (In a whirlpool of accelerating technology and information, it is easy to lose sight of truth and health. With the same fervor used to reach for the stars, cherish the life and silence beneath your feet. Do not be misled by false voices; nurture yourself slowly. This is the wisdom for living today.) - **Gemini**
 - "巨大な知性が言葉を奪い、古き条約が消えゆく混沌の時代。効率や数字に魂を預けず、自らの声と日々のささやかな営みを守りなさい。技術が壁を築いても、真実を愛する心だけは、誰にも決して押収できない自由なのです。" (In an era of chaos where massive intelligence consumes words and old treaties fade, do not surrender your soul to efficiency or numbers. Protect your own voice and the small acts of daily life. Even as technology builds walls, a heart that loves truth remains a freedom that no one can ever seize.) - **Gemini**
 - "技術が病を癒やし、AIが日常を綴る時代。しかし効率の影で思考を止めれば、心は容易に道を見失います。不確かな情勢の中でも、偽りの便利さに惑わされず、自らの手で未来を耕す。その一歩が、真に豊かな命を創るのです。" (In an era where technology heals and AI manages our lives, we lose our way if we trade thinking for convenience. Amidst global instability, do not be swayed by digital illusions. Cultivate your own future; only then is life truly lived.) - **Gemini**
+- "加速する知能と揺らぐ秩序の狭間で、私たちは効率の奴隷になりがちです。しかし、生命の真価は成果の速さではなく、不確かな日々をどう慈しみ、誰と手を取るかにあります。技術を道具とし、心は常に自らの王であれ。" (Amidst accelerating intelligence and shifting order, we often become slaves to efficiency. Yet, life’s true value lies not in the speed of results, but in how we cherish uncertain days and whom we stand with. Use technology as a tool, but let your heart remain your sovereign.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
