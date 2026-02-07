@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=FBdNeFTBXg8'>
-        <img src='https://i.ytimg.com/vi/FBdNeFTBXg8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAshCvVf72eARbWpB9Y0IegkRyUUA' width='200px' alt='心の花を咲かせよう'>
+      <a href='https://www.youtube.com/watch?v=P7bVX6fJfCg'>
+        <img src='https://i.ytimg.com/vi/P7bVX6fJfCg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCibqA8MwaVWSpL2VR6z3K_i0S3Rw' width='200px' alt='Omoinotake | IKUOKUKONEN 【Official Music Video】'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=FBdNeFTBXg8'>心の花を咲かせよう</a>
+      <a href='https://www.youtube.com/watch?v=P7bVX6fJfCg'>Omoinotake | IKUOKUKONEN 【Official Music Video】</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=EwpKUV0ECvQ'>
-        <img src='https://i.ytimg.com/vi/EwpKUV0ECvQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASAJRwUxiqbsHUgZsmBLyT0x7lsw' width='200px' alt='春を告げる'>
+      <a href='https://www.youtube.com/watch?v=0OZ15_9YKPc'>
+        <img src='https://i.ytimg.com/vi/0OZ15_9YKPc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDw-Z7Q01p2yef5ViEEv7j0i6ACZg' width='200px' alt='異端なスター'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=EwpKUV0ECvQ'>春を告げる</a>
+      <a href='https://www.youtube.com/watch?v=0OZ15_9YKPc'>異端なスター</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=NbTReckN62Y'>
-        <img src='https://i.ytimg.com/vi/NbTReckN62Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAGHh47hCVaDs-DT744wNQLbmnaw' width='200px' alt='Niji'>
+      <a href='https://www.youtube.com/watch?v=Pz9-XJ8SFKU'>
+        <img src='https://i.ytimg.com/vi/Pz9-XJ8SFKU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBq-Etp03Dzv0fNmneyfOmTHqbeTQ' width='200px' alt='Taketen'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=NbTReckN62Y'>Niji</a>
+      <a href='https://www.youtube.com/watch?v=Pz9-XJ8SFKU'>Taketen</a>
     </td>
   </tr>
 </table>
