@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=uKn4Yk5LEuQ'>
-        <img src='https://i.ytimg.com/vi/uKn4Yk5LEuQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAi7ShqaJSDeiHGz0fL-PZUq-EILQ' width='200px' alt='Tsukimashitewa'>
+      <a href='https://www.youtube.com/watch?v=oJd3TP5kb6k'>
+        <img src='https://i.ytimg.com/vi/oJd3TP5kb6k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVr-TA9PEhiwjzoFO-DmLlBYVIAg' width='200px' alt='New My Normal'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=uKn4Yk5LEuQ'>Tsukimashitewa</a>
+      <a href='https://www.youtube.com/watch?v=oJd3TP5kb6k'>New My Normal</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=A0plb7gdzW4'>
-        <img src='https://i.ytimg.com/vi/A0plb7gdzW4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhPB6jEwaOqitRIOiPhQQSfsOuDw' width='200px' alt='Attitude'>
+      <a href='https://www.youtube.com/watch?v=x9v8aNl6Aps'>
+        <img src='https://i.ytimg.com/vi/x9v8aNl6Aps/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVvWYRclYEKfr0HcfVA2vAvYjv6g' width='200px' alt='ONE OK ROCK - Heartache [Studio Jam Session]'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=A0plb7gdzW4'>Attitude</a>
+      <a href='https://www.youtube.com/watch?v=x9v8aNl6Aps'>ONE OK ROCK - Heartache [Studio Jam Session]</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Q-y3TtiKxsU'>
-        <img src='https://i.ytimg.com/vi/Q-y3TtiKxsU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJYbnkxTXam_a4M0GF97NMTrAoHg' width='200px' alt='チャンカパーナ'>
+      <a href='https://www.youtube.com/watch?v=DO_aopUeFnw'>
+        <img src='https://i.ytimg.com/vi/DO_aopUeFnw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKWBCw1miJEhYdmMNyNruwf_BWDA' width='200px' alt='Lilac'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Q-y3TtiKxsU'>チャンカパーナ</a>
+      <a href='https://www.youtube.com/watch?v=DO_aopUeFnw'>Lilac</a>
     </td>
   </tr>
 </table>
