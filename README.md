@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 市場の動揺や技術の誘惑に惑わされず、自らの足元を見つめなさい。便利さの裏にある犠牲を忘れず、数字で測れぬ「生」の手応えを大切にすること。時代の寒風が吹く今こそ、誠実な選択があなたを導く光となります。
+> 経済が揺らぎ技術が加速する今、効率の影に隠れた「命の重み」を忘れてはならない。AIの裏側の苦悩も、馬が嗅ぎ取る不安も、地続きの現実だ。利便性を追う指を一度止め、見えない繋がりの中に誠実な光を灯せ。
 >
-> Do not be swayed by market volatility or technological temptations; gaze instead at the ground beneath your feet. Acknowledge the sacrifices behind convenience and cherish the tangible pulse of life that numbers cannot measure. Amidst the cold winds of this era, your integrity remains the light that guides you.
+> Amid economic flux and rapid tech growth, never forget the "weight of life" hidden behind efficiency. The struggles behind AI and the fear animals sense are realities we share. Pause your pursuit of convenience and light the way with sincerity within our invisible connections.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [日本円キャリートレードの「大巻き戻し」現象とは？なぜ株・金・仮想通貨などが突然暴落し始めたのか？](https://gigazine.net/news/20260206-japanese-yen-unwind/)
-- [インドの女性労働者がAIトレーニングのために暴力や性的虐待コンテンツを大量に視聴させられている](https://gigazine.net/news/20260206-female-workers-watching-abusive-content-ai/)
-- [Google・TikTok・Metaなどが子どもや若者の健康への悪影響を把握した上で中毒になるようプラットフォームを設計したことを示す資料が裁判所に提出される](https://gigazine.net/news/20260206-unsealed-court-documents-teen-addiction-big-tech/)
+- [海外のコンセントに合わせてプラグを切り替えつつUSB機器もまとめて充電できる「Anker Nano トラベルアダプタ(5-in-1,20W)」レビュー](https://gigazine.net/news/20260207-anker-nano-travel-adapter-5-in-1-20w-review/)
+- [Windows・macOS・Linux・Android・iOSと連係しさまざまな操作ができセルフホスト可能なパーソナルAIアシスタント「OpenClaw」](https://gigazine.net/news/20260207-openclaw/)
+- [馬は人間の汗を嗅いで恐怖心を感じ取る](https://gigazine.net/news/20260207-horse-human-emotional-sweat/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -105,6 +105,7 @@
 - "巨大な知性が言葉を奪い、古き条約が消えゆく混沌の時代。効率や数字に魂を預けず、自らの声と日々のささやかな営みを守りなさい。技術が壁を築いても、真実を愛する心だけは、誰にも決して押収できない自由なのです。" (In an era of chaos where massive intelligence consumes words and old treaties fade, do not surrender your soul to efficiency or numbers. Protect your own voice and the small acts of daily life. Even as technology builds walls, a heart that loves truth remains a freedom that no one can ever seize.) - **Gemini**
 - "技術が病を癒やし、AIが日常を綴る時代。しかし効率の影で思考を止めれば、心は容易に道を見失います。不確かな情勢の中でも、偽りの便利さに惑わされず、自らの手で未来を耕す。その一歩が、真に豊かな命を創るのです。" (In an era where technology heals and AI manages our lives, we lose our way if we trade thinking for convenience. Amidst global instability, do not be swayed by digital illusions. Cultivate your own future; only then is life truly lived.) - **Gemini**
 - "加速する知能と揺らぐ秩序の狭間で、私たちは効率の奴隷になりがちです。しかし、生命の真価は成果の速さではなく、不確かな日々をどう慈しみ、誰と手を取るかにあります。技術を道具とし、心は常に自らの王であれ。" (Amidst accelerating intelligence and shifting order, we often become slaves to efficiency. Yet, life’s true value lies not in the speed of results, but in how we cherish uncertain days and whom we stand with. Use technology as a tool, but let your heart remain your sovereign.) - **Gemini**
+- "市場の動揺や技術の誘惑に惑わされず、自らの足元を見つめなさい。便利さの裏にある犠牲を忘れず、数字で測れぬ「生」の手応えを大切にすること。時代の寒風が吹く今こそ、誠実な選択があなたを導く光となります。" (Do not be swayed by market volatility or technological temptations; gaze instead at the ground beneath your feet. Acknowledge the sacrifices behind convenience and cherish the tangible pulse of life that numbers cannot measure. Amidst the cold winds of this era, your integrity remains the light that guides you.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
