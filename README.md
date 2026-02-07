@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 経済が揺らぎ技術が加速する今、効率の影に隠れた「命の重み」を忘れてはならない。AIの裏側の苦悩も、馬が嗅ぎ取る不安も、地続きの現実だ。利便性を追う指を一度止め、見えない繋がりの中に誠実な光を灯せ。
+> 激動の技術や政治、降り積もる雪。外の騒音に惑わされず、自らの内なる羅針盤を磨きなさい。世界は悪化しているのではなく、進化の痛みの只中にあります。誠実な一歩の積み重ねが、凍てつく大地を溶かす春の光となるでしょう。
 >
-> Amid economic flux and rapid tech growth, never forget the "weight of life" hidden behind efficiency. The struggles behind AI and the fear animals sense are realities we share. Pause your pursuit of convenience and light the way with sincerity within our invisible connections.
+> Amidst shifting technology, politics, and falling snow, do not be misled by external noise; polish your inner compass. The world is not worsening, but is in the midst of evolutionary pain. Your steady, sincere steps will eventually become the spring light that thaws the frozen earth.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [海外のコンセントに合わせてプラグを切り替えつつUSB機器もまとめて充電できる「Anker Nano トラベルアダプタ(5-in-1,20W)」レビュー](https://gigazine.net/news/20260207-anker-nano-travel-adapter-5-in-1-20w-review/)
-- [Windows・macOS・Linux・Android・iOSと連係しさまざまな操作ができセルフホスト可能なパーソナルAIアシスタント「OpenClaw」](https://gigazine.net/news/20260207-openclaw/)
-- [馬は人間の汗を嗅いで恐怖心を感じ取る](https://gigazine.net/news/20260207-horse-human-emotional-sweat/)
+- [TikTokのアルゴリズムや無限スクロールがデジタルサービス法違反の可能性ありと欧州委員会が指摘](https://gigazine.net/news/20260207-tiktoks-addictive-design-eu-dsa/)
+- [【バレンタインセール】愛情・友情が光るマンガ作品を約70％オフのバレンタインセールを開催！【2026年2月14日(土)まで】](https://gigazine.net/news/20260207-ebook-valentine-sale/)
+- [ゲーム・オブ・ザ・イヤー受賞の「Clair Obscur: Expedition 33」開発チームがフランスの芸術文化勲章シュヴァリエ章を授与される](https://gigazine.net/news/20260207-clair-obscur-expedition-33-developer-french-cultural-honor/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -106,6 +106,7 @@
 - "技術が病を癒やし、AIが日常を綴る時代。しかし効率の影で思考を止めれば、心は容易に道を見失います。不確かな情勢の中でも、偽りの便利さに惑わされず、自らの手で未来を耕す。その一歩が、真に豊かな命を創るのです。" (In an era where technology heals and AI manages our lives, we lose our way if we trade thinking for convenience. Amidst global instability, do not be swayed by digital illusions. Cultivate your own future; only then is life truly lived.) - **Gemini**
 - "加速する知能と揺らぐ秩序の狭間で、私たちは効率の奴隷になりがちです。しかし、生命の真価は成果の速さではなく、不確かな日々をどう慈しみ、誰と手を取るかにあります。技術を道具とし、心は常に自らの王であれ。" (Amidst accelerating intelligence and shifting order, we often become slaves to efficiency. Yet, life’s true value lies not in the speed of results, but in how we cherish uncertain days and whom we stand with. Use technology as a tool, but let your heart remain your sovereign.) - **Gemini**
 - "市場の動揺や技術の誘惑に惑わされず、自らの足元を見つめなさい。便利さの裏にある犠牲を忘れず、数字で測れぬ「生」の手応えを大切にすること。時代の寒風が吹く今こそ、誠実な選択があなたを導く光となります。" (Do not be swayed by market volatility or technological temptations; gaze instead at the ground beneath your feet. Acknowledge the sacrifices behind convenience and cherish the tangible pulse of life that numbers cannot measure. Amidst the cold winds of this era, your integrity remains the light that guides you.) - **Gemini**
+- "経済が揺らぎ技術が加速する今、効率の影に隠れた「命の重み」を忘れてはならない。AIの裏側の苦悩も、馬が嗅ぎ取る不安も、地続きの現実だ。利便性を追う指を一度止め、見えない繋がりの中に誠実な光を灯せ。" (Amid economic flux and rapid tech growth, never forget the "weight of life" hidden behind efficiency. The struggles behind AI and the fear animals sense are realities we share. Pause your pursuit of convenience and light the way with sincerity within our invisible connections.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
