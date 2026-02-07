@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=8PbGeKwEnK0'>
-        <img src='https://i.ytimg.com/vi/8PbGeKwEnK0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWYv4vO1ta-DKEtdPaeTh9ifxA0g' width='200px' alt='Pop Virus'>
+      <a href='https://www.youtube.com/watch?v=FuxtXqD19lI'>
+        <img src='https://i.ytimg.com/vi/FuxtXqD19lI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5MThWoojMGPW0Kep9FJAmSFIcaw' width='200px' alt='50%'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=8PbGeKwEnK0'>Pop Virus</a>
+      <a href='https://www.youtube.com/watch?v=FuxtXqD19lI'>50%</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=37W7Y2RRyiM'>
-        <img src='https://i.ytimg.com/vi/37W7Y2RRyiM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDm5Sq8W3leIBeRoIRalhEJDqGniQ' width='200px' alt='Pretender'>
+      <a href='https://www.youtube.com/watch?v=SvtSWhyw7vs'>
+        <img src='https://i.ytimg.com/vi/SvtSWhyw7vs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtAy96XVYaLQyKcD0j4-yFSZRqrQ' width='200px' alt='TATTOO'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=37W7Y2RRyiM'>Pretender</a>
+      <a href='https://www.youtube.com/watch?v=SvtSWhyw7vs'>TATTOO</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=JVZCRtChnB0'>
-        <img src='https://i.ytimg.com/vi/JVZCRtChnB0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALs3GdtzvV2OHV94xCXf8PS7MxuQ' width='200px' alt='点描の唄 / Mrs. GREEN APPLE (feat.井上苑子) full covered by オサム × 春茶'>
+      <a href='https://www.youtube.com/watch?v=1AVErqlUdpM'>
+        <img src='https://i.ytimg.com/vi/1AVErqlUdpM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnLrfABUDxabUUOguKRh1NAcHb-A' width='200px' alt='ギャグ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=JVZCRtChnB0'>点描の唄 / Mrs. GREEN APPLE (feat.井上苑子) full covered by オサム × 春茶</a>
+      <a href='https://www.youtube.com/watch?v=1AVErqlUdpM'>ギャグ</a>
     </td>
   </tr>
 </table>
