@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 降り積もる雪が足を止めても、意志まで凍らせてはならない。便利な道具に知を委ねず、語られぬ真実に耳を澄ませ。移ろう時代の嵐の中で、自らの根を深く張り、確かな一歩を刻むこと。それが今を生きる者の誇りである。
+> 激動する政治や効率を急ぐAIの波に呑まれても、最後には人の温もりと熱狂が求められる。強い選択が下される時代だからこそ、合理性に魂を売り渡さず、自分だけの「好き」と「誠実さ」を静かに貫きなさい。
 >
-> Even if heavy snow halts your steps, do not let your will freeze. Do not surrender wisdom to convenient tools; listen instead to unspoken truths. Deepen your roots amidst the storms of change and carve a steady path—that is the pride of living now.
+> Even when swept away by political shifts or the tide of AI-driven efficiency, human warmth and passion remain the ultimate destination. In an era of bold choices, do not trade your soul for rationality; hold fast to your own integrity and what you love.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [全高500mmで圧倒的な力強さを見せる「ダンクーガ」がワンフェス2026[冬]に登場](https://gigazine.net/news/20260208-dancouga-wf2026w/)
-- [AIで情報検索すると従来のウェブ検索に比べて身につく知識が減る可能性がある](https://gigazine.net/news/20260208-learning-with-ai-shallower-knowledge/)
-- [To LOVEるのヤミさんとララの水着フィギュアを色んな角度から撮影してみました](https://gigazine.net/news/20260208-to-love-yami-lala-ru-wf2026w/)
+- [コロンビーナやアイノなどナド・クライから加わった『原神』キャラクターたちをワンフェス2026[冬]で見てきた](https://gigazine.net/news/20260208-genshin-wf2026w/)
+- [コナミの人気音ゲー「popn’ music」筐体のミニチュアや本当にポップンをプレイできるミニコントローラーなどポップン愛に溢れた展示をワンフェス 2026[冬]会場で発見](https://gigazine.net/news/20260208-popn-music-wf2026w/)
+- [長時間のゲームプレイ映像から爆速でショート動画を自動生成できる「AutoShorts」](https://gigazine.net/news/20260208-autoshorts/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -108,6 +108,7 @@
 - "市場の動揺や技術の誘惑に惑わされず、自らの足元を見つめなさい。便利さの裏にある犠牲を忘れず、数字で測れぬ「生」の手応えを大切にすること。時代の寒風が吹く今こそ、誠実な選択があなたを導く光となります。" (Do not be swayed by market volatility or technological temptations; gaze instead at the ground beneath your feet. Acknowledge the sacrifices behind convenience and cherish the tangible pulse of life that numbers cannot measure. Amidst the cold winds of this era, your integrity remains the light that guides you.) - **Gemini**
 - "経済が揺らぎ技術が加速する今、効率の影に隠れた「命の重み」を忘れてはならない。AIの裏側の苦悩も、馬が嗅ぎ取る不安も、地続きの現実だ。利便性を追う指を一度止め、見えない繋がりの中に誠実な光を灯せ。" (Amid economic flux and rapid tech growth, never forget the "weight of life" hidden behind efficiency. The struggles behind AI and the fear animals sense are realities we share. Pause your pursuit of convenience and light the way with sincerity within our invisible connections.) - **Gemini**
 - "激動の技術や政治、降り積もる雪。外の騒音に惑わされず、自らの内なる羅針盤を磨きなさい。世界は悪化しているのではなく、進化の痛みの只中にあります。誠実な一歩の積み重ねが、凍てつく大地を溶かす春の光となるでしょう。" (Amidst shifting technology, politics, and falling snow, do not be misled by external noise; polish your inner compass. The world is not worsening, but is in the midst of evolutionary pain. Your steady, sincere steps will eventually become the spring light that thaws the frozen earth.) - **Gemini**
+- "降り積もる雪が足を止めても、意志まで凍らせてはならない。便利な道具に知を委ねず、語られぬ真実に耳を澄ませ。移ろう時代の嵐の中で、自らの根を深く張り、確かな一歩を刻むこと。それが今を生きる者の誇りである。" (Even if heavy snow halts your steps, do not let your will freeze. Do not surrender wisdom to convenient tools; listen instead to unspoken truths. Deepen your roots amidst the storms of change and carve a steady path—that is the pride of living now.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
