@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=l-6ag1J9MJI'>
-        <img src='https://i.ytimg.com/vi/l-6ag1J9MJI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNrIYq3E1-kTLo3OvkRZDab-OqpA' width='200px' alt='Continues'>
+      <a href='https://www.youtube.com/watch?v=Jm2jOK45btw'>
+        <img src='https://i.ytimg.com/vi/Jm2jOK45btw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPMCDVE0qm5SI2owO0-6JB-sPNYw' width='200px' alt='Aiueongaku'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=l-6ag1J9MJI'>Continues</a>
+      <a href='https://www.youtube.com/watch?v=Jm2jOK45btw'>Aiueongaku</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=5X_wSeKhPAU'>
-        <img src='https://i.ytimg.com/vi/5X_wSeKhPAU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBq3r0bpKi6IiOhtkcgzu-FS_beg' width='200px' alt='Orange'>
+      <a href='https://www.youtube.com/watch?v=s4ZThuWQdhA'>
+        <img src='https://i.ytimg.com/vi/s4ZThuWQdhA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBL2544KnUtG-gjg-ro3N-gIAIgbw' width='200px' alt='Que Sera Sera'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=5X_wSeKhPAU'>Orange</a>
+      <a href='https://www.youtube.com/watch?v=s4ZThuWQdhA'>Que Sera Sera</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=YFOg4grr_yA'>
-        <img src='https://i.ytimg.com/vi/YFOg4grr_yA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA78r8IZpJxtjfrvHIwGm6oVawSAg' width='200px' alt='紙一重'>
+      <a href='https://www.youtube.com/watch?v=Uwhbouk64K4'>
+        <img src='https://i.ytimg.com/vi/Uwhbouk64K4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKHPfVfHTzdk0VxCwn9_cdeQqAbw' width='200px' alt='Smile Again'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=YFOg4grr_yA'>紙一重</a>
+      <a href='https://www.youtube.com/watch?v=Uwhbouk64K4'>Smile Again</a>
     </td>
   </tr>
 </table>
