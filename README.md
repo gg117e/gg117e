@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Tt__9q0JEOI'>
-        <img src='https://i.ytimg.com/vi/Tt__9q0JEOI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4QvFidAb2oKxtlArfQGs68apPGQ' width='200px' alt='Wasurenagusa'>
+      <a href='https://www.youtube.com/watch?v=uKn4Yk5LEuQ'>
+        <img src='https://i.ytimg.com/vi/uKn4Yk5LEuQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAi7ShqaJSDeiHGz0fL-PZUq-EILQ' width='200px' alt='Tsukimashitewa'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Tt__9q0JEOI'>Wasurenagusa</a>
+      <a href='https://www.youtube.com/watch?v=uKn4Yk5LEuQ'>Tsukimashitewa</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=a1AhJHqB6Sw'>
-        <img src='https://i.ytimg.com/vi/a1AhJHqB6Sw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-ychpIWP6288wouYECnGIj9mP1Q' width='200px' alt='ありがとう'>
+      <a href='https://www.youtube.com/watch?v=0Ac1TwKuwCQ'>
+        <img src='https://i.ytimg.com/vi/0Ac1TwKuwCQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqufMDYaRonIKh0kldxsPueBAd9g' width='200px' alt='ラストソング'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=a1AhJHqB6Sw'>ありがとう</a>
+      <a href='https://www.youtube.com/watch?v=0Ac1TwKuwCQ'>ラストソング</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=-Zr0mLgdAQc'>
-        <img src='https://i.ytimg.com/vi/-Zr0mLgdAQc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQRiDuA-AwAqqfWZuLJ_7rPP0Etg' width='200px' alt='ゲッタバンバン'>
+      <a href='https://www.youtube.com/watch?v=GcXurBc6vao'>
+        <img src='https://i.ytimg.com/vi/GcXurBc6vao/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1h2cOKqsHtyYt1ytLA3FK8W9TZA' width='200px' alt='カタオモイ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=-Zr0mLgdAQc'>ゲッタバンバン</a>
+      <a href='https://www.youtube.com/watch?v=GcXurBc6vao'>カタオモイ</a>
     </td>
   </tr>
 </table>
