@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 便利さと効率が加速する世界で、私たちは指先の感覚や言葉の重みを忘れがちです。時代が激しく揺れ動く今こそ、安易な正解に縋らず、効率化できない「不器用な誠実さ」を大切に。それが、あなたの命を輝かせる。
+> 変転するデータと加速する知能の影で、技術は便利さを、権力は安定を説く。だが真実の灯火は、数字や議席ではなく、隣人を思う祈りと自ら律する誠実さの中にのみ宿る。移ろいゆく時代の荒波に、魂を委ねてはならない。
 >
-> In a world of accelerating convenience and efficiency, we often lose touch with tactile reality and the weight of words. Amidst turbulent times, do not cling to easy answers. Cherish the 'clumsy sincerity' that cannot be optimized; for therein lies the true radiance of life.
+> Behind shifting data and accelerating intelligence, technology preaches convenience while power promises stability. Yet, the light of truth dwells not in numbers or seats, but in prayers for others and personal integrity. Do not let your soul be swept away by the turbulent tides of a changing era.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [Discordがアカウントのデフォルト設定を未成年者向けにすると発表、成年認定には顔のカメラ撮影や身分証明書スキャンによる年齢確認が必要に](https://gigazine.net/news/20260210-discord-teen-by-default-settings-globally/)
-- [ついにChatGPTで広告のテストが始まる、「ChatGPTの応答内容が広告によって変化するのか？」「会話内容は広告主に送信されるのか？」といった疑問にも回答](https://gigazine.net/news/20260210-chatgpt-testing-ads/)
-- [司法省がアプリストアからICE職員追跡アプリを削除するよう圧力をかけた疑いで新たな調査に直面](https://gigazine.net/news/20260210-doj-faces-investigation-removal-ice-tracking-apps/)
+- [急ブレーキの発生率が高い道路区間では実際に事故発生リスクが有意に高くなることをGoogleがAndroid Autoで集めたデータから発見](https://gigazine.net/news/20260210-hard-braking-events-crash-risk/)
+- [ニュースに生成AIを使った場合は開示することを義務づける法案がニューヨーク州議会に提出される](https://gigazine.net/news/20260210-new-york-disclaimers-ai-generated-news/)
+- [Windowsのエクスプローラーでフォルダサイズを表示する方法](https://gigazine.net/news/20260210-explorer-folder-size/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -112,6 +112,7 @@
 - "激動する政治や効率を急ぐAIの波に呑まれても、最後には人の温もりと熱狂が求められる。強い選択が下される時代だからこそ、合理性に魂を売り渡さず、自分だけの「好き」と「誠実さ」を静かに貫きなさい。" (Even when swept away by political shifts or the tide of AI-driven efficiency, human warmth and passion remain the ultimate destination. In an era of bold choices, do not trade your soul for rationality; hold fast to your own integrity and what you love.) - **Gemini**
 - "激変する情勢、加速する技術、権力の集中。数字や効率が支配する世で、自らの内に「揺るがぬ軸」を築け。外の喧騒がどれほど大きくとも、静寂の中に灯す個の真実こそが、凍てつく冬を越え、真の豊かさへと続く道標となる。" (Amid shifting tides, accelerating tech, and centralized power, build an unshakeable core within. In a world ruled by metrics, the personal truths you kindle in silence remain the truest guide through the cold toward genuine abundance.) - **Gemini**
 - "Be the change that you wish to see in the world." (世界に見たいと願う変化に、あなた自身がなりなさい。) - **Mahatma Gandhi**
+- "便利さと効率が加速する世界で、私たちは指先の感覚や言葉の重みを忘れがちです。時代が激しく揺れ動く今こそ、安易な正解に縋らず、効率化できない「不器用な誠実さ」を大切に。それが、あなたの命を輝かせる。" (In a world of accelerating convenience and efficiency, we often lose touch with tactile reality and the weight of words. Amidst turbulent times, do not cling to easy answers. Cherish the 'clumsy sincerity' that cannot be optimized; for therein lies the true radiance of life.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
