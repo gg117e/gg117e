@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=N1XUt-ZcOf4'>
-        <img src='https://i.ytimg.com/vi/N1XUt-ZcOf4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxk96uW-3O9eGb8qj27Cr0CMOCqw' width='200px' alt='Columbus'>
+      <a href='https://www.youtube.com/watch?v=W8-P1WQalQw'>
+        <img src='https://i.ytimg.com/vi/W8-P1WQalQw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRO1xzNXSPZOruZidXBs7kgiq-VA' width='200px' alt='Seikai (18Fes Version)'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=N1XUt-ZcOf4'>Columbus</a>
+      <a href='https://www.youtube.com/watch?v=W8-P1WQalQw'>Seikai (18Fes Version)</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=pyDCubgU57g'>
-        <img src='https://i.ytimg.com/vi/pyDCubgU57g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB37uBdxYISYHLCGDBUZUW3NbL7Hw' width='200px' alt='蒼のワルツ - Eve MV'>
+      <a href='https://www.youtube.com/watch?v=9wDFyZDAW2I'>
+        <img src='https://i.ytimg.com/vi/9wDFyZDAW2I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlPACkNx6DfP3rMaY3vsQQ1NQ1-g' width='200px' alt='Tomo ～Tabidachinotoki～'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=pyDCubgU57g'>蒼のワルツ - Eve MV</a>
+      <a href='https://www.youtube.com/watch?v=9wDFyZDAW2I'>Tomo ～Tabidachinotoki～</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=TDpJAuxpfMs'>
-        <img src='https://i.ytimg.com/vi/TDpJAuxpfMs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9Cz2hEIi2OAbI-OqYwpBuvb91ZQ' width='200px' alt='愛に出会い恋は続く／HoneyWorks feat.Kotoha'>
+      <a href='https://www.youtube.com/watch?v=kMUactfS2I0'>
+        <img src='https://i.ytimg.com/vi/kMUactfS2I0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANaL1Tf8C3rAmnchXq84s59BYn5w' width='200px' alt='Love Me, Love You'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=TDpJAuxpfMs'>愛に出会い恋は続く／HoneyWorks feat.Kotoha</a>
+      <a href='https://www.youtube.com/watch?v=kMUactfS2I0'>Love Me, Love You</a>
     </td>
   </tr>
 </table>
