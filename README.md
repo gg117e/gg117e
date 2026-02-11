@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=0OZ15_9YKPc'>
-        <img src='https://i.ytimg.com/vi/0OZ15_9YKPc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDw-Z7Q01p2yef5ViEEv7j0i6ACZg' width='200px' alt='異端なスター'>
+      <a href='https://www.youtube.com/watch?v=Def4ipTm-y4'>
+        <img src='https://i.ytimg.com/vi/Def4ipTm-y4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCixEcYjMmjLWOaqoEVhRfGcylceQ' width='200px' alt='Lovin''>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=0OZ15_9YKPc'>異端なスター</a>
+      <a href='https://www.youtube.com/watch?v=Def4ipTm-y4'>Lovin'</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=5X_wSeKhPAU'>
-        <img src='https://i.ytimg.com/vi/5X_wSeKhPAU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBq3r0bpKi6IiOhtkcgzu-FS_beg' width='200px' alt='Orange'>
+      <a href='https://www.youtube.com/watch?v=29vX07Sz3kw'>
+        <img src='https://i.ytimg.com/vi/29vX07Sz3kw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKaU55q7u0HPNBVdmcF1-ZubeeJA' width='200px' alt='Believe'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=5X_wSeKhPAU'>Orange</a>
+      <a href='https://www.youtube.com/watch?v=29vX07Sz3kw'>Believe</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=roZaPAlr2dg'>
-        <img src='https://i.ytimg.com/vi/roZaPAlr2dg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDB9aKfpvK4cCOCWtETsyqmaor4RA' width='200px' alt='日常'>
+      <a href='https://www.youtube.com/watch?v=bm6t1rGL5P8'>
+        <img src='https://i.ytimg.com/vi/bm6t1rGL5P8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRWK87dNyNRlMIJFzg-gT49hTHrQ' width='200px' alt='Tobira'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=roZaPAlr2dg'>日常</a>
+      <a href='https://www.youtube.com/watch?v=bm6t1rGL5P8'>Tobira</a>
     </td>
   </tr>
 </table>
