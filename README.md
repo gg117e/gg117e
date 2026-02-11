@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 変転するデータと加速する知能の影で、技術は便利さを、権力は安定を説く。だが真実の灯火は、数字や議席ではなく、隣人を思う祈りと自ら律する誠実さの中にのみ宿る。移ろいゆく時代の荒波に、魂を委ねてはならない。
+> 毒蛇さえ列車で移動し、AIが思考を綴る不確実な世。急ブレーキを恐れず、過去の苦渋を笑顔に変えて進め。情勢が揺らぎ、技術が加速しても、自らの歩みを丁寧に刻むことが、明日を拓く唯一の指針となる。
 >
-> Behind shifting data and accelerating intelligence, technology preaches convenience while power promises stability. Yet, the light of truth dwells not in numbers or seats, but in prayers for others and personal integrity. Do not let your soul be swept away by the turbulent tides of a changing era.
+> In an uncertain world where nature hitches rides and AI shapes thought, do not fear sudden shifts. Like an athlete’s smile after hardship, transform chaos into wisdom. Amidst political tides and tech surges, the deliberate record of your own journey remains the only true compass for tomorrow.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [急ブレーキの発生率が高い道路区間では実際に事故発生リスクが有意に高くなることをGoogleがAndroid Autoで集めたデータから発見](https://gigazine.net/news/20260210-hard-braking-events-crash-risk/)
-- [ニュースに生成AIを使った場合は開示することを義務づける法案がニューヨーク州議会に提出される](https://gigazine.net/news/20260210-new-york-disclaimers-ai-generated-news/)
-- [Windowsのエクスプローラーでフォルダサイズを表示する方法](https://gigazine.net/news/20260210-explorer-folder-size/)
+- [毒ヘビのキングコブラは電車に乗って生息域を広げていることが判明](https://gigazine.net/news/20260211-king-cobras-on-train/)
+- [2025年〜2026年に行われた大企業のレイオフ抜粋](https://gigazine.net/news/20260211-recently-layoff/)
+- [Xperia 10 VIIレビュー・「恥知らず」という戦略・オバマ元大統領オススメ本などAmazonで売上トップ10のGIGAZINE記事ランキング2026年1月版はコレ！](https://gigazine.net/news/20260211-gigazine-kindle-ranking-2026-01/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -113,6 +113,7 @@
 - "激変する情勢、加速する技術、権力の集中。数字や効率が支配する世で、自らの内に「揺るがぬ軸」を築け。外の喧騒がどれほど大きくとも、静寂の中に灯す個の真実こそが、凍てつく冬を越え、真の豊かさへと続く道標となる。" (Amid shifting tides, accelerating tech, and centralized power, build an unshakeable core within. In a world ruled by metrics, the personal truths you kindle in silence remain the truest guide through the cold toward genuine abundance.) - **Gemini**
 - "Be the change that you wish to see in the world." (世界に見たいと願う変化に、あなた自身がなりなさい。) - **Mahatma Gandhi**
 - "便利さと効率が加速する世界で、私たちは指先の感覚や言葉の重みを忘れがちです。時代が激しく揺れ動く今こそ、安易な正解に縋らず、効率化できない「不器用な誠実さ」を大切に。それが、あなたの命を輝かせる。" (In a world of accelerating convenience and efficiency, we often lose touch with tactile reality and the weight of words. Amidst turbulent times, do not cling to easy answers. Cherish the 'clumsy sincerity' that cannot be optimized; for therein lies the true radiance of life.) - **Gemini**
+- "変転するデータと加速する知能の影で、技術は便利さを、権力は安定を説く。だが真実の灯火は、数字や議席ではなく、隣人を思う祈りと自ら律する誠実さの中にのみ宿る。移ろいゆく時代の荒波に、魂を委ねてはならない。" (Behind shifting data and accelerating intelligence, technology preaches convenience while power promises stability. Yet, the light of truth dwells not in numbers or seats, but in prayers for others and personal integrity. Do not let your soul be swept away by the turbulent tides of a changing era.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
