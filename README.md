@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=zuXiyCtrM2c'>
-        <img src='https://i.ytimg.com/vi/zuXiyCtrM2c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxAiQr_LrDmcdvKKiie81xFKnnzQ' width='200px' alt='ドライフラワー'>
+      <a href='https://www.youtube.com/watch?v=TGz8AXN3gLA'>
+        <img src='https://i.ytimg.com/vi/TGz8AXN3gLA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWS1qZN5VGY_ZeMcSCBwCxLE3fIg' width='200px' alt='さよーならまたいつか！- Sayonara'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=zuXiyCtrM2c'>ドライフラワー</a>
+      <a href='https://www.youtube.com/watch?v=TGz8AXN3gLA'>さよーならまたいつか！- Sayonara</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=olsv91gZylw'>
-        <img src='https://i.ytimg.com/vi/olsv91gZylw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMk1mraa6RG1rdZqFj9hliTNqJwg' width='200px' alt='悲しみなんて笑い飛ばせ'>
+      <a href='https://www.youtube.com/watch?v=xFL1OO6siJI'>
+        <img src='https://i.ytimg.com/vi/xFL1OO6siJI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCH_W3xlqcSThQ65fOuXCwQWmIZng' width='200px' alt='Dokokade Hi Wa Noboru'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=olsv91gZylw'>悲しみなんて笑い飛ばせ</a>
+      <a href='https://www.youtube.com/watch?v=xFL1OO6siJI'>Dokokade Hi Wa Noboru</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Fay3ZhHS1rU'>
-        <img src='https://i.ytimg.com/vi/Fay3ZhHS1rU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjDVfcid0spA__YFixGLdGLPV6kA' width='200px' alt='桑田佳祐 – 100万年の幸せ!!（Full ver.）'>
+      <a href='https://www.youtube.com/watch?v=eoQAnGx4Pss'>
+        <img src='https://i.ytimg.com/vi/eoQAnGx4Pss/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFEUw0WZq7w7oBTR2L_48UsOCpsw' width='200px' alt='Wherever you are'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Fay3ZhHS1rU'>桑田佳祐 – 100万年の幸せ!!（Full ver.）</a>
+      <a href='https://www.youtube.com/watch?v=eoQAnGx4Pss'>Wherever you are</a>
     </td>
   </tr>
 </table>
