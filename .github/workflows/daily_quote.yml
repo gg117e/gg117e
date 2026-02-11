@@ -2,7 +2,7 @@ name: Daily Quote Update
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours (UTC)
+    - cron: "0 0 * * *" # Runs daily at 09:00 JST (00:00 UTC)
   workflow_dispatch:
 
 permissions:
