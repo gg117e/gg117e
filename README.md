@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=1AVErqlUdpM'>
-        <img src='https://i.ytimg.com/vi/1AVErqlUdpM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnLrfABUDxabUUOguKRh1NAcHb-A' width='200px' alt='ギャグ'>
+      <a href='https://www.youtube.com/watch?v=-xFtbSnu7R8'>
+        <img src='https://i.ytimg.com/vi/-xFtbSnu7R8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3SlWDyHFeatTYP7tLv700w_aWhg' width='200px' alt='Okuru Kotoba'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=1AVErqlUdpM'>ギャグ</a>
+      <a href='https://www.youtube.com/watch?v=-xFtbSnu7R8'>Okuru Kotoba</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=nhfIpEUU9tc'>
-        <img src='https://i.ytimg.com/vi/nhfIpEUU9tc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgBpk2hSaERwDjiPaFIRz-Tc45rA' width='200px' alt='光るなら'>
+      <a href='https://www.youtube.com/watch?v=EaC8Dgtvrb0'>
+        <img src='https://i.ytimg.com/vi/EaC8Dgtvrb0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDen1M2a_gSpOzmWdpa2e2nUIB8mg' width='200px' alt='そんなbitterな話'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=nhfIpEUU9tc'>光るなら</a>
+      <a href='https://www.youtube.com/watch?v=EaC8Dgtvrb0'>そんなbitterな話</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Pz9-XJ8SFKU'>
-        <img src='https://i.ytimg.com/vi/Pz9-XJ8SFKU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBq-Etp03Dzv0fNmneyfOmTHqbeTQ' width='200px' alt='Taketen'>
+      <a href='https://www.youtube.com/watch?v=_HGPxXTIrvg'>
+        <img src='https://i.ytimg.com/vi/_HGPxXTIrvg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCntFc3OMMdrjs0ZHthaVaWH5snw' width='200px' alt='サマータイムシンデレラ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Pz9-XJ8SFKU'>Taketen</a>
+      <a href='https://www.youtube.com/watch?v=_HGPxXTIrvg'>サマータイムシンデレラ</a>
     </td>
   </tr>
 </table>
