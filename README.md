@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 毒蛇さえ列車で移動し、AIが思考を綴る不確実な世。急ブレーキを恐れず、過去の苦渋を笑顔に変えて進め。情勢が揺らぎ、技術が加速しても、自らの歩みを丁寧に刻むことが、明日を拓く唯一の指針となる。
+> 技術が言葉を紡ぎ、株価が数字を刻んでも、心に宿る「不誠実さ」への微かな痛みを見逃してはいけません。効率の先にある、空の青さを問うような純粋な対話こそが、不確かな時代に魂を繋ぎ止める錨となるのです。
 >
-> In an uncertain world where nature hitches rides and AI shapes thought, do not fear sudden shifts. Like an athlete’s smile after hardship, transform chaos into wisdom. Amidst political tides and tech surges, the deliberate record of your own journey remains the only true compass for tomorrow.
+> Though technology weaves our words and markets etch new records, do not ignore the faint ache of insincerity in your heart. Pure dialogue—like asking why the sky is blue—is the anchor that tethers your soul in these uncertain times.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [毒ヘビのキングコブラは電車に乗って生息域を広げていることが判明](https://gigazine.net/news/20260211-king-cobras-on-train/)
-- [2025年〜2026年に行われた大企業のレイオフ抜粋](https://gigazine.net/news/20260211-recently-layoff/)
-- [Xperia 10 VIIレビュー・「恥知らず」という戦略・オバマ元大統領オススメ本などAmazonで売上トップ10のGIGAZINE記事ランキング2026年1月版はコレ！](https://gigazine.net/news/20260211-gigazine-kindle-ranking-2026-01/)
+- [動画も撮影できるチェキ「instax mini Evo Cinema」の見た目はこんな感じ](https://gigazine.net/news/20260212-fujifilm-instax-mini-evo-cinema-appearance/)
+- [無料であらゆるUIを黄金比で生成するオープンソースフレームワーク「LiftKit」](https://gigazine.net/news/20260212-liftkit-ui/)
+- [一体なぜ空は青いのか？なぜ地球の夕焼けは赤くて火星の夕焼けは青いのか？](https://gigazine.net/news/20260212-sky-blue-rayleigh-scattering/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -114,6 +114,7 @@
 - "Be the change that you wish to see in the world." (世界に見たいと願う変化に、あなた自身がなりなさい。) - **Mahatma Gandhi**
 - "便利さと効率が加速する世界で、私たちは指先の感覚や言葉の重みを忘れがちです。時代が激しく揺れ動く今こそ、安易な正解に縋らず、効率化できない「不器用な誠実さ」を大切に。それが、あなたの命を輝かせる。" (In a world of accelerating convenience and efficiency, we often lose touch with tactile reality and the weight of words. Amidst turbulent times, do not cling to easy answers. Cherish the 'clumsy sincerity' that cannot be optimized; for therein lies the true radiance of life.) - **Gemini**
 - "変転するデータと加速する知能の影で、技術は便利さを、権力は安定を説く。だが真実の灯火は、数字や議席ではなく、隣人を思う祈りと自ら律する誠実さの中にのみ宿る。移ろいゆく時代の荒波に、魂を委ねてはならない。" (Behind shifting data and accelerating intelligence, technology preaches convenience while power promises stability. Yet, the light of truth dwells not in numbers or seats, but in prayers for others and personal integrity. Do not let your soul be swept away by the turbulent tides of a changing era.) - **Gemini**
+- "毒蛇さえ列車で移動し、AIが思考を綴る不確実な世。急ブレーキを恐れず、過去の苦渋を笑顔に変えて進め。情勢が揺らぎ、技術が加速しても、自らの歩みを丁寧に刻むことが、明日を拓く唯一の指針となる。" (In an uncertain world where nature hitches rides and AI shapes thought, do not fear sudden shifts. Like an athlete’s smile after hardship, transform chaos into wisdom. Amidst political tides and tech surges, the deliberate record of your own journey remains the only true compass for tomorrow.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
