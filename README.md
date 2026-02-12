@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=QlyW9kYHTDo'>
-        <img src='https://i.ytimg.com/vi/QlyW9kYHTDo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQFnLrxul-P672hEh7Ctcb3KYlmw' width='200px' alt='Time Machine'>
+      <a href='https://www.youtube.com/watch?v=-521tYMXtyU'>
+        <img src='https://i.ytimg.com/vi/-521tYMXtyU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADlt7wGkC8moPxQ8on9gYz2n8dbg' width='200px' alt='For Decades'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=QlyW9kYHTDo'>Time Machine</a>
+      <a href='https://www.youtube.com/watch?v=-521tYMXtyU'>For Decades</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=KJBoof4rjrg'>
-        <img src='https://i.ytimg.com/vi/KJBoof4rjrg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYlPGVYfBk7q9cXddAm78dnu8oAQ' width='200px' alt='Tatta'>
+      <a href='https://www.youtube.com/watch?v=Ta6GW3kQ8UU'>
+        <img src='https://i.ytimg.com/vi/Ta6GW3kQ8UU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRMclMpIOvmCPeKMcFS80SNCONJw' width='200px' alt='ひたむき'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=KJBoof4rjrg'>Tatta</a>
+      <a href='https://www.youtube.com/watch?v=Ta6GW3kQ8UU'>ひたむき</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=dhgaMyKT-l0'>
-        <img src='https://i.ytimg.com/vi/dhgaMyKT-l0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0RNrPMVRqJn3jAsnvDMXYtlKm9A' width='200px' alt='Kuchibue'>
+      <a href='https://www.youtube.com/watch?v=7Ze7MDQjXS0'>
+        <img src='https://i.ytimg.com/vi/7Ze7MDQjXS0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGUaOf-Ae6mkpk1Gw2m3-BwQUjqA' width='200px' alt='Soranji'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=dhgaMyKT-l0'>Kuchibue</a>
+      <a href='https://www.youtube.com/watch?v=7Ze7MDQjXS0'>Soranji</a>
     </td>
   </tr>
 </table>
