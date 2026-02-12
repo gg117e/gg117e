@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=6IyRj4ui6ZA'>
-        <img src='https://i.ytimg.com/vi/6IyRj4ui6ZA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJnIeUXRMUh1719QYWf9nI8gyUUA' width='200px' alt='Boom Boom Back'>
+      <a href='https://www.youtube.com/watch?v=1GQ07JcqH48'>
+        <img src='https://i.ytimg.com/vi/1GQ07JcqH48/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSPACmTI9ygMCW0JC14xxWjsnbSA' width='200px' alt='Family Song'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=6IyRj4ui6ZA'>Boom Boom Back</a>
+      <a href='https://www.youtube.com/watch?v=1GQ07JcqH48'>Family Song</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=HrZX4KFfniU'>
-        <img src='https://i.ytimg.com/vi/HrZX4KFfniU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCj4NYNo6f32MhY3ua3KFVZQcplOw' width='200px' alt='Earthchild'>
+      <a href='https://www.youtube.com/watch?v=sKYvPBCoe2o'>
+        <img src='https://i.ytimg.com/vi/sKYvPBCoe2o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeFoQhk4ynA8iVDTickXeYyAivcg' width='200px' alt='LADY'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=HrZX4KFfniU'>Earthchild</a>
+      <a href='https://www.youtube.com/watch?v=sKYvPBCoe2o'>LADY</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=0izDjaaBa-A'>
-        <img src='https://i.ytimg.com/vi/0izDjaaBa-A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcNhcK-msy0yxQQnDdt5sDKgKU3w' width='200px' alt='光の跡'>
+      <a href='https://www.youtube.com/watch?v=jBILfisAXXs'>
+        <img src='https://i.ytimg.com/vi/jBILfisAXXs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6To1bSVwvvhDTNXjGY7ajk9CU7w' width='200px' alt='夢の外へ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=0izDjaaBa-A'>光の跡</a>
+      <a href='https://www.youtube.com/watch?v=jBILfisAXXs'>夢の外へ</a>
     </td>
   </tr>
 </table>
