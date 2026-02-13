@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=uhY5LztYnoQ'>
-        <img src='https://i.ytimg.com/vi/uhY5LztYnoQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCG2PLxs6Mn3iT3s5CyejxHT6v26g' width='200px' alt='ありがとうの輪'>
+      <a href='https://www.youtube.com/watch?v=ZODK5o0PCbk'>
+        <img src='https://i.ytimg.com/vi/ZODK5o0PCbk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCO4i_-hjOexA9d03JV7fqdobq3yg' width='200px' alt='Imato Anokorono Bokura'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=uhY5LztYnoQ'>ありがとうの輪</a>
+      <a href='https://www.youtube.com/watch?v=ZODK5o0PCbk'>Imato Anokorono Bokura</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=OEsV1iQNQFw'>
-        <img src='https://i.ytimg.com/vi/OEsV1iQNQFw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnGdeEWZl4JUUFduoF9VdWrDnQOw' width='200px' alt='相思相愛'>
+      <a href='https://www.youtube.com/watch?v=MqHfdqK5VvI'>
+        <img src='https://i.ytimg.com/vi/MqHfdqK5VvI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXZdvpkjf-wPoMr7QxLRsrjPYRqg' width='200px' alt='Michi Teyu Ku (Overflowing)'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=OEsV1iQNQFw'>相思相愛</a>
+      <a href='https://www.youtube.com/watch?v=MqHfdqK5VvI'>Michi Teyu Ku (Overflowing)</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=I8fxhn_l08g'>
-        <img src='https://i.ytimg.com/vi/I8fxhn_l08g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDSBeXOzTWFpJfP7MAMG5QX5MRHA' width='200px' alt='Official髭男dism - Choral A [Official Video]'>
+      <a href='https://www.youtube.com/watch?v=OF45OXeH5VM'>
+        <img src='https://i.ytimg.com/vi/OF45OXeH5VM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0IISWvvwDLV43I2jjhFYNqIwbEA' width='200px' alt='感電'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=I8fxhn_l08g'>Official髭男dism - Choral A [Official Video]</a>
+      <a href='https://www.youtube.com/watch?v=OF45OXeH5VM'>感電</a>
     </td>
   </tr>
 </table>
