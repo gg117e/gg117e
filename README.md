@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=XEHvZ5GrfM8'>
-        <img src='https://i.ytimg.com/vi/XEHvZ5GrfM8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIMwX4r8LPGzFEuy9nauo9407Ksw' width='200px' alt='Eine Kleine'>
+      <a href='https://www.youtube.com/watch?v=W8Q9Hs7Tgzg'>
+        <img src='https://i.ytimg.com/vi/W8Q9Hs7Tgzg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCF1Qy_4gJ79JnrDpU1uHuW0YOKUg' width='200px' alt='Wanted! Wanted!'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=XEHvZ5GrfM8'>Eine Kleine</a>
+      <a href='https://www.youtube.com/watch?v=W8Q9Hs7Tgzg'>Wanted! Wanted!</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ErqUUYWfOBo'>
-        <img src='https://i.ytimg.com/vi/ErqUUYWfOBo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOSuaDQ-44YRfAfNZSNO7AyglYcA' width='200px' alt='決戦スピリット／CHiCO with HoneyWorks'>
+      <a href='https://www.youtube.com/watch?v=H2r25lVcIHw'>
+        <img src='https://i.ytimg.com/vi/H2r25lVcIHw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgiffVYvt42FuGzVoZ1W9jo3MUFQ' width='200px' alt='花の塔'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ErqUUYWfOBo'>決戦スピリット／CHiCO with HoneyWorks</a>
+      <a href='https://www.youtube.com/watch?v=H2r25lVcIHw'>花の塔</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=HzF797f9uQs'>
-        <img src='https://i.ytimg.com/vi/HzF797f9uQs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAl7-DU2SL4TW4FqLG_TwxU3x4SEg' width='200px' alt='沈丁花'>
+      <a href='https://www.youtube.com/watch?v=3jwzfhaIf3U'>
+        <img src='https://i.ytimg.com/vi/3jwzfhaIf3U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyDkEcU9JaqmusItqe-hAV56rH3A' width='200px' alt='Eikouno Kakehashi'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=HzF797f9uQs'>沈丁花</a>
+      <a href='https://www.youtube.com/watch?v=3jwzfhaIf3U'>Eikouno Kakehashi</a>
     </td>
   </tr>
 </table>
