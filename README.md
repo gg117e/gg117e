@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=fdnoxPq_Is8'>
-        <img src='https://i.ytimg.com/vi/fdnoxPq_Is8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPWxvixtaadySgnUIvVPraig7Ohw' width='200px' alt='Ola!!'>
+      <a href='https://www.youtube.com/watch?v=_8XkaEkv8ew'>
+        <img src='https://i.ytimg.com/vi/_8XkaEkv8ew/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIiwYJPTC9qKRDgty7AUWjpdphXw' width='200px' alt='キャラクター'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=fdnoxPq_Is8'>Ola!!</a>
+      <a href='https://www.youtube.com/watch?v=_8XkaEkv8ew'>キャラクター</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=kMUactfS2I0'>
-        <img src='https://i.ytimg.com/vi/kMUactfS2I0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANaL1Tf8C3rAmnchXq84s59BYn5w' width='200px' alt='Love Me, Love You'>
+      <a href='https://www.youtube.com/watch?v=BUG9r-s56II'>
+        <img src='https://i.ytimg.com/vi/BUG9r-s56II/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBvZsmOoGEgA_UCAVPi1PDbjkUDQ' width='200px' alt='舞台に立って'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=kMUactfS2I0'>Love Me, Love You</a>
+      <a href='https://www.youtube.com/watch?v=BUG9r-s56II'>舞台に立って</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=SQcq990N5NY'>
-        <img src='https://i.ytimg.com/vi/SQcq990N5NY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWlOgX0s6Lzh8Clxs5rWiyYXwfUg' width='200px' alt='また逢う日まで'>
+      <a href='https://www.youtube.com/watch?v=mctEybOqY6s'>
+        <img src='https://i.ytimg.com/vi/mctEybOqY6s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB97mzRbYaNpDzDeEqCkFLBMUFafQ' width='200px' alt='勇者'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=SQcq990N5NY'>また逢う日まで</a>
+      <a href='https://www.youtube.com/watch?v=mctEybOqY6s'>勇者</a>
     </td>
   </tr>
 </table>
