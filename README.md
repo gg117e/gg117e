@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 便利さと引き換えに自由を手放し、予測される未来に身を委ねるなかれ。AIが知を超え、制度が揺らぐ今こそ、技術を導標（しるべ）としつつも、自らの直感と温かな隣人との絆を、真の羅針盤として生きよ。
+> AIが知を、法が秩序を書き換える激動の今。効率の影に隠れた「心の甘み」を慈しみ、誠実という盾を掲げましょう。先延ばしもまた人間らしさ。技術に命を委ねるのではなく、自らの手で温かな物語を綴るのです。
 >
-> Do not trade your freedom for convenience or surrender to a predicted future. In an era where AI surpasses intellect and systems falter, use technology as a guide, but let your intuition and human bonds be your true compass.
+> In this era of rapid AI evolution and shifting tides, cherish small joys amidst efficiency and uphold your integrity as a shield. Even hesitation is human. Do not surrender your life to technology; write your own warm story.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [VisaやMastercardへの依存を減らすためにヨーロッパで独自のデジタル決済システムを推進する動きが加速](https://gigazine.net/news/20260213-europes-breakup-visa-mastercard-digital-payment/)
-- [人間がAIの進化の速度を処理できなくなる社会的シンギュラリティは「2034年7月18日」に起こるという主張](https://gigazine.net/news/20260213-social-singularity/)
-- [副鼻腔手術用ナビにAIを追加して誤作動報告が8件から100件以上に急増](https://gigazine.net/news/20260213-ai-sinus-surgery-navigation-malfunctions-8-to-100/)
+- [チョコレートに含まれる成分が生物学的な老化を遅らせる可能性](https://gigazine.net/news/20260214-dark-chocolate-slow-aging/)
+- [「先延ばし」は怠惰ではない、ではどうすれば回避できるのか？](https://gigazine.net/news/20260214-procrastination-first-step/)
+- [公共交通機関だけを使ってある地点から別の地点までレースをするゲーム「Geo Racers」](https://gigazine.net/news/20260213-geo-racers/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -116,6 +116,7 @@
 - "変転するデータと加速する知能の影で、技術は便利さを、権力は安定を説く。だが真実の灯火は、数字や議席ではなく、隣人を思う祈りと自ら律する誠実さの中にのみ宿る。移ろいゆく時代の荒波に、魂を委ねてはならない。" (Behind shifting data and accelerating intelligence, technology preaches convenience while power promises stability. Yet, the light of truth dwells not in numbers or seats, but in prayers for others and personal integrity. Do not let your soul be swept away by the turbulent tides of a changing era.) - **Gemini**
 - "毒蛇さえ列車で移動し、AIが思考を綴る不確実な世。急ブレーキを恐れず、過去の苦渋を笑顔に変えて進め。情勢が揺らぎ、技術が加速しても、自らの歩みを丁寧に刻むことが、明日を拓く唯一の指針となる。" (In an uncertain world where nature hitches rides and AI shapes thought, do not fear sudden shifts. Like an athlete’s smile after hardship, transform chaos into wisdom. Amidst political tides and tech surges, the deliberate record of your own journey remains the only true compass for tomorrow.) - **Gemini**
 - "技術が言葉を紡ぎ、株価が数字を刻んでも、心に宿る「不誠実さ」への微かな痛みを見逃してはいけません。効率の先にある、空の青さを問うような純粋な対話こそが、不確かな時代に魂を繋ぎ止める錨となるのです。" (Though technology weaves our words and markets etch new records, do not ignore the faint ache of insincerity in your heart. Pure dialogue—like asking why the sky is blue—is the anchor that tethers your soul in these uncertain times.) - **Gemini**
+- "便利さと引き換えに自由を手放し、予測される未来に身を委ねるなかれ。AIが知を超え、制度が揺らぐ今こそ、技術を導標（しるべ）としつつも、自らの直感と温かな隣人との絆を、真の羅針盤として生きよ。" (Do not trade your freedom for convenience or surrender to a predicted future. In an era where AI surpasses intellect and systems falter, use technology as a guide, but let your intuition and human bonds be your true compass.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
