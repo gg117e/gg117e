@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=HZFQbyb39lU'>
-        <img src='https://i.ytimg.com/vi/HZFQbyb39lU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAb_miPNN8kFLEVyEwuBij_-Pqiyw' width='200px' alt='I Want You Back'>
+      <a href='https://www.youtube.com/watch?v=Ta6GW3kQ8UU'>
+        <img src='https://i.ytimg.com/vi/Ta6GW3kQ8UU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRMclMpIOvmCPeKMcFS80SNCONJw' width='200px' alt='ひたむき'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=HZFQbyb39lU'>I Want You Back</a>
+      <a href='https://www.youtube.com/watch?v=Ta6GW3kQ8UU'>ひたむき</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=yFRNB8Jji4Y'>
-        <img src='https://i.ytimg.com/vi/yFRNB8Jji4Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAa-LXQ-EF_QYmSvbdUJF-CyB5nwA' width='200px' alt='燈'>
+      <a href='https://www.youtube.com/watch?v=gpdh9AUzQjY'>
+        <img src='https://i.ytimg.com/vi/gpdh9AUzQjY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnZY9cYpCWhlK5DvkOpB3w46mpVQ' width='200px' alt='カーテンコール'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=yFRNB8Jji4Y'>燈</a>
+      <a href='https://www.youtube.com/watch?v=gpdh9AUzQjY'>カーテンコール</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ZYZp78E4JxA'>
-        <img src='https://i.ytimg.com/vi/ZYZp78E4JxA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMVedMIPColgIHtgkhRgVgSPcQCA' width='200px' alt='スパークル'>
+      <a href='https://www.youtube.com/watch?v=107UoVP2fAA'>
+        <img src='https://i.ytimg.com/vi/107UoVP2fAA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1eFCwYYYAUQ0JdHKBnC37uSW5_w' width='200px' alt='Heroine'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ZYZp78E4JxA'>スパークル</a>
+      <a href='https://www.youtube.com/watch?v=107UoVP2fAA'>Heroine</a>
     </td>
   </tr>
 </table>
