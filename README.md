@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Q-y3TtiKxsU'>
-        <img src='https://i.ytimg.com/vi/Q-y3TtiKxsU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJYbnkxTXam_a4M0GF97NMTrAoHg' width='200px' alt='チャンカパーナ'>
+      <a href='https://www.youtube.com/watch?v=W25pTZ5Gmew'>
+        <img src='https://i.ytimg.com/vi/W25pTZ5Gmew/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZ1ZnvcCrWBxZ8Yxd_9b9jXBe7jQ' width='200px' alt='決心'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Q-y3TtiKxsU'>チャンカパーナ</a>
+      <a href='https://www.youtube.com/watch?v=W25pTZ5Gmew'>決心</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=-QZAivfOiaM'>
-        <img src='https://i.ytimg.com/vi/-QZAivfOiaM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDGdiV4fp1JM9qu3MuJ9uY6z5BXA' width='200px' alt='P.S.'>
+      <a href='https://www.youtube.com/watch?v=1tk1pqwrOys'>
+        <img src='https://i.ytimg.com/vi/1tk1pqwrOys/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAa4d548fZz_6zUv6-AdAxqR1CW8A' width='200px' alt='廻廻奇譚 - Eve MV'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=-QZAivfOiaM'>P.S.</a>
+      <a href='https://www.youtube.com/watch?v=1tk1pqwrOys'>廻廻奇譚 - Eve MV</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=2eNEQ0cQtkI'>
-        <img src='https://i.ytimg.com/vi/2eNEQ0cQtkI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBk-4STXcvhTwS2m7ypDHdnsF_xyg' width='200px' alt='祝福'>
+      <a href='https://www.youtube.com/watch?v=mLBe332PrQ0'>
+        <img src='https://i.ytimg.com/vi/mLBe332PrQ0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCn6a1PepAWYqVhrPmg2106R8n7UQ' width='200px' alt='Magic'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=2eNEQ0cQtkI'>祝福</a>
+      <a href='https://www.youtube.com/watch?v=mLBe332PrQ0'>Magic</a>
     </td>
   </tr>
 </table>
