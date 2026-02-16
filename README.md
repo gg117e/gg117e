@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=kJEPeKPtZyw'>
-        <img src='https://i.ytimg.com/vi/kJEPeKPtZyw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHEQRF57cU-KWllU8xOBlwgrk83Q' width='200px' alt='花占い'>
+      <a href='https://www.youtube.com/watch?v=SaVLctSLnh8'>
+        <img src='https://i.ytimg.com/vi/SaVLctSLnh8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAo2EVknq2t_RyeExV89JobTcXiVw' width='200px' alt='ピースサイン - Peace Sign'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=kJEPeKPtZyw'>花占い</a>
+      <a href='https://www.youtube.com/watch?v=SaVLctSLnh8'>ピースサイン - Peace Sign</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=EwpKUV0ECvQ'>
-        <img src='https://i.ytimg.com/vi/EwpKUV0ECvQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASAJRwUxiqbsHUgZsmBLyT0x7lsw' width='200px' alt='春を告げる'>
+      <a href='https://www.youtube.com/watch?v=-QZAivfOiaM'>
+        <img src='https://i.ytimg.com/vi/-QZAivfOiaM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDGdiV4fp1JM9qu3MuJ9uY6z5BXA' width='200px' alt='P.S.'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=EwpKUV0ECvQ'>春を告げる</a>
+      <a href='https://www.youtube.com/watch?v=-QZAivfOiaM'>P.S.</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=8C-ZXUFud4g'>
-        <img src='https://i.ytimg.com/vi/8C-ZXUFud4g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAntZZBsMwxcogbwOA7SvwO1-bquA' width='200px' alt='誰よりも'>
+      <a href='https://www.youtube.com/watch?v=BT5fqQ0xXYs'>
+        <img src='https://i.ytimg.com/vi/BT5fqQ0xXYs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvJu2x5bSmOLxOc0ETl7cftwiIOw' width='200px' alt='Soramo Toberuhazu'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=8C-ZXUFud4g'>誰よりも</a>
+      <a href='https://www.youtube.com/watch?v=BT5fqQ0xXYs'>Soramo Toberuhazu</a>
     </td>
   </tr>
 </table>
