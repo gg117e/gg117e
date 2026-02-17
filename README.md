@@ -26,6 +26,13 @@
 <table>
   <tr>
     <td align='center'>
+      <a href='https://www.youtube.com/watch?v=SvtSWhyw7vs'>
+        <img src='https://i.ytimg.com/vi/SvtSWhyw7vs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtAy96XVYaLQyKcD0j4-yFSZRqrQ' width='200px' alt='TATTOO'>
+      </a>
+      <br />
+      <a href='https://www.youtube.com/watch?v=SvtSWhyw7vs'>TATTOO</a>
+    </td>
+    <td align='center'>
       <a href='https://www.youtube.com/watch?v=XtBUrzpLjGQ'>
         <img src='https://i.ytimg.com/vi/XtBUrzpLjGQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChrRq5NxAovVcUY4eqeydpNsNh_w' width='200px' alt='Aiuta'>
       </a>
@@ -33,18 +40,11 @@
       <a href='https://www.youtube.com/watch?v=XtBUrzpLjGQ'>Aiuta</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ZYZp78E4JxA'>
-        <img src='https://i.ytimg.com/vi/ZYZp78E4JxA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMVedMIPColgIHtgkhRgVgSPcQCA' width='200px' alt='スパークル'>
+      <a href='https://www.youtube.com/watch?v=92pdJyzIGbw'>
+        <img src='https://i.ytimg.com/vi/92pdJyzIGbw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnnOpsSe2wV7d2I75yBidX_Mx8Ww' width='200px' alt='Week End'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ZYZp78E4JxA'>スパークル</a>
-    </td>
-    <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ZF5w7kkk7Yo'>
-        <img src='https://i.ytimg.com/vi/ZF5w7kkk7Yo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeQUEP3L5-r_AuGcf6CLbp0loxww' width='200px' alt='What's Going On?'>
-      </a>
-      <br />
-      <a href='https://www.youtube.com/watch?v=ZF5w7kkk7Yo'>What's Going On?</a>
+      <a href='https://www.youtube.com/watch?v=92pdJyzIGbw'>Week End</a>
     </td>
   </tr>
 </table>
