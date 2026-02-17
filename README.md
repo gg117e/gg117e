@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=whlXRYLhgx0'>
-        <img src='https://i.ytimg.com/vi/whlXRYLhgx0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGlE00IU9bwRQqqzhxwGDuajZ0HA' width='200px' alt='Bedroom Talk'>
+      <a href='https://www.youtube.com/watch?v=asVlmxMXKb4'>
+        <img src='https://i.ytimg.com/vi/asVlmxMXKb4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWo0sJb27OZVeryzeBVI-3VNsYQw' width='200px' alt='Happiness'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=whlXRYLhgx0'>Bedroom Talk</a>
+      <a href='https://www.youtube.com/watch?v=asVlmxMXKb4'>Happiness</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=l2nqfPAMrSo'>
-        <img src='https://i.ytimg.com/vi/l2nqfPAMrSo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0nDqcmoaPuUfFdBbIX_7HAyJA8w' width='200px' alt='Chessboard'>
+      <a href='https://www.youtube.com/watch?v=Uv_m-vcPlsw'>
+        <img src='https://i.ytimg.com/vi/Uv_m-vcPlsw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdJGOfDvDRGCIz8C7eoa0E5MEmtA' width='200px' alt='Koi'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=l2nqfPAMrSo'>Chessboard</a>
+      <a href='https://www.youtube.com/watch?v=Uv_m-vcPlsw'>Koi</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=mj4Pa0ldUp8'>
-        <img src='https://i.ytimg.com/vi/mj4Pa0ldUp8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD14lODcjMhcKlqfeZWoy1pyMFyqg' width='200px' alt='地獄でなぜ悪い'>
+      <a href='https://www.youtube.com/watch?v=CMG1oZEqU_M'>
+        <img src='https://i.ytimg.com/vi/CMG1oZEqU_M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkBFGePzFdnLtItuad-Hpp4I5Sbg' width='200px' alt='Answer'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=mj4Pa0ldUp8'>地獄でなぜ悪い</a>
+      <a href='https://www.youtube.com/watch?v=CMG1oZEqU_M'>Answer</a>
     </td>
   </tr>
 </table>
