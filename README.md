@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=SaVLctSLnh8'>
-        <img src='https://i.ytimg.com/vi/SaVLctSLnh8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAo2EVknq2t_RyeExV89JobTcXiVw' width='200px' alt='ピースサイン - Peace Sign'>
+      <a href='https://www.youtube.com/watch?v=whlXRYLhgx0'>
+        <img src='https://i.ytimg.com/vi/whlXRYLhgx0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGlE00IU9bwRQqqzhxwGDuajZ0HA' width='200px' alt='Bedroom Talk'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=SaVLctSLnh8'>ピースサイン - Peace Sign</a>
+      <a href='https://www.youtube.com/watch?v=whlXRYLhgx0'>Bedroom Talk</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=YFzG-JABlnw'>
-        <img src='https://i.ytimg.com/vi/YFzG-JABlnw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhBfecarKFUXPR0upUKWOKIO5KYQ' width='200px' alt='Rashisa'>
+      <a href='https://www.youtube.com/watch?v=l2nqfPAMrSo'>
+        <img src='https://i.ytimg.com/vi/l2nqfPAMrSo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0nDqcmoaPuUfFdBbIX_7HAyJA8w' width='200px' alt='Chessboard'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=YFzG-JABlnw'>Rashisa</a>
+      <a href='https://www.youtube.com/watch?v=l2nqfPAMrSo'>Chessboard</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=lkBsQjXthT8'>
-        <img src='https://i.ytimg.com/vi/lkBsQjXthT8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClS4XjBBpC-70uJ1h1-WbGfyPDOg' width='200px' alt='HEART BEAT'>
+      <a href='https://www.youtube.com/watch?v=mj4Pa0ldUp8'>
+        <img src='https://i.ytimg.com/vi/mj4Pa0ldUp8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD14lODcjMhcKlqfeZWoy1pyMFyqg' width='200px' alt='地獄でなぜ悪い'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=lkBsQjXthT8'>HEART BEAT</a>
+      <a href='https://www.youtube.com/watch?v=mj4Pa0ldUp8'>地獄でなぜ悪い</a>
     </td>
   </tr>
 </table>
