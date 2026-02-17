@@ -10,7 +10,7 @@
 
     <text x="25" y="35" class="header">🎓 Graduation Countdown</text>
 
-    <text x="247.5" y="100" text-anchor="middle" class="days">774</text>
+    <text x="247.5" y="100" text-anchor="middle" class="days">773</text>
     <text x="247.5" y="130" text-anchor="middle" class="stat">Days Left</text>
 
     <text x="25" y="170" class="desc">Until March 31, 2028</text>

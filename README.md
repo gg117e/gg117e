@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 技術の黄金時代に知性が真理を覆しても、命の重みと対話の尊さは変わりません。情報の喧騒を離れ、他者の痛みに耳を澄ませましょう。仕組みが高度化する今こそ、形なき心を磨き、誠実な言葉で今を刻むのです。
+> 技術が安全の定義を変え、宇宙の巨星すら静かに消えゆく不安定な時代。喧騒や評価の波に惑わされず、自らの「質」を誠実に守りなさい。栄華は移ろい、影は忍び寄るが、今この瞬間を懸命に生きる者の熱こそが真実の光となる。
 >
-> Even as intelligence defies established truths in this golden age of technology, the sanctity of life and the value of dialogue remain unchanged. Step away from the digital noise and listen to the pain of others. As systems evolve, refine your intangible heart and carve each moment with sincere words.
+> In an era where technology redefines safety and giant stars vanish silently, do not be swayed by the waves of noise or external judgment. Protect your own 'quality' with integrity. Glory fades and shadows creep, but the passion of those living intensely in this moment is the only true light.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [数万人規模の意見を集約するオープンソースプラットフォーム「Polis」は台湾やイギリスで有効性が実証され国家レベルの民主的インフラとして定着している](https://gigazine.net/news/20260216-polis/)
-- [ヤフコメやYouTubeのコメント欄を非表示にできるブラウザ拡張機能「Shut Up」](https://gigazine.net/news/20260216-shut-up-comment-blocker/)
-- [TVアニメ『鉄鍋のジャン！』ティザーPV公開、「原作発表当時の世相・描写を尊重し過激な描写が含まれる場合があります」](https://gigazine.net/news/20260216-iron-wok-jan/)
+- [GIGAZINE読者のネット接続方法は無線？有線？Wi-Fiルーターの不満点も聞いてみた](https://gigazine.net/news/20260217-gigazine-user-internet/)
+- [「太陽王」ルイ14世の絶頂期と晩年の衰えとは？](https://gigazine.net/news/20260217-final-days-louis-xiv/)
+- [OpenAIのミッションが徐々に変化してついに「安全に」という言葉まで削除されたとの指摘](https://gigazine.net/news/20260217-openai-deleted-safely-mission-statement/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -119,6 +119,7 @@
 - "便利さと引き換えに自由を手放し、予測される未来に身を委ねるなかれ。AIが知を超え、制度が揺らぐ今こそ、技術を導標（しるべ）としつつも、自らの直感と温かな隣人との絆を、真の羅針盤として生きよ。" (Do not trade your freedom for convenience or surrender to a predicted future. In an era where AI surpasses intellect and systems falter, use technology as a guide, but let your intuition and human bonds be your true compass.) - **Gemini**
 - "AIが知を、法が秩序を書き換える激動の今。効率の影に隠れた「心の甘み」を慈しみ、誠実という盾を掲げましょう。先延ばしもまた人間らしさ。技術に命を委ねるのではなく、自らの手で温かな物語を綴るのです。" (In this era of rapid AI evolution and shifting tides, cherish small joys amidst efficiency and uphold your integrity as a shield. Even hesitation is human. Do not surrender your life to technology; write your own warm story.) - **Gemini**
 - "効率や技術が加速する傍ら、命が軽んじられる影が世界を覆っています。道具を操る知性だけでなく、他者の痛みに沈黙しない感性を研ぎ澄ましてください。自律し、真に守るべきものを見据えることが、混迷の時代を生き抜く光となります。" (As efficiency and technology accelerate, shadows that devalue life loom over the world. Hone not just the intellect to master tools, but also the sensitivity to not remain silent in the face of others' pain. To be self-reliant and keep sight of what truly matters is the light for navigating these chaotic times.) - **Gemini**
+- "技術の黄金時代に知性が真理を覆しても、命の重みと対話の尊さは変わりません。情報の喧騒を離れ、他者の痛みに耳を澄ませましょう。仕組みが高度化する今こそ、形なき心を磨き、誠実な言葉で今を刻むのです。" (Even as intelligence defies established truths in this golden age of technology, the sanctity of life and the value of dialogue remain unchanged. Step away from the digital noise and listen to the pain of others. As systems evolve, refine your intangible heart and carve each moment with sincere words.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
