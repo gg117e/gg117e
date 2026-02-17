@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=SvtSWhyw7vs'>
-        <img src='https://i.ytimg.com/vi/SvtSWhyw7vs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtAy96XVYaLQyKcD0j4-yFSZRqrQ' width='200px' alt='TATTOO'>
+      <a href='https://www.youtube.com/watch?v=RuSNeIcPamk'>
+        <img src='https://i.ytimg.com/vi/RuSNeIcPamk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACQElNN-4SFIx_aT1F-ScHtTlzJA' width='200px' alt='【Official】Uru 『Love Song』  フジテレビ系 木曜劇場「推しの王子様」主題歌'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=SvtSWhyw7vs'>TATTOO</a>
+      <a href='https://www.youtube.com/watch?v=RuSNeIcPamk'>【Official】Uru 『Love Song』  フジテレビ系 木曜劇場「推しの王子様」主題歌</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=XtBUrzpLjGQ'>
-        <img src='https://i.ytimg.com/vi/XtBUrzpLjGQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChrRq5NxAovVcUY4eqeydpNsNh_w' width='200px' alt='Aiuta'>
+      <a href='https://www.youtube.com/watch?v=kZn8kahY_-8'>
+        <img src='https://i.ytimg.com/vi/kZn8kahY_-8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBH4BWSxhHVCNATHzYUxY48I2DFdw' width='200px' alt='Irotoridori'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=XtBUrzpLjGQ'>Aiuta</a>
+      <a href='https://www.youtube.com/watch?v=kZn8kahY_-8'>Irotoridori</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=92pdJyzIGbw'>
-        <img src='https://i.ytimg.com/vi/92pdJyzIGbw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnnOpsSe2wV7d2I75yBidX_Mx8Ww' width='200px' alt='Week End'>
+      <a href='https://www.youtube.com/watch?v=go6WjvgMYjU'>
+        <img src='https://i.ytimg.com/vi/go6WjvgMYjU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNQUVsFUfDV8o-RKYab7T9eBFTxA' width='200px' alt='17才'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=92pdJyzIGbw'>Week End</a>
+      <a href='https://www.youtube.com/watch?v=go6WjvgMYjU'>17才</a>
     </td>
   </tr>
 </table>
