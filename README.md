@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=29vX07Sz3kw'>
-        <img src='https://i.ytimg.com/vi/29vX07Sz3kw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKaU55q7u0HPNBVdmcF1-ZubeeJA' width='200px' alt='Believe'>
+      <a href='https://www.youtube.com/watch?v=XtBUrzpLjGQ'>
+        <img src='https://i.ytimg.com/vi/XtBUrzpLjGQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChrRq5NxAovVcUY4eqeydpNsNh_w' width='200px' alt='Aiuta'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=29vX07Sz3kw'>Believe</a>
+      <a href='https://www.youtube.com/watch?v=XtBUrzpLjGQ'>Aiuta</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Uwhbouk64K4'>
-        <img src='https://i.ytimg.com/vi/Uwhbouk64K4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKHPfVfHTzdk0VxCwn9_cdeQqAbw' width='200px' alt='Smile Again'>
+      <a href='https://www.youtube.com/watch?v=37W7Y2RRyiM'>
+        <img src='https://i.ytimg.com/vi/37W7Y2RRyiM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDm5Sq8W3leIBeRoIRalhEJDqGniQ' width='200px' alt='Pretender'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Uwhbouk64K4'>Smile Again</a>
+      <a href='https://www.youtube.com/watch?v=37W7Y2RRyiM'>Pretender</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=wykx9MzjL-8'>
-        <img src='https://i.ytimg.com/vi/wykx9MzjL-8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaoH4EOxmPn7by1akUA2OC7YMMhg' width='200px' alt='AAA / "Wake up!"Music Video'>
+      <a href='https://www.youtube.com/watch?v=ED8Q0ipvhg8'>
+        <img src='https://i.ytimg.com/vi/ED8Q0ipvhg8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDr8DalCaVoHA8DtY0mxyBK_QYifQ' width='200px' alt='Haruwo Machiwabite'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=wykx9MzjL-8'>AAA / "Wake up!"Music Video</a>
+      <a href='https://www.youtube.com/watch?v=ED8Q0ipvhg8'>Haruwo Machiwabite</a>
     </td>
   </tr>
 </table>
