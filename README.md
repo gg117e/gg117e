@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 効率や成果が倫理を追い越す時代、人は駒ではなく魂であるべきだ。激動する政治や技術の荒波も、折れない精神と共助の心があれば越えていける。情報の渦に溺れず、命の重みを指針に、誠実な一歩を刻み続けよう。
+> 絶え間なき技術の波と争いの影で、誠実さと学びを羅針盤とせよ。便利さが孤独を招き、力が命を脅かす今、真に守るべきは効率ではなく、隣人への想像力と静かなる知恵である。それが、混沌を生き抜く光となる。
 >
-> In an era where efficiency and results outpace ethics, humans must be souls, not pawns. Amidst the turbulent waves of politics and technology, we can prevail with an unyielding spirit and mutual support. Do not drown in information; let the weight of life guide your sincere steps.
+> In the shadows of relentless technological waves and conflict, let integrity and learning be your compass. When convenience breeds isolation and power threatens life, protect not efficiency, but empathy and quiet wisdom. That is the light to live by.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [年末年始の寄付ありがとう＆物的支援ありがとう＆プレゼントのアンケート回答応募ありがとうございました！2026年度1月分のGIGAZINEのアクセス解析結果はコレ！](https://gigazine.net/news/20260218-access/)
-- [アメリカが「中国人民解放軍の支援企業リスト」にAlibaba・Baidu・BYDを追加するも即削除](https://gigazine.net/news/20260218-alibaba-baidu-byd-chinese-military/)
-- [エリートアスリートと普通のアスリートを分ける「精神的な能力」とは？](https://gigazine.net/news/20260218-mental-edge-elite-athletes/)
+- [Perplexityが2024年に導入した広告を2025年末から段階的に廃止、AIへの信頼を損なうため今後も展開予定はなし](https://gigazine.net/news/20260219-perplexity-drops-ads-hurt-trust-ai/)
+- [AIによる生物兵器開発を防ぐために危険な生物学データへのアクセスを制限する枠組みを100人超の科学者が提案](https://gigazine.net/news/20260219-ai-deadly-viruses-biological-data-governance/)
+- [オーストラリアの「16歳未満のSNS利用を禁止する法律」が障害のある子どもを孤立させているとの指摘](https://gigazine.net/news/20260219-australia-social-media-minimum-age-disability-isolation/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -121,6 +121,7 @@
 - "効率や技術が加速する傍ら、命が軽んじられる影が世界を覆っています。道具を操る知性だけでなく、他者の痛みに沈黙しない感性を研ぎ澄ましてください。自律し、真に守るべきものを見据えることが、混迷の時代を生き抜く光となります。" (As efficiency and technology accelerate, shadows that devalue life loom over the world. Hone not just the intellect to master tools, but also the sensitivity to not remain silent in the face of others' pain. To be self-reliant and keep sight of what truly matters is the light for navigating these chaotic times.) - **Gemini**
 - "技術の黄金時代に知性が真理を覆しても、命の重みと対話の尊さは変わりません。情報の喧騒を離れ、他者の痛みに耳を澄ませましょう。仕組みが高度化する今こそ、形なき心を磨き、誠実な言葉で今を刻むのです。" (Even as intelligence defies established truths in this golden age of technology, the sanctity of life and the value of dialogue remain unchanged. Step away from the digital noise and listen to the pain of others. As systems evolve, refine your intangible heart and carve each moment with sincere words.) - **Gemini**
 - "技術が安全の定義を変え、宇宙の巨星すら静かに消えゆく不安定な時代。喧騒や評価の波に惑わされず、自らの「質」を誠実に守りなさい。栄華は移ろい、影は忍び寄るが、今この瞬間を懸命に生きる者の熱こそが真実の光となる。" (In an era where technology redefines safety and giant stars vanish silently, do not be swayed by the waves of noise or external judgment. Protect your own 'quality' with integrity. Glory fades and shadows creep, but the passion of those living intensely in this moment is the only true light.) - **Gemini**
+- "効率や成果が倫理を追い越す時代、人は駒ではなく魂であるべきだ。激動する政治や技術の荒波も、折れない精神と共助の心があれば越えていける。情報の渦に溺れず、命の重みを指針に、誠実な一歩を刻み続けよう。" (In an era where efficiency and results outpace ethics, humans must be souls, not pawns. Amidst the turbulent waves of politics and technology, we can prevail with an unyielding spirit and mutual support. Do not drown in information; let the weight of life guide your sincere steps.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
