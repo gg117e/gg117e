@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=I8fxhn_l08g'>
-        <img src='https://i.ytimg.com/vi/I8fxhn_l08g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDSBeXOzTWFpJfP7MAMG5QX5MRHA' width='200px' alt='Official髭男dism - Choral A [Official Video]'>
+      <a href='https://www.youtube.com/watch?v=MqHfdqK5VvI'>
+        <img src='https://i.ytimg.com/vi/MqHfdqK5VvI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXZdvpkjf-wPoMr7QxLRsrjPYRqg' width='200px' alt='Michi Teyu Ku (Overflowing)'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=I8fxhn_l08g'>Official髭男dism - Choral A [Official Video]</a>
+      <a href='https://www.youtube.com/watch?v=MqHfdqK5VvI'>Michi Teyu Ku (Overflowing)</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=SQcq990N5NY'>
-        <img src='https://i.ytimg.com/vi/SQcq990N5NY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWlOgX0s6Lzh8Clxs5rWiyYXwfUg' width='200px' alt='また逢う日まで'>
+      <a href='https://www.youtube.com/watch?v=XtBUrzpLjGQ'>
+        <img src='https://i.ytimg.com/vi/XtBUrzpLjGQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChrRq5NxAovVcUY4eqeydpNsNh_w' width='200px' alt='Aiuta'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=SQcq990N5NY'>また逢う日まで</a>
+      <a href='https://www.youtube.com/watch?v=XtBUrzpLjGQ'>Aiuta</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=5X_wSeKhPAU'>
-        <img src='https://i.ytimg.com/vi/5X_wSeKhPAU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBq3r0bpKi6IiOhtkcgzu-FS_beg' width='200px' alt='Orange'>
+      <a href='https://www.youtube.com/watch?v=SvtSWhyw7vs'>
+        <img src='https://i.ytimg.com/vi/SvtSWhyw7vs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtAy96XVYaLQyKcD0j4-yFSZRqrQ' width='200px' alt='TATTOO'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=5X_wSeKhPAU'>Orange</a>
+      <a href='https://www.youtube.com/watch?v=SvtSWhyw7vs'>TATTOO</a>
     </td>
   </tr>
 </table>
