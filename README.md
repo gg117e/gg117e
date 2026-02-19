@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=o3YbBDqEiGc'>
-        <img src='https://i.ytimg.com/vi/o3YbBDqEiGc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjtlb-SGx4WKb15NYeGHMqmMOuEg' width='200px' alt='春擬き'>
+      <a href='https://www.youtube.com/watch?v=ZYZp78E4JxA'>
+        <img src='https://i.ytimg.com/vi/ZYZp78E4JxA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMVedMIPColgIHtgkhRgVgSPcQCA' width='200px' alt='スパークル'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=o3YbBDqEiGc'>春擬き</a>
+      <a href='https://www.youtube.com/watch?v=ZYZp78E4JxA'>スパークル</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=p1qM75a9FeE'>
-        <img src='https://i.ytimg.com/vi/p1qM75a9FeE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClYikOff8dhkp27FSkVQFXZWivEA' width='200px' alt='Official髭男dism - HELLO［Official Video］'>
+      <a href='https://www.youtube.com/watch?v=ME_ZU0ME4vQ'>
+        <img src='https://i.ytimg.com/vi/ME_ZU0ME4vQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcg2wcDNON6jYjuxGICte2SY1Adg' width='200px' alt='ゼロのままでいられたら'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=p1qM75a9FeE'>Official髭男dism - HELLO［Official Video］</a>
+      <a href='https://www.youtube.com/watch?v=ME_ZU0ME4vQ'>ゼロのままでいられたら</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=CjaM8qWzssk'>
-        <img src='https://i.ytimg.com/vi/CjaM8qWzssk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBP1ncZkqRaXEFX5KEzP-6JF15fBw' width='200px' alt='晩餐歌 - Bansanka'>
+      <a href='https://www.youtube.com/watch?v=SCRS1GAIiWw'>
+        <img src='https://i.ytimg.com/vi/SCRS1GAIiWw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfxYBNMAcUPbXvd6iovLYBMlViiQ' width='200px' alt='サイレントマジョリティー'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=CjaM8qWzssk'>晩餐歌 - Bansanka</a>
+      <a href='https://www.youtube.com/watch?v=SCRS1GAIiWw'>サイレントマジョリティー</a>
     </td>
   </tr>
 </table>
