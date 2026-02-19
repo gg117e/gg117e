@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ZYZp78E4JxA'>
-        <img src='https://i.ytimg.com/vi/ZYZp78E4JxA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMVedMIPColgIHtgkhRgVgSPcQCA' width='200px' alt='スパークル'>
+      <a href='https://www.youtube.com/watch?v=OF45OXeH5VM'>
+        <img src='https://i.ytimg.com/vi/OF45OXeH5VM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0IISWvvwDLV43I2jjhFYNqIwbEA' width='200px' alt='感電'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ZYZp78E4JxA'>スパークル</a>
+      <a href='https://www.youtube.com/watch?v=OF45OXeH5VM'>感電</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ME_ZU0ME4vQ'>
-        <img src='https://i.ytimg.com/vi/ME_ZU0ME4vQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcg2wcDNON6jYjuxGICte2SY1Adg' width='200px' alt='ゼロのままでいられたら'>
+      <a href='https://www.youtube.com/watch?v=WjIsq1-ZBaw'>
+        <img src='https://i.ytimg.com/vi/WjIsq1-ZBaw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCh9rmrKCmdRlaAejuSaWKVb-hTg' width='200px' alt='平井 大 / 栄光の扉（Music Video）'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ME_ZU0ME4vQ'>ゼロのままでいられたら</a>
+      <a href='https://www.youtube.com/watch?v=WjIsq1-ZBaw'>平井 大 / 栄光の扉（Music Video）</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=SCRS1GAIiWw'>
-        <img src='https://i.ytimg.com/vi/SCRS1GAIiWw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfxYBNMAcUPbXvd6iovLYBMlViiQ' width='200px' alt='サイレントマジョリティー'>
+      <a href='https://www.youtube.com/watch?v=bUnfuRew3PU'>
+        <img src='https://i.ytimg.com/vi/bUnfuRew3PU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCN7upglmRfybcjPg13tGydKO9bNA' width='200px' alt='Hello Song'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=SCRS1GAIiWw'>サイレントマジョリティー</a>
+      <a href='https://www.youtube.com/watch?v=bUnfuRew3PU'>Hello Song</a>
     </td>
   </tr>
 </table>
