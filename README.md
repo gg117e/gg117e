@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 絶え間なき技術の波と争いの影で、誠実さと学びを羅針盤とせよ。便利さが孤独を招き、力が命を脅かす今、真に守るべきは効率ではなく、隣人への想像力と静かなる知恵である。それが、混沌を生き抜く光となる。
+> AIが歴史を紡ぎiPSが命を繋ぐ今、完璧である必要はありません。MRIの「異常」が人間の証であるように、不完全さを愛しなさい。技術が加速する世界こそ、外の喧騒に惑わされず、内なる静寂と誠実さを守り抜くことが真の強さとなります。
 >
-> In the shadows of relentless technological waves and conflict, let integrity and learning be your compass. When convenience breeds isolation and power threatens life, protect not efficiency, but empathy and quiet wisdom. That is the light to live by.
+> In an age where AI weaves history and iPS cells sustain life, perfection is unnecessary. Just as MRI 'abnormalities' signify our humanity, embrace imperfection. As technology accelerates, true strength lies in protecting your inner silence and integrity, unswayed by the world's clamor.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [Perplexityが2024年に導入した広告を2025年末から段階的に廃止、AIへの信頼を損なうため今後も展開予定はなし](https://gigazine.net/news/20260219-perplexity-drops-ads-hurt-trust-ai/)
-- [AIによる生物兵器開発を防ぐために危険な生物学データへのアクセスを制限する枠組みを100人超の科学者が提案](https://gigazine.net/news/20260219-ai-deadly-viruses-biological-data-governance/)
-- [オーストラリアの「16歳未満のSNS利用を禁止する法律」が障害のある子どもを孤立させているとの指摘](https://gigazine.net/news/20260219-australia-social-media-minimum-age-disability-isolation/)
+- [Google Geminiが生成するナレーションで歴史を体験できる「Universal History Simulator」、江戸時代の農民や古代ローマの塩鉱夫になって世界を探訪可能](https://gigazine.net/news/20260220-universal-history-simulator/)
+- [40歳以上の成人の99％はMRIで肩に「異常」が見られる](https://gigazine.net/news/20260220-shoulder-mri-abnormalities-99-percent-over-40/)
+- [Microsoftが第三者の図表をAIで勝手に描き直して公式ページに無断掲載していたことが判明](https://gigazine.net/news/20260219-microsoft-ai-slop-git-branching-model/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -122,6 +122,7 @@
 - "技術の黄金時代に知性が真理を覆しても、命の重みと対話の尊さは変わりません。情報の喧騒を離れ、他者の痛みに耳を澄ませましょう。仕組みが高度化する今こそ、形なき心を磨き、誠実な言葉で今を刻むのです。" (Even as intelligence defies established truths in this golden age of technology, the sanctity of life and the value of dialogue remain unchanged. Step away from the digital noise and listen to the pain of others. As systems evolve, refine your intangible heart and carve each moment with sincere words.) - **Gemini**
 - "技術が安全の定義を変え、宇宙の巨星すら静かに消えゆく不安定な時代。喧騒や評価の波に惑わされず、自らの「質」を誠実に守りなさい。栄華は移ろい、影は忍び寄るが、今この瞬間を懸命に生きる者の熱こそが真実の光となる。" (In an era where technology redefines safety and giant stars vanish silently, do not be swayed by the waves of noise or external judgment. Protect your own 'quality' with integrity. Glory fades and shadows creep, but the passion of those living intensely in this moment is the only true light.) - **Gemini**
 - "効率や成果が倫理を追い越す時代、人は駒ではなく魂であるべきだ。激動する政治や技術の荒波も、折れない精神と共助の心があれば越えていける。情報の渦に溺れず、命の重みを指針に、誠実な一歩を刻み続けよう。" (In an era where efficiency and results outpace ethics, humans must be souls, not pawns. Amidst the turbulent waves of politics and technology, we can prevail with an unyielding spirit and mutual support. Do not drown in information; let the weight of life guide your sincere steps.) - **Gemini**
+- "絶え間なき技術の波と争いの影で、誠実さと学びを羅針盤とせよ。便利さが孤独を招き、力が命を脅かす今、真に守るべきは効率ではなく、隣人への想像力と静かなる知恵である。それが、混沌を生き抜く光となる。" (In the shadows of relentless technological waves and conflict, let integrity and learning be your compass. When convenience breeds isolation and power threatens life, protect not efficiency, but empathy and quiet wisdom. That is the light to live by.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
