@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=RuSNeIcPamk'>
-        <img src='https://i.ytimg.com/vi/RuSNeIcPamk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACQElNN-4SFIx_aT1F-ScHtTlzJA' width='200px' alt='【Official】Uru 『Love Song』  フジテレビ系 木曜劇場「推しの王子様」主題歌'>
+      <a href='https://www.youtube.com/watch?v=EqaDNpV5FvI'>
+        <img src='https://i.ytimg.com/vi/EqaDNpV5FvI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxXHnjB2e3tyxlKUuMfzSK7E7E8g' width='200px' alt='Blissful'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=RuSNeIcPamk'>【Official】Uru 『Love Song』  フジテレビ系 木曜劇場「推しの王子様」主題歌</a>
+      <a href='https://www.youtube.com/watch?v=EqaDNpV5FvI'>Blissful</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Def4ipTm-y4'>
-        <img src='https://i.ytimg.com/vi/Def4ipTm-y4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCixEcYjMmjLWOaqoEVhRfGcylceQ' width='200px' alt='Lovin''>
+      <a href='https://www.youtube.com/watch?v=0izDjaaBa-A'>
+        <img src='https://i.ytimg.com/vi/0izDjaaBa-A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcNhcK-msy0yxQQnDdt5sDKgKU3w' width='200px' alt='光の跡'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Def4ipTm-y4'>Lovin'</a>
+      <a href='https://www.youtube.com/watch?v=0izDjaaBa-A'>光の跡</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=wPCO-7xW9WI'>
-        <img src='https://i.ytimg.com/vi/wPCO-7xW9WI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9tWioBHokmqNRNhQNPvsbay361g' width='200px' alt='Shizuku'>
+      <a href='https://www.youtube.com/watch?v=M74KYy2jpyM'>
+        <img src='https://i.ytimg.com/vi/M74KYy2jpyM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-To5xuUwT9bMnLKHWzSqxU503dQ' width='200px' alt='Sharon'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=wPCO-7xW9WI'>Shizuku</a>
+      <a href='https://www.youtube.com/watch?v=M74KYy2jpyM'>Sharon</a>
     </td>
   </tr>
 </table>
