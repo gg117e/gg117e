@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> AIが歴史を紡ぎiPSが命を繋ぐ今、完璧である必要はありません。MRIの「異常」が人間の証であるように、不完全さを愛しなさい。技術が加速する世界こそ、外の喧騒に惑わされず、内なる静寂と誠実さを守り抜くことが真の強さとなります。
+> 世界が関税の壁や言葉の虚偽に揺れても、あなたの誠実さだけは境界を持たない。技術は効率を生むが、心の静寂は知恵を育む。嵐の海で羅針盤を信じるように、数字より価値ある「生」の重みを抱きしめ、今日を歩め。
 >
-> In an age where AI weaves history and iPS cells sustain life, perfection is unnecessary. Just as MRI 'abnormalities' signify our humanity, embrace imperfection. As technology accelerates, true strength lies in protecting your inner silence and integrity, unswayed by the world's clamor.
+> Even as the world wavers between tariff walls and falsehoods, let your integrity remain borderless. Technology breeds efficiency, but inner silence nurtures wisdom. Like trusting a compass in a storm, cherish the weight of life over numbers and walk forward.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [Google Geminiが生成するナレーションで歴史を体験できる「Universal History Simulator」、江戸時代の農民や古代ローマの塩鉱夫になって世界を探訪可能](https://gigazine.net/news/20260220-universal-history-simulator/)
-- [40歳以上の成人の99％はMRIで肩に「異常」が見られる](https://gigazine.net/news/20260220-shoulder-mri-abnormalities-99-percent-over-40/)
-- [Microsoftが第三者の図表をAIで勝手に描き直して公式ページに無断掲載していたことが判明](https://gigazine.net/news/20260219-microsoft-ai-slop-git-branching-model/)
+- [Google Workspaceユーザーに大手決済代行会社「Viva.com」の認証メールが届かない不具合が発生、原因はMessage-IDの欠落](https://gigazine.net/news/20260221-viva-google-workspace-message-id-bounce/)
+- [他人を守るためのウソは「真実よりも道徳的」と評価されるとの研究結果](https://gigazine.net/news/20260221-lie-truth-feedback/)
+- [Discordの代わりとして注目されるMatrixのビデオ通話・画面共有機能「MatrixRTC」はロールバック処理と同期機能があるのでマルチプレイヤーゲームの開発も可能](https://gigazine.net/news/20260220-matrixrtc/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -123,6 +123,7 @@
 - "技術が安全の定義を変え、宇宙の巨星すら静かに消えゆく不安定な時代。喧騒や評価の波に惑わされず、自らの「質」を誠実に守りなさい。栄華は移ろい、影は忍び寄るが、今この瞬間を懸命に生きる者の熱こそが真実の光となる。" (In an era where technology redefines safety and giant stars vanish silently, do not be swayed by the waves of noise or external judgment. Protect your own 'quality' with integrity. Glory fades and shadows creep, but the passion of those living intensely in this moment is the only true light.) - **Gemini**
 - "効率や成果が倫理を追い越す時代、人は駒ではなく魂であるべきだ。激動する政治や技術の荒波も、折れない精神と共助の心があれば越えていける。情報の渦に溺れず、命の重みを指針に、誠実な一歩を刻み続けよう。" (In an era where efficiency and results outpace ethics, humans must be souls, not pawns. Amidst the turbulent waves of politics and technology, we can prevail with an unyielding spirit and mutual support. Do not drown in information; let the weight of life guide your sincere steps.) - **Gemini**
 - "絶え間なき技術の波と争いの影で、誠実さと学びを羅針盤とせよ。便利さが孤独を招き、力が命を脅かす今、真に守るべきは効率ではなく、隣人への想像力と静かなる知恵である。それが、混沌を生き抜く光となる。" (In the shadows of relentless technological waves and conflict, let integrity and learning be your compass. When convenience breeds isolation and power threatens life, protect not efficiency, but empathy and quiet wisdom. That is the light to live by.) - **Gemini**
+- "AIが歴史を紡ぎiPSが命を繋ぐ今、完璧である必要はありません。MRIの「異常」が人間の証であるように、不完全さを愛しなさい。技術が加速する世界こそ、外の喧騒に惑わされず、内なる静寂と誠実さを守り抜くことが真の強さとなります。" (In an age where AI weaves history and iPS cells sustain life, perfection is unnecessary. Just as MRI 'abnormalities' signify our humanity, embrace imperfection. As technology accelerates, true strength lies in protecting your inner silence and integrity, unswayed by the world's clamor.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
