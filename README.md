@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=hSdcy2_vtaQ'>
-        <img src='https://i.ytimg.com/vi/hSdcy2_vtaQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPw24hhUebfUwdjUQ9IOX0zI-_3Q' width='200px' alt='僕らまた (Us, again) - SG (Official Lyric Video)'>
+      <a href='https://www.youtube.com/watch?v=PLNtwcIjgJE'>
+        <img src='https://i.ytimg.com/vi/PLNtwcIjgJE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRAewsfJBCUN9YE1jmdT2Zsd9E0A' width='200px' alt='Misenainamidawa Kittoitsuka'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=hSdcy2_vtaQ'>僕らまた (Us, again) - SG (Official Lyric Video)</a>
+      <a href='https://www.youtube.com/watch?v=PLNtwcIjgJE'>Misenainamidawa Kittoitsuka</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=BUG9r-s56II'>
-        <img src='https://i.ytimg.com/vi/BUG9r-s56II/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBvZsmOoGEgA_UCAVPi1PDbjkUDQ' width='200px' alt='舞台に立って'>
+      <a href='https://www.youtube.com/watch?v=Nn3LD3C4Q-0'>
+        <img src='https://i.ytimg.com/vi/Nn3LD3C4Q-0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgR8BhgWkP37YPy3vimvza0g4onw' width='200px' alt='ナイスアイディア！'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=BUG9r-s56II'>舞台に立って</a>
+      <a href='https://www.youtube.com/watch?v=Nn3LD3C4Q-0'>ナイスアイディア！</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=olsv91gZylw'>
-        <img src='https://i.ytimg.com/vi/olsv91gZylw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMk1mraa6RG1rdZqFj9hliTNqJwg' width='200px' alt='悲しみなんて笑い飛ばせ'>
+      <a href='https://www.youtube.com/watch?v=EpM37GEGhDc'>
+        <img src='https://i.ytimg.com/vi/EpM37GEGhDc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTartsk2_M7nJLY8In09O7fUUIwQ' width='200px' alt='Itoshi Kimie (Essential Ver.)'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=olsv91gZylw'>悲しみなんて笑い飛ばせ</a>
+      <a href='https://www.youtube.com/watch?v=EpM37GEGhDc'>Itoshi Kimie (Essential Ver.)</a>
     </td>
   </tr>
 </table>
