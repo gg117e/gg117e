@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=rpIsjz-oLOQ'>
-        <img src='https://i.ytimg.com/vi/rpIsjz-oLOQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvKColZ6hajVGwZLVf7Dvo4_g4yg' width='200px' alt='ヒロイン育成計画 feat. 涼海ひより（CV：水瀬いのり）／ HoneyWorks'>
+      <a href='https://www.youtube.com/watch?v=IwQGnXpskoY'>
+        <img src='https://i.ytimg.com/vi/IwQGnXpskoY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDiHwirjE0LDcogv4uTcLmilOrQCQ' width='200px' alt='One Voice'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=rpIsjz-oLOQ'>ヒロイン育成計画 feat. 涼海ひより（CV：水瀬いのり）／ HoneyWorks</a>
+      <a href='https://www.youtube.com/watch?v=IwQGnXpskoY'>One Voice</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=cMLTX2FClxw'>
-        <img src='https://i.ytimg.com/vi/cMLTX2FClxw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdhytK3vnYCrOsTlHB2LeYE2Kp5g' width='200px' alt='Official髭男dism - ビンテージ［Official Video］'>
+      <a href='https://www.youtube.com/watch?v=NytDYFWc--s'>
+        <img src='https://i.ytimg.com/vi/NytDYFWc--s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAam1nXolU_zNGmcEIM13wXQ3X_wQ' width='200px' alt='虹色の戦争'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=cMLTX2FClxw'>Official髭男dism - ビンテージ［Official Video］</a>
+      <a href='https://www.youtube.com/watch?v=NytDYFWc--s'>虹色の戦争</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=gzHTMjMS-wI'>
-        <img src='https://i.ytimg.com/vi/gzHTMjMS-wI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCp8jNtX5jo9nTTY8FExjOfsoG9ZQ' width='200px' alt='Aino Katachi'>
+      <a href='https://www.youtube.com/watch?v=W8-P1WQalQw'>
+        <img src='https://i.ytimg.com/vi/W8-P1WQalQw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRO1xzNXSPZOruZidXBs7kgiq-VA' width='200px' alt='Seikai (18Fes Version)'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=gzHTMjMS-wI'>Aino Katachi</a>
+      <a href='https://www.youtube.com/watch?v=W8-P1WQalQw'>Seikai (18Fes Version)</a>
     </td>
   </tr>
 </table>
