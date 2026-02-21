@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=PLNtwcIjgJE'>
-        <img src='https://i.ytimg.com/vi/PLNtwcIjgJE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRAewsfJBCUN9YE1jmdT2Zsd9E0A' width='200px' alt='Misenainamidawa Kittoitsuka'>
+      <a href='https://www.youtube.com/watch?v=FBdNeFTBXg8'>
+        <img src='https://i.ytimg.com/vi/FBdNeFTBXg8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAshCvVf72eARbWpB9Y0IegkRyUUA' width='200px' alt='心の花を咲かせよう'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=PLNtwcIjgJE'>Misenainamidawa Kittoitsuka</a>
+      <a href='https://www.youtube.com/watch?v=FBdNeFTBXg8'>心の花を咲かせよう</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Nn3LD3C4Q-0'>
-        <img src='https://i.ytimg.com/vi/Nn3LD3C4Q-0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgR8BhgWkP37YPy3vimvza0g4onw' width='200px' alt='ナイスアイディア！'>
+      <a href='https://www.youtube.com/watch?v=v4jO0WBnEdw'>
+        <img src='https://i.ytimg.com/vi/v4jO0WBnEdw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDjZFqg9zkQbsvumZ20ymY_Pr00g' width='200px' alt='Don’t Wake Me Up'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Nn3LD3C4Q-0'>ナイスアイディア！</a>
+      <a href='https://www.youtube.com/watch?v=v4jO0WBnEdw'>Don’t Wake Me Up</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=EpM37GEGhDc'>
-        <img src='https://i.ytimg.com/vi/EpM37GEGhDc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTartsk2_M7nJLY8In09O7fUUIwQ' width='200px' alt='Itoshi Kimie (Essential Ver.)'>
+      <a href='https://www.youtube.com/watch?v=WWB01IuMvzA'>
+        <img src='https://i.ytimg.com/vi/WWB01IuMvzA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gOAAoADigIMCAAQARhlIEkoPzAP&rs=AOn4CLC6k3VR61-lJ48-EQFwaCqvmAawSg' width='200px' alt='God knows... ''The Melancholy of Haruhi Suzumiya'' 【涼宮ハルヒの憂鬱】Kadokawa公認MAD【ﾍﾞｰｽ 演奏】'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=EpM37GEGhDc'>Itoshi Kimie (Essential Ver.)</a>
+      <a href='https://www.youtube.com/watch?v=WWB01IuMvzA'>God knows... ''The Melancholy of Haruhi Suzumiya'' 【涼宮ハルヒの憂鬱】Kadokawa公認MAD【ﾍﾞｰｽ 演奏】</a>
     </td>
   </tr>
 </table>
