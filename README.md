@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=dMLNw_yzaFM'>
-        <img src='https://i.ytimg.com/vi/dMLNw_yzaFM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCE91zJ1MOoudAPxg0QkwkpSrNFxw' width='200px' alt='シルエット'>
+      <a href='https://www.youtube.com/watch?v=2t4EHkBJUPY'>
+        <img src='https://i.ytimg.com/vi/2t4EHkBJUPY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBM4WuzG3tkueGVzH987lO7td5HGg' width='200px' alt='Airi Suzuki『heart notes』(Music Video)'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=dMLNw_yzaFM'>シルエット</a>
+      <a href='https://www.youtube.com/watch?v=2t4EHkBJUPY'>Airi Suzuki『heart notes』(Music Video)</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=gzHTMjMS-wI'>
-        <img src='https://i.ytimg.com/vi/gzHTMjMS-wI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCp8jNtX5jo9nTTY8FExjOfsoG9ZQ' width='200px' alt='Aino Katachi'>
+      <a href='https://www.youtube.com/watch?v=nwKt2dWGm2E'>
+        <img src='https://i.ytimg.com/vi/nwKt2dWGm2E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcY7vD2oYljg6A-h8qMezj0KmhpA' width='200px' alt='プロローグ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=gzHTMjMS-wI'>Aino Katachi</a>
+      <a href='https://www.youtube.com/watch?v=nwKt2dWGm2E'>プロローグ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=CjaM8qWzssk'>
-        <img src='https://i.ytimg.com/vi/CjaM8qWzssk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBP1ncZkqRaXEFX5KEzP-6JF15fBw' width='200px' alt='晩餐歌 - Bansanka'>
+      <a href='https://www.youtube.com/watch?v=v4jO0WBnEdw'>
+        <img src='https://i.ytimg.com/vi/v4jO0WBnEdw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDjZFqg9zkQbsvumZ20ymY_Pr00g' width='200px' alt='Don’t Wake Me Up'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=CjaM8qWzssk'>晩餐歌 - Bansanka</a>
+      <a href='https://www.youtube.com/watch?v=v4jO0WBnEdw'>Don’t Wake Me Up</a>
     </td>
   </tr>
 </table>
