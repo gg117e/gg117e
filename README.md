@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=_zVFYb5jzr8'>
-        <img src='https://i.ytimg.com/vi/_zVFYb5jzr8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCN42WTnWBBGIgKGCcTgP1-bACk1w' width='200px' alt='Love Letter'>
+      <a href='https://www.youtube.com/watch?v=iUUZPdV_fto'>
+        <img src='https://i.ytimg.com/vi/iUUZPdV_fto/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_ICcoHDAP&rs=AOn4CLAV03k82NO8AHGZMArSWpQ6UEtp8g' width='200px' alt='SEKAI NO OWARI「Romantic」【Official Audio】'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=_zVFYb5jzr8'>Love Letter</a>
+      <a href='https://www.youtube.com/watch?v=iUUZPdV_fto'>SEKAI NO OWARI「Romantic」【Official Audio】</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=wggigwtz4dQ'>
-        <img src='https://i.ytimg.com/vi/wggigwtz4dQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDx8lLV4A1ksdgMSl8ktaqa75bzKw' width='200px' alt='IRIS OUT'>
+      <a href='https://www.youtube.com/watch?v=1tk1pqwrOys'>
+        <img src='https://i.ytimg.com/vi/1tk1pqwrOys/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAa4d548fZz_6zUv6-AdAxqR1CW8A' width='200px' alt='廻廻奇譚 - Eve MV'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=wggigwtz4dQ'>IRIS OUT</a>
+      <a href='https://www.youtube.com/watch?v=1tk1pqwrOys'>廻廻奇譚 - Eve MV</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=_bH_0NIi_Vc'>
-        <img src='https://i.ytimg.com/vi/_bH_0NIi_Vc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsceiLz7G_AJQoMUqKRGRR0QUfJA' width='200px' alt='日曜日のラブレター'>
+      <a href='https://www.youtube.com/watch?v=cMLTX2FClxw'>
+        <img src='https://i.ytimg.com/vi/cMLTX2FClxw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdhytK3vnYCrOsTlHB2LeYE2Kp5g' width='200px' alt='Official髭男dism - ビンテージ［Official Video］'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=_bH_0NIi_Vc'>日曜日のラブレター</a>
+      <a href='https://www.youtube.com/watch?v=cMLTX2FClxw'>Official髭男dism - ビンテージ［Official Video］</a>
     </td>
   </tr>
 </table>
