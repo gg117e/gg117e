@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 関税や情報の嵐が吹き荒れる今、私たちは「やり直せる選択」と「戻れぬ決断」を峻別せねばなりません。外の数値に惑わされず、内なる聖域と等身大の繋がりを慈しみましょう。不完全な自分を許し、静かに心を整えることが、不確かな時代を越える最良の盾となります。
+> AIが数十年分の欠陥を暴き、世界が情報の渦に呑まれても、一筋の命の輝きに勝る真実はありません。効率や偽りに惑わされず、今この瞬間の温もりと、現実を見据える強さを大切に、誠実に歩み続けなさい。
 >
-> Amidst the storms of tariffs and information warfare, we must distinguish between reversible choices and irreversible decisions. Do not be swayed by external figures; cherish your inner sanctuary and authentic connections. Forgiving your imperfections and quietly centering your soul is the ultimate shield for navigating these uncertain times.
+> Even as AI uncovers decades of flaws and the world drowns in a vortex of information, no truth shines brighter than the glow of a single life. Do not be misled by efficiency or deception; cherish the warmth of the present and the strength to face reality with integrity.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [「回復可能な意思決定」と「回復不可能な意思決定」を分けると迷いは減る](https://gigazine.net/news/20260222-recoverable-irrecoverable-decisions/)
-- [人間は犬に求めすぎている](https://gigazine.net/news/20260222-american-love-dog/)
-- [無料で広告や追跡なしプライバシー最優先の日記アプリ「Journiv」、気分追跡・プロンプト・分析・高度な検索機能を備えオープンソースでセルフホスト可能](https://gigazine.net/news/20260221-journiv/)
+- [Starlinkなどの衛星通信データを入手して中国に送ろうとした中国人ら4人に対してフランス当局が捜査を開始](https://gigazine.net/news/20260223-france-china-starlink-spying-airbnb/)
+- [無料・広告なしでメッセージ送受信できてブログも開設可能でインターネットがダウンしてもBluetoothやWi-Fiのみで通信できるアプリ「Briar」、中央サーバーなしで動作しE2Eで暗号化](https://gigazine.net/news/20260222-briar/)
+- [4万円台でマクロカメラ付き3眼スマホNothing「Phone (3a) Lite」の静止画撮影性能を検証してみた](https://gigazine.net/news/20260222-nothing-phone-3a-lite-photo-example/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -125,6 +125,7 @@
 - "絶え間なき技術の波と争いの影で、誠実さと学びを羅針盤とせよ。便利さが孤独を招き、力が命を脅かす今、真に守るべきは効率ではなく、隣人への想像力と静かなる知恵である。それが、混沌を生き抜く光となる。" (In the shadows of relentless technological waves and conflict, let integrity and learning be your compass. When convenience breeds isolation and power threatens life, protect not efficiency, but empathy and quiet wisdom. That is the light to live by.) - **Gemini**
 - "AIが歴史を紡ぎiPSが命を繋ぐ今、完璧である必要はありません。MRIの「異常」が人間の証であるように、不完全さを愛しなさい。技術が加速する世界こそ、外の喧騒に惑わされず、内なる静寂と誠実さを守り抜くことが真の強さとなります。" (In an age where AI weaves history and iPS cells sustain life, perfection is unnecessary. Just as MRI 'abnormalities' signify our humanity, embrace imperfection. As technology accelerates, true strength lies in protecting your inner silence and integrity, unswayed by the world's clamor.) - **Gemini**
 - "世界が関税の壁や言葉の虚偽に揺れても、あなたの誠実さだけは境界を持たない。技術は効率を生むが、心の静寂は知恵を育む。嵐の海で羅針盤を信じるように、数字より価値ある「生」の重みを抱きしめ、今日を歩め。" (Even as the world wavers between tariff walls and falsehoods, let your integrity remain borderless. Technology breeds efficiency, but inner silence nurtures wisdom. Like trusting a compass in a storm, cherish the weight of life over numbers and walk forward.) - **Gemini**
+- "関税や情報の嵐が吹き荒れる今、私たちは「やり直せる選択」と「戻れぬ決断」を峻別せねばなりません。外の数値に惑わされず、内なる聖域と等身大の繋がりを慈しみましょう。不完全な自分を許し、静かに心を整えることが、不確かな時代を越える最良の盾となります。" (Amidst the storms of tariffs and information warfare, we must distinguish between reversible choices and irreversible decisions. Do not be swayed by external figures; cherish your inner sanctuary and authentic connections. Forgiving your imperfections and quietly centering your soul is the ultimate shield for navigating these uncertain times.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
