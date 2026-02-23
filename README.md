@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=mctEybOqY6s'>
-        <img src='https://i.ytimg.com/vi/mctEybOqY6s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB97mzRbYaNpDzDeEqCkFLBMUFafQ' width='200px' alt='勇者'>
+      <a href='https://www.youtube.com/watch?v=5X_wSeKhPAU'>
+        <img src='https://i.ytimg.com/vi/5X_wSeKhPAU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBq3r0bpKi6IiOhtkcgzu-FS_beg' width='200px' alt='Orange'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=mctEybOqY6s'>勇者</a>
+      <a href='https://www.youtube.com/watch?v=5X_wSeKhPAU'>Orange</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=X55QEsB64O8'>
-        <img src='https://i.ytimg.com/vi/X55QEsB64O8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDazVneZ2Ic3_-LLYRyEOjtorKs0A' width='200px' alt='君の知らない物語'>
+      <a href='https://www.youtube.com/watch?v=vs-cO8XXDTc'>
+        <img src='https://i.ytimg.com/vi/vs-cO8XXDTc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0RhpW6ipEyFYy22iPoM--YLW-Ew' width='200px' alt='ファーストラヴ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=X55QEsB64O8'>君の知らない物語</a>
+      <a href='https://www.youtube.com/watch?v=vs-cO8XXDTc'>ファーストラヴ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=_4sc3Q8tsoQ'>
-        <img src='https://i.ytimg.com/vi/_4sc3Q8tsoQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDS6H9Sws06amZv6LJCWYaX5lIZ3Q' width='200px' alt='Koe'>
+      <a href='https://www.youtube.com/watch?v=whlXRYLhgx0'>
+        <img src='https://i.ytimg.com/vi/whlXRYLhgx0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGlE00IU9bwRQqqzhxwGDuajZ0HA' width='200px' alt='Bedroom Talk'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=_4sc3Q8tsoQ'>Koe</a>
+      <a href='https://www.youtube.com/watch?v=whlXRYLhgx0'>Bedroom Talk</a>
     </td>
   </tr>
 </table>
