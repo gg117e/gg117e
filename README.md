@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=7Ze7MDQjXS0'>
-        <img src='https://i.ytimg.com/vi/7Ze7MDQjXS0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGUaOf-Ae6mkpk1Gw2m3-BwQUjqA' width='200px' alt='Soranji'>
+      <a href='https://www.youtube.com/watch?v=KJBoof4rjrg'>
+        <img src='https://i.ytimg.com/vi/KJBoof4rjrg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYlPGVYfBk7q9cXddAm78dnu8oAQ' width='200px' alt='Tatta'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=7Ze7MDQjXS0'>Soranji</a>
+      <a href='https://www.youtube.com/watch?v=KJBoof4rjrg'>Tatta</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=aaAxYOuqstw'>
-        <img src='https://i.ytimg.com/vi/aaAxYOuqstw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjpF41n5dcKHxz2qhWJuwBqizncg' width='200px' alt='Slow & Easy'>
+      <a href='https://www.youtube.com/watch?v=KWuBFuc2hX8'>
+        <img src='https://i.ytimg.com/vi/KWuBFuc2hX8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDbE9jqoMoGos1fTtw12yaYrw6NQ' width='200px' alt='YELL'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=aaAxYOuqstw'>Slow & Easy</a>
+      <a href='https://www.youtube.com/watch?v=KWuBFuc2hX8'>YELL</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=_zVFYb5jzr8'>
-        <img src='https://i.ytimg.com/vi/_zVFYb5jzr8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCN42WTnWBBGIgKGCcTgP1-bACk1w' width='200px' alt='Love Letter'>
+      <a href='https://www.youtube.com/watch?v=vs-cO8XXDTc'>
+        <img src='https://i.ytimg.com/vi/vs-cO8XXDTc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0RhpW6ipEyFYy22iPoM--YLW-Ew' width='200px' alt='ファーストラヴ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=_zVFYb5jzr8'>Love Letter</a>
+      <a href='https://www.youtube.com/watch?v=vs-cO8XXDTc'>ファーストラヴ</a>
     </td>
   </tr>
 </table>
