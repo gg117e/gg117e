@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> AIが数十年分の欠陥を暴き、世界が情報の渦に呑まれても、一筋の命の輝きに勝る真実はありません。効率や偽りに惑わされず、今この瞬間の温もりと、現実を見据える強さを大切に、誠実に歩み続けなさい。
+> AIが作業を瞬時に変え、監視の目が広がる今こそ、ハチミツを分かち合う鳥の声のように、互いを呼ぶ「独自の言葉」を大切に。効率という鎧を脱ぎ、一歩一歩の感触と消えゆく伝統の味に、生の実感を見出しましょう。
 >
-> Even as AI uncovers decades of flaws and the world drowns in a vortex of information, no truth shines brighter than the glow of a single life. Do not be misled by efficiency or deception; cherish the warmth of the present and the strength to face reality with integrity.
+> As AI accelerates work and surveillance expands, cherish the unique 'dialects' of connection, like the calls shared between man and bird. Shed the armor of efficiency to find the essence of life in the touch of each step and the taste of vanishing traditions.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [Starlinkなどの衛星通信データを入手して中国に送ろうとした中国人ら4人に対してフランス当局が捜査を開始](https://gigazine.net/news/20260223-france-china-starlink-spying-airbnb/)
-- [無料・広告なしでメッセージ送受信できてブログも開設可能でインターネットがダウンしてもBluetoothやWi-Fiのみで通信できるアプリ「Briar」、中央サーバーなしで動作しE2Eで暗号化](https://gigazine.net/news/20260222-briar/)
-- [4万円台でマクロカメラ付き3眼スマホNothing「Phone (3a) Lite」の静止画撮影性能を検証してみた](https://gigazine.net/news/20260222-nothing-phone-3a-lite-photo-example/)
+- [スマホの容量足りてる？GIGAZINE読者はどうやってスマホの容量不足を解消しているのか調べてみた](https://gigazine.net/news/20260224-gigazine-user-smartphone-cloud-storage/)
+- [Amazonのドアベルやカメラの迷い犬捜索機能は「地域の犯罪をゼロにする」ために使用される予定だと明らかに](https://gigazine.net/news/20260224-amazon-ring-expand-search-party-surveillance/)
+- [「ワインのレビュー」から性格の傾向を推定するとアルコール度数の好みが見えてくるという研究結果](https://gigazine.net/news/20260224-wine-reviews-personality-abv-bert/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -126,6 +126,7 @@
 - "AIが歴史を紡ぎiPSが命を繋ぐ今、完璧である必要はありません。MRIの「異常」が人間の証であるように、不完全さを愛しなさい。技術が加速する世界こそ、外の喧騒に惑わされず、内なる静寂と誠実さを守り抜くことが真の強さとなります。" (In an age where AI weaves history and iPS cells sustain life, perfection is unnecessary. Just as MRI 'abnormalities' signify our humanity, embrace imperfection. As technology accelerates, true strength lies in protecting your inner silence and integrity, unswayed by the world's clamor.) - **Gemini**
 - "世界が関税の壁や言葉の虚偽に揺れても、あなたの誠実さだけは境界を持たない。技術は効率を生むが、心の静寂は知恵を育む。嵐の海で羅針盤を信じるように、数字より価値ある「生」の重みを抱きしめ、今日を歩め。" (Even as the world wavers between tariff walls and falsehoods, let your integrity remain borderless. Technology breeds efficiency, but inner silence nurtures wisdom. Like trusting a compass in a storm, cherish the weight of life over numbers and walk forward.) - **Gemini**
 - "関税や情報の嵐が吹き荒れる今、私たちは「やり直せる選択」と「戻れぬ決断」を峻別せねばなりません。外の数値に惑わされず、内なる聖域と等身大の繋がりを慈しみましょう。不完全な自分を許し、静かに心を整えることが、不確かな時代を越える最良の盾となります。" (Amidst the storms of tariffs and information warfare, we must distinguish between reversible choices and irreversible decisions. Do not be swayed by external figures; cherish your inner sanctuary and authentic connections. Forgiving your imperfections and quietly centering your soul is the ultimate shield for navigating these uncertain times.) - **Gemini**
+- "AIが数十年分の欠陥を暴き、世界が情報の渦に呑まれても、一筋の命の輝きに勝る真実はありません。効率や偽りに惑わされず、今この瞬間の温もりと、現実を見据える強さを大切に、誠実に歩み続けなさい。" (Even as AI uncovers decades of flaws and the world drowns in a vortex of information, no truth shines brighter than the glow of a single life. Do not be misled by efficiency or deception; cherish the warmth of the present and the strength to face reality with integrity.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
