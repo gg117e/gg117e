@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=bFG7vT99Y_Q'>
-        <img src='https://i.ytimg.com/vi/bFG7vT99Y_Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWStkU-qU8U77B0aJaq_3E7tu_NA' width='200px' alt='Namidazora'>
+      <a href='https://www.youtube.com/watch?v=ZODK5o0PCbk'>
+        <img src='https://i.ytimg.com/vi/ZODK5o0PCbk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCO4i_-hjOexA9d03JV7fqdobq3yg' width='200px' alt='Imato Anokorono Bokura'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=bFG7vT99Y_Q'>Namidazora</a>
+      <a href='https://www.youtube.com/watch?v=ZODK5o0PCbk'>Imato Anokorono Bokura</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=mS7iQKWy9HU'>
-        <img src='https://i.ytimg.com/vi/mS7iQKWy9HU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtJV-grxMKT9h26f-DU1NjRvTCBw' width='200px' alt='未完成なままで'>
+      <a href='https://www.youtube.com/watch?v=8PbGeKwEnK0'>
+        <img src='https://i.ytimg.com/vi/8PbGeKwEnK0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWYv4vO1ta-DKEtdPaeTh9ifxA0g' width='200px' alt='Pop Virus'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=mS7iQKWy9HU'>未完成なままで</a>
+      <a href='https://www.youtube.com/watch?v=8PbGeKwEnK0'>Pop Virus</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ZF5w7kkk7Yo'>
-        <img src='https://i.ytimg.com/vi/ZF5w7kkk7Yo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeQUEP3L5-r_AuGcf6CLbp0loxww' width='200px' alt='What's Going On?'>
+      <a href='https://www.youtube.com/watch?v=Uwhbouk64K4'>
+        <img src='https://i.ytimg.com/vi/Uwhbouk64K4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKHPfVfHTzdk0VxCwn9_cdeQqAbw' width='200px' alt='Smile Again'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ZF5w7kkk7Yo'>What's Going On?</a>
+      <a href='https://www.youtube.com/watch?v=Uwhbouk64K4'>Smile Again</a>
     </td>
   </tr>
 </table>
