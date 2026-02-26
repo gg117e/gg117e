@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 技術が加速し、監視と欺瞞が交錯する世界では、効率より「レジリエンス」を、完璧より「誠実さ」を選びなさい。災厄は防げぬものと受け入れ、それでも歩みを止めぬ強さこそが、機械には真似できぬ生命の輝きです。
+> 加速する技術や沸き立つ相場に目を奪われるなかで、私たちは透明性を失い、命の重みさえ忘れがちです。真の賢明さとは、効率を追う「手」を動かしつつも、沈黙させられた声に耳を傾ける「心」を忘れないことです。
 >
-> In a world of accelerating technology, surveillance, and deception, choose resilience over efficiency and integrity over perfection. Accepting that disasters are inevitable, the strength to keep walking remains a brilliance of life that no machine can replicate.
+> While dazzled by accelerating technology and surging markets, we often lose transparency and the weight of life. True wisdom lies in moving our hands for efficiency while keeping a heart that listens to the voices being silenced.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [LinkedInで認証バッジを手に入れるために提出したパスポートや顔写真のデータはどこへ行くのか？](https://gigazine.net/news/20260225-linkedin-verification-passport-selfie-privacy/)
-- [Appleがアメリカに6000億ドルを投資する取り組みの一環として2026年後半から「Mac Mini」の生産の一部をアジアからヒューストンに移転する計画を発表](https://gigazine.net/news/20260225-america-apple-plan/)
-- [AnthropicがClaude Codeで広告制作を自動化しコード未経験の担当者でも30分の作業を30秒に短縮することに成功](https://gigazine.net/news/20260225-how-anthropic-uses-claude-marketing/)
+- [OpenAIには4つの根本的な戦略的課題がある](https://gigazine.net/news/20260226-openai-4-strategic-questions/)
+- [イスラエル軍がガザで救急隊員ら15人を銃殺した事件の調査結果が公開される、わずか数mの距離で撃たれた人も](https://gigazine.net/news/20260226-israeli-soldiers-killed-gaza-aid-workers/)
+- [近視の増加は「スクリーンを見る時間」よりも屋内での目の使い方が原因かもしれないとする仮説が登場](https://gigazine.net/news/20260226-myopia-indoor-near-work-retinal-illumination/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -128,6 +128,7 @@
 - "関税や情報の嵐が吹き荒れる今、私たちは「やり直せる選択」と「戻れぬ決断」を峻別せねばなりません。外の数値に惑わされず、内なる聖域と等身大の繋がりを慈しみましょう。不完全な自分を許し、静かに心を整えることが、不確かな時代を越える最良の盾となります。" (Amidst the storms of tariffs and information warfare, we must distinguish between reversible choices and irreversible decisions. Do not be swayed by external figures; cherish your inner sanctuary and authentic connections. Forgiving your imperfections and quietly centering your soul is the ultimate shield for navigating these uncertain times.) - **Gemini**
 - "AIが数十年分の欠陥を暴き、世界が情報の渦に呑まれても、一筋の命の輝きに勝る真実はありません。効率や偽りに惑わされず、今この瞬間の温もりと、現実を見据える強さを大切に、誠実に歩み続けなさい。" (Even as AI uncovers decades of flaws and the world drowns in a vortex of information, no truth shines brighter than the glow of a single life. Do not be misled by efficiency or deception; cherish the warmth of the present and the strength to face reality with integrity.) - **Gemini**
 - "AIが作業を瞬時に変え、監視の目が広がる今こそ、ハチミツを分かち合う鳥の声のように、互いを呼ぶ「独自の言葉」を大切に。効率という鎧を脱ぎ、一歩一歩の感触と消えゆく伝統の味に、生の実感を見出しましょう。" (As AI accelerates work and surveillance expands, cherish the unique 'dialects' of connection, like the calls shared between man and bird. Shed the armor of efficiency to find the essence of life in the touch of each step and the taste of vanishing traditions.) - **Gemini**
+- "技術が加速し、監視と欺瞞が交錯する世界では、効率より「レジリエンス」を、完璧より「誠実さ」を選びなさい。災厄は防げぬものと受け入れ、それでも歩みを止めぬ強さこそが、機械には真似できぬ生命の輝きです。" (In a world of accelerating technology, surveillance, and deception, choose resilience over efficiency and integrity over perfection. Accepting that disasters are inevitable, the strength to keep walking remains a brilliance of life that no machine can replicate.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
