@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ErqUUYWfOBo'>
-        <img src='https://i.ytimg.com/vi/ErqUUYWfOBo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOSuaDQ-44YRfAfNZSNO7AyglYcA' width='200px' alt='決戦スピリット／CHiCO with HoneyWorks'>
+      <a href='https://www.youtube.com/watch?v=Jm2jOK45btw'>
+        <img src='https://i.ytimg.com/vi/Jm2jOK45btw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPMCDVE0qm5SI2owO0-6JB-sPNYw' width='200px' alt='Aiueongaku'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ErqUUYWfOBo'>決戦スピリット／CHiCO with HoneyWorks</a>
+      <a href='https://www.youtube.com/watch?v=Jm2jOK45btw'>Aiueongaku</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Oye00CX57QM'>
-        <img src='https://i.ytimg.com/vi/Oye00CX57QM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASRvN695AvvbkYsveIMDxaAzVA3g' width='200px' alt='Happiness'>
+      <a href='https://www.youtube.com/watch?v=Def4ipTm-y4'>
+        <img src='https://i.ytimg.com/vi/Def4ipTm-y4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCixEcYjMmjLWOaqoEVhRfGcylceQ' width='200px' alt='Lovin''>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Oye00CX57QM'>Happiness</a>
+      <a href='https://www.youtube.com/watch?v=Def4ipTm-y4'>Lovin'</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=sFd0qdA32d8'>
-        <img src='https://i.ytimg.com/vi/sFd0qdA32d8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsbiKsqGRozBBhXS18xarw4KRGhw' width='200px' alt='Turquoise'>
+      <a href='https://www.youtube.com/watch?v=ArN80_ahos0'>
+        <img src='https://i.ytimg.com/vi/ArN80_ahos0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0St2Q4-pGDvfGebZ98ijNN0K2qQ' width='200px' alt='Anatani'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=sFd0qdA32d8'>Turquoise</a>
+      <a href='https://www.youtube.com/watch?v=ArN80_ahos0'>Anatani</a>
     </td>
   </tr>
 </table>
