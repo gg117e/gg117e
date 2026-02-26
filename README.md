@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=KQNT6hbgf6g'>
-        <img src='https://i.ytimg.com/vi/KQNT6hbgf6g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9u_NKnOrjXZLJMcCymhOCKrr5FA' width='200px' alt='Toku Toku (2012 Remaster)'>
+      <a href='https://www.youtube.com/watch?v=P6UsnAkgN4U'>
+        <img src='https://i.ytimg.com/vi/P6UsnAkgN4U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDN99wUcqZRQMOUoYD12Wj-269sdQ' width='200px' alt='Setsuna'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=KQNT6hbgf6g'>Toku Toku (2012 Remaster)</a>
+      <a href='https://www.youtube.com/watch?v=P6UsnAkgN4U'>Setsuna</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=rqJgOLXsr3M'>
-        <img src='https://i.ytimg.com/vi/rqJgOLXsr3M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCec-aruTMcKZDIMW7DHuBnHIVUnA' width='200px' alt='おもかげ (produced by Vaundy)'>
+      <a href='https://www.youtube.com/watch?v=6IyRj4ui6ZA'>
+        <img src='https://i.ytimg.com/vi/6IyRj4ui6ZA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJnIeUXRMUh1719QYWf9nI8gyUUA' width='200px' alt='Boom Boom Back'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=rqJgOLXsr3M'>おもかげ (produced by Vaundy)</a>
+      <a href='https://www.youtube.com/watch?v=6IyRj4ui6ZA'>Boom Boom Back</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=olsv91gZylw'>
-        <img src='https://i.ytimg.com/vi/olsv91gZylw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMk1mraa6RG1rdZqFj9hliTNqJwg' width='200px' alt='悲しみなんて笑い飛ばせ'>
+      <a href='https://www.youtube.com/watch?v=-_PKhPMXMDY'>
+        <img src='https://i.ytimg.com/vi/-_PKhPMXMDY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA96C28QeG6Y8XikTP7sXlae0UcmA' width='200px' alt='Tokimeki / Vaundy：MUSIC VIDEO'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=olsv91gZylw'>悲しみなんて笑い飛ばせ</a>
+      <a href='https://www.youtube.com/watch?v=-_PKhPMXMDY'>Tokimeki / Vaundy：MUSIC VIDEO</a>
     </td>
   </tr>
 </table>
