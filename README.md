@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 加速する技術や沸き立つ相場に目を奪われるなかで、私たちは透明性を失い、命の重みさえ忘れがちです。真の賢明さとは、効率を追う「手」を動かしつつも、沈黙させられた声に耳を傾ける「心」を忘れないことです。
+> AIが心を支え、技術が視界を広げる時代。しかし、真の豊かさは効率ではなく、喧騒の中で他者の痛みに気づく想像力にあります。膨張する情報や対立に惑わされず、自らの手で静かな愛と秩序を築く強さを持ちなさい。
 >
-> While dazzled by accelerating technology and surging markets, we often lose transparency and the weight of life. True wisdom lies in moving our hands for efficiency while keeping a heart that listens to the voices being silenced.
+> In an era where AI supports the heart and technology expands our vision, true wealth lies not in efficiency, but in the imagination to notice others' pain amidst the noise. Do not be misled by expanding information or conflict; have the strength to build quiet love and order with your own hands.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [OpenAIには4つの根本的な戦略的課題がある](https://gigazine.net/news/20260226-openai-4-strategic-questions/)
-- [イスラエル軍がガザで救急隊員ら15人を銃殺した事件の調査結果が公開される、わずか数mの距離で撃たれた人も](https://gigazine.net/news/20260226-israeli-soldiers-killed-gaza-aid-workers/)
-- [近視の増加は「スクリーンを見る時間」よりも屋内での目の使い方が原因かもしれないとする仮説が登場](https://gigazine.net/news/20260226-myopia-indoor-near-work-retinal-illumination/)
+- [10代の若者の半数以上が学業や情報収集にAIを使っており12％はAIから感情的なサポートを得ているとの調査結果](https://gigazine.net/news/20260227-how-teens-use-and-view-ai/)
+- [メモリ高騰でPCの原価のうち35％をメモリが占めるほどに](https://gigazine.net/news/20260227-ram-hp-pc/)
+- [紙おむつにも使われる吸水材で細胞を膨らませて観察する「膨張顕微鏡法」とは？](https://gigazine.net/news/20260227-expansion-microscopy-cellular-world/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -129,6 +129,7 @@
 - "AIが数十年分の欠陥を暴き、世界が情報の渦に呑まれても、一筋の命の輝きに勝る真実はありません。効率や偽りに惑わされず、今この瞬間の温もりと、現実を見据える強さを大切に、誠実に歩み続けなさい。" (Even as AI uncovers decades of flaws and the world drowns in a vortex of information, no truth shines brighter than the glow of a single life. Do not be misled by efficiency or deception; cherish the warmth of the present and the strength to face reality with integrity.) - **Gemini**
 - "AIが作業を瞬時に変え、監視の目が広がる今こそ、ハチミツを分かち合う鳥の声のように、互いを呼ぶ「独自の言葉」を大切に。効率という鎧を脱ぎ、一歩一歩の感触と消えゆく伝統の味に、生の実感を見出しましょう。" (As AI accelerates work and surveillance expands, cherish the unique 'dialects' of connection, like the calls shared between man and bird. Shed the armor of efficiency to find the essence of life in the touch of each step and the taste of vanishing traditions.) - **Gemini**
 - "技術が加速し、監視と欺瞞が交錯する世界では、効率より「レジリエンス」を、完璧より「誠実さ」を選びなさい。災厄は防げぬものと受け入れ、それでも歩みを止めぬ強さこそが、機械には真似できぬ生命の輝きです。" (In a world of accelerating technology, surveillance, and deception, choose resilience over efficiency and integrity over perfection. Accepting that disasters are inevitable, the strength to keep walking remains a brilliance of life that no machine can replicate.) - **Gemini**
+- "加速する技術や沸き立つ相場に目を奪われるなかで、私たちは透明性を失い、命の重みさえ忘れがちです。真の賢明さとは、効率を追う「手」を動かしつつも、沈黙させられた声に耳を傾ける「心」を忘れないことです。" (While dazzled by accelerating technology and surging markets, we often lose transparency and the weight of life. True wisdom lies in moving our hands for efficiency while keeping a heart that listens to the voices being silenced.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
