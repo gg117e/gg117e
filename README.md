@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=s4ZThuWQdhA'>
-        <img src='https://i.ytimg.com/vi/s4ZThuWQdhA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBL2544KnUtG-gjg-ro3N-gIAIgbw' width='200px' alt='Que Sera Sera'>
+      <a href='https://www.youtube.com/watch?v=MgNzn7TGuAU'>
+        <img src='https://i.ytimg.com/vi/MgNzn7TGuAU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDe4ondBSw5TVArzEvNpw7SNixRRw' width='200px' alt='儚くない'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=s4ZThuWQdhA'>Que Sera Sera</a>
+      <a href='https://www.youtube.com/watch?v=MgNzn7TGuAU'>儚くない</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=wykx9MzjL-8'>
-        <img src='https://i.ytimg.com/vi/wykx9MzjL-8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaoH4EOxmPn7by1akUA2OC7YMMhg' width='200px' alt='AAA / "Wake up!"Music Video'>
+      <a href='https://www.youtube.com/watch?v=Pz9-XJ8SFKU'>
+        <img src='https://i.ytimg.com/vi/Pz9-XJ8SFKU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBq-Etp03Dzv0fNmneyfOmTHqbeTQ' width='200px' alt='Taketen'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=wykx9MzjL-8'>AAA / "Wake up!"Music Video</a>
+      <a href='https://www.youtube.com/watch?v=Pz9-XJ8SFKU'>Taketen</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=f8mKfvnsYM4'>
-        <img src='https://i.ytimg.com/vi/f8mKfvnsYM4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSJK00pNJEU7KwJmfmg7L74zQO7Q' width='200px' alt='ばかまじめ'>
+      <a href='https://www.youtube.com/watch?v=JVZCRtChnB0'>
+        <img src='https://i.ytimg.com/vi/JVZCRtChnB0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALs3GdtzvV2OHV94xCXf8PS7MxuQ' width='200px' alt='点描の唄 / Mrs. GREEN APPLE (feat.井上苑子) full covered by オサム × 春茶'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=f8mKfvnsYM4'>ばかまじめ</a>
+      <a href='https://www.youtube.com/watch?v=JVZCRtChnB0'>点描の唄 / Mrs. GREEN APPLE (feat.井上苑子) full covered by オサム × 春茶</a>
     </td>
   </tr>
 </table>
