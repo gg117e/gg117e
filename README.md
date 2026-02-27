@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=pjepmiuuH-A'>
-        <img src='https://i.ytimg.com/vi/pjepmiuuH-A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGCPr1dhG8TgZYOg5-RB6sHh5hGA' width='200px' alt='Glorious'>
+      <a href='https://www.youtube.com/watch?v=mj4Pa0ldUp8'>
+        <img src='https://i.ytimg.com/vi/mj4Pa0ldUp8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD14lODcjMhcKlqfeZWoy1pyMFyqg' width='200px' alt='地獄でなぜ悪い'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=pjepmiuuH-A'>Glorious</a>
+      <a href='https://www.youtube.com/watch?v=mj4Pa0ldUp8'>地獄でなぜ悪い</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=gpdh9AUzQjY'>
-        <img src='https://i.ytimg.com/vi/gpdh9AUzQjY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnZY9cYpCWhlK5DvkOpB3w46mpVQ' width='200px' alt='カーテンコール'>
+      <a href='https://www.youtube.com/watch?v=WjIsq1-ZBaw'>
+        <img src='https://i.ytimg.com/vi/WjIsq1-ZBaw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCh9rmrKCmdRlaAejuSaWKVb-hTg' width='200px' alt='平井 大 / 栄光の扉（Music Video）'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=gpdh9AUzQjY'>カーテンコール</a>
+      <a href='https://www.youtube.com/watch?v=WjIsq1-ZBaw'>平井 大 / 栄光の扉（Music Video）</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=QlyW9kYHTDo'>
-        <img src='https://i.ytimg.com/vi/QlyW9kYHTDo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQFnLrxul-P672hEh7Ctcb3KYlmw' width='200px' alt='Time Machine'>
+      <a href='https://www.youtube.com/watch?v=Mr2EWEPFtwk'>
+        <img src='https://i.ytimg.com/vi/Mr2EWEPFtwk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB40b7gpdm4JT-YxCurTEsFUH324g' width='200px' alt='花になって - Be a flower'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=QlyW9kYHTDo'>Time Machine</a>
+      <a href='https://www.youtube.com/watch?v=Mr2EWEPFtwk'>花になって - Be a flower</a>
     </td>
   </tr>
 </table>
