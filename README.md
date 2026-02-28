@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=hSdcy2_vtaQ'>
-        <img src='https://i.ytimg.com/vi/hSdcy2_vtaQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPw24hhUebfUwdjUQ9IOX0zI-_3Q' width='200px' alt='僕らまた (Us, again) - SG (Official Lyric Video)'>
+      <a href='https://www.youtube.com/watch?v=taMwG5lOq80'>
+        <img src='https://i.ytimg.com/vi/taMwG5lOq80/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtRHtD3sc1odeK-K8ONv0uYxv0hw' width='200px' alt='SWEET TWEET'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=hSdcy2_vtaQ'>僕らまた (Us, again) - SG (Official Lyric Video)</a>
+      <a href='https://www.youtube.com/watch?v=taMwG5lOq80'>SWEET TWEET</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=jJzw1h5CR-I'>
-        <img src='https://i.ytimg.com/vi/jJzw1h5CR-I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgZft81TKDb1zhEWMWErRz1zAAAQ' width='200px' alt='Dramaturgy - Eve MV'>
+      <a href='https://www.youtube.com/watch?v=hmTKQf7khaE'>
+        <img src='https://i.ytimg.com/vi/hmTKQf7khaE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUCEZYFa01YzKxYxchVAFSzHm3hg' width='200px' alt='Automatic'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=jJzw1h5CR-I'>Dramaturgy - Eve MV</a>
+      <a href='https://www.youtube.com/watch?v=hmTKQf7khaE'>Automatic</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=xFL1OO6siJI'>
-        <img src='https://i.ytimg.com/vi/xFL1OO6siJI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCH_W3xlqcSThQ65fOuXCwQWmIZng' width='200px' alt='Dokokade Hi Wa Noboru'>
+      <a href='https://www.youtube.com/watch?v=mUSVav9pKO4'>
+        <img src='https://i.ytimg.com/vi/mUSVav9pKO4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhv2LigyWBJWYAak96zB6Pocg1cQ' width='200px' alt='Sunny'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=xFL1OO6siJI'>Dokokade Hi Wa Noboru</a>
+      <a href='https://www.youtube.com/watch?v=mUSVav9pKO4'>Sunny</a>
     </td>
   </tr>
 </table>
