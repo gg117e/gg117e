@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=kZn8kahY_-8'>
-        <img src='https://i.ytimg.com/vi/kZn8kahY_-8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBH4BWSxhHVCNATHzYUxY48I2DFdw' width='200px' alt='Irotoridori'>
+      <a href='https://www.youtube.com/watch?v=X55QEsB64O8'>
+        <img src='https://i.ytimg.com/vi/X55QEsB64O8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDazVneZ2Ic3_-LLYRyEOjtorKs0A' width='200px' alt='君の知らない物語'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=kZn8kahY_-8'>Irotoridori</a>
+      <a href='https://www.youtube.com/watch?v=X55QEsB64O8'>君の知らない物語</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=BT5fqQ0xXYs'>
-        <img src='https://i.ytimg.com/vi/BT5fqQ0xXYs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvJu2x5bSmOLxOc0ETl7cftwiIOw' width='200px' alt='Soramo Toberuhazu'>
+      <a href='https://www.youtube.com/watch?v=H2r25lVcIHw'>
+        <img src='https://i.ytimg.com/vi/H2r25lVcIHw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgiffVYvt42FuGzVoZ1W9jo3MUFQ' width='200px' alt='花の塔'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=BT5fqQ0xXYs'>Soramo Toberuhazu</a>
+      <a href='https://www.youtube.com/watch?v=H2r25lVcIHw'>花の塔</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=7Ze7MDQjXS0'>
-        <img src='https://i.ytimg.com/vi/7Ze7MDQjXS0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGUaOf-Ae6mkpk1Gw2m3-BwQUjqA' width='200px' alt='Soranji'>
+      <a href='https://www.youtube.com/watch?v=kNDbaYEp0tU'>
+        <img src='https://i.ytimg.com/vi/kNDbaYEp0tU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvX1Ba1QNm2i-8CkQ93gpnsd2H7g' width='200px' alt='怪獣の花唄'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=7Ze7MDQjXS0'>Soranji</a>
+      <a href='https://www.youtube.com/watch?v=kNDbaYEp0tU'>怪獣の花唄</a>
     </td>
   </tr>
 </table>
