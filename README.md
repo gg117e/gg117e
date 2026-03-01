@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ErqUUYWfOBo'>
-        <img src='https://i.ytimg.com/vi/ErqUUYWfOBo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOSuaDQ-44YRfAfNZSNO7AyglYcA' width='200px' alt='決戦スピリット／CHiCO with HoneyWorks'>
+      <a href='https://www.youtube.com/watch?v=P7bVX6fJfCg'>
+        <img src='https://i.ytimg.com/vi/P7bVX6fJfCg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCibqA8MwaVWSpL2VR6z3K_i0S3Rw' width='200px' alt='Omoinotake | IKUOKUKONEN 【Official Music Video】'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ErqUUYWfOBo'>決戦スピリット／CHiCO with HoneyWorks</a>
+      <a href='https://www.youtube.com/watch?v=P7bVX6fJfCg'>Omoinotake | IKUOKUKONEN 【Official Music Video】</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ArN80_ahos0'>
-        <img src='https://i.ytimg.com/vi/ArN80_ahos0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0St2Q4-pGDvfGebZ98ijNN0K2qQ' width='200px' alt='Anatani'>
+      <a href='https://www.youtube.com/watch?v=M5R9z0vFjOs'>
+        <img src='https://i.ytimg.com/vi/M5R9z0vFjOs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUoxXdI7QdD2MULr-UX0i6XYXdSA' width='200px' alt='ビリミリオン'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ArN80_ahos0'>Anatani</a>
+      <a href='https://www.youtube.com/watch?v=M5R9z0vFjOs'>ビリミリオン</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=LM_5KevVmYc'>
-        <img src='https://i.ytimg.com/vi/LM_5KevVmYc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4NqYuC703bhnQxOo1CE59_WIg0w' width='200px' alt='I Love You'>
+      <a href='https://www.youtube.com/watch?v=6qcELHEilnQ'>
+        <img src='https://i.ytimg.com/vi/6qcELHEilnQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBd6ScUlxU0bLM9fk6y64sP8k6oRw' width='200px' alt='Shiori'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=LM_5KevVmYc'>I Love You</a>
+      <a href='https://www.youtube.com/watch?v=6qcELHEilnQ'>Shiori</a>
     </td>
   </tr>
 </table>
