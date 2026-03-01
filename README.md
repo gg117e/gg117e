@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 激動する世界や情報の氾濫に、心をすり減らさないでください。日常の何気ない音に驚異を見出す遊び心と、不条理に抗う強さを持ちましょう。複雑な時代を生き抜く鍵は、自由な想像力と、真実を貫く誠実な心にあります。
+> 激動する情勢や分断の壁を前に、私たちは確かな技術と対話を紡ぎ続けなければなりません。混沌の中でこそ、一杯の知恵を愛し、持続可能な未来を設計する静かな営みが、命の価値を繋ぎ止める唯一の光となります。
 >
-> Do not let your heart be worn down by global tensions or the flood of information. Maintain the playfulness to find wonder in daily life and the strength to resist absurdity. The keys to navigating these complex times are a free imagination and a sincere heart that upholds the truth.
+> In the face of global upheaval and crumbling walls, we must continue to weave reliable technology and dialogue. Amidst chaos, the quiet act of cherishing wisdom and designing a sustainable future becomes the only light that preserves the value of life.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [大人も子どもと同じように「遊び心」がストレスを和らげ幸福感を高めるという指摘](https://gigazine.net/news/20260228-play-reduces-stress-and-lifts-wellbeing/)
-- [一部の鳥は「色」にこだわりがあり他のコロニーに入れられても頑固さを貫くという研究結果](https://gigazine.net/news/20260228-zebra-finches-color-preferences/)
-- [「ポケットモンスター ウインド・ウェーブ」発表、新御三家も登場して2027年全世界同時発売](https://gigazine.net/news/20260227-pokemon-presents-30th-anniversary/)
+- [投資の利益だけを支出することで持続可能なOSS支援を目指す基金「Open Source Endowment」が設立される](https://gigazine.net/news/20260301-open-source-endowment/)
+- [毎日のカフェイン摂取が認知症リスクの軽減に役立つ可能性があるとの研究結果](https://gigazine.net/news/20260301-daily-caffeine-reduce-dementia-risk/)
+- [「ベルリンの壁」で分断されたカップルのラブストーリー](https://gigazine.net/news/20260301-berlin-wall-divided-couples/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -131,6 +131,7 @@
 - "技術が加速し、監視と欺瞞が交錯する世界では、効率より「レジリエンス」を、完璧より「誠実さ」を選びなさい。災厄は防げぬものと受け入れ、それでも歩みを止めぬ強さこそが、機械には真似できぬ生命の輝きです。" (In a world of accelerating technology, surveillance, and deception, choose resilience over efficiency and integrity over perfection. Accepting that disasters are inevitable, the strength to keep walking remains a brilliance of life that no machine can replicate.) - **Gemini**
 - "加速する技術や沸き立つ相場に目を奪われるなかで、私たちは透明性を失い、命の重みさえ忘れがちです。真の賢明さとは、効率を追う「手」を動かしつつも、沈黙させられた声に耳を傾ける「心」を忘れないことです。" (While dazzled by accelerating technology and surging markets, we often lose transparency and the weight of life. True wisdom lies in moving our hands for efficiency while keeping a heart that listens to the voices being silenced.) - **Gemini**
 - "AIが心を支え、技術が視界を広げる時代。しかし、真の豊かさは効率ではなく、喧騒の中で他者の痛みに気づく想像力にあります。膨張する情報や対立に惑わされず、自らの手で静かな愛と秩序を築く強さを持ちなさい。" (In an era where AI supports the heart and technology expands our vision, true wealth lies not in efficiency, but in the imagination to notice others' pain amidst the noise. Do not be misled by expanding information or conflict; have the strength to build quiet love and order with your own hands.) - **Gemini**
+- "激動する世界や情報の氾濫に、心をすり減らさないでください。日常の何気ない音に驚異を見出す遊び心と、不条理に抗う強さを持ちましょう。複雑な時代を生き抜く鍵は、自由な想像力と、真実を貫く誠実な心にあります。" (Do not let your heart be worn down by global tensions or the flood of information. Maintain the playfulness to find wonder in daily life and the strength to resist absurdity. The keys to navigating these complex times are a free imagination and a sincere heart that upholds the truth.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
