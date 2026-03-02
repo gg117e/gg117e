@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=asVlmxMXKb4'>
-        <img src='https://i.ytimg.com/vi/asVlmxMXKb4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWo0sJb27OZVeryzeBVI-3VNsYQw' width='200px' alt='Happiness'>
+      <a href='https://www.youtube.com/watch?v=ZF5w7kkk7Yo'>
+        <img src='https://i.ytimg.com/vi/ZF5w7kkk7Yo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeQUEP3L5-r_AuGcf6CLbp0loxww' width='200px' alt='What's Going On?'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=asVlmxMXKb4'>Happiness</a>
+      <a href='https://www.youtube.com/watch?v=ZF5w7kkk7Yo'>What's Going On?</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Myj9iHDsOrk'>
-        <img src='https://i.ytimg.com/vi/Myj9iHDsOrk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9TTpA-QB9jo-DQV9VtuzgJxDJlQ' width='200px' alt='花束のかわりにメロディーを'>
+      <a href='https://www.youtube.com/watch?v=3eQJUAXy_kU'>
+        <img src='https://i.ytimg.com/vi/3eQJUAXy_kU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHbfg4lj9LHnyG5hF1-qvNr2NFuw' width='200px' alt='恋の前ならえ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Myj9iHDsOrk'>花束のかわりにメロディーを</a>
+      <a href='https://www.youtube.com/watch?v=3eQJUAXy_kU'>恋の前ならえ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=75g7GdgbkRU'>
-        <img src='https://i.ytimg.com/vi/75g7GdgbkRU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbtZAr86NRsUKq8o35sM1vEY6y_g' width='200px' alt='Bling-Bang-Bang-Born'>
+      <a href='https://www.youtube.com/watch?v=YFOg4grr_yA'>
+        <img src='https://i.ytimg.com/vi/YFOg4grr_yA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA78r8IZpJxtjfrvHIwGm6oVawSAg' width='200px' alt='紙一重'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=75g7GdgbkRU'>Bling-Bang-Bang-Born</a>
+      <a href='https://www.youtube.com/watch?v=YFOg4grr_yA'>紙一重</a>
     </td>
   </tr>
 </table>
