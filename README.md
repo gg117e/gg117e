@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=xolrlVnkKs8'>
-        <img src='https://i.ytimg.com/vi/xolrlVnkKs8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSrq4BOkHvsU0vlsTeUvDldE-BMg' width='200px' alt='GOOD LUCKY!!!!!'>
+      <a href='https://www.youtube.com/watch?v=gd5-TdPJ3AQ'>
+        <img src='https://i.ytimg.com/vi/gd5-TdPJ3AQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNjAMJ8Kxvjdhc3SeaC0UwgqFcWg' width='200px' alt='Bokuno Koto'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=xolrlVnkKs8'>GOOD LUCKY!!!!!</a>
+      <a href='https://www.youtube.com/watch?v=gd5-TdPJ3AQ'>Bokuno Koto</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=9wDFyZDAW2I'>
-        <img src='https://i.ytimg.com/vi/9wDFyZDAW2I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlPACkNx6DfP3rMaY3vsQQ1NQ1-g' width='200px' alt='Tomo ～Tabidachinotoki～'>
+      <a href='https://www.youtube.com/watch?v=LM_5KevVmYc'>
+        <img src='https://i.ytimg.com/vi/LM_5KevVmYc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4NqYuC703bhnQxOo1CE59_WIg0w' width='200px' alt='I Love You'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=9wDFyZDAW2I'>Tomo ～Tabidachinotoki～</a>
+      <a href='https://www.youtube.com/watch?v=LM_5KevVmYc'>I Love You</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=EwpKUV0ECvQ'>
-        <img src='https://i.ytimg.com/vi/EwpKUV0ECvQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASAJRwUxiqbsHUgZsmBLyT0x7lsw' width='200px' alt='春を告げる'>
+      <a href='https://www.youtube.com/watch?v=75g7GdgbkRU'>
+        <img src='https://i.ytimg.com/vi/75g7GdgbkRU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbtZAr86NRsUKq8o35sM1vEY6y_g' width='200px' alt='Bling-Bang-Bang-Born'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=EwpKUV0ECvQ'>春を告げる</a>
+      <a href='https://www.youtube.com/watch?v=75g7GdgbkRU'>Bling-Bang-Bang-Born</a>
     </td>
   </tr>
 </table>
