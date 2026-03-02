@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=V6TEcoNUmc8'>
-        <img src='https://i.ytimg.com/vi/V6TEcoNUmc8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSLIKEiQCOt42rwL4jDoKMEret8g' width='200px' alt='Ditto'>
+      <a href='https://www.youtube.com/watch?v=kJEPeKPtZyw'>
+        <img src='https://i.ytimg.com/vi/kJEPeKPtZyw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHEQRF57cU-KWllU8xOBlwgrk83Q' width='200px' alt='花占い'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=V6TEcoNUmc8'>Ditto</a>
+      <a href='https://www.youtube.com/watch?v=kJEPeKPtZyw'>花占い</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=sssoboSVd6A'>
-        <img src='https://i.ytimg.com/vi/sssoboSVd6A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABqS6M3D5Tk6on9fa68IULKZQALA' width='200px' alt='Ayumi'>
+      <a href='https://www.youtube.com/watch?v=oisKs2G_zcg'>
+        <img src='https://i.ytimg.com/vi/oisKs2G_zcg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArVt4enRACWU-rfRjub596ca-ZfA' width='200px' alt='心絵'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=sssoboSVd6A'>Ayumi</a>
+      <a href='https://www.youtube.com/watch?v=oisKs2G_zcg'>心絵</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=5W2LCOjgA2w'>
-        <img src='https://i.ytimg.com/vi/5W2LCOjgA2w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJVEmSPKowr8dFsCJBt-6t_A-uTA' width='200px' alt='好き、お願い'>
+      <a href='https://www.youtube.com/watch?v=SaVLctSLnh8'>
+        <img src='https://i.ytimg.com/vi/SaVLctSLnh8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAo2EVknq2t_RyeExV89JobTcXiVw' width='200px' alt='ピースサイン - Peace Sign'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=5W2LCOjgA2w'>好き、お願い</a>
+      <a href='https://www.youtube.com/watch?v=SaVLctSLnh8'>ピースサイン - Peace Sign</a>
     </td>
   </tr>
 </table>
