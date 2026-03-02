@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ZF5w7kkk7Yo'>
-        <img src='https://i.ytimg.com/vi/ZF5w7kkk7Yo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeQUEP3L5-r_AuGcf6CLbp0loxww' width='200px' alt='What's Going On?'>
+      <a href='https://www.youtube.com/watch?v=bFG7vT99Y_Q'>
+        <img src='https://i.ytimg.com/vi/bFG7vT99Y_Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWStkU-qU8U77B0aJaq_3E7tu_NA' width='200px' alt='Namidazora'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ZF5w7kkk7Yo'>What's Going On?</a>
+      <a href='https://www.youtube.com/watch?v=bFG7vT99Y_Q'>Namidazora</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=3eQJUAXy_kU'>
-        <img src='https://i.ytimg.com/vi/3eQJUAXy_kU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHbfg4lj9LHnyG5hF1-qvNr2NFuw' width='200px' alt='恋の前ならえ'>
+      <a href='https://www.youtube.com/watch?v=eIftMq4xQKI'>
+        <img src='https://i.ytimg.com/vi/eIftMq4xQKI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApxz6mKZjU2jDXshcbcolcKs7iFw' width='200px' alt='Anohino Orange'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=3eQJUAXy_kU'>恋の前ならえ</a>
+      <a href='https://www.youtube.com/watch?v=eIftMq4xQKI'>Anohino Orange</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=YFOg4grr_yA'>
-        <img src='https://i.ytimg.com/vi/YFOg4grr_yA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA78r8IZpJxtjfrvHIwGm6oVawSAg' width='200px' alt='紙一重'>
+      <a href='https://www.youtube.com/watch?v=olsv91gZylw'>
+        <img src='https://i.ytimg.com/vi/olsv91gZylw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMk1mraa6RG1rdZqFj9hliTNqJwg' width='200px' alt='悲しみなんて笑い飛ばせ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=YFOg4grr_yA'>紙一重</a>
+      <a href='https://www.youtube.com/watch?v=olsv91gZylw'>悲しみなんて笑い飛ばせ</a>
     </td>
   </tr>
 </table>
