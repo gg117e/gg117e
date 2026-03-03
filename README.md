@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Qsz6WoK5GWk'>
-        <img src='https://i.ytimg.com/vi/Qsz6WoK5GWk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-06hgBny-IdAYM450HQ-rlDr2wA' width='200px' alt='風に吹かれて'>
+      <a href='https://www.youtube.com/watch?v=Oa-Vc2amuA0'>
+        <img src='https://i.ytimg.com/vi/Oa-Vc2amuA0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdGtBnt7TKIjouSR0Y-waJjc32_A' width='200px' alt='Universe'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Qsz6WoK5GWk'>風に吹かれて</a>
+      <a href='https://www.youtube.com/watch?v=Oa-Vc2amuA0'>Universe</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=86RjVdk0IAE'>
-        <img src='https://i.ytimg.com/vi/86RjVdk0IAE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxG1OahdkZCde7C0POtC6gqk9cZw' width='200px' alt='シャッター'>
+      <a href='https://www.youtube.com/watch?v=NbTReckN62Y'>
+        <img src='https://i.ytimg.com/vi/NbTReckN62Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAGHh47hCVaDs-DT744wNQLbmnaw' width='200px' alt='Niji'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=86RjVdk0IAE'>シャッター</a>
+      <a href='https://www.youtube.com/watch?v=NbTReckN62Y'>Niji</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=LoyA7GvfOwA'>
-        <img src='https://i.ytimg.com/vi/LoyA7GvfOwA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAuADigIMCAAQARhkIGQoZDAP&rs=AOn4CLBk6pXQ6KVrYlVuaAckuf6xf3Owbg' width='200px' alt='Sad Song'>
+      <a href='https://www.youtube.com/watch?v=ED8Q0ipvhg8'>
+        <img src='https://i.ytimg.com/vi/ED8Q0ipvhg8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDr8DalCaVoHA8DtY0mxyBK_QYifQ' width='200px' alt='Haruwo Machiwabite'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=LoyA7GvfOwA'>Sad Song</a>
+      <a href='https://www.youtube.com/watch?v=ED8Q0ipvhg8'>Haruwo Machiwabite</a>
     </td>
   </tr>
 </table>
