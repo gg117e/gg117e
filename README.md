@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 激動の情勢とAIの進化に、心まで摩耗させてはなりません。不変の信念を宿す電池のように、理屈を超えた感情の言葉で人と繋がりなさい。外の世界が荒れようとも、内なる平和を灯し続けることが、今を生きる力です。
+> 地政学の荒波や技術の加速が、境界を閉ざし足枷を強いる時こそ、心の門戸を広く保ちなさい。利便や効率に課税されても、命の輝きと真実を見極める瞳に税はかかりません。混迷の世を、慈しみという爆速で駆け抜けよ。
 >
-> Do not let your heart be worn down by turbulent world affairs and the evolution of AI. Like a battery holding an unchanging belief, connect with others through words of emotion beyond logic. Even if the outside world is in chaos, keeping your inner peace lit is the strength to live today.
+> When geopolitical storms and technological acceleration threaten to close borders and impose constraints, keep the gates of your heart wide open. Efficiency may be taxed, but the brilliance of life and the clarity of truth remain free. Navigate this chaotic world with the lightning speed of compassion.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [AIによるWordPressへの粗悪なDMCA削除通知が大量に送られてくる懸念があると運営会社が言及](https://gigazine.net/news/20260302-wordpress-transparency-report/)
-- [「.online」ドメインで作成したサイトが操作不能になったという体験談](https://gigazine.net/news/20260302-online-domain/)
-- [あらゆるゲームのFPSを測定してオーバーレイ表示も可能な無料アプリ「CapFrameX」の使い方まとめ](https://gigazine.net/news/20260302-capframex-game-fps/)
+- [GIGAZINE読者が普段使っている日本語入力ソフトは何？アンケートで聞いてみた](https://gigazine.net/news/20260303-gigazine-user-japanese-input-software/)
+- [「GIGAZINEマンガ大賞」2026年3月度募集開始＆セールの結果と次のセール告知](https://gigazine.net/news/20260303-gigazine-manga/)
+- [「クラウド税」の導入をイタリア政府が提案、月のデータ使用量1GB当たり最大0.055円を課税しユーザー1人当たりの上限額は440円](https://gigazine.net/news/20260303-italy-introducing-cloud-tax/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -133,6 +133,7 @@
 - "AIが心を支え、技術が視界を広げる時代。しかし、真の豊かさは効率ではなく、喧騒の中で他者の痛みに気づく想像力にあります。膨張する情報や対立に惑わされず、自らの手で静かな愛と秩序を築く強さを持ちなさい。" (In an era where AI supports the heart and technology expands our vision, true wealth lies not in efficiency, but in the imagination to notice others' pain amidst the noise. Do not be misled by expanding information or conflict; have the strength to build quiet love and order with your own hands.) - **Gemini**
 - "激動する世界や情報の氾濫に、心をすり減らさないでください。日常の何気ない音に驚異を見出す遊び心と、不条理に抗う強さを持ちましょう。複雑な時代を生き抜く鍵は、自由な想像力と、真実を貫く誠実な心にあります。" (Do not let your heart be worn down by global tensions or the flood of information. Maintain the playfulness to find wonder in daily life and the strength to resist absurdity. The keys to navigating these complex times are a free imagination and a sincere heart that upholds the truth.) - **Gemini**
 - "激動する情勢や分断の壁を前に、私たちは確かな技術と対話を紡ぎ続けなければなりません。混沌の中でこそ、一杯の知恵を愛し、持続可能な未来を設計する静かな営みが、命の価値を繋ぎ止める唯一の光となります。" (In the face of global upheaval and crumbling walls, we must continue to weave reliable technology and dialogue. Amidst chaos, the quiet act of cherishing wisdom and designing a sustainable future becomes the only light that preserves the value of life.) - **Gemini**
+- "激動の情勢とAIの進化に、心まで摩耗させてはなりません。不変の信念を宿す電池のように、理屈を超えた感情の言葉で人と繋がりなさい。外の世界が荒れようとも、内なる平和を灯し続けることが、今を生きる力です。" (Do not let your heart be worn down by turbulent world affairs and the evolution of AI. Like a battery holding an unchanging belief, connect with others through words of emotion beyond logic. Even if the outside world is in chaos, keeping your inner peace lit is the strength to live today.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
