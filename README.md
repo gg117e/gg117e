@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=W8-P1WQalQw'>
-        <img src='https://i.ytimg.com/vi/W8-P1WQalQw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRO1xzNXSPZOruZidXBs7kgiq-VA' width='200px' alt='Seikai (18Fes Version)'>
+      <a href='https://www.youtube.com/watch?v=NbTReckN62Y'>
+        <img src='https://i.ytimg.com/vi/NbTReckN62Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAGHh47hCVaDs-DT744wNQLbmnaw' width='200px' alt='Niji'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=W8-P1WQalQw'>Seikai (18Fes Version)</a>
+      <a href='https://www.youtube.com/watch?v=NbTReckN62Y'>Niji</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=mUSVav9pKO4'>
-        <img src='https://i.ytimg.com/vi/mUSVav9pKO4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhv2LigyWBJWYAak96zB6Pocg1cQ' width='200px' alt='Sunny'>
+      <a href='https://www.youtube.com/watch?v=l2nqfPAMrSo'>
+        <img src='https://i.ytimg.com/vi/l2nqfPAMrSo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0nDqcmoaPuUfFdBbIX_7HAyJA8w' width='200px' alt='Chessboard'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=mUSVav9pKO4'>Sunny</a>
+      <a href='https://www.youtube.com/watch?v=l2nqfPAMrSo'>Chessboard</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=FuxtXqD19lI'>
-        <img src='https://i.ytimg.com/vi/FuxtXqD19lI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5MThWoojMGPW0Kep9FJAmSFIcaw' width='200px' alt='50%'>
+      <a href='https://www.youtube.com/watch?v=dhgaMyKT-l0'>
+        <img src='https://i.ytimg.com/vi/dhgaMyKT-l0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0RNrPMVRqJn3jAsnvDMXYtlKm9A' width='200px' alt='Kuchibue'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=FuxtXqD19lI'>50%</a>
+      <a href='https://www.youtube.com/watch?v=dhgaMyKT-l0'>Kuchibue</a>
     </td>
   </tr>
 </table>
