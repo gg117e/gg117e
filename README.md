@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=NUFfRHk1Qcs'>
-        <img src='https://i.ytimg.com/vi/NUFfRHk1Qcs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMjNwQWGvQLii1tiFPU4ho3W8KtQ' width='200px' alt='Start'>
+      <a href='https://www.youtube.com/watch?v=2eNEQ0cQtkI'>
+        <img src='https://i.ytimg.com/vi/2eNEQ0cQtkI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBk-4STXcvhTwS2m7ypDHdnsF_xyg' width='200px' alt='祝福'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=NUFfRHk1Qcs'>Start</a>
+      <a href='https://www.youtube.com/watch?v=2eNEQ0cQtkI'>祝福</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=SVkGRoLicuA'>
-        <img src='https://i.ytimg.com/vi/SVkGRoLicuA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEGWRcMYMGbnY-HOcgFSINA1NRIA' width='200px' alt='Sukidakara'>
+      <a href='https://www.youtube.com/watch?v=oPdIjsctolE'>
+        <img src='https://i.ytimg.com/vi/oPdIjsctolE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1T1itQlYqc1WOopgeaDxc2jiiHQ' width='200px' alt='milet「Ordinary days」MUSIC VIDEO'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=SVkGRoLicuA'>Sukidakara</a>
+      <a href='https://www.youtube.com/watch?v=oPdIjsctolE'>milet「Ordinary days」MUSIC VIDEO</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=-xFtbSnu7R8'>
-        <img src='https://i.ytimg.com/vi/-xFtbSnu7R8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3SlWDyHFeatTYP7tLv700w_aWhg' width='200px' alt='Okuru Kotoba'>
+      <a href='https://www.youtube.com/watch?v=xiuOSWPsIyM'>
+        <img src='https://i.ytimg.com/vi/xiuOSWPsIyM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUqeLjQDC9_yiYclIOAIztbPNPtA' width='200px' alt='Subtitle'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=-xFtbSnu7R8'>Okuru Kotoba</a>
+      <a href='https://www.youtube.com/watch?v=xiuOSWPsIyM'>Subtitle</a>
     </td>
   </tr>
 </table>
