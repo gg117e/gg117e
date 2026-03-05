@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=BUG9r-s56II'>
-        <img src='https://i.ytimg.com/vi/BUG9r-s56II/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBvZsmOoGEgA_UCAVPi1PDbjkUDQ' width='200px' alt='舞台に立って'>
+      <a href='https://www.youtube.com/watch?v=vs-cO8XXDTc'>
+        <img src='https://i.ytimg.com/vi/vs-cO8XXDTc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0RhpW6ipEyFYy22iPoM--YLW-Ew' width='200px' alt='ファーストラヴ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=BUG9r-s56II'>舞台に立って</a>
+      <a href='https://www.youtube.com/watch?v=vs-cO8XXDTc'>ファーストラヴ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=qKymy-TvdVE'>
-        <img src='https://i.ytimg.com/vi/qKymy-TvdVE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDP1yLmmRvXLT_Vim3sYALhDOyskw' width='200px' alt='Rain'>
+      <a href='https://www.youtube.com/watch?v=kMUactfS2I0'>
+        <img src='https://i.ytimg.com/vi/kMUactfS2I0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANaL1Tf8C3rAmnchXq84s59BYn5w' width='200px' alt='Love Me, Love You'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=qKymy-TvdVE'>Rain</a>
+      <a href='https://www.youtube.com/watch?v=kMUactfS2I0'>Love Me, Love You</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=nhfIpEUU9tc'>
-        <img src='https://i.ytimg.com/vi/nhfIpEUU9tc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgBpk2hSaERwDjiPaFIRz-Tc45rA' width='200px' alt='光るなら'>
+      <a href='https://www.youtube.com/watch?v=hN5MBlGv2Ac'>
+        <img src='https://i.ytimg.com/vi/hN5MBlGv2Ac/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzbQItH3L-YHCHcM1KJ1pRu6gpGA' width='200px' alt='Official髭男dism - Subtitle [Official Video]'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=nhfIpEUU9tc'>光るなら</a>
+      <a href='https://www.youtube.com/watch?v=hN5MBlGv2Ac'>Official髭男dism - Subtitle [Official Video]</a>
     </td>
   </tr>
 </table>
