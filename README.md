@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=jJzw1h5CR-I'>
-        <img src='https://i.ytimg.com/vi/jJzw1h5CR-I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgZft81TKDb1zhEWMWErRz1zAAAQ' width='200px' alt='Dramaturgy - Eve MV'>
+      <a href='https://www.youtube.com/watch?v=uKn4Yk5LEuQ'>
+        <img src='https://i.ytimg.com/vi/uKn4Yk5LEuQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAi7ShqaJSDeiHGz0fL-PZUq-EILQ' width='200px' alt='Tsukimashitewa'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=jJzw1h5CR-I'>Dramaturgy - Eve MV</a>
+      <a href='https://www.youtube.com/watch?v=uKn4Yk5LEuQ'>Tsukimashitewa</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=37W7Y2RRyiM'>
-        <img src='https://i.ytimg.com/vi/37W7Y2RRyiM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDm5Sq8W3leIBeRoIRalhEJDqGniQ' width='200px' alt='Pretender'>
+      <a href='https://www.youtube.com/watch?v=Uv_m-vcPlsw'>
+        <img src='https://i.ytimg.com/vi/Uv_m-vcPlsw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdJGOfDvDRGCIz8C7eoa0E5MEmtA' width='200px' alt='Koi'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=37W7Y2RRyiM'>Pretender</a>
+      <a href='https://www.youtube.com/watch?v=Uv_m-vcPlsw'>Koi</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=NSTnKXkUoA8'>
-        <img src='https://i.ytimg.com/vi/NSTnKXkUoA8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBWVMg_nG1Bb15CwFZjpgPDD4t6g' width='200px' alt='フィルム'>
+      <a href='https://www.youtube.com/watch?v=qKymy-TvdVE'>
+        <img src='https://i.ytimg.com/vi/qKymy-TvdVE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDP1yLmmRvXLT_Vim3sYALhDOyskw' width='200px' alt='Rain'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=NSTnKXkUoA8'>フィルム</a>
+      <a href='https://www.youtube.com/watch?v=qKymy-TvdVE'>Rain</a>
     </td>
   </tr>
 </table>
