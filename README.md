@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=sKYvPBCoe2o'>
-        <img src='https://i.ytimg.com/vi/sKYvPBCoe2o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeFoQhk4ynA8iVDTickXeYyAivcg' width='200px' alt='LADY'>
+      <a href='https://www.youtube.com/watch?v=gpdh9AUzQjY'>
+        <img src='https://i.ytimg.com/vi/gpdh9AUzQjY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnZY9cYpCWhlK5DvkOpB3w46mpVQ' width='200px' alt='カーテンコール'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=sKYvPBCoe2o'>LADY</a>
+      <a href='https://www.youtube.com/watch?v=gpdh9AUzQjY'>カーテンコール</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=WjIsq1-ZBaw'>
-        <img src='https://i.ytimg.com/vi/WjIsq1-ZBaw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCh9rmrKCmdRlaAejuSaWKVb-hTg' width='200px' alt='平井 大 / 栄光の扉（Music Video）'>
+      <a href='https://www.youtube.com/watch?v=_8XkaEkv8ew'>
+        <img src='https://i.ytimg.com/vi/_8XkaEkv8ew/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIiwYJPTC9qKRDgty7AUWjpdphXw' width='200px' alt='キャラクター'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=WjIsq1-ZBaw'>平井 大 / 栄光の扉（Music Video）</a>
+      <a href='https://www.youtube.com/watch?v=_8XkaEkv8ew'>キャラクター</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=FXsGCieXm1E'>
-        <img src='https://i.ytimg.com/vi/FXsGCieXm1E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1rYgKc_4VlK6EQPnl6f2NeSjsuw' width='200px' alt='Renai Circulation「恋愛サーキュレーション」Kana Hanazawa'>
+      <a href='https://www.youtube.com/watch?v=SaVLctSLnh8'>
+        <img src='https://i.ytimg.com/vi/SaVLctSLnh8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAo2EVknq2t_RyeExV89JobTcXiVw' width='200px' alt='ピースサイン - Peace Sign'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=FXsGCieXm1E'>Renai Circulation「恋愛サーキュレーション」Kana Hanazawa</a>
+      <a href='https://www.youtube.com/watch?v=SaVLctSLnh8'>ピースサイン - Peace Sign</a>
     </td>
   </tr>
 </table>
