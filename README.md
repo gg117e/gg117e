@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=YFzG-JABlnw'>
-        <img src='https://i.ytimg.com/vi/YFzG-JABlnw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhBfecarKFUXPR0upUKWOKIO5KYQ' width='200px' alt='Rashisa'>
+      <a href='https://www.youtube.com/watch?v=v4jO0WBnEdw'>
+        <img src='https://i.ytimg.com/vi/v4jO0WBnEdw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDjZFqg9zkQbsvumZ20ymY_Pr00g' width='200px' alt='Don’t Wake Me Up'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=YFzG-JABlnw'>Rashisa</a>
+      <a href='https://www.youtube.com/watch?v=v4jO0WBnEdw'>Don’t Wake Me Up</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ArN80_ahos0'>
-        <img src='https://i.ytimg.com/vi/ArN80_ahos0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0St2Q4-pGDvfGebZ98ijNN0K2qQ' width='200px' alt='Anatani'>
+      <a href='https://www.youtube.com/watch?v=CMG1oZEqU_M'>
+        <img src='https://i.ytimg.com/vi/CMG1oZEqU_M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkBFGePzFdnLtItuad-Hpp4I5Sbg' width='200px' alt='Answer'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ArN80_ahos0'>Anatani</a>
+      <a href='https://www.youtube.com/watch?v=CMG1oZEqU_M'>Answer</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ED8Q0ipvhg8'>
-        <img src='https://i.ytimg.com/vi/ED8Q0ipvhg8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDr8DalCaVoHA8DtY0mxyBK_QYifQ' width='200px' alt='Haruwo Machiwabite'>
+      <a href='https://www.youtube.com/watch?v=l2nqfPAMrSo'>
+        <img src='https://i.ytimg.com/vi/l2nqfPAMrSo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0nDqcmoaPuUfFdBbIX_7HAyJA8w' width='200px' alt='Chessboard'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ED8Q0ipvhg8'>Haruwo Machiwabite</a>
+      <a href='https://www.youtube.com/watch?v=l2nqfPAMrSo'>Chessboard</a>
     </td>
   </tr>
 </table>
