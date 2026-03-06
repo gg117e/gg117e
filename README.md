@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=hmTKQf7khaE'>
-        <img src='https://i.ytimg.com/vi/hmTKQf7khaE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUCEZYFa01YzKxYxchVAFSzHm3hg' width='200px' alt='Automatic'>
+      <a href='https://www.youtube.com/watch?v=29vX07Sz3kw'>
+        <img src='https://i.ytimg.com/vi/29vX07Sz3kw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKaU55q7u0HPNBVdmcF1-ZubeeJA' width='200px' alt='Believe'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=hmTKQf7khaE'>Automatic</a>
+      <a href='https://www.youtube.com/watch?v=29vX07Sz3kw'>Believe</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=NytDYFWc--s'>
-        <img src='https://i.ytimg.com/vi/NytDYFWc--s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAam1nXolU_zNGmcEIM13wXQ3X_wQ' width='200px' alt='虹色の戦争'>
+      <a href='https://www.youtube.com/watch?v=jBILfisAXXs'>
+        <img src='https://i.ytimg.com/vi/jBILfisAXXs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6To1bSVwvvhDTNXjGY7ajk9CU7w' width='200px' alt='夢の外へ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=NytDYFWc--s'>虹色の戦争</a>
+      <a href='https://www.youtube.com/watch?v=jBILfisAXXs'>夢の外へ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=SaVLctSLnh8'>
-        <img src='https://i.ytimg.com/vi/SaVLctSLnh8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAo2EVknq2t_RyeExV89JobTcXiVw' width='200px' alt='ピースサイン - Peace Sign'>
+      <a href='https://www.youtube.com/watch?v=oisKs2G_zcg'>
+        <img src='https://i.ytimg.com/vi/oisKs2G_zcg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArVt4enRACWU-rfRjub596ca-ZfA' width='200px' alt='心絵'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=SaVLctSLnh8'>ピースサイン - Peace Sign</a>
+      <a href='https://www.youtube.com/watch?v=oisKs2G_zcg'>心絵</a>
     </td>
   </tr>
 </table>
