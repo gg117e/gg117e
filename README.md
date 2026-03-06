@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 巨大な仕組みは一人の貢献に支えられ、最先端の知は古の遊びを紐解く。戦火と技術が渦巻く今こそ、外の喧騒に流されず、自分という最小単位の誠実さを守りなさい。その小さな調和が、崩れゆく世界を繋ぎ止める。
+> 閃光の迎撃と技術の進歩に揺れる世界で、私たちは内なる平穏を失ってはならない。巨大な情報の波に翻弄されるより、自らの足を整え、身近な日常を慈しむこと。真の強さは、高度な武装ではなく、静かな自律にある。
 >
-> Great systems rest on individual efforts, and advanced wisdom decodes ancient play. Amidst the whirl of war and technology, do not be swept away by external noise; protect the integrity of your smallest unit—yourself. That tiny harmony is what holds a crumbling world together.
+> In a world shaken by flashing interceptions and rapid progress, do not lose your inner peace. Instead of being swept away by waves of information, ground yourself and cherish your daily life. True strength lies not in advanced weaponry, but in quiet autonomy.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [回転するジンバルカメラ搭載スマホ「HONOR Robot Phone」は2026年後半に登場予定、音楽に合わせてダンスもできる](https://gigazine.net/news/20260305-honor-robot-phone-launch-2026/)
-- [誰も遊び方を知らない「ローマ時代のボードゲーム」のルールをAIで推測することに成功](https://gigazine.net/news/20260305-ai-roman-era-board-game/)
-- [ドラマやアニメの「一気見」や本の「一気読み」がもたらす心理的なメリットとは？](https://gigazine.net/news/20260305-binge-watching-marathon-reading-rii/)
+- [TikTokが「エンドツーエンド(E2E)暗号化を導入しないのはユーザーの安全を守るため」と主張](https://gigazine.net/news/20260306-tiktok-dm-e2ee/)
+- [イスラエルのレーザー兵器「IRON BEAM」によるミサイル迎撃の様子が撮影される、弾数無制限で数km先まで迎撃可能か](https://gigazine.net/news/20260306-israel-laser-weapon/)
+- [肥満や糖尿病を治療する経口薬「オルフォグリプロン」は経口セマグルチドよりも血糖と体重を大きく改善できるという臨床試験結果](https://gigazine.net/news/20260306-orforglipron-achieve3/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -136,6 +136,7 @@
 - "激動の情勢とAIの進化に、心まで摩耗させてはなりません。不変の信念を宿す電池のように、理屈を超えた感情の言葉で人と繋がりなさい。外の世界が荒れようとも、内なる平和を灯し続けることが、今を生きる力です。" (Do not let your heart be worn down by turbulent world affairs and the evolution of AI. Like a battery holding an unchanging belief, connect with others through words of emotion beyond logic. Even if the outside world is in chaos, keeping your inner peace lit is the strength to live today.) - **Gemini**
 - "地政学の荒波や技術の加速が、境界を閉ざし足枷を強いる時こそ、心の門戸を広く保ちなさい。利便や効率に課税されても、命の輝きと真実を見極める瞳に税はかかりません。混迷の世を、慈しみという爆速で駆け抜けよ。" (When geopolitical storms and technological acceleration threaten to close borders and impose constraints, keep the gates of your heart wide open. Efficiency may be taxed, but the brilliance of life and the clarity of truth remain free. Navigate this chaotic world with the lightning speed of compassion.) - **Gemini**
 - "無限の兵器と自律する知性が競う荒野で、最も尊いのは「静寂」を守る勇気です。技術が第二の脳を形作り、世界の均衡が揺らぐ今こそ、甘い誘惑を断ち、己の魂という唯一の羅針盤に従って歩みなさい。" (In a wilderness where infinite weaponry and autonomous intelligence compete, the most precious thing is the courage to protect 'stillness.' As technology forms second brains and global balances shift, reject sweet distractions and walk guided by the soul—your only true compass.) - **Gemini**
+- "巨大な仕組みは一人の貢献に支えられ、最先端の知は古の遊びを紐解く。戦火と技術が渦巻く今こそ、外の喧騒に流されず、自分という最小単位の誠実さを守りなさい。その小さな調和が、崩れゆく世界を繋ぎ止める。" (Great systems rest on individual efforts, and advanced wisdom decodes ancient play. Amidst the whirl of war and technology, do not be swept away by external noise; protect the integrity of your smallest unit—yourself. That tiny harmony is what holds a crumbling world together.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
