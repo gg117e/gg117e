@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=N1XUt-ZcOf4'>
-        <img src='https://i.ytimg.com/vi/N1XUt-ZcOf4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxk96uW-3O9eGb8qj27Cr0CMOCqw' width='200px' alt='Columbus'>
+      <a href='https://www.youtube.com/watch?v=mQgpJPStoYQ'>
+        <img src='https://i.ytimg.com/vi/mQgpJPStoYQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQh25MLFhpwmdOqMrf8DSEWT_akg' width='200px' alt='切望'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=N1XUt-ZcOf4'>Columbus</a>
+      <a href='https://www.youtube.com/watch?v=mQgpJPStoYQ'>切望</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=-521tYMXtyU'>
-        <img src='https://i.ytimg.com/vi/-521tYMXtyU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADlt7wGkC8moPxQ8on9gYz2n8dbg' width='200px' alt='For Decades'>
+      <a href='https://www.youtube.com/watch?v=KQNT6hbgf6g'>
+        <img src='https://i.ytimg.com/vi/KQNT6hbgf6g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9u_NKnOrjXZLJMcCymhOCKrr5FA' width='200px' alt='Toku Toku (2012 Remaster)'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=-521tYMXtyU'>For Decades</a>
+      <a href='https://www.youtube.com/watch?v=KQNT6hbgf6g'>Toku Toku (2012 Remaster)</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=bVqeqvwu7NU'>
-        <img src='https://i.ytimg.com/vi/bVqeqvwu7NU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDe4lxrobQ3H1YHOPDK-W1dYWjsPA' width='200px' alt='Shining One'>
+      <a href='https://www.youtube.com/watch?v=-_PKhPMXMDY'>
+        <img src='https://i.ytimg.com/vi/-_PKhPMXMDY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA96C28QeG6Y8XikTP7sXlae0UcmA' width='200px' alt='Tokimeki / Vaundy：MUSIC VIDEO'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=bVqeqvwu7NU'>Shining One</a>
+      <a href='https://www.youtube.com/watch?v=-_PKhPMXMDY'>Tokimeki / Vaundy：MUSIC VIDEO</a>
     </td>
   </tr>
 </table>
