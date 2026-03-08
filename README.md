@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=gd5-TdPJ3AQ'>
-        <img src='https://i.ytimg.com/vi/gd5-TdPJ3AQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNjAMJ8Kxvjdhc3SeaC0UwgqFcWg' width='200px' alt='Bokuno Koto'>
+      <a href='https://www.youtube.com/watch?v=Kg50ItKY1SY'>
+        <img src='https://i.ytimg.com/vi/Kg50ItKY1SY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0GMWUoBR7Y2z_v6sXaj4_I6dVaQ' width='200px' alt='Nanndemonaiyo,'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=gd5-TdPJ3AQ'>Bokuno Koto</a>
+      <a href='https://www.youtube.com/watch?v=Kg50ItKY1SY'>Nanndemonaiyo,</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=5W2LCOjgA2w'>
-        <img src='https://i.ytimg.com/vi/5W2LCOjgA2w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJVEmSPKowr8dFsCJBt-6t_A-uTA' width='200px' alt='好き、お願い'>
+      <a href='https://www.youtube.com/watch?v=75g7GdgbkRU'>
+        <img src='https://i.ytimg.com/vi/75g7GdgbkRU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbtZAr86NRsUKq8o35sM1vEY6y_g' width='200px' alt='Bling-Bang-Bang-Born'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=5W2LCOjgA2w'>好き、お願い</a>
+      <a href='https://www.youtube.com/watch?v=75g7GdgbkRU'>Bling-Bang-Bang-Born</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=3qvMBFAPgD8'>
-        <img src='https://i.ytimg.com/vi/3qvMBFAPgD8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeKQJOW3hP4i6nsR5UUMv4-USrxw' width='200px' alt='ベテルギウス'>
+      <a href='https://www.youtube.com/watch?v=ZODK5o0PCbk'>
+        <img src='https://i.ytimg.com/vi/ZODK5o0PCbk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCO4i_-hjOexA9d03JV7fqdobq3yg' width='200px' alt='Imato Anokorono Bokura'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=3qvMBFAPgD8'>ベテルギウス</a>
+      <a href='https://www.youtube.com/watch?v=ZODK5o0PCbk'>Imato Anokorono Bokura</a>
     </td>
   </tr>
 </table>
