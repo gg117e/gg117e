@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=kJEPeKPtZyw'>
-        <img src='https://i.ytimg.com/vi/kJEPeKPtZyw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHEQRF57cU-KWllU8xOBlwgrk83Q' width='200px' alt='花占い'>
+      <a href='https://www.youtube.com/watch?v=FYhxYcXfhYA'>
+        <img src='https://i.ytimg.com/vi/FYhxYcXfhYA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGKmItDhQEHziI9Jxd7IHeNxFxeg' width='200px' alt='Mrs. GREEN APPLE「familie」Official Music Video'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=kJEPeKPtZyw'>花占い</a>
+      <a href='https://www.youtube.com/watch?v=FYhxYcXfhYA'>Mrs. GREEN APPLE「familie」Official Music Video</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=P7bVX6fJfCg'>
-        <img src='https://i.ytimg.com/vi/P7bVX6fJfCg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCibqA8MwaVWSpL2VR6z3K_i0S3Rw' width='200px' alt='Omoinotake | IKUOKUKONEN 【Official Music Video】'>
+      <a href='https://www.youtube.com/watch?v=vms87P01vRU'>
+        <img src='https://i.ytimg.com/vi/vms87P01vRU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzZnQp_bBT2p2b05faDDdNT1ytRg' width='200px' alt='ファンファーレ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=P7bVX6fJfCg'>Omoinotake | IKUOKUKONEN 【Official Music Video】</a>
+      <a href='https://www.youtube.com/watch?v=vms87P01vRU'>ファンファーレ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=W8-P1WQalQw'>
-        <img src='https://i.ytimg.com/vi/W8-P1WQalQw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRO1xzNXSPZOruZidXBs7kgiq-VA' width='200px' alt='Seikai (18Fes Version)'>
+      <a href='https://www.youtube.com/watch?v=mvGHElGp4dE'>
+        <img src='https://i.ytimg.com/vi/mvGHElGp4dE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZFvJf_4jpwfRfSNlea6vUs4Bm0g' width='200px' alt='Skip'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=W8-P1WQalQw'>Seikai (18Fes Version)</a>
+      <a href='https://www.youtube.com/watch?v=mvGHElGp4dE'>Skip</a>
     </td>
   </tr>
 </table>
