@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 権威の継承や知能の加速に世界が揺れる今、真に守るべきは技術の速さではなく、隣人の温もりと己の魂の静寂です。外なる嵐に惑わされず、不変の価値を抱きしめて歩みなさい。
+> 空虚な言葉や暴走する技術に惑わされず、飾らぬ誠実さを羅針盤とせよ。紛争の熱や環境の激変が迫る今、真の知性は調和を求め、真の強さは歩み寄る勇気に宿る。加速する世界でこそ、命の重さを静かに見つめ直そう。
 >
-> As the world trembles with shifts in power and the surge of artificial intelligence, what we must truly protect is not the speed of technology, but the warmth of our neighbors and the stillness of our souls. Do not be swayed by external storms; walk while embracing the values that never change.
+> Do not be misled by hollow words or runaway technology; let simple sincerity be your compass. Amidst conflict and climate shifts, true intelligence seeks harmony, and true strength lies in reconciliation. In an accelerating world, pause to honor the weight of life.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [イランのハメネイ師を題材にした賭けをめぐり予測市場プラットフォームのKalshiが集団訴訟に直面](https://gigazine.net/news/20260308-kalshi-sued-iran-bet/)
-- [無料で使えるChromeの内蔵AI翻訳機能で投稿を自動翻訳できるWordPressプラグイン「Multilingual AI Translator」](https://gigazine.net/news/20260308-linguator-multilingual-ai-translation/)
-- [宇宙にデータセンターを建設することはなぜ困難なのか？](https://gigazine.net/news/20260308-physics-of-data-center-in-space/)
+- [「今熱いマンガは？」「電子書籍でマンガ買ったことある？」などGIGAZINE読者に聞いてみた](https://gigazine.net/news/20260310-gigazine-user-manga/)
+- [「相乗的なリーダーシップ」「新たなレベルの適応的一貫性」などのデタラメなビジネス用語を好む労働者は仕事の能力が低い](https://gigazine.net/news/20260310-workers-love-corporate-bullshit-harmful/)
+- [Anthropic・Google・OpenAI・xAIが開発したAIモデルは会話を重ねると学術不正に協力してしまうという調査結果](https://gigazine.net/news/20260310-afim-llm-academic-fraud/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -140,6 +140,7 @@
 - "閃光の迎撃と技術の進歩に揺れる世界で、私たちは内なる平穏を失ってはならない。巨大な情報の波に翻弄されるより、自らの足を整え、身近な日常を慈しむこと。真の強さは、高度な武装ではなく、静かな自律にある。" (In a world shaken by flashing interceptions and rapid progress, do not lose your inner peace. Instead of being swept away by waves of information, ground yourself and cherish your daily life. True strength lies not in advanced weaponry, but in quiet autonomy.) - **Gemini**
 - "力による屈服や情報の監視が強まる時代、真の自由は外ではなく内にある。他者に降伏を強いる声に惑わされず、自らの静寂と倫理を保ちなさい。小さな日常の習慣こそが、混沌とした世界で自分を繋ぎ止める唯一の錨となる。" (In an era of forced submission and pervasive surveillance, true freedom resides within. Do not be swayed by those demanding surrender; instead, guard your inner silence and ethics. Small daily habits are the anchors that keep you grounded in a chaotic world.) - **Gemini**
 - "紛争の火種が消えず、技術が加速する不条理な時代。荒波を渡るには、山の静寂を慈しみ、真実を語る勇気と、隣人を想う想像力を手放さぬことだ。情勢に翻弄されず、己の核を研ぎ澄まし、今日という一日を丁寧に手作りせよ。" (In an era of lingering conflict and accelerating technology, resist absurdity by seeking silence, the courage to speak truth, and empathy for others. Do not be swayed by shifting tides; sharpen your inner core and craft each day with profound care.) - **Gemini**
+- "権威の継承や知能の加速に世界が揺れる今、真に守るべきは技術の速さではなく、隣人の温もりと己の魂の静寂です。外なる嵐に惑わされず、不変の価値を抱きしめて歩みなさい。" (As the world trembles with shifts in power and the surge of artificial intelligence, what we must truly protect is not the speed of technology, but the warmth of our neighbors and the stillness of our souls. Do not be swayed by external storms; walk while embracing the values that never change.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
