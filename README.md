@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=roZaPAlr2dg'>
-        <img src='https://i.ytimg.com/vi/roZaPAlr2dg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDB9aKfpvK4cCOCWtETsyqmaor4RA' width='200px' alt='日常'>
+      <a href='https://www.youtube.com/watch?v=kMUactfS2I0'>
+        <img src='https://i.ytimg.com/vi/kMUactfS2I0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANaL1Tf8C3rAmnchXq84s59BYn5w' width='200px' alt='Love Me, Love You'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=roZaPAlr2dg'>日常</a>
+      <a href='https://www.youtube.com/watch?v=kMUactfS2I0'>Love Me, Love You</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=OF45OXeH5VM'>
-        <img src='https://i.ytimg.com/vi/OF45OXeH5VM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0IISWvvwDLV43I2jjhFYNqIwbEA' width='200px' alt='感電'>
+      <a href='https://www.youtube.com/watch?v=lkBsQjXthT8'>
+        <img src='https://i.ytimg.com/vi/lkBsQjXthT8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClS4XjBBpC-70uJ1h1-WbGfyPDOg' width='200px' alt='HEART BEAT'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=OF45OXeH5VM'>感電</a>
+      <a href='https://www.youtube.com/watch?v=lkBsQjXthT8'>HEART BEAT</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=1GQ07JcqH48'>
-        <img src='https://i.ytimg.com/vi/1GQ07JcqH48/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSPACmTI9ygMCW0JC14xxWjsnbSA' width='200px' alt='Family Song'>
+      <a href='https://www.youtube.com/watch?v=oJd3TP5kb6k'>
+        <img src='https://i.ytimg.com/vi/oJd3TP5kb6k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVr-TA9PEhiwjzoFO-DmLlBYVIAg' width='200px' alt='New My Normal'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=1GQ07JcqH48'>Family Song</a>
+      <a href='https://www.youtube.com/watch?v=oJd3TP5kb6k'>New My Normal</a>
     </td>
   </tr>
 </table>
