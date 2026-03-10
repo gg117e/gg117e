@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=kMUactfS2I0'>
-        <img src='https://i.ytimg.com/vi/kMUactfS2I0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANaL1Tf8C3rAmnchXq84s59BYn5w' width='200px' alt='Love Me, Love You'>
+      <a href='https://www.youtube.com/watch?v=W25pTZ5Gmew'>
+        <img src='https://i.ytimg.com/vi/W25pTZ5Gmew/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZ1ZnvcCrWBxZ8Yxd_9b9jXBe7jQ' width='200px' alt='決心'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=kMUactfS2I0'>Love Me, Love You</a>
+      <a href='https://www.youtube.com/watch?v=W25pTZ5Gmew'>決心</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=lkBsQjXthT8'>
-        <img src='https://i.ytimg.com/vi/lkBsQjXthT8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClS4XjBBpC-70uJ1h1-WbGfyPDOg' width='200px' alt='HEART BEAT'>
+      <a href='https://www.youtube.com/watch?v=i7Jy4GC3l6U'>
+        <img src='https://i.ytimg.com/vi/i7Jy4GC3l6U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCejND-9KtsWSEPV3xhsot3dcMUYQ' width='200px' alt='Nachtmusik'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=lkBsQjXthT8'>HEART BEAT</a>
+      <a href='https://www.youtube.com/watch?v=i7Jy4GC3l6U'>Nachtmusik</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=oJd3TP5kb6k'>
-        <img src='https://i.ytimg.com/vi/oJd3TP5kb6k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVr-TA9PEhiwjzoFO-DmLlBYVIAg' width='200px' alt='New My Normal'>
+      <a href='https://www.youtube.com/watch?v=NUFfRHk1Qcs'>
+        <img src='https://i.ytimg.com/vi/NUFfRHk1Qcs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMjNwQWGvQLii1tiFPU4ho3W8KtQ' width='200px' alt='Start'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=oJd3TP5kb6k'>New My Normal</a>
+      <a href='https://www.youtube.com/watch?v=NUFfRHk1Qcs'>Start</a>
     </td>
   </tr>
 </table>
