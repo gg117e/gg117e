@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=1Zj84ajLO0E'>
-        <img src='https://i.ytimg.com/vi/1Zj84ajLO0E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzCzHeBm0IcTaqcvSVnADwwMndqw' width='200px' alt='Sasanqua'>
+      <a href='https://www.youtube.com/watch?v=dHq0a22CPE8'>
+        <img src='https://i.ytimg.com/vi/dHq0a22CPE8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyQjsBuH2KA9LaLZROE2e6F-jQbg' width='200px' alt='GReeeeN - 恋'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=1Zj84ajLO0E'>Sasanqua</a>
+      <a href='https://www.youtube.com/watch?v=dHq0a22CPE8'>GReeeeN - 恋</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=0OZ15_9YKPc'>
-        <img src='https://i.ytimg.com/vi/0OZ15_9YKPc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDw-Z7Q01p2yef5ViEEv7j0i6ACZg' width='200px' alt='異端なスター'>
+      <a href='https://www.youtube.com/watch?v=qzK1_zMo1kI'>
+        <img src='https://i.ytimg.com/vi/qzK1_zMo1kI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClQqDW9hqroIxRd5zGwAnrB1I6vg' width='200px' alt='Life'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=0OZ15_9YKPc'>異端なスター</a>
+      <a href='https://www.youtube.com/watch?v=qzK1_zMo1kI'>Life</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=eoQAnGx4Pss'>
-        <img src='https://i.ytimg.com/vi/eoQAnGx4Pss/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFEUw0WZq7w7oBTR2L_48UsOCpsw' width='200px' alt='Wherever you are'>
+      <a href='https://www.youtube.com/watch?v=fdnoxPq_Is8'>
+        <img src='https://i.ytimg.com/vi/fdnoxPq_Is8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPWxvixtaadySgnUIvVPraig7Ohw' width='200px' alt='Ola!!'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=eoQAnGx4Pss'>Wherever you are</a>
+      <a href='https://www.youtube.com/watch?v=fdnoxPq_Is8'>Ola!!</a>
     </td>
   </tr>
 </table>
