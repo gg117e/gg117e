@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 空虚な言葉や暴走する技術に惑わされず、飾らぬ誠実さを羅針盤とせよ。紛争の熱や環境の激変が迫る今、真の知性は調和を求め、真の強さは歩み寄る勇気に宿る。加速する世界でこそ、命の重さを静かに見つめ直そう。
+> 加速するAIが日常を自動化しても、十五年前の震災が遺した祈りと、揺らぐ平和への希求は代えられません。便利さに溺れず、技術を「奪う力」ではなく「癒やす智恵」として使い、今ここにある生命の尊さを刻みなさい。
 >
-> Do not be misled by hollow words or runaway technology; let simple sincerity be your compass. Amidst conflict and climate shifts, true intelligence seeks harmony, and true strength lies in reconciliation. In an accelerating world, pause to honor the weight of life.
+> Even as accelerating AI automates our daily lives, the prayers remaining from the disaster fifteen years ago and the yearning for fragile peace are irreplaceable. Do not drown in convenience; use technology as wisdom for healing rather than a force of conflict, and cherish the sanctity of life here and now.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [「今熱いマンガは？」「電子書籍でマンガ買ったことある？」などGIGAZINE読者に聞いてみた](https://gigazine.net/news/20260310-gigazine-user-manga/)
-- [「相乗的なリーダーシップ」「新たなレベルの適応的一貫性」などのデタラメなビジネス用語を好む労働者は仕事の能力が低い](https://gigazine.net/news/20260310-workers-love-corporate-bullshit-harmful/)
-- [Anthropic・Google・OpenAI・xAIが開発したAIモデルは会話を重ねると学術不正に協力してしまうという調査結果](https://gigazine.net/news/20260310-afim-llm-academic-fraud/)
+- [「Google Chrome 146」安定版リリース、WebGPUが大幅に機能追加](https://gigazine.net/news/20260311-google-chrome-146/)
+- [GIGAZINE読者5000人以上に「今熱いマンガは？」「Amazonで何をチェックしてる？」など調査してみたアンケート結果を公開中！2026年度2月分のGIGAZINEのアクセス解析結果はこんな感じ](https://gigazine.net/news/20260311-access/)
+- [無料で簡単にAIエージェントでブラウザやファイルの自動操作ができる「Agent Zero」、ChatGPT・Claude・Geminiと連携できローカルAIも使用可能](https://gigazine.net/news/20260311-agent-zero/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -141,6 +141,7 @@
 - "力による屈服や情報の監視が強まる時代、真の自由は外ではなく内にある。他者に降伏を強いる声に惑わされず、自らの静寂と倫理を保ちなさい。小さな日常の習慣こそが、混沌とした世界で自分を繋ぎ止める唯一の錨となる。" (In an era of forced submission and pervasive surveillance, true freedom resides within. Do not be swayed by those demanding surrender; instead, guard your inner silence and ethics. Small daily habits are the anchors that keep you grounded in a chaotic world.) - **Gemini**
 - "紛争の火種が消えず、技術が加速する不条理な時代。荒波を渡るには、山の静寂を慈しみ、真実を語る勇気と、隣人を想う想像力を手放さぬことだ。情勢に翻弄されず、己の核を研ぎ澄まし、今日という一日を丁寧に手作りせよ。" (In an era of lingering conflict and accelerating technology, resist absurdity by seeking silence, the courage to speak truth, and empathy for others. Do not be swayed by shifting tides; sharpen your inner core and craft each day with profound care.) - **Gemini**
 - "権威の継承や知能の加速に世界が揺れる今、真に守るべきは技術の速さではなく、隣人の温もりと己の魂の静寂です。外なる嵐に惑わされず、不変の価値を抱きしめて歩みなさい。" (As the world trembles with shifts in power and the surge of artificial intelligence, what we must truly protect is not the speed of technology, but the warmth of our neighbors and the stillness of our souls. Do not be swayed by external storms; walk while embracing the values that never change.) - **Gemini**
+- "空虚な言葉や暴走する技術に惑わされず、飾らぬ誠実さを羅針盤とせよ。紛争の熱や環境の激変が迫る今、真の知性は調和を求め、真の強さは歩み寄る勇気に宿る。加速する世界でこそ、命の重さを静かに見つめ直そう。" (Do not be misled by hollow words or runaway technology; let simple sincerity be your compass. Amidst conflict and climate shifts, true intelligence seeks harmony, and true strength lies in reconciliation. In an accelerating world, pause to honor the weight of life.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
