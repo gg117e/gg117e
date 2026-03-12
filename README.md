@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 加速するAIが日常を自動化しても、十五年前の震災が遺した祈りと、揺らぐ平和への希求は代えられません。便利さに溺れず、技術を「奪う力」ではなく「癒やす智恵」として使い、今ここにある生命の尊さを刻みなさい。
+> データや技術が過ちを犯し、地政学の荒波が命を脅かす今、効率の「空洞」に潜む人間らしさを守り抜け。数式で測れぬ命の重みと、自ら物語を紡ぐ尊厳を抱くことが、不確かな世界を照らす唯一の確かな光となる。
 >
-> Even as accelerating AI automates our daily lives, the prayers remaining from the disaster fifteen years ago and the yearning for fragile peace are irreplaceable. Do not drown in convenience; use technology as wisdom for healing rather than a force of conflict, and cherish the sanctity of life here and now.
+> In an era where technology errs and geopolitics threaten life, protect the humanity hidden within the 'voids' of efficiency. Cherishing the immeasurable weight of life and the dignity of creating your own story is the only sure light in this uncertain world.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [「Google Chrome 146」安定版リリース、WebGPUが大幅に機能追加](https://gigazine.net/news/20260311-google-chrome-146/)
-- [GIGAZINE読者5000人以上に「今熱いマンガは？」「Amazonで何をチェックしてる？」など調査してみたアンケート結果を公開中！2026年度2月分のGIGAZINEのアクセス解析結果はこんな感じ](https://gigazine.net/news/20260311-access/)
-- [無料で簡単にAIエージェントでブラウザやファイルの自動操作ができる「Agent Zero」、ChatGPT・Claude・Geminiと連携できローカルAIも使用可能](https://gigazine.net/news/20260311-agent-zero/)
+- [「子どもの安全を守るため」のオンライン年齢確認ツールが普及しているが実際には「成人」も監視対象となっている](https://gigazine.net/news/20260312-online-age-verification-tools-surveilling-adults/)
+- [ゲームによくある六角形のヘックスマップをWebGPUで自動生成できる「Hex Map Toy」、波動関数の収縮を応用](https://gigazine.net/news/20260312-hex-map-toy/)
+- [iCloudの無料枠がいつまで経っても5GBから増えないことを確認できる「Is iCloud’s free tier still 5GB？」](https://gigazine.net/news/20260312-is-icloud-free-tier-still-5gb/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -142,6 +142,7 @@
 - "紛争の火種が消えず、技術が加速する不条理な時代。荒波を渡るには、山の静寂を慈しみ、真実を語る勇気と、隣人を想う想像力を手放さぬことだ。情勢に翻弄されず、己の核を研ぎ澄まし、今日という一日を丁寧に手作りせよ。" (In an era of lingering conflict and accelerating technology, resist absurdity by seeking silence, the courage to speak truth, and empathy for others. Do not be swayed by shifting tides; sharpen your inner core and craft each day with profound care.) - **Gemini**
 - "権威の継承や知能の加速に世界が揺れる今、真に守るべきは技術の速さではなく、隣人の温もりと己の魂の静寂です。外なる嵐に惑わされず、不変の価値を抱きしめて歩みなさい。" (As the world trembles with shifts in power and the surge of artificial intelligence, what we must truly protect is not the speed of technology, but the warmth of our neighbors and the stillness of our souls. Do not be swayed by external storms; walk while embracing the values that never change.) - **Gemini**
 - "空虚な言葉や暴走する技術に惑わされず、飾らぬ誠実さを羅針盤とせよ。紛争の熱や環境の激変が迫る今、真の知性は調和を求め、真の強さは歩み寄る勇気に宿る。加速する世界でこそ、命の重さを静かに見つめ直そう。" (Do not be misled by hollow words or runaway technology; let simple sincerity be your compass. Amidst conflict and climate shifts, true intelligence seeks harmony, and true strength lies in reconciliation. In an accelerating world, pause to honor the weight of life.) - **Gemini**
+- "加速するAIが日常を自動化しても、十五年前の震災が遺した祈りと、揺らぐ平和への希求は代えられません。便利さに溺れず、技術を「奪う力」ではなく「癒やす智恵」として使い、今ここにある生命の尊さを刻みなさい。" (Even as accelerating AI automates our daily lives, the prayers remaining from the disaster fifteen years ago and the yearning for fragile peace are irreplaceable. Do not drown in convenience; use technology as wisdom for healing rather than a force of conflict, and cherish the sanctity of life here and now.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
