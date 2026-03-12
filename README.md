@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=A0plb7gdzW4'>
-        <img src='https://i.ytimg.com/vi/A0plb7gdzW4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhPB6jEwaOqitRIOiPhQQSfsOuDw' width='200px' alt='Attitude'>
+      <a href='https://www.youtube.com/watch?v=Pz9-XJ8SFKU'>
+        <img src='https://i.ytimg.com/vi/Pz9-XJ8SFKU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBq-Etp03Dzv0fNmneyfOmTHqbeTQ' width='200px' alt='Taketen'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=A0plb7gdzW4'>Attitude</a>
+      <a href='https://www.youtube.com/watch?v=Pz9-XJ8SFKU'>Taketen</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=uTt67zwzLdo'>
-        <img src='https://i.ytimg.com/vi/uTt67zwzLdo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNz1DV3wReqjvonmJoIoIbRRqIxQ' width='200px' alt='あなたがいることで'>
+      <a href='https://www.youtube.com/watch?v=3qvMBFAPgD8'>
+        <img src='https://i.ytimg.com/vi/3qvMBFAPgD8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeKQJOW3hP4i6nsR5UUMv4-USrxw' width='200px' alt='ベテルギウス'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=uTt67zwzLdo'>あなたがいることで</a>
+      <a href='https://www.youtube.com/watch?v=3qvMBFAPgD8'>ベテルギウス</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ZosT1iyOU2g'>
-        <img src='https://i.ytimg.com/vi/ZosT1iyOU2g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDiKwFTggMjRRJLDfVRhNfXfoYJw' width='200px' alt='手紙 〜拝啓　十五の君へ〜'>
+      <a href='https://www.youtube.com/watch?v=kJEPeKPtZyw'>
+        <img src='https://i.ytimg.com/vi/kJEPeKPtZyw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHEQRF57cU-KWllU8xOBlwgrk83Q' width='200px' alt='花占い'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ZosT1iyOU2g'>手紙 〜拝啓　十五の君へ〜</a>
+      <a href='https://www.youtube.com/watch?v=kJEPeKPtZyw'>花占い</a>
     </td>
   </tr>
 </table>
