@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=qzK1_zMo1kI'>
-        <img src='https://i.ytimg.com/vi/qzK1_zMo1kI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClQqDW9hqroIxRd5zGwAnrB1I6vg' width='200px' alt='Life'>
+      <a href='https://www.youtube.com/watch?v=1AVErqlUdpM'>
+        <img src='https://i.ytimg.com/vi/1AVErqlUdpM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnLrfABUDxabUUOguKRh1NAcHb-A' width='200px' alt='ギャグ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=qzK1_zMo1kI'>Life</a>
+      <a href='https://www.youtube.com/watch?v=1AVErqlUdpM'>ギャグ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=LoyA7GvfOwA'>
-        <img src='https://i.ytimg.com/vi/LoyA7GvfOwA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAuADigIMCAAQARhkIGQoZDAP&rs=AOn4CLBk6pXQ6KVrYlVuaAckuf6xf3Owbg' width='200px' alt='Sad Song'>
+      <a href='https://www.youtube.com/watch?v=H2r25lVcIHw'>
+        <img src='https://i.ytimg.com/vi/H2r25lVcIHw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgiffVYvt42FuGzVoZ1W9jo3MUFQ' width='200px' alt='花の塔'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=LoyA7GvfOwA'>Sad Song</a>
+      <a href='https://www.youtube.com/watch?v=H2r25lVcIHw'>花の塔</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=GcXurBc6vao'>
-        <img src='https://i.ytimg.com/vi/GcXurBc6vao/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1h2cOKqsHtyYt1ytLA3FK8W9TZA' width='200px' alt='カタオモイ'>
+      <a href='https://www.youtube.com/watch?v=5W2LCOjgA2w'>
+        <img src='https://i.ytimg.com/vi/5W2LCOjgA2w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJVEmSPKowr8dFsCJBt-6t_A-uTA' width='200px' alt='好き、お願い'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=GcXurBc6vao'>カタオモイ</a>
+      <a href='https://www.youtube.com/watch?v=5W2LCOjgA2w'>好き、お願い</a>
     </td>
   </tr>
 </table>
