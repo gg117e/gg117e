@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=QlyW9kYHTDo'>
-        <img src='https://i.ytimg.com/vi/QlyW9kYHTDo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQFnLrxul-P672hEh7Ctcb3KYlmw' width='200px' alt='Time Machine'>
+      <a href='https://www.youtube.com/watch?v=hID1Wt1ByEQ'>
+        <img src='https://i.ytimg.com/vi/hID1Wt1ByEQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6PREFxuitmk-F_ecqRXEOsN1hNg' width='200px' alt='Same Blue'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=QlyW9kYHTDo'>Time Machine</a>
+      <a href='https://www.youtube.com/watch?v=hID1Wt1ByEQ'>Same Blue</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=uhY5LztYnoQ'>
-        <img src='https://i.ytimg.com/vi/uhY5LztYnoQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCG2PLxs6Mn3iT3s5CyejxHT6v26g' width='200px' alt='ありがとうの輪'>
+      <a href='https://www.youtube.com/watch?v=9uboB9bJ024'>
+        <img src='https://i.ytimg.com/vi/9uboB9bJ024/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3yXYsuTYSyIBZ3vROj3kSQLBJeg' width='200px' alt='にじいろ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=uhY5LztYnoQ'>ありがとうの輪</a>
+      <a href='https://www.youtube.com/watch?v=9uboB9bJ024'>にじいろ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=taMwG5lOq80'>
-        <img src='https://i.ytimg.com/vi/taMwG5lOq80/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtRHtD3sc1odeK-K8ONv0uYxv0hw' width='200px' alt='SWEET TWEET'>
+      <a href='https://www.youtube.com/watch?v=9wDFyZDAW2I'>
+        <img src='https://i.ytimg.com/vi/9wDFyZDAW2I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlPACkNx6DfP3rMaY3vsQQ1NQ1-g' width='200px' alt='Tomo ～Tabidachinotoki～'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=taMwG5lOq80'>SWEET TWEET</a>
+      <a href='https://www.youtube.com/watch?v=9wDFyZDAW2I'>Tomo ～Tabidachinotoki～</a>
     </td>
   </tr>
 </table>
