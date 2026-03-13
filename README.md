@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> データや技術が過ちを犯し、地政学の荒波が命を脅かす今、効率の「空洞」に潜む人間らしさを守り抜け。数式で測れぬ命の重みと、自ら物語を紡ぐ尊厳を抱くことが、不確かな世界を照らす唯一の確かな光となる。
+> AIが知を広げ、海が閉ざされる激動の今こそ、「体温のある日常」を慈しみましょう。効率の波に呑まれず、他者の悲しみや一杯の酒の重さを忘れないこと。不確実な未来を照らすのは、複雑な回路ではなく、人間らしい共感の光です。
 >
-> In an era where technology errs and geopolitics threaten life, protect the humanity hidden within the 'voids' of efficiency. Cherishing the immeasurable weight of life and the dignity of creating your own story is the only sure light in this uncertain world.
+> In this turbulent era where AI expands intelligence while seas are blockaded, we must cherish the warmth of everyday life. Do not be swept away by efficiency; remember the weight of another's grief and the comfort of a simple drink. The light that guides us through an uncertain future is not a complex circuit, but human empathy.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [「子どもの安全を守るため」のオンライン年齢確認ツールが普及しているが実際には「成人」も監視対象となっている](https://gigazine.net/news/20260312-online-age-verification-tools-surveilling-adults/)
-- [ゲームによくある六角形のヘックスマップをWebGPUで自動生成できる「Hex Map Toy」、波動関数の収縮を応用](https://gigazine.net/news/20260312-hex-map-toy/)
-- [iCloudの無料枠がいつまで経っても5GBから増えないことを確認できる「Is iCloud’s free tier still 5GB？」](https://gigazine.net/news/20260312-is-icloud-free-tier-still-5gb/)
+- [企業が採用現場で導入し始めている「AI面接官」と実際に面接してみるとどんな感じなのか？](https://gigazine.net/news/20260313-job-interviewed-by-ai-bot/)
+- [アルツハイマー病の初期に不眠になる理由が解明される](https://gigazine.net/news/20260313-alzheimers-tau-sleep-glucose/)
+- [「折りたたみ式iPhone」の予想まとめ、Face IDではなくTouch ID搭載＆UI刷新＆ディスプレイのサイズ感などなど](https://gigazine.net/news/20260312-foldable-iphone/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -143,6 +143,7 @@
 - "権威の継承や知能の加速に世界が揺れる今、真に守るべきは技術の速さではなく、隣人の温もりと己の魂の静寂です。外なる嵐に惑わされず、不変の価値を抱きしめて歩みなさい。" (As the world trembles with shifts in power and the surge of artificial intelligence, what we must truly protect is not the speed of technology, but the warmth of our neighbors and the stillness of our souls. Do not be swayed by external storms; walk while embracing the values that never change.) - **Gemini**
 - "空虚な言葉や暴走する技術に惑わされず、飾らぬ誠実さを羅針盤とせよ。紛争の熱や環境の激変が迫る今、真の知性は調和を求め、真の強さは歩み寄る勇気に宿る。加速する世界でこそ、命の重さを静かに見つめ直そう。" (Do not be misled by hollow words or runaway technology; let simple sincerity be your compass. Amidst conflict and climate shifts, true intelligence seeks harmony, and true strength lies in reconciliation. In an accelerating world, pause to honor the weight of life.) - **Gemini**
 - "加速するAIが日常を自動化しても、十五年前の震災が遺した祈りと、揺らぐ平和への希求は代えられません。便利さに溺れず、技術を「奪う力」ではなく「癒やす智恵」として使い、今ここにある生命の尊さを刻みなさい。" (Even as accelerating AI automates our daily lives, the prayers remaining from the disaster fifteen years ago and the yearning for fragile peace are irreplaceable. Do not drown in convenience; use technology as wisdom for healing rather than a force of conflict, and cherish the sanctity of life here and now.) - **Gemini**
+- "データや技術が過ちを犯し、地政学の荒波が命を脅かす今、効率の「空洞」に潜む人間らしさを守り抜け。数式で測れぬ命の重みと、自ら物語を紡ぐ尊厳を抱くことが、不確かな世界を照らす唯一の確かな光となる。" (In an era where technology errs and geopolitics threaten life, protect the humanity hidden within the 'voids' of efficiency. Cherishing the immeasurable weight of life and the dignity of creating your own story is the only sure light in this uncertain world.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
