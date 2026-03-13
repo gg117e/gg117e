@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=MS94B8_eiII'>
-        <img src='https://i.ytimg.com/vi/MS94B8_eiII/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6buPo_SDBHZdDQiY5s8m2GCntVA' width='200px' alt='ハミング'>
+      <a href='https://www.youtube.com/watch?v=8C-ZXUFud4g'>
+        <img src='https://i.ytimg.com/vi/8C-ZXUFud4g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAntZZBsMwxcogbwOA7SvwO1-bquA' width='200px' alt='誰よりも'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=MS94B8_eiII'>ハミング</a>
+      <a href='https://www.youtube.com/watch?v=8C-ZXUFud4g'>誰よりも</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=cMLTX2FClxw'>
-        <img src='https://i.ytimg.com/vi/cMLTX2FClxw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdhytK3vnYCrOsTlHB2LeYE2Kp5g' width='200px' alt='Official髭男dism - ビンテージ［Official Video］'>
+      <a href='https://www.youtube.com/watch?v=ArN80_ahos0'>
+        <img src='https://i.ytimg.com/vi/ArN80_ahos0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0St2Q4-pGDvfGebZ98ijNN0K2qQ' width='200px' alt='Anatani'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=cMLTX2FClxw'>Official髭男dism - ビンテージ［Official Video］</a>
+      <a href='https://www.youtube.com/watch?v=ArN80_ahos0'>Anatani</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Myj9iHDsOrk'>
-        <img src='https://i.ytimg.com/vi/Myj9iHDsOrk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9TTpA-QB9jo-DQV9VtuzgJxDJlQ' width='200px' alt='花束のかわりにメロディーを'>
+      <a href='https://www.youtube.com/watch?v=f8mKfvnsYM4'>
+        <img src='https://i.ytimg.com/vi/f8mKfvnsYM4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSJK00pNJEU7KwJmfmg7L74zQO7Q' width='200px' alt='ばかまじめ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Myj9iHDsOrk'>花束のかわりにメロディーを</a>
+      <a href='https://www.youtube.com/watch?v=f8mKfvnsYM4'>ばかまじめ</a>
     </td>
   </tr>
 </table>
