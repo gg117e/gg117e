@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=N1XUt-ZcOf4'>
-        <img src='https://i.ytimg.com/vi/N1XUt-ZcOf4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxk96uW-3O9eGb8qj27Cr0CMOCqw' width='200px' alt='Columbus'>
+      <a href='https://www.youtube.com/watch?v=KJBoof4rjrg'>
+        <img src='https://i.ytimg.com/vi/KJBoof4rjrg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYlPGVYfBk7q9cXddAm78dnu8oAQ' width='200px' alt='Tatta'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=N1XUt-ZcOf4'>Columbus</a>
+      <a href='https://www.youtube.com/watch?v=KJBoof4rjrg'>Tatta</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=vAfgHtZt6gs'>
-        <img src='https://i.ytimg.com/vi/vAfgHtZt6gs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeNAV46w1eCS5FzH7yrnp2Zp2eIg' width='200px' alt='大丈夫'>
+      <a href='https://www.youtube.com/watch?v=LkCEumWZfF4'>
+        <img src='https://i.ytimg.com/vi/LkCEumWZfF4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyaPQcgdwfRFGuZtUyRhWWfBnpUg' width='200px' alt='平井 大 / もしも、僕がいなくても。（Music Video）'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=vAfgHtZt6gs'>大丈夫</a>
+      <a href='https://www.youtube.com/watch?v=LkCEumWZfF4'>平井 大 / もしも、僕がいなくても。（Music Video）</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=GOIuU0ejpzc'>
-        <img src='https://i.ytimg.com/vi/GOIuU0ejpzc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPs_NzMHy2jXKKNMWZW7ccM4HxGg' width='200px' alt='GReeeeN / アカリ 【TBS系 日曜劇場『TOKYO MER～走る緊急救命室～』主題歌】'>
+      <a href='https://www.youtube.com/watch?v=1Zj84ajLO0E'>
+        <img src='https://i.ytimg.com/vi/1Zj84ajLO0E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzCzHeBm0IcTaqcvSVnADwwMndqw' width='200px' alt='Sasanqua'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=GOIuU0ejpzc'>GReeeeN / アカリ 【TBS系 日曜劇場『TOKYO MER～走る緊急救命室～』主題歌】</a>
+      <a href='https://www.youtube.com/watch?v=1Zj84ajLO0E'>Sasanqua</a>
     </td>
   </tr>
 </table>
