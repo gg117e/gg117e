@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Uwhbouk64K4'>
-        <img src='https://i.ytimg.com/vi/Uwhbouk64K4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKHPfVfHTzdk0VxCwn9_cdeQqAbw' width='200px' alt='Smile Again'>
+      <a href='https://www.youtube.com/watch?v=75g7GdgbkRU'>
+        <img src='https://i.ytimg.com/vi/75g7GdgbkRU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbtZAr86NRsUKq8o35sM1vEY6y_g' width='200px' alt='Bling-Bang-Bang-Born'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Uwhbouk64K4'>Smile Again</a>
+      <a href='https://www.youtube.com/watch?v=75g7GdgbkRU'>Bling-Bang-Bang-Born</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=n2m9ebS3tEo'>
-        <img src='https://i.ytimg.com/vi/n2m9ebS3tEo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXzDib6DqcUgUEmhX8e254Si2mQw' width='200px' alt='Beautiful Fin'>
+      <a href='https://www.youtube.com/watch?v=3KWjq6V4YNo'>
+        <img src='https://i.ytimg.com/vi/3KWjq6V4YNo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2Upf8C4rqx-nY8WnLCnwFgGEynQ' width='200px' alt='ピーターパン'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=n2m9ebS3tEo'>Beautiful Fin</a>
+      <a href='https://www.youtube.com/watch?v=3KWjq6V4YNo'>ピーターパン</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=XEHvZ5GrfM8'>
-        <img src='https://i.ytimg.com/vi/XEHvZ5GrfM8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIMwX4r8LPGzFEuy9nauo9407Ksw' width='200px' alt='Eine Kleine'>
+      <a href='https://www.youtube.com/watch?v=TDpJAuxpfMs'>
+        <img src='https://i.ytimg.com/vi/TDpJAuxpfMs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9Cz2hEIi2OAbI-OqYwpBuvb91ZQ' width='200px' alt='愛に出会い恋は続く／HoneyWorks feat.Kotoha'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=XEHvZ5GrfM8'>Eine Kleine</a>
+      <a href='https://www.youtube.com/watch?v=TDpJAuxpfMs'>愛に出会い恋は続く／HoneyWorks feat.Kotoha</a>
     </td>
   </tr>
 </table>
