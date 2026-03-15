@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=wPsr3_UVA0U'>
-        <img src='https://i.ytimg.com/vi/wPsr3_UVA0U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEcVsySSnNqV47RppVnh7XTlEAQQ' width='200px' alt='Wonderful'>
+      <a href='https://www.youtube.com/watch?v=whlXRYLhgx0'>
+        <img src='https://i.ytimg.com/vi/whlXRYLhgx0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGlE00IU9bwRQqqzhxwGDuajZ0HA' width='200px' alt='Bedroom Talk'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=wPsr3_UVA0U'>Wonderful</a>
+      <a href='https://www.youtube.com/watch?v=whlXRYLhgx0'>Bedroom Talk</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=KQNT6hbgf6g'>
-        <img src='https://i.ytimg.com/vi/KQNT6hbgf6g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9u_NKnOrjXZLJMcCymhOCKrr5FA' width='200px' alt='Toku Toku (2012 Remaster)'>
+      <a href='https://www.youtube.com/watch?v=_bH_0NIi_Vc'>
+        <img src='https://i.ytimg.com/vi/_bH_0NIi_Vc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsceiLz7G_AJQoMUqKRGRR0QUfJA' width='200px' alt='日曜日のラブレター'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=KQNT6hbgf6g'>Toku Toku (2012 Remaster)</a>
+      <a href='https://www.youtube.com/watch?v=_bH_0NIi_Vc'>日曜日のラブレター</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=bm6t1rGL5P8'>
-        <img src='https://i.ytimg.com/vi/bm6t1rGL5P8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRWK87dNyNRlMIJFzg-gT49hTHrQ' width='200px' alt='Tobira'>
+      <a href='https://www.youtube.com/watch?v=sfyCG9YhaYk'>
+        <img src='https://i.ytimg.com/vi/sfyCG9YhaYk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFnHuBFomZzdsroVD7OPCv0uZP_g' width='200px' alt='Mikata'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=bm6t1rGL5P8'>Tobira</a>
+      <a href='https://www.youtube.com/watch?v=sfyCG9YhaYk'>Mikata</a>
     </td>
   </tr>
 </table>
