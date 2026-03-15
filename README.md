@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=WjIsq1-ZBaw'>
-        <img src='https://i.ytimg.com/vi/WjIsq1-ZBaw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCh9rmrKCmdRlaAejuSaWKVb-hTg' width='200px' alt='平井 大 / 栄光の扉（Music Video）'>
+      <a href='https://www.youtube.com/watch?v=rA_B_tm-Vz0'>
+        <img src='https://i.ytimg.com/vi/rA_B_tm-Vz0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIfs7N9nZxbosI-CRH47DBKhsHhQ' width='200px' alt='色彩'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=WjIsq1-ZBaw'>平井 大 / 栄光の扉（Music Video）</a>
+      <a href='https://www.youtube.com/watch?v=rA_B_tm-Vz0'>色彩</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=vAfgHtZt6gs'>
-        <img src='https://i.ytimg.com/vi/vAfgHtZt6gs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeNAV46w1eCS5FzH7yrnp2Zp2eIg' width='200px' alt='大丈夫'>
+      <a href='https://www.youtube.com/watch?v=Q6MCyXi7ygA'>
+        <img src='https://i.ytimg.com/vi/Q6MCyXi7ygA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyF8uAZ8LWVRze3HuSHjbzwarW9A' width='200px' alt='Grand Escape'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=vAfgHtZt6gs'>大丈夫</a>
+      <a href='https://www.youtube.com/watch?v=Q6MCyXi7ygA'>Grand Escape</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=sFd0qdA32d8'>
-        <img src='https://i.ytimg.com/vi/sFd0qdA32d8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsbiKsqGRozBBhXS18xarw4KRGhw' width='200px' alt='Turquoise'>
+      <a href='https://www.youtube.com/watch?v=NytDYFWc--s'>
+        <img src='https://i.ytimg.com/vi/NytDYFWc--s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAam1nXolU_zNGmcEIM13wXQ3X_wQ' width='200px' alt='虹色の戦争'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=sFd0qdA32d8'>Turquoise</a>
+      <a href='https://www.youtube.com/watch?v=NytDYFWc--s'>虹色の戦争</a>
     </td>
   </tr>
 </table>
