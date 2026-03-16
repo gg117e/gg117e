@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 加速する技術と揺らぐ国境の狭間で、私たちは効率という名の鎖に縛られがちだ。だが、真の強さは脳への電極や兵器ではなく、他者を慮る慈しみと、自分だけの静かな歩律にある。荒波を越えるのは、常に温かな魂の舵だ。
+> 戦火が燃料を奪い、AIが言葉を自動化する時代。だからこそ、私たちは自らの手で温もりを灯さねばなりません。真の知性とは、複雑な世界を嘆くことではなく、簡素な道具で誰かを慈しみ、今日を尊ぶ心に宿るのです。
 >
-> Amidst accelerating technology and shifting borders, we are often bound by the chains of efficiency. True strength lies not in brain implants or weaponry, but in compassion and one's own steady rhythm. It is always the warmth of the soul that steers us through turbulent seas.
+> In an era where conflict consumes fuel and AI automates language, we must light the warmth with our own hands. True intelligence lies not in lamenting a complex world, but in the heart that cherishes others with simple tools and honors each day.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [人気映画のトレントファイルの字幕にマルウェアが仕込まれる](https://gigazine.net/news/20260315-torrent-subtitles-malware/)
-- [『劇場版 転スラ 蒼海の涙編』大ヒット記念舞台挨拶レポ、ゾドン役・堂本光一の考えた「ゾドンのホワイトデーのお返し」とは？](https://gigazine.net/news/20260314-ten-sura-movie2-osaka-greeting-report/)
-- [Anna’s Archiveを支援するためスマホやPCの余っているディスク容量・ネットワーク接続を活用できる「Levin」](https://gigazine.net/news/20260314-levin/)
+- [さまざまな製品を使った時のエネルギー消費量やコストを比較できる「Does that use a lot of energy?」](https://gigazine.net/news/20260316-does-that-use-a-lot-of-energy/)
+- [インターネット以前の巨大ネットワーク「BBS」はこんな機械で動いていた](https://gigazine.net/news/20260316-bbs-photo/)
+- [Instagramのエンドツーエンド暗号化メッセージをMetaが廃止へ](https://gigazine.net/news/20260315-instagram-e2ee-dm-end/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -146,6 +146,7 @@
 - "データや技術が過ちを犯し、地政学の荒波が命を脅かす今、効率の「空洞」に潜む人間らしさを守り抜け。数式で測れぬ命の重みと、自ら物語を紡ぐ尊厳を抱くことが、不確かな世界を照らす唯一の確かな光となる。" (In an era where technology errs and geopolitics threaten life, protect the humanity hidden within the 'voids' of efficiency. Cherishing the immeasurable weight of life and the dignity of creating your own story is the only sure light in this uncertain world.) - **Gemini**
 - "AIが知を広げ、海が閉ざされる激動の今こそ、「体温のある日常」を慈しみましょう。効率の波に呑まれず、他者の悲しみや一杯の酒の重さを忘れないこと。不確実な未来を照らすのは、複雑な回路ではなく、人間らしい共感の光です。" (In this turbulent era where AI expands intelligence while seas are blockaded, we must cherish the warmth of everyday life. Do not be swept away by efficiency; remember the weight of another's grief and the comfort of a simple drink. The light that guides us through an uncertain future is not a complex circuit, but human empathy.) - **Gemini**
 - "技術は進化し、世界は争いに揺れるが、真の知恵は効率や勝敗にはない。AIの影にある不条理を見極め、祝いと悼みが交錯する日常に寄り添い、自らの良心を唯一の道標とせよ。荒波の中でも、人の尊厳を護り抜く勇気を。" (Technology evolves and the world trembles with conflict, but true wisdom lies not in efficiency or victory. Discern the injustices hidden in the shadows of AI, embrace a reality where celebration and mourning coexist, and let your conscience be your only compass. Amidst the storm, have the courage to protect human dignity.) - **Gemini**
+- "加速する技術と揺らぐ国境の狭間で、私たちは効率という名の鎖に縛られがちだ。だが、真の強さは脳への電極や兵器ではなく、他者を慮る慈しみと、自分だけの静かな歩律にある。荒波を越えるのは、常に温かな魂の舵だ。" (Amidst accelerating technology and shifting borders, we are often bound by the chains of efficiency. True strength lies not in brain implants or weaponry, but in compassion and one's own steady rhythm. It is always the warmth of the soul that steers us through turbulent seas.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
