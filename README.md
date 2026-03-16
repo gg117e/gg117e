@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=0izDjaaBa-A'>
-        <img src='https://i.ytimg.com/vi/0izDjaaBa-A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcNhcK-msy0yxQQnDdt5sDKgKU3w' width='200px' alt='光の跡'>
+      <a href='https://www.youtube.com/watch?v=75g7GdgbkRU'>
+        <img src='https://i.ytimg.com/vi/75g7GdgbkRU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbtZAr86NRsUKq8o35sM1vEY6y_g' width='200px' alt='Bling-Bang-Bang-Born'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=0izDjaaBa-A'>光の跡</a>
+      <a href='https://www.youtube.com/watch?v=75g7GdgbkRU'>Bling-Bang-Bang-Born</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=HzF797f9uQs'>
-        <img src='https://i.ytimg.com/vi/HzF797f9uQs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAl7-DU2SL4TW4FqLG_TwxU3x4SEg' width='200px' alt='沈丁花'>
+      <a href='https://www.youtube.com/watch?v=9wDFyZDAW2I'>
+        <img src='https://i.ytimg.com/vi/9wDFyZDAW2I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlPACkNx6DfP3rMaY3vsQQ1NQ1-g' width='200px' alt='Tomo ～Tabidachinotoki～'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=HzF797f9uQs'>沈丁花</a>
+      <a href='https://www.youtube.com/watch?v=9wDFyZDAW2I'>Tomo ～Tabidachinotoki～</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=IwQGnXpskoY'>
-        <img src='https://i.ytimg.com/vi/IwQGnXpskoY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDiHwirjE0LDcogv4uTcLmilOrQCQ' width='200px' alt='One Voice'>
+      <a href='https://www.youtube.com/watch?v=rxR1mBt__fo'>
+        <img src='https://i.ytimg.com/vi/rxR1mBt__fo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsWaFFvm2u38Jdjm5d7AcaKwvMMg' width='200px' alt='Natsuiro'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=IwQGnXpskoY'>One Voice</a>
+      <a href='https://www.youtube.com/watch?v=rxR1mBt__fo'>Natsuiro</a>
     </td>
   </tr>
 </table>
