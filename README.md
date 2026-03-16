@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=_zVFYb5jzr8'>
-        <img src='https://i.ytimg.com/vi/_zVFYb5jzr8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCN42WTnWBBGIgKGCcTgP1-bACk1w' width='200px' alt='Love Letter'>
+      <a href='https://www.youtube.com/watch?v=s4ZThuWQdhA'>
+        <img src='https://i.ytimg.com/vi/s4ZThuWQdhA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBL2544KnUtG-gjg-ro3N-gIAIgbw' width='200px' alt='Que Sera Sera'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=_zVFYb5jzr8'>Love Letter</a>
+      <a href='https://www.youtube.com/watch?v=s4ZThuWQdhA'>Que Sera Sera</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=hSdcy2_vtaQ'>
-        <img src='https://i.ytimg.com/vi/hSdcy2_vtaQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPw24hhUebfUwdjUQ9IOX0zI-_3Q' width='200px' alt='僕らまた (Us, again) - SG (Official Lyric Video)'>
+      <a href='https://www.youtube.com/watch?v=zlJSYqcO2-4'>
+        <img src='https://i.ytimg.com/vi/zlJSYqcO2-4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2T_Y869Rqoi9MFA8BqnrVmiJlyQ' width='200px' alt='Clap Clap'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=hSdcy2_vtaQ'>僕らまた (Us, again) - SG (Official Lyric Video)</a>
+      <a href='https://www.youtube.com/watch?v=zlJSYqcO2-4'>Clap Clap</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=pyDCubgU57g'>
-        <img src='https://i.ytimg.com/vi/pyDCubgU57g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB37uBdxYISYHLCGDBUZUW3NbL7Hw' width='200px' alt='蒼のワルツ - Eve MV'>
+      <a href='https://www.youtube.com/watch?v=f8mKfvnsYM4'>
+        <img src='https://i.ytimg.com/vi/f8mKfvnsYM4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSJK00pNJEU7KwJmfmg7L74zQO7Q' width='200px' alt='ばかまじめ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=pyDCubgU57g'>蒼のワルツ - Eve MV</a>
+      <a href='https://www.youtube.com/watch?v=f8mKfvnsYM4'>ばかまじめ</a>
     </td>
   </tr>
 </table>
