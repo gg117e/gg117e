@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=n2m9ebS3tEo'>
-        <img src='https://i.ytimg.com/vi/n2m9ebS3tEo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXzDib6DqcUgUEmhX8e254Si2mQw' width='200px' alt='Beautiful Fin'>
+      <a href='https://www.youtube.com/watch?v=hID1Wt1ByEQ'>
+        <img src='https://i.ytimg.com/vi/hID1Wt1ByEQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6PREFxuitmk-F_ecqRXEOsN1hNg' width='200px' alt='Same Blue'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=n2m9ebS3tEo'>Beautiful Fin</a>
+      <a href='https://www.youtube.com/watch?v=hID1Wt1ByEQ'>Same Blue</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=dhgaMyKT-l0'>
-        <img src='https://i.ytimg.com/vi/dhgaMyKT-l0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0RNrPMVRqJn3jAsnvDMXYtlKm9A' width='200px' alt='Kuchibue'>
+      <a href='https://www.youtube.com/watch?v=1mcvbnDZFho'>
+        <img src='https://i.ytimg.com/vi/1mcvbnDZFho/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDYxeG6Q-a14U8TM3MZcWxjcmfvg' width='200px' alt='ドラマティックおいでよ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=dhgaMyKT-l0'>Kuchibue</a>
+      <a href='https://www.youtube.com/watch?v=1mcvbnDZFho'>ドラマティックおいでよ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=kNDbaYEp0tU'>
-        <img src='https://i.ytimg.com/vi/kNDbaYEp0tU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvX1Ba1QNm2i-8CkQ93gpnsd2H7g' width='200px' alt='怪獣の花唄'>
+      <a href='https://www.youtube.com/watch?v=1GQ07JcqH48'>
+        <img src='https://i.ytimg.com/vi/1GQ07JcqH48/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSPACmTI9ygMCW0JC14xxWjsnbSA' width='200px' alt='Family Song'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=kNDbaYEp0tU'>怪獣の花唄</a>
+      <a href='https://www.youtube.com/watch?v=1GQ07JcqH48'>Family Song</a>
     </td>
   </tr>
 </table>
