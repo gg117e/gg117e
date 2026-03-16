@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ErqUUYWfOBo'>
-        <img src='https://i.ytimg.com/vi/ErqUUYWfOBo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOSuaDQ-44YRfAfNZSNO7AyglYcA' width='200px' alt='決戦スピリット／CHiCO with HoneyWorks'>
+      <a href='https://www.youtube.com/watch?v=wykx9MzjL-8'>
+        <img src='https://i.ytimg.com/vi/wykx9MzjL-8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaoH4EOxmPn7by1akUA2OC7YMMhg' width='200px' alt='AAA / "Wake up!"Music Video'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ErqUUYWfOBo'>決戦スピリット／CHiCO with HoneyWorks</a>
+      <a href='https://www.youtube.com/watch?v=wykx9MzjL-8'>AAA / "Wake up!"Music Video</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=V6TEcoNUmc8'>
-        <img src='https://i.ytimg.com/vi/V6TEcoNUmc8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSLIKEiQCOt42rwL4jDoKMEret8g' width='200px' alt='Ditto'>
+      <a href='https://www.youtube.com/watch?v=rxR1mBt__fo'>
+        <img src='https://i.ytimg.com/vi/rxR1mBt__fo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsWaFFvm2u38Jdjm5d7AcaKwvMMg' width='200px' alt='Natsuiro'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=V6TEcoNUmc8'>Ditto</a>
+      <a href='https://www.youtube.com/watch?v=rxR1mBt__fo'>Natsuiro</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=1jS94sWWokk'>
-        <img src='https://i.ytimg.com/vi/1jS94sWWokk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxqYiCxzeXYaMH_2cNJD-UWssuIQ' width='200px' alt='MIRROR MIRROR'>
+      <a href='https://www.youtube.com/watch?v=MqHfdqK5VvI'>
+        <img src='https://i.ytimg.com/vi/MqHfdqK5VvI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXZdvpkjf-wPoMr7QxLRsrjPYRqg' width='200px' alt='Michi Teyu Ku (Overflowing)'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=1jS94sWWokk'>MIRROR MIRROR</a>
+      <a href='https://www.youtube.com/watch?v=MqHfdqK5VvI'>Michi Teyu Ku (Overflowing)</a>
     </td>
   </tr>
 </table>
