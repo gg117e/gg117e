@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=qzK1_zMo1kI'>
-        <img src='https://i.ytimg.com/vi/qzK1_zMo1kI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClQqDW9hqroIxRd5zGwAnrB1I6vg' width='200px' alt='Life'>
+      <a href='https://www.youtube.com/watch?v=KKi7KXynBwA'>
+        <img src='https://i.ytimg.com/vi/KKi7KXynBwA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFTKwBCcvNjWzxputKmC9GKipoZQ' width='200px' alt='名前を呼ぶよ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=qzK1_zMo1kI'>Life</a>
+      <a href='https://www.youtube.com/watch?v=KKi7KXynBwA'>名前を呼ぶよ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=U6iReNSghS4'>
-        <img src='https://i.ytimg.com/vi/U6iReNSghS4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAL7XssFoF2SkL5wNau6M8VbXLtjQ' width='200px' alt='Kiseki'>
+      <a href='https://www.youtube.com/watch?v=kZn8kahY_-8'>
+        <img src='https://i.ytimg.com/vi/kZn8kahY_-8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBH4BWSxhHVCNATHzYUxY48I2DFdw' width='200px' alt='Irotoridori'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=U6iReNSghS4'>Kiseki</a>
+      <a href='https://www.youtube.com/watch?v=kZn8kahY_-8'>Irotoridori</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=mvGHElGp4dE'>
-        <img src='https://i.ytimg.com/vi/mvGHElGp4dE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZFvJf_4jpwfRfSNlea6vUs4Bm0g' width='200px' alt='Skip'>
+      <a href='https://www.youtube.com/watch?v=mN5F3l3r8QM'>
+        <img src='https://i.ytimg.com/vi/mN5F3l3r8QM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoS8UnfB9Cul4GAuAc-URqS0drDw' width='200px' alt='Romanticism'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=mvGHElGp4dE'>Skip</a>
+      <a href='https://www.youtube.com/watch?v=mN5F3l3r8QM'>Romanticism</a>
     </td>
   </tr>
 </table>
