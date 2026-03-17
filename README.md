@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=mj4Pa0ldUp8'>
-        <img src='https://i.ytimg.com/vi/mj4Pa0ldUp8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD14lODcjMhcKlqfeZWoy1pyMFyqg' width='200px' alt='地獄でなぜ悪い'>
+      <a href='https://www.youtube.com/watch?v=sfyCG9YhaYk'>
+        <img src='https://i.ytimg.com/vi/sfyCG9YhaYk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFnHuBFomZzdsroVD7OPCv0uZP_g' width='200px' alt='Mikata'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=mj4Pa0ldUp8'>地獄でなぜ悪い</a>
+      <a href='https://www.youtube.com/watch?v=sfyCG9YhaYk'>Mikata</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=U6iReNSghS4'>
-        <img src='https://i.ytimg.com/vi/U6iReNSghS4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAL7XssFoF2SkL5wNau6M8VbXLtjQ' width='200px' alt='Kiseki'>
+      <a href='https://www.youtube.com/watch?v=kJEPeKPtZyw'>
+        <img src='https://i.ytimg.com/vi/kJEPeKPtZyw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHEQRF57cU-KWllU8xOBlwgrk83Q' width='200px' alt='花占い'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=U6iReNSghS4'>Kiseki</a>
+      <a href='https://www.youtube.com/watch?v=kJEPeKPtZyw'>花占い</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=iUUZPdV_fto'>
-        <img src='https://i.ytimg.com/vi/iUUZPdV_fto/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_ICcoHDAP&rs=AOn4CLAV03k82NO8AHGZMArSWpQ6UEtp8g' width='200px' alt='SEKAI NO OWARI「Romantic」【Official Audio】'>
+      <a href='https://www.youtube.com/watch?v=Def4ipTm-y4'>
+        <img src='https://i.ytimg.com/vi/Def4ipTm-y4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCixEcYjMmjLWOaqoEVhRfGcylceQ' width='200px' alt='Lovin''>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=iUUZPdV_fto'>SEKAI NO OWARI「Romantic」【Official Audio】</a>
+      <a href='https://www.youtube.com/watch?v=Def4ipTm-y4'>Lovin'</a>
     </td>
   </tr>
 </table>
