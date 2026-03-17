@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 戦火が燃料を奪い、AIが言葉を自動化する時代。だからこそ、私たちは自らの手で温もりを灯さねばなりません。真の知性とは、複雑な世界を嘆くことではなく、簡素な道具で誰かを慈しみ、今日を尊ぶ心に宿るのです。
+> 激動する国際情勢と加速する技術の渦中で、私たちは「零」という静寂に立ち返る必要がある。AIが知識を模倣し、国々が圧力を競う今こそ、技術を愛しつつも、命の重みを最優先に、争いのループを断ち切る慈悲の心を持て。
 >
-> In an era where conflict consumes fuel and AI automates language, we must light the warmth with our own hands. True intelligence lies not in lamenting a complex world, but in the heart that cherishes others with simple tools and honors each day.
+> Amidst turbulent global affairs and accelerating technological shifts, return to the silence of 'zero.' As AI mimics knowledge and nations vie for power, embrace technology while prioritizing the sanctity of life to break the loop of conflict.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [さまざまな製品を使った時のエネルギー消費量やコストを比較できる「Does that use a lot of energy?」](https://gigazine.net/news/20260316-does-that-use-a-lot-of-energy/)
-- [インターネット以前の巨大ネットワーク「BBS」はこんな機械で動いていた](https://gigazine.net/news/20260316-bbs-photo/)
-- [Instagramのエンドツーエンド暗号化メッセージをMetaが廃止へ](https://gigazine.net/news/20260315-instagram-e2ee-dm-end/)
+- [日本でカジノが合法化されたら何をやってみたい？GIGAZINE読者に聞いてみた](https://gigazine.net/news/20260317-gigazine-user-public-gambling-casino/)
+- [GPT・Llama・Grokなどさまざまな大規模言語モデルのアーキテクチャを図示した「LLM Architecture Gallery」](https://gigazine.net/news/20260317-llm-architecture-gallery/)
+- [不完全な人間の動作データから人型ロボットにテニススキルを学習させる「LATENT」](https://gigazine.net/news/20260317-latent/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -147,6 +147,7 @@
 - "AIが知を広げ、海が閉ざされる激動の今こそ、「体温のある日常」を慈しみましょう。効率の波に呑まれず、他者の悲しみや一杯の酒の重さを忘れないこと。不確実な未来を照らすのは、複雑な回路ではなく、人間らしい共感の光です。" (In this turbulent era where AI expands intelligence while seas are blockaded, we must cherish the warmth of everyday life. Do not be swept away by efficiency; remember the weight of another's grief and the comfort of a simple drink. The light that guides us through an uncertain future is not a complex circuit, but human empathy.) - **Gemini**
 - "技術は進化し、世界は争いに揺れるが、真の知恵は効率や勝敗にはない。AIの影にある不条理を見極め、祝いと悼みが交錯する日常に寄り添い、自らの良心を唯一の道標とせよ。荒波の中でも、人の尊厳を護り抜く勇気を。" (Technology evolves and the world trembles with conflict, but true wisdom lies not in efficiency or victory. Discern the injustices hidden in the shadows of AI, embrace a reality where celebration and mourning coexist, and let your conscience be your only compass. Amidst the storm, have the courage to protect human dignity.) - **Gemini**
 - "加速する技術と揺らぐ国境の狭間で、私たちは効率という名の鎖に縛られがちだ。だが、真の強さは脳への電極や兵器ではなく、他者を慮る慈しみと、自分だけの静かな歩律にある。荒波を越えるのは、常に温かな魂の舵だ。" (Amidst accelerating technology and shifting borders, we are often bound by the chains of efficiency. True strength lies not in brain implants or weaponry, but in compassion and one's own steady rhythm. It is always the warmth of the soul that steers us through turbulent seas.) - **Gemini**
+- "戦火が燃料を奪い、AIが言葉を自動化する時代。だからこそ、私たちは自らの手で温もりを灯さねばなりません。真の知性とは、複雑な世界を嘆くことではなく、簡素な道具で誰かを慈しみ、今日を尊ぶ心に宿るのです。" (In an era where conflict consumes fuel and AI automates language, we must light the warmth with our own hands. True intelligence lies not in lamenting a complex world, but in the heart that cherishes others with simple tools and honors each day.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
