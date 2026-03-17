@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=OEsV1iQNQFw'>
-        <img src='https://i.ytimg.com/vi/OEsV1iQNQFw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnGdeEWZl4JUUFduoF9VdWrDnQOw' width='200px' alt='相思相愛'>
+      <a href='https://www.youtube.com/watch?v=qzK1_zMo1kI'>
+        <img src='https://i.ytimg.com/vi/qzK1_zMo1kI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClQqDW9hqroIxRd5zGwAnrB1I6vg' width='200px' alt='Life'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=OEsV1iQNQFw'>相思相愛</a>
+      <a href='https://www.youtube.com/watch?v=qzK1_zMo1kI'>Life</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=xiuOSWPsIyM'>
-        <img src='https://i.ytimg.com/vi/xiuOSWPsIyM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUqeLjQDC9_yiYclIOAIztbPNPtA' width='200px' alt='Subtitle'>
+      <a href='https://www.youtube.com/watch?v=U6iReNSghS4'>
+        <img src='https://i.ytimg.com/vi/U6iReNSghS4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAL7XssFoF2SkL5wNau6M8VbXLtjQ' width='200px' alt='Kiseki'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=xiuOSWPsIyM'>Subtitle</a>
+      <a href='https://www.youtube.com/watch?v=U6iReNSghS4'>Kiseki</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=8PbGeKwEnK0'>
-        <img src='https://i.ytimg.com/vi/8PbGeKwEnK0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWYv4vO1ta-DKEtdPaeTh9ifxA0g' width='200px' alt='Pop Virus'>
+      <a href='https://www.youtube.com/watch?v=mvGHElGp4dE'>
+        <img src='https://i.ytimg.com/vi/mvGHElGp4dE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZFvJf_4jpwfRfSNlea6vUs4Bm0g' width='200px' alt='Skip'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=8PbGeKwEnK0'>Pop Virus</a>
+      <a href='https://www.youtube.com/watch?v=mvGHElGp4dE'>Skip</a>
     </td>
   </tr>
 </table>
