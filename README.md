@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=-Zr0mLgdAQc'>
-        <img src='https://i.ytimg.com/vi/-Zr0mLgdAQc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQRiDuA-AwAqqfWZuLJ_7rPP0Etg' width='200px' alt='ゲッタバンバン'>
+      <a href='https://www.youtube.com/watch?v=p1qM75a9FeE'>
+        <img src='https://i.ytimg.com/vi/p1qM75a9FeE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClYikOff8dhkp27FSkVQFXZWivEA' width='200px' alt='Official髭男dism - HELLO［Official Video］'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=-Zr0mLgdAQc'>ゲッタバンバン</a>
+      <a href='https://www.youtube.com/watch?v=p1qM75a9FeE'>Official髭男dism - HELLO［Official Video］</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=zRBcYVY5A2Y'>
-        <img src='https://i.ytimg.com/vi/zRBcYVY5A2Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlLQ_iSmc_4l96GUYylm0lVUsknQ' width='200px' alt='ノーダウト'>
+      <a href='https://www.youtube.com/watch?v=NUFfRHk1Qcs'>
+        <img src='https://i.ytimg.com/vi/NUFfRHk1Qcs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMjNwQWGvQLii1tiFPU4ho3W8KtQ' width='200px' alt='Start'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=zRBcYVY5A2Y'>ノーダウト</a>
+      <a href='https://www.youtube.com/watch?v=NUFfRHk1Qcs'>Start</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=NiwkUVkXIlU'>
-        <img src='https://i.ytimg.com/vi/NiwkUVkXIlU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDKRjNV_fHOvPi0ubAUVpNyMy8Bg' width='200px' alt='Zenryoku Syounen'>
+      <a href='https://www.youtube.com/watch?v=y6gc4g1uURg'>
+        <img src='https://i.ytimg.com/vi/y6gc4g1uURg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDZADRq-Gwl0EutXG1y3KU9Pv2RA' width='200px' alt='Phantom thief'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=NiwkUVkXIlU'>Zenryoku Syounen</a>
+      <a href='https://www.youtube.com/watch?v=y6gc4g1uURg'>Phantom thief</a>
     </td>
   </tr>
 </table>
