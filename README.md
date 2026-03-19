@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=KQNT6hbgf6g'>
-        <img src='https://i.ytimg.com/vi/KQNT6hbgf6g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9u_NKnOrjXZLJMcCymhOCKrr5FA' width='200px' alt='Toku Toku (2012 Remaster)'>
+      <a href='https://www.youtube.com/watch?v=jjuSkbNCSsI'>
+        <img src='https://i.ytimg.com/vi/jjuSkbNCSsI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwX3eSlo1anK2mtqQrvHd9gyGJzg' width='200px' alt='夢中'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=KQNT6hbgf6g'>Toku Toku (2012 Remaster)</a>
+      <a href='https://www.youtube.com/watch?v=jjuSkbNCSsI'>夢中</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=7Ze7MDQjXS0'>
-        <img src='https://i.ytimg.com/vi/7Ze7MDQjXS0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGUaOf-Ae6mkpk1Gw2m3-BwQUjqA' width='200px' alt='Soranji'>
+      <a href='https://www.youtube.com/watch?v=ArN80_ahos0'>
+        <img src='https://i.ytimg.com/vi/ArN80_ahos0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0St2Q4-pGDvfGebZ98ijNN0K2qQ' width='200px' alt='Anatani'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=7Ze7MDQjXS0'>Soranji</a>
+      <a href='https://www.youtube.com/watch?v=ArN80_ahos0'>Anatani</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Kg50ItKY1SY'>
-        <img src='https://i.ytimg.com/vi/Kg50ItKY1SY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0GMWUoBR7Y2z_v6sXaj4_I6dVaQ' width='200px' alt='Nanndemonaiyo,'>
+      <a href='https://www.youtube.com/watch?v=MgNzn7TGuAU'>
+        <img src='https://i.ytimg.com/vi/MgNzn7TGuAU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDe4ondBSw5TVArzEvNpw7SNixRRw' width='200px' alt='儚くない'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Kg50ItKY1SY'>Nanndemonaiyo,</a>
+      <a href='https://www.youtube.com/watch?v=MgNzn7TGuAU'>儚くない</a>
     </td>
   </tr>
 </table>
