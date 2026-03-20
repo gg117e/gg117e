@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 世界が戦火と物価高騰に揺れ、鉄壁の守りすら崩れる今、技術はより小さく、賢くあろうとしています。外側の狂騒に資源を浪費せず、限られた条件の中で知恵を研ぎ澄まし、心の平穏を自給自足する強さを持ちなさい。
+> AIが瞬時に答えを綴り、技術が空の戦いを変える時代。しかし、封鎖された海や過去の傷跡を癒やすのは、効率ではなく「信頼」の重みです。他者を助ける犬のような純粋な誠実さこそ、今、最も高度な知性として求められています。
 >
-> As the world trembles with conflict and soaring costs, and even 'unbreakable' defenses fail, technology strives to be smaller and wiser. Do not waste your spirit on external turmoil; sharpen your wisdom within constraints and cultivate the strength to sustain inner peace.
+> In an era where AI drafts answers instantly and technology reshapes warfare, it is the weight of trust—not efficiency—that heals blockaded seas and past scars. A dog-like sincerity to help others is the most advanced intelligence we need today.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [チェスや囲碁で有効だったAIの強化学習が単純なゲームで失敗してしまう理由とは？](https://gigazine.net/news/20260319-ai-fails-simple-games/)
-- [銃乱射事件を起こそうとする人物をAIでいち早く特定するスタートアップが登場](https://gigazine.net/news/20260319-ai-identify-mass-shooters/)
-- [グリーンバックでのVFX合成がイマイチになる問題を解決できる「CorridorKey」爆誕](https://gigazine.net/news/20260319-corridorkey/)
+- [犬は物探しを助けるときに人間の幼児のような反応を示す、一方で猫は非協力的](https://gigazine.net/news/20260320-dog-find-thing-children/)
+- [GoogleのUIデザインツール「Stitch」がアップデートされてAIと話しながら高品質UIをサクッと作成可能に、Figmaの株価は下落](https://gigazine.net/news/20260320-google-ai-stitch-ui-design/)
+- [東野圭吾原作映画の監督インタビュー・Pixel 10 Pro Fold・「どんでん返し」のコツなどAmazonで売上トップ10のGIGAZINE記事ランキング2026年2月版はコレ！](https://gigazine.net/news/20260320-gigazine-kindle-ranking-2026-02/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -150,6 +150,7 @@
 - "戦火が燃料を奪い、AIが言葉を自動化する時代。だからこそ、私たちは自らの手で温もりを灯さねばなりません。真の知性とは、複雑な世界を嘆くことではなく、簡素な道具で誰かを慈しみ、今日を尊ぶ心に宿るのです。" (In an era where conflict consumes fuel and AI automates language, we must light the warmth with our own hands. True intelligence lies not in lamenting a complex world, but in the heart that cherishes others with simple tools and honors each day.) - **Gemini**
 - "激動する国際情勢と加速する技術の渦中で、私たちは「零」という静寂に立ち返る必要がある。AIが知識を模倣し、国々が圧力を競う今こそ、技術を愛しつつも、命の重みを最優先に、争いのループを断ち切る慈悲の心を持て。" (Amidst turbulent global affairs and accelerating technological shifts, return to the silence of 'zero.' As AI mimics knowledge and nations vie for power, embrace technology while prioritizing the sanctity of life to break the loop of conflict.) - **Gemini**
 - "技術が脳を模し、世界が孤立を深める今、真の豊かさは心の自立にある。猛暑や争いの影で、誰かの期待に消耗せず、自らの命を慈しみ、他者と誠実に結びつこう。命の「代償」ではなく、愛の連鎖を未来へ繋ぐために。" (As technology mimics the brain and the world retreats into isolation, true abundance lies in spiritual independence. Amidst heatwaves and conflict, do not let others drain you; cherish your life and connect with sincerity. Let us pass on a chain of love, not a 'price of blood,' to the future.) - **Gemini**
+- "世界が戦火と物価高騰に揺れ、鉄壁の守りすら崩れる今、技術はより小さく、賢くあろうとしています。外側の狂騒に資源を浪費せず、限られた条件の中で知恵を研ぎ澄まし、心の平穏を自給自足する強さを持ちなさい。" (As the world trembles with conflict and soaring costs, and even 'unbreakable' defenses fail, technology strives to be smaller and wiser. Do not waste your spirit on external turmoil; sharpen your wisdom within constraints and cultivate the strength to sustain inner peace.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
