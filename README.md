@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=P_glZtd5wp0'>
-        <img src='https://i.ytimg.com/vi/P_glZtd5wp0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnxnUpSjQJ4lFuag_NSYL1kweuUQ' width='200px' alt='Mela!'>
+      <a href='https://www.youtube.com/watch?v=bFG7vT99Y_Q'>
+        <img src='https://i.ytimg.com/vi/bFG7vT99Y_Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWStkU-qU8U77B0aJaq_3E7tu_NA' width='200px' alt='Namidazora'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=P_glZtd5wp0'>Mela!</a>
+      <a href='https://www.youtube.com/watch?v=bFG7vT99Y_Q'>Namidazora</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=oPdIjsctolE'>
-        <img src='https://i.ytimg.com/vi/oPdIjsctolE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1T1itQlYqc1WOopgeaDxc2jiiHQ' width='200px' alt='milet「Ordinary days」MUSIC VIDEO'>
+      <a href='https://www.youtube.com/watch?v=_HGPxXTIrvg'>
+        <img src='https://i.ytimg.com/vi/_HGPxXTIrvg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCntFc3OMMdrjs0ZHthaVaWH5snw' width='200px' alt='サマータイムシンデレラ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=oPdIjsctolE'>milet「Ordinary days」MUSIC VIDEO</a>
+      <a href='https://www.youtube.com/watch?v=_HGPxXTIrvg'>サマータイムシンデレラ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Tj9fTEK-BA8'>
-        <img src='https://i.ytimg.com/vi/Tj9fTEK-BA8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxwEeFTF7jC9sl2oBjTENeVgTkQg' width='200px' alt='まちがいさがし'>
+      <a href='https://www.youtube.com/watch?v=sfyCG9YhaYk'>
+        <img src='https://i.ytimg.com/vi/sfyCG9YhaYk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFnHuBFomZzdsroVD7OPCv0uZP_g' width='200px' alt='Mikata'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Tj9fTEK-BA8'>まちがいさがし</a>
+      <a href='https://www.youtube.com/watch?v=sfyCG9YhaYk'>Mikata</a>
     </td>
   </tr>
 </table>
