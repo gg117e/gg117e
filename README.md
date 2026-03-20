@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=JVZCRtChnB0'>
-        <img src='https://i.ytimg.com/vi/JVZCRtChnB0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALs3GdtzvV2OHV94xCXf8PS7MxuQ' width='200px' alt='点描の唄 / Mrs. GREEN APPLE (feat.井上苑子) full covered by オサム × 春茶'>
+      <a href='https://www.youtube.com/watch?v=BUG9r-s56II'>
+        <img src='https://i.ytimg.com/vi/BUG9r-s56II/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBvZsmOoGEgA_UCAVPi1PDbjkUDQ' width='200px' alt='舞台に立って'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=JVZCRtChnB0'>点描の唄 / Mrs. GREEN APPLE (feat.井上苑子) full covered by オサム × 春茶</a>
+      <a href='https://www.youtube.com/watch?v=BUG9r-s56II'>舞台に立って</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=CMG1oZEqU_M'>
-        <img src='https://i.ytimg.com/vi/CMG1oZEqU_M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkBFGePzFdnLtItuad-Hpp4I5Sbg' width='200px' alt='Answer'>
+      <a href='https://www.youtube.com/watch?v=86RjVdk0IAE'>
+        <img src='https://i.ytimg.com/vi/86RjVdk0IAE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxG1OahdkZCde7C0POtC6gqk9cZw' width='200px' alt='シャッター'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=CMG1oZEqU_M'>Answer</a>
+      <a href='https://www.youtube.com/watch?v=86RjVdk0IAE'>シャッター</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=NUFfRHk1Qcs'>
-        <img src='https://i.ytimg.com/vi/NUFfRHk1Qcs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMjNwQWGvQLii1tiFPU4ho3W8KtQ' width='200px' alt='Start'>
+      <a href='https://www.youtube.com/watch?v=aaAxYOuqstw'>
+        <img src='https://i.ytimg.com/vi/aaAxYOuqstw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjpF41n5dcKHxz2qhWJuwBqizncg' width='200px' alt='Slow & Easy'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=NUFfRHk1Qcs'>Start</a>
+      <a href='https://www.youtube.com/watch?v=aaAxYOuqstw'>Slow & Easy</a>
     </td>
   </tr>
 </table>
