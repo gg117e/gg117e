@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=YFOg4grr_yA'>
-        <img src='https://i.ytimg.com/vi/YFOg4grr_yA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA78r8IZpJxtjfrvHIwGm6oVawSAg' width='200px' alt='紙一重'>
+      <a href='https://www.youtube.com/watch?v=Kg50ItKY1SY'>
+        <img src='https://i.ytimg.com/vi/Kg50ItKY1SY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0GMWUoBR7Y2z_v6sXaj4_I6dVaQ' width='200px' alt='Nanndemonaiyo,'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=YFOg4grr_yA'>紙一重</a>
+      <a href='https://www.youtube.com/watch?v=Kg50ItKY1SY'>Nanndemonaiyo,</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=SCRS1GAIiWw'>
-        <img src='https://i.ytimg.com/vi/SCRS1GAIiWw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfxYBNMAcUPbXvd6iovLYBMlViiQ' width='200px' alt='サイレントマジョリティー'>
+      <a href='https://www.youtube.com/watch?v=5W2LCOjgA2w'>
+        <img src='https://i.ytimg.com/vi/5W2LCOjgA2w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJVEmSPKowr8dFsCJBt-6t_A-uTA' width='200px' alt='好き、お願い'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=SCRS1GAIiWw'>サイレントマジョリティー</a>
+      <a href='https://www.youtube.com/watch?v=5W2LCOjgA2w'>好き、お願い</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=hSdcy2_vtaQ'>
-        <img src='https://i.ytimg.com/vi/hSdcy2_vtaQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPw24hhUebfUwdjUQ9IOX0zI-_3Q' width='200px' alt='僕らまた (Us, again) - SG (Official Lyric Video)'>
+      <a href='https://www.youtube.com/watch?v=l-6ag1J9MJI'>
+        <img src='https://i.ytimg.com/vi/l-6ag1J9MJI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNrIYq3E1-kTLo3OvkRZDab-OqpA' width='200px' alt='Continues'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=hSdcy2_vtaQ'>僕らまた (Us, again) - SG (Official Lyric Video)</a>
+      <a href='https://www.youtube.com/watch?v=l-6ag1J9MJI'>Continues</a>
     </td>
   </tr>
 </table>
