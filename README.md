@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=1tk1pqwrOys'>
-        <img src='https://i.ytimg.com/vi/1tk1pqwrOys/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAa4d548fZz_6zUv6-AdAxqR1CW8A' width='200px' alt='廻廻奇譚 - Eve MV'>
+      <a href='https://www.youtube.com/watch?v=YFOg4grr_yA'>
+        <img src='https://i.ytimg.com/vi/YFOg4grr_yA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA78r8IZpJxtjfrvHIwGm6oVawSAg' width='200px' alt='紙一重'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=1tk1pqwrOys'>廻廻奇譚 - Eve MV</a>
+      <a href='https://www.youtube.com/watch?v=YFOg4grr_yA'>紙一重</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=KJBoof4rjrg'>
-        <img src='https://i.ytimg.com/vi/KJBoof4rjrg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYlPGVYfBk7q9cXddAm78dnu8oAQ' width='200px' alt='Tatta'>
+      <a href='https://www.youtube.com/watch?v=SCRS1GAIiWw'>
+        <img src='https://i.ytimg.com/vi/SCRS1GAIiWw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfxYBNMAcUPbXvd6iovLYBMlViiQ' width='200px' alt='サイレントマジョリティー'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=KJBoof4rjrg'>Tatta</a>
+      <a href='https://www.youtube.com/watch?v=SCRS1GAIiWw'>サイレントマジョリティー</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=p1qM75a9FeE'>
-        <img src='https://i.ytimg.com/vi/p1qM75a9FeE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClYikOff8dhkp27FSkVQFXZWivEA' width='200px' alt='Official髭男dism - HELLO［Official Video］'>
+      <a href='https://www.youtube.com/watch?v=hSdcy2_vtaQ'>
+        <img src='https://i.ytimg.com/vi/hSdcy2_vtaQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPw24hhUebfUwdjUQ9IOX0zI-_3Q' width='200px' alt='僕らまた (Us, again) - SG (Official Lyric Video)'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=p1qM75a9FeE'>Official髭男dism - HELLO［Official Video］</a>
+      <a href='https://www.youtube.com/watch?v=hSdcy2_vtaQ'>僕らまた (Us, again) - SG (Official Lyric Video)</a>
     </td>
   </tr>
 </table>
