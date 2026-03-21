@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Kg50ItKY1SY'>
-        <img src='https://i.ytimg.com/vi/Kg50ItKY1SY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0GMWUoBR7Y2z_v6sXaj4_I6dVaQ' width='200px' alt='Nanndemonaiyo,'>
+      <a href='https://www.youtube.com/watch?v=ArN80_ahos0'>
+        <img src='https://i.ytimg.com/vi/ArN80_ahos0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0St2Q4-pGDvfGebZ98ijNN0K2qQ' width='200px' alt='Anatani'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Kg50ItKY1SY'>Nanndemonaiyo,</a>
+      <a href='https://www.youtube.com/watch?v=ArN80_ahos0'>Anatani</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=5W2LCOjgA2w'>
-        <img src='https://i.ytimg.com/vi/5W2LCOjgA2w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJVEmSPKowr8dFsCJBt-6t_A-uTA' width='200px' alt='好き、お願い'>
+      <a href='https://www.youtube.com/watch?v=vms87P01vRU'>
+        <img src='https://i.ytimg.com/vi/vms87P01vRU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzZnQp_bBT2p2b05faDDdNT1ytRg' width='200px' alt='ファンファーレ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=5W2LCOjgA2w'>好き、お願い</a>
+      <a href='https://www.youtube.com/watch?v=vms87P01vRU'>ファンファーレ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=l-6ag1J9MJI'>
-        <img src='https://i.ytimg.com/vi/l-6ag1J9MJI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNrIYq3E1-kTLo3OvkRZDab-OqpA' width='200px' alt='Continues'>
+      <a href='https://www.youtube.com/watch?v=NytDYFWc--s'>
+        <img src='https://i.ytimg.com/vi/NytDYFWc--s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAam1nXolU_zNGmcEIM13wXQ3X_wQ' width='200px' alt='虹色の戦争'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=l-6ag1J9MJI'>Continues</a>
+      <a href='https://www.youtube.com/watch?v=NytDYFWc--s'>虹色の戦争</a>
     </td>
   </tr>
 </table>
