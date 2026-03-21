@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ED8Q0ipvhg8'>
-        <img src='https://i.ytimg.com/vi/ED8Q0ipvhg8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDr8DalCaVoHA8DtY0mxyBK_QYifQ' width='200px' alt='Haruwo Machiwabite'>
+      <a href='https://www.youtube.com/watch?v=69yZ00BJCgM'>
+        <img src='https://i.ytimg.com/vi/69yZ00BJCgM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKJVbc2I-1y38yhjMYtYuwPhN2qA' width='200px' alt='Tokimeki'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ED8Q0ipvhg8'>Haruwo Machiwabite</a>
+      <a href='https://www.youtube.com/watch?v=69yZ00BJCgM'>Tokimeki</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=PLNtwcIjgJE'>
-        <img src='https://i.ytimg.com/vi/PLNtwcIjgJE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRAewsfJBCUN9YE1jmdT2Zsd9E0A' width='200px' alt='Misenainamidawa Kittoitsuka'>
+      <a href='https://www.youtube.com/watch?v=X55QEsB64O8'>
+        <img src='https://i.ytimg.com/vi/X55QEsB64O8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDazVneZ2Ic3_-LLYRyEOjtorKs0A' width='200px' alt='君の知らない物語'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=PLNtwcIjgJE'>Misenainamidawa Kittoitsuka</a>
+      <a href='https://www.youtube.com/watch?v=X55QEsB64O8'>君の知らない物語</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=3eQJUAXy_kU'>
-        <img src='https://i.ytimg.com/vi/3eQJUAXy_kU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHbfg4lj9LHnyG5hF1-qvNr2NFuw' width='200px' alt='恋の前ならえ'>
+      <a href='https://www.youtube.com/watch?v=s4ZThuWQdhA'>
+        <img src='https://i.ytimg.com/vi/s4ZThuWQdhA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBL2544KnUtG-gjg-ro3N-gIAIgbw' width='200px' alt='Que Sera Sera'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=3eQJUAXy_kU'>恋の前ならえ</a>
+      <a href='https://www.youtube.com/watch?v=s4ZThuWQdhA'>Que Sera Sera</a>
     </td>
   </tr>
 </table>
