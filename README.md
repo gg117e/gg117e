@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=pQpX71tiDNg'>
-        <img src='https://i.ytimg.com/vi/pQpX71tiDNg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXxwAnvmSxHdesXChIfeSv9_oNUg' width='200px' alt='Aiuta'>
+      <a href='https://www.youtube.com/watch?v=H2r25lVcIHw'>
+        <img src='https://i.ytimg.com/vi/H2r25lVcIHw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgiffVYvt42FuGzVoZ1W9jo3MUFQ' width='200px' alt='花の塔'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=pQpX71tiDNg'>Aiuta</a>
+      <a href='https://www.youtube.com/watch?v=H2r25lVcIHw'>花の塔</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=9wDFyZDAW2I'>
-        <img src='https://i.ytimg.com/vi/9wDFyZDAW2I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlPACkNx6DfP3rMaY3vsQQ1NQ1-g' width='200px' alt='Tomo ～Tabidachinotoki～'>
+      <a href='https://www.youtube.com/watch?v=mQgpJPStoYQ'>
+        <img src='https://i.ytimg.com/vi/mQgpJPStoYQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQh25MLFhpwmdOqMrf8DSEWT_akg' width='200px' alt='切望'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=9wDFyZDAW2I'>Tomo ～Tabidachinotoki～</a>
+      <a href='https://www.youtube.com/watch?v=mQgpJPStoYQ'>切望</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=rxR1mBt__fo'>
-        <img src='https://i.ytimg.com/vi/rxR1mBt__fo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsWaFFvm2u38Jdjm5d7AcaKwvMMg' width='200px' alt='Natsuiro'>
+      <a href='https://www.youtube.com/watch?v=CjaM8qWzssk'>
+        <img src='https://i.ytimg.com/vi/CjaM8qWzssk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBP1ncZkqRaXEFX5KEzP-6JF15fBw' width='200px' alt='晩餐歌 - Bansanka'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=rxR1mBt__fo'>Natsuiro</a>
+      <a href='https://www.youtube.com/watch?v=CjaM8qWzssk'>晩餐歌 - Bansanka</a>
     </td>
   </tr>
 </table>
