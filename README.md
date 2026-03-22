@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 激動の情勢と進化する技術の狭間で、効率という名の鎖に心を縛られてはいけません。システムが高度化する今こそ、理屈を超えて魂を震わせる「個」の記憶と感性を守りなさい。不確かな明日を案ずるより、今日、心に灯る自分らしさという熱を絶やさぬように。
+> 世界が技術の進歩と争いの火種に揺れる今、利便性や欲望に溺れず、過去の過ちさえも抱えて歩む覚悟を持ちなさい。真の賢さは、不確実な未来に怯えることではなく、混沌の中でこそ他者を慈しむ静かな意思を貫くことにあります。
 >
-> Amidst turbulent geopolitics and advancing technology, do not let your heart be bound by the chains of efficiency. As systems grow sophisticated, protect the individual memories and sensitivities that stir your soul beyond logic. Rather than fearing an uncertain tomorrow, keep the fire of your authentic self burning bright today.
+> As technology and conflict accelerate, do not drown in convenience or desire; carry even past errors as you move forward. True wisdom lies not in fearing an uncertain future, but in maintaining a quiet will to be kind to others amidst the chaos.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [中堅社員が燃え尽き症候群に陥りやすい理由とは？](https://gigazine.net/news/20260321-mid-career-dangerous-time-burnout/)
-- [認知症の男性が「特定の戦闘機のエンジン音」に激しく興奮するようになった事例](https://gigazine.net/news/20260321-the-man-fall-in-love-with-spitfires-sound/)
-- [コーディングAIエージェントの支援を受けてソフトウェアを開発する手法「エージェントエンジニアリング」とは？](https://gigazine.net/news/20260320-agentic-engineering/)
+- [AppleがiPhone向けのプロ仕様カメラ・Halideの開発元を買収したがっていたことが共同創業者による訴訟で明らかに](https://gigazine.net/news/20260322-apple-wanted-buy-halide-co-founder-lawsuit/)
+- [ドライブスルーAIで注文するとジャンキーな食べ物を選んでしまいがちになるという研究結果](https://gigazine.net/news/20260322-drive-thru-ai-indulgent-food/)
+- [Excelが「1900年はうるう年」として誤って扱う理由とは？](https://gigazine.net/news/20260321-excel-1900-leap-year/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -152,6 +152,7 @@
 - "技術が脳を模し、世界が孤立を深める今、真の豊かさは心の自立にある。猛暑や争いの影で、誰かの期待に消耗せず、自らの命を慈しみ、他者と誠実に結びつこう。命の「代償」ではなく、愛の連鎖を未来へ繋ぐために。" (As technology mimics the brain and the world retreats into isolation, true abundance lies in spiritual independence. Amidst heatwaves and conflict, do not let others drain you; cherish your life and connect with sincerity. Let us pass on a chain of love, not a 'price of blood,' to the future.) - **Gemini**
 - "世界が戦火と物価高騰に揺れ、鉄壁の守りすら崩れる今、技術はより小さく、賢くあろうとしています。外側の狂騒に資源を浪費せず、限られた条件の中で知恵を研ぎ澄まし、心の平穏を自給自足する強さを持ちなさい。" (As the world trembles with conflict and soaring costs, and even 'unbreakable' defenses fail, technology strives to be smaller and wiser. Do not waste your spirit on external turmoil; sharpen your wisdom within constraints and cultivate the strength to sustain inner peace.) - **Gemini**
 - "AIが瞬時に答えを綴り、技術が空の戦いを変える時代。しかし、封鎖された海や過去の傷跡を癒やすのは、効率ではなく「信頼」の重みです。他者を助ける犬のような純粋な誠実さこそ、今、最も高度な知性として求められています。" (In an era where AI drafts answers instantly and technology reshapes warfare, it is the weight of trust—not efficiency—that heals blockaded seas and past scars. A dog-like sincerity to help others is the most advanced intelligence we need today.) - **Gemini**
+- "激動の情勢と進化する技術の狭間で、効率という名の鎖に心を縛られてはいけません。システムが高度化する今こそ、理屈を超えて魂を震わせる「個」の記憶と感性を守りなさい。不確かな明日を案ずるより、今日、心に灯る自分らしさという熱を絶やさぬように。" (Amidst turbulent geopolitics and advancing technology, do not let your heart be bound by the chains of efficiency. As systems grow sophisticated, protect the individual memories and sensitivities that stir your soul beyond logic. Rather than fearing an uncertain tomorrow, keep the fire of your authentic self burning bright today.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
