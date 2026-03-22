@@ -26,13 +26,6 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=roZaPAlr2dg'>
-        <img src='https://i.ytimg.com/vi/roZaPAlr2dg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDB9aKfpvK4cCOCWtETsyqmaor4RA' width='200px' alt='日常'>
-      </a>
-      <br />
-      <a href='https://www.youtube.com/watch?v=roZaPAlr2dg'>日常</a>
-    </td>
-    <td align='center'>
       <a href='https://www.youtube.com/watch?v=FBdNeFTBXg8'>
         <img src='https://i.ytimg.com/vi/FBdNeFTBXg8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAshCvVf72eARbWpB9Y0IegkRyUUA' width='200px' alt='心の花を咲かせよう'>
       </a>
@@ -40,11 +33,18 @@
       <a href='https://www.youtube.com/watch?v=FBdNeFTBXg8'>心の花を咲かせよう</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=6qcELHEilnQ'>
-        <img src='https://i.ytimg.com/vi/6qcELHEilnQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBd6ScUlxU0bLM9fk6y64sP8k6oRw' width='200px' alt='Shiori'>
+      <a href='https://www.youtube.com/watch?v=whlXRYLhgx0'>
+        <img src='https://i.ytimg.com/vi/whlXRYLhgx0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGlE00IU9bwRQqqzhxwGDuajZ0HA' width='200px' alt='Bedroom Talk'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=6qcELHEilnQ'>Shiori</a>
+      <a href='https://www.youtube.com/watch?v=whlXRYLhgx0'>Bedroom Talk</a>
+    </td>
+    <td align='center'>
+      <a href='https://www.youtube.com/watch?v=y6gc4g1uURg'>
+        <img src='https://i.ytimg.com/vi/y6gc4g1uURg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDZADRq-Gwl0EutXG1y3KU9Pv2RA' width='200px' alt='Phantom thief'>
+      </a>
+      <br />
+      <a href='https://www.youtube.com/watch?v=y6gc4g1uURg'>Phantom thief</a>
     </td>
   </tr>
 </table>
