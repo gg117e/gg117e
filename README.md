@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 技術が人の形を変え、情勢が価値を揺さぶる今、外の喧騒に惑わされてはならない。AIという翼を使いこなしつつ、国や通貨に依存せぬ「自律」を核とせよ。変転する世界で唯一確かなのは、自ら進化し続ける意志である。
+> 世界が技術の転換と資源の荒波に揺れる今、外側の喧騒を離れ、自らの内なる熱源を見つめなさい。流行は移ろい、模倣には限界がありますが、知を分かち合い、対話を求める静かな意志こそが、明日を拓く確かな光となります。
 >
-> In an era where technology reshapes humanity and geopolitics shake our values, do not be swayed by external noise. Master AI as your wings, but keep 'autonomy' as your core, independent of nations or currency. In a shifting world, the only certainty is your will to keep evolving.
+> As the world sways between technological shifts and resource instability, turn away from the external noise to find your inner heat. Trends fade and replication has its limits, but the quiet will to share knowledge and seek dialogue is the true light that opens the future.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [GIGAZINE読者が利用しているコンビニは？アンケート調査してみた](https://gigazine.net/news/20260324-gigazine-user-convenience-store/)
-- [人間を4本足のケンタウロス化する外付けロボットを中国の研究チームが開発](https://gigazine.net/news/20260324-china-sustech-centaurs/)
-- [腸に穴が開いた時に内臓脂肪が炎症を抑える役割を果たしていたことがマウス研究で判明](https://gigazine.net/news/20260324-visceral-fat-peritonitis-ilc1/)
+- [「Firefox 149」正式版リリース、分割ビューやタブノートが利用可能に](https://gigazine.net/news/20260325-firefox-149/)
+- [AIエージェントがお互いの知識を共有して無駄を削減＆性能向上を目指すAI版Stack Overflow「cq」をMozilla.aiが発表](https://gigazine.net/news/20260325-cq-stack-overflow-for-ai/)
+- [児童保護をインターネットアクセス制御に変えてはならない](https://gigazine.net/news/20260325-child-protection-internet-access-control/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -155,6 +155,7 @@
 - "激動の情勢と進化する技術の狭間で、効率という名の鎖に心を縛られてはいけません。システムが高度化する今こそ、理屈を超えて魂を震わせる「個」の記憶と感性を守りなさい。不確かな明日を案ずるより、今日、心に灯る自分らしさという熱を絶やさぬように。" (Amidst turbulent geopolitics and advancing technology, do not let your heart be bound by the chains of efficiency. As systems grow sophisticated, protect the individual memories and sensitivities that stir your soul beyond logic. Rather than fearing an uncertain tomorrow, keep the fire of your authentic self burning bright today.) - **Gemini**
 - "世界が技術の進歩と争いの火種に揺れる今、利便性や欲望に溺れず、過去の過ちさえも抱えて歩む覚悟を持ちなさい。真の賢さは、不確実な未来に怯えることではなく、混沌の中でこそ他者を慈しむ静かな意思を貫くことにあります。" (As technology and conflict accelerate, do not drown in convenience or desire; carry even past errors as you move forward. True wisdom lies not in fearing an uncertain future, but in maintaining a quiet will to be kind to others amidst the chaos.) - **Gemini**
 - "300億年の一秒を刻む精度も、宇宙へ広がる計算も、心の平安には及ばない。世界の動脈が滞る今こそ、効率に及ばぬ「人の温もりと独創性」を灯せ。複雑なシステムに惑わされず、目の前の一歩に慈愛を込めよ。" (Neither 30-billion-year precision nor space-bound computing can rival a peaceful heart. As global arteries clog, kindle the human warmth and creativity that efficiency alone cannot reach. Do not be misled by complex systems; infuse each step before you with compassion.) - **Gemini**
+- "技術が人の形を変え、情勢が価値を揺さぶる今、外の喧騒に惑わされてはならない。AIという翼を使いこなしつつ、国や通貨に依存せぬ「自律」を核とせよ。変転する世界で唯一確かなのは、自ら進化し続ける意志である。" (In an era where technology reshapes humanity and geopolitics shake our values, do not be swayed by external noise. Master AI as your wings, but keep 'autonomy' as your core, independent of nations or currency. In a shifting world, the only certainty is your will to keep evolving.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
