@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=8PbGeKwEnK0'>
-        <img src='https://i.ytimg.com/vi/8PbGeKwEnK0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWYv4vO1ta-DKEtdPaeTh9ifxA0g' width='200px' alt='Pop Virus'>
+      <a href='https://www.youtube.com/watch?v=ldJJO0nJc_A'>
+        <img src='https://i.ytimg.com/vi/ldJJO0nJc_A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAt3Zfw447sqXwKA96duHdwFqzwA' width='200px' alt='Itsumademo'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=8PbGeKwEnK0'>Pop Virus</a>
+      <a href='https://www.youtube.com/watch?v=ldJJO0nJc_A'>Itsumademo</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=xFL1OO6siJI'>
-        <img src='https://i.ytimg.com/vi/xFL1OO6siJI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCH_W3xlqcSThQ65fOuXCwQWmIZng' width='200px' alt='Dokokade Hi Wa Noboru'>
+      <a href='https://www.youtube.com/watch?v=W8-P1WQalQw'>
+        <img src='https://i.ytimg.com/vi/W8-P1WQalQw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRO1xzNXSPZOruZidXBs7kgiq-VA' width='200px' alt='Seikai (18Fes Version)'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=xFL1OO6siJI'>Dokokade Hi Wa Noboru</a>
+      <a href='https://www.youtube.com/watch?v=W8-P1WQalQw'>Seikai (18Fes Version)</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=3jwzfhaIf3U'>
-        <img src='https://i.ytimg.com/vi/3jwzfhaIf3U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyDkEcU9JaqmusItqe-hAV56rH3A' width='200px' alt='Eikouno Kakehashi'>
+      <a href='https://www.youtube.com/watch?v=XtBUrzpLjGQ'>
+        <img src='https://i.ytimg.com/vi/XtBUrzpLjGQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChrRq5NxAovVcUY4eqeydpNsNh_w' width='200px' alt='Aiuta'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=3jwzfhaIf3U'>Eikouno Kakehashi</a>
+      <a href='https://www.youtube.com/watch?v=XtBUrzpLjGQ'>Aiuta</a>
     </td>
   </tr>
 </table>
