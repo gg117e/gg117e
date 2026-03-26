@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 世界が技術の転換と資源の荒波に揺れる今、外側の喧騒を離れ、自らの内なる熱源を見つめなさい。流行は移ろい、模倣には限界がありますが、知を分かち合い、対話を求める静かな意志こそが、明日を拓く確かな光となります。
+> 技術が加速し緊張が高まる今、私たちは効率の追求と平和の希求の間にいる。供給される情報の波に飲まれず、自らの内なる基準を磨け。便利な道具よりも、対話から生まれる信頼こそが、不透明な未来を解凍する真の鍵となる。
 >
-> As the world sways between technological shifts and resource instability, turn away from the external noise to find your inner heat. Trends fade and replication has its limits, but the quiet will to share knowledge and seek dialogue is the true light that opens the future.
+> As technology accelerates and tensions rise, we stand between the pursuit of efficiency and the longing for peace. Do not be swept away by information; hone your inner standards. Trust born from dialogue is the true key to unlocking the opaque future.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [「Firefox 149」正式版リリース、分割ビューやタブノートが利用可能に](https://gigazine.net/news/20260325-firefox-149/)
-- [AIエージェントがお互いの知識を共有して無駄を削減＆性能向上を目指すAI版Stack Overflow「cq」をMozilla.aiが発表](https://gigazine.net/news/20260325-cq-stack-overflow-for-ai/)
-- [児童保護をインターネットアクセス制御に変えてはならない](https://gigazine.net/news/20260325-child-protection-internet-access-control/)
+- [交流から直流へデータセンターは移行中、800ボルトの直流電力供給で次世代AIデータセンターが実現可能に](https://gigazine.net/news/20260326-data-centers-transitioning-ac-dc/)
+- [Windows標準機能より4倍高速な圧縮・解凍ソフト「CoZip」が登場したので使ってみた、GPUを駆使して爆速圧縮できる無料ソフト](https://gigazine.net/news/20260326-gpu-accelerated-compression-cozip/)
+- [自動車修理工場向けにAI受付システムを構築した記録](https://gigazine.net/news/20260326-build-ai-receptionist-auto-repair-shop/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -156,6 +156,7 @@
 - "世界が技術の進歩と争いの火種に揺れる今、利便性や欲望に溺れず、過去の過ちさえも抱えて歩む覚悟を持ちなさい。真の賢さは、不確実な未来に怯えることではなく、混沌の中でこそ他者を慈しむ静かな意思を貫くことにあります。" (As technology and conflict accelerate, do not drown in convenience or desire; carry even past errors as you move forward. True wisdom lies not in fearing an uncertain future, but in maintaining a quiet will to be kind to others amidst the chaos.) - **Gemini**
 - "300億年の一秒を刻む精度も、宇宙へ広がる計算も、心の平安には及ばない。世界の動脈が滞る今こそ、効率に及ばぬ「人の温もりと独創性」を灯せ。複雑なシステムに惑わされず、目の前の一歩に慈愛を込めよ。" (Neither 30-billion-year precision nor space-bound computing can rival a peaceful heart. As global arteries clog, kindle the human warmth and creativity that efficiency alone cannot reach. Do not be misled by complex systems; infuse each step before you with compassion.) - **Gemini**
 - "技術が人の形を変え、情勢が価値を揺さぶる今、外の喧騒に惑わされてはならない。AIという翼を使いこなしつつ、国や通貨に依存せぬ「自律」を核とせよ。変転する世界で唯一確かなのは、自ら進化し続ける意志である。" (In an era where technology reshapes humanity and geopolitics shake our values, do not be swayed by external noise. Master AI as your wings, but keep 'autonomy' as your core, independent of nations or currency. In a shifting world, the only certainty is your will to keep evolving.) - **Gemini**
+- "世界が技術の転換と資源の荒波に揺れる今、外側の喧騒を離れ、自らの内なる熱源を見つめなさい。流行は移ろい、模倣には限界がありますが、知を分かち合い、対話を求める静かな意志こそが、明日を拓く確かな光となります。" (As the world sways between technological shifts and resource instability, turn away from the external noise to find your inner heat. Trends fade and replication has its limits, but the quiet will to share knowledge and seek dialogue is the true light that opens the future.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
