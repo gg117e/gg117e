@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=rqJgOLXsr3M'>
-        <img src='https://i.ytimg.com/vi/rqJgOLXsr3M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCec-aruTMcKZDIMW7DHuBnHIVUnA' width='200px' alt='おもかげ (produced by Vaundy)'>
+      <a href='https://www.youtube.com/watch?v=LoyA7GvfOwA'>
+        <img src='https://i.ytimg.com/vi/LoyA7GvfOwA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAuADigIMCAAQARhkIGQoZDAP&rs=AOn4CLBk6pXQ6KVrYlVuaAckuf6xf3Owbg' width='200px' alt='Sad Song'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=rqJgOLXsr3M'>おもかげ (produced by Vaundy)</a>
+      <a href='https://www.youtube.com/watch?v=LoyA7GvfOwA'>Sad Song</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=oPdIjsctolE'>
-        <img src='https://i.ytimg.com/vi/oPdIjsctolE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1T1itQlYqc1WOopgeaDxc2jiiHQ' width='200px' alt='milet「Ordinary days」MUSIC VIDEO'>
+      <a href='https://www.youtube.com/watch?v=1jS94sWWokk'>
+        <img src='https://i.ytimg.com/vi/1jS94sWWokk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxqYiCxzeXYaMH_2cNJD-UWssuIQ' width='200px' alt='MIRROR MIRROR'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=oPdIjsctolE'>milet「Ordinary days」MUSIC VIDEO</a>
+      <a href='https://www.youtube.com/watch?v=1jS94sWWokk'>MIRROR MIRROR</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=SCRS1GAIiWw'>
-        <img src='https://i.ytimg.com/vi/SCRS1GAIiWw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfxYBNMAcUPbXvd6iovLYBMlViiQ' width='200px' alt='サイレントマジョリティー'>
+      <a href='https://www.youtube.com/watch?v=hyz4f5gGGC8'>
+        <img src='https://i.ytimg.com/vi/hyz4f5gGGC8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2PPvbXgTXIwB3tTt5KVAj53sAog' width='200px' alt='わたしの一番かわいいところ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=SCRS1GAIiWw'>サイレントマジョリティー</a>
+      <a href='https://www.youtube.com/watch?v=hyz4f5gGGC8'>わたしの一番かわいいところ</a>
     </td>
   </tr>
 </table>
