@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=A0plb7gdzW4'>
-        <img src='https://i.ytimg.com/vi/A0plb7gdzW4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhPB6jEwaOqitRIOiPhQQSfsOuDw' width='200px' alt='Attitude'>
+      <a href='https://www.youtube.com/watch?v=rA_B_tm-Vz0'>
+        <img src='https://i.ytimg.com/vi/rA_B_tm-Vz0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIfs7N9nZxbosI-CRH47DBKhsHhQ' width='200px' alt='色彩'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=A0plb7gdzW4'>Attitude</a>
+      <a href='https://www.youtube.com/watch?v=rA_B_tm-Vz0'>色彩</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=SQcq990N5NY'>
-        <img src='https://i.ytimg.com/vi/SQcq990N5NY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWlOgX0s6Lzh8Clxs5rWiyYXwfUg' width='200px' alt='また逢う日まで'>
+      <a href='https://www.youtube.com/watch?v=bUnfuRew3PU'>
+        <img src='https://i.ytimg.com/vi/bUnfuRew3PU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCN7upglmRfybcjPg13tGydKO9bNA' width='200px' alt='Hello Song'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=SQcq990N5NY'>また逢う日まで</a>
+      <a href='https://www.youtube.com/watch?v=bUnfuRew3PU'>Hello Song</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=FJOUiX0uuYM'>
-        <img src='https://i.ytimg.com/vi/FJOUiX0uuYM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCRluchGpZf-uIfzjnVnCzRAENzg' width='200px' alt='さよならエレジー'>
+      <a href='https://www.youtube.com/watch?v=TGz8AXN3gLA'>
+        <img src='https://i.ytimg.com/vi/TGz8AXN3gLA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWS1qZN5VGY_ZeMcSCBwCxLE3fIg' width='200px' alt='さよーならまたいつか！- Sayonara'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=FJOUiX0uuYM'>さよならエレジー</a>
+      <a href='https://www.youtube.com/watch?v=TGz8AXN3gLA'>さよーならまたいつか！- Sayonara</a>
     </td>
   </tr>
 </table>
