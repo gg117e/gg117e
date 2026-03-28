@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=fdnoxPq_Is8'>
-        <img src='https://i.ytimg.com/vi/fdnoxPq_Is8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPWxvixtaadySgnUIvVPraig7Ohw' width='200px' alt='Ola!!'>
+      <a href='https://www.youtube.com/watch?v=A0plb7gdzW4'>
+        <img src='https://i.ytimg.com/vi/A0plb7gdzW4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhPB6jEwaOqitRIOiPhQQSfsOuDw' width='200px' alt='Attitude'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=fdnoxPq_Is8'>Ola!!</a>
+      <a href='https://www.youtube.com/watch?v=A0plb7gdzW4'>Attitude</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=gzHTMjMS-wI'>
-        <img src='https://i.ytimg.com/vi/gzHTMjMS-wI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCp8jNtX5jo9nTTY8FExjOfsoG9ZQ' width='200px' alt='Aino Katachi'>
+      <a href='https://www.youtube.com/watch?v=SQcq990N5NY'>
+        <img src='https://i.ytimg.com/vi/SQcq990N5NY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWlOgX0s6Lzh8Clxs5rWiyYXwfUg' width='200px' alt='また逢う日まで'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=gzHTMjMS-wI'>Aino Katachi</a>
+      <a href='https://www.youtube.com/watch?v=SQcq990N5NY'>また逢う日まで</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=KehpqLWwy4g'>
-        <img src='https://i.ytimg.com/vi/KehpqLWwy4g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwRwKHNWODESeECqonWaQJ9FmtFA' width='200px' alt='Message'>
+      <a href='https://www.youtube.com/watch?v=FJOUiX0uuYM'>
+        <img src='https://i.ytimg.com/vi/FJOUiX0uuYM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCRluchGpZf-uIfzjnVnCzRAENzg' width='200px' alt='さよならエレジー'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=KehpqLWwy4g'>Message</a>
+      <a href='https://www.youtube.com/watch?v=FJOUiX0uuYM'>さよならエレジー</a>
     </td>
   </tr>
 </table>
