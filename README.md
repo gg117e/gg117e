@@ -33,18 +33,18 @@
       <a href='https://www.youtube.com/watch?v=RJ_bw-jlkDc'>Green Boys</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=FXsGCieXm1E'>
-        <img src='https://i.ytimg.com/vi/FXsGCieXm1E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1rYgKc_4VlK6EQPnl6f2NeSjsuw' width='200px' alt='Renai Circulation「恋愛サーキュレーション」Kana Hanazawa'>
+      <a href='https://www.youtube.com/watch?v=hmTKQf7khaE'>
+        <img src='https://i.ytimg.com/vi/hmTKQf7khaE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUCEZYFa01YzKxYxchVAFSzHm3hg' width='200px' alt='Automatic'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=FXsGCieXm1E'>Renai Circulation「恋愛サーキュレーション」Kana Hanazawa</a>
+      <a href='https://www.youtube.com/watch?v=hmTKQf7khaE'>Automatic</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=v87I8nzcek4'>
-        <img src='https://i.ytimg.com/vi/v87I8nzcek4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDh_mgv0ssvYLbXwKji5DAd0FexqA' width='200px' alt='Floriginal'>
+      <a href='https://www.youtube.com/watch?v=8C-ZXUFud4g'>
+        <img src='https://i.ytimg.com/vi/8C-ZXUFud4g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAntZZBsMwxcogbwOA7SvwO1-bquA' width='200px' alt='誰よりも'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=v87I8nzcek4'>Floriginal</a>
+      <a href='https://www.youtube.com/watch?v=8C-ZXUFud4g'>誰よりも</a>
     </td>
   </tr>
 </table>
