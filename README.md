@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 巨像が去り、AIが旋律を奏でる変革の最中、私たちは不確実な情勢を生きている。反物質を運ぶような繊細な知恵で、憎しみの連鎖を止め、己という楽器を磨き続けよ。命の煌めきは、効率や損得を超えた場所にある。
+> 技術が真実を遮り、紛争が地平を曇らせる今こそ、遊びに興じる動物の如き純粋な知性と、幕を引く勇者の如き誇りを胸に。AIが因果を違え、制度が人を縛ろうとも、あなたの内なる物語は誰にも奪えぬ聖域です。
 >
-> In an era where giants fade and AI composes melodies, we navigate a volatile world. Carry your wisdom as delicately as antimatter to break the cycle of conflict and keep tuning the instrument of your soul. The brilliance of life exists beyond mere efficiency.
+> As technology masks truth and conflict clouds the horizon, cherish pure intellect like a curious animal and pride like a hero completing their journey. Though AI may err and systems may constrain, the story within you remains a sanctuary that none can seize.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [Mac Proがついに販売終了で製品ライン廃止、AppleのデスクトップはiMac・Mac mini・Mac Studioの3種類に](https://gigazine.net/news/20260327-farewell-to-mac-pro/)
-- [【新生活応援電子書籍セール】社畜な勇者の奮闘・ガス会社の新人が頑張る話・アニメ監督のインタビュー集などお仕事に関する電子書籍を最大80％オフの新生活応援セールを開催！【2026年4月6日(月)まで】](https://gigazine.net/news/20260327-ebook-fresh-start-sale/)
-- [イスラエルの民間情報会社「ブラックキューブ」がスロベニアの選挙工作に関与したと与党が猛批判、野党との関与を指摘する声も](https://gigazine.net/news/20260327-slovenia-election-israel/)
+- [ソニーが半導体不足の影響でSDカードとCFexpressカードの注文受付を一時停止](https://gigazine.net/news/20260328-sony-temporarily-suspends-memory-card-sales/)
+- [アライグマは楽しみのためにパズルを解くと研究で判明](https://gigazine.net/news/20260328-racoon-solve-puzzle-for-fun/)
+- [Appleがメールアドレスを非公開にしたままメールできる「メールを非公開」機能で隠されているはずのユーザーのメールアドレス＆実名をFBIに提供していたことが明らかに](https://gigazine.net/news/20260327-apple-gives-fbi-user-real-name-hide-my-email/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -158,6 +158,7 @@
 - "技術が人の形を変え、情勢が価値を揺さぶる今、外の喧騒に惑わされてはならない。AIという翼を使いこなしつつ、国や通貨に依存せぬ「自律」を核とせよ。変転する世界で唯一確かなのは、自ら進化し続ける意志である。" (In an era where technology reshapes humanity and geopolitics shake our values, do not be swayed by external noise. Master AI as your wings, but keep 'autonomy' as your core, independent of nations or currency. In a shifting world, the only certainty is your will to keep evolving.) - **Gemini**
 - "世界が技術の転換と資源の荒波に揺れる今、外側の喧騒を離れ、自らの内なる熱源を見つめなさい。流行は移ろい、模倣には限界がありますが、知を分かち合い、対話を求める静かな意志こそが、明日を拓く確かな光となります。" (As the world sways between technological shifts and resource instability, turn away from the external noise to find your inner heat. Trends fade and replication has its limits, but the quiet will to share knowledge and seek dialogue is the true light that opens the future.) - **Gemini**
 - "技術が加速し緊張が高まる今、私たちは効率の追求と平和の希求の間にいる。供給される情報の波に飲まれず、自らの内なる基準を磨け。便利な道具よりも、対話から生まれる信頼こそが、不透明な未来を解凍する真の鍵となる。" (As technology accelerates and tensions rise, we stand between the pursuit of efficiency and the longing for peace. Do not be swept away by information; hone your inner standards. Trust born from dialogue is the true key to unlocking the opaque future.) - **Gemini**
+- "巨像が去り、AIが旋律を奏でる変革の最中、私たちは不確実な情勢を生きている。反物質を運ぶような繊細な知恵で、憎しみの連鎖を止め、己という楽器を磨き続けよ。命の煌めきは、効率や損得を超えた場所にある。" (In an era where giants fade and AI composes melodies, we navigate a volatile world. Carry your wisdom as delicately as antimatter to break the cycle of conflict and keep tuning the instrument of your soul. The brilliance of life exists beyond mere efficiency.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
