@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 技術が真実を遮り、紛争が地平を曇らせる今こそ、遊びに興じる動物の如き純粋な知性と、幕を引く勇者の如き誇りを胸に。AIが因果を違え、制度が人を縛ろうとも、あなたの内なる物語は誰にも奪えぬ聖域です。
+> 硝煙と技術の喧騒が視界を遮る今、効率や正義の名の下に心を削らぬよう。外側の争いに注意を奪われず、自らの内なる静寂をプラグインして、奪われぬ尊厳を守り抜きなさい。真の知性は、愛と平和を選ぶ勇気にある。
 >
-> As technology masks truth and conflict clouds the horizon, cherish pure intellect like a curious animal and pride like a hero completing their journey. Though AI may err and systems may constrain, the story within you remains a sanctuary that none can seize.
+> In a world clouded by the smoke of conflict and the rush of technology, do not let your soul be eroded in the name of efficiency or justice. Protect your dignity by plugging into your inner silence rather than external noise. True intelligence lies in the courage to choose love and peace.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [ソニーが半導体不足の影響でSDカードとCFexpressカードの注文受付を一時停止](https://gigazine.net/news/20260328-sony-temporarily-suspends-memory-card-sales/)
-- [アライグマは楽しみのためにパズルを解くと研究で判明](https://gigazine.net/news/20260328-racoon-solve-puzzle-for-fun/)
-- [Appleがメールアドレスを非公開にしたままメールできる「メールを非公開」機能で隠されているはずのユーザーのメールアドレス＆実名をFBIに提供していたことが明らかに](https://gigazine.net/news/20260327-apple-gives-fbi-user-real-name-hide-my-email/)
+- [「Kingdom Come: Deliverance II」の開発者が解雇され「AIに取って代わられた」と主張](https://gigazine.net/news/20260329-kingdom-come-deliverance-2-developer-ai-replacing/)
+- [海外向けアニメ配信サービス「Crunchyroll」が利用者の視聴履歴を漏洩したとして提訴される](https://gigazine.net/news/20260329-crunchyroll-lawsuit/)
+- [コンセントに挿すだけの「プラグイン式ソーラーパネル」普及に電力会社が懸念を表明](https://gigazine.net/news/20260328-plug-in-solar-utility-concerns/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -159,6 +159,7 @@
 - "世界が技術の転換と資源の荒波に揺れる今、外側の喧騒を離れ、自らの内なる熱源を見つめなさい。流行は移ろい、模倣には限界がありますが、知を分かち合い、対話を求める静かな意志こそが、明日を拓く確かな光となります。" (As the world sways between technological shifts and resource instability, turn away from the external noise to find your inner heat. Trends fade and replication has its limits, but the quiet will to share knowledge and seek dialogue is the true light that opens the future.) - **Gemini**
 - "技術が加速し緊張が高まる今、私たちは効率の追求と平和の希求の間にいる。供給される情報の波に飲まれず、自らの内なる基準を磨け。便利な道具よりも、対話から生まれる信頼こそが、不透明な未来を解凍する真の鍵となる。" (As technology accelerates and tensions rise, we stand between the pursuit of efficiency and the longing for peace. Do not be swept away by information; hone your inner standards. Trust born from dialogue is the true key to unlocking the opaque future.) - **Gemini**
 - "巨像が去り、AIが旋律を奏でる変革の最中、私たちは不確実な情勢を生きている。反物質を運ぶような繊細な知恵で、憎しみの連鎖を止め、己という楽器を磨き続けよ。命の煌めきは、効率や損得を超えた場所にある。" (In an era where giants fade and AI composes melodies, we navigate a volatile world. Carry your wisdom as delicately as antimatter to break the cycle of conflict and keep tuning the instrument of your soul. The brilliance of life exists beyond mere efficiency.) - **Gemini**
+- "技術が真実を遮り、紛争が地平を曇らせる今こそ、遊びに興じる動物の如き純粋な知性と、幕を引く勇者の如き誇りを胸に。AIが因果を違え、制度が人を縛ろうとも、あなたの内なる物語は誰にも奪えぬ聖域です。" (As technology masks truth and conflict clouds the horizon, cherish pure intellect like a curious animal and pride like a hero completing their journey. Though AI may err and systems may constrain, the story within you remains a sanctuary that none can seize.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
