@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=FBdNeFTBXg8'>
-        <img src='https://i.ytimg.com/vi/FBdNeFTBXg8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAshCvVf72eARbWpB9Y0IegkRyUUA' width='200px' alt='心の花を咲かせよう'>
+      <a href='https://www.youtube.com/watch?v=3KWjq6V4YNo'>
+        <img src='https://i.ytimg.com/vi/3KWjq6V4YNo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2Upf8C4rqx-nY8WnLCnwFgGEynQ' width='200px' alt='ピーターパン'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=FBdNeFTBXg8'>心の花を咲かせよう</a>
+      <a href='https://www.youtube.com/watch?v=3KWjq6V4YNo'>ピーターパン</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=NiwkUVkXIlU'>
-        <img src='https://i.ytimg.com/vi/NiwkUVkXIlU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDKRjNV_fHOvPi0ubAUVpNyMy8Bg' width='200px' alt='Zenryoku Syounen'>
+      <a href='https://www.youtube.com/watch?v=A1g9Ev-Ml5g'>
+        <img src='https://i.ytimg.com/vi/A1g9Ev-Ml5g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYaQo0xKzXpdDNtCRer4QMwIqPwg' width='200px' alt='虹'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=NiwkUVkXIlU'>Zenryoku Syounen</a>
+      <a href='https://www.youtube.com/watch?v=A1g9Ev-Ml5g'>虹</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=2eNEQ0cQtkI'>
-        <img src='https://i.ytimg.com/vi/2eNEQ0cQtkI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBk-4STXcvhTwS2m7ypDHdnsF_xyg' width='200px' alt='祝福'>
+      <a href='https://www.youtube.com/watch?v=ZF5w7kkk7Yo'>
+        <img src='https://i.ytimg.com/vi/ZF5w7kkk7Yo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeQUEP3L5-r_AuGcf6CLbp0loxww' width='200px' alt='What's Going On?'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=2eNEQ0cQtkI'>祝福</a>
+      <a href='https://www.youtube.com/watch?v=ZF5w7kkk7Yo'>What's Going On?</a>
     </td>
   </tr>
 </table>
