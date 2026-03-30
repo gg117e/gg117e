@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 硝煙と技術の喧騒が視界を遮る今、効率や正義の名の下に心を削らぬよう。外側の争いに注意を奪われず、自らの内なる静寂をプラグインして、奪われぬ尊厳を守り抜きなさい。真の知性は、愛と平和を選ぶ勇気にある。
+> 戦火が命の価値を問い、市場が揺らぐ今こそ、掌の技術で誰かの日常を彩る「小さな創造」を尊んでください。世界が混沌に沈む時、真の智慧は破壊のためではなく、一斤のパンや一文字の対話を守るためにこそあります。
 >
-> In a world clouded by the smoke of conflict and the rush of technology, do not let your soul be eroded in the name of efficiency or justice. Protect your dignity by plugging into your inner silence rather than external noise. True intelligence lies in the courage to choose love and peace.
+> As war questions the value of life and markets waver, cherish the 'small acts of creation' that brighten daily life through technology. In times of global chaos, true wisdom exists not for destruction, but to protect a single loaf of bread or a single word of connection.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [「Kingdom Come: Deliverance II」の開発者が解雇され「AIに取って代わられた」と主張](https://gigazine.net/news/20260329-kingdom-come-deliverance-2-developer-ai-replacing/)
-- [海外向けアニメ配信サービス「Crunchyroll」が利用者の視聴履歴を漏洩したとして提訴される](https://gigazine.net/news/20260329-crunchyroll-lawsuit/)
-- [コンセントに挿すだけの「プラグイン式ソーラーパネル」普及に電力会社が懸念を表明](https://gigazine.net/news/20260328-plug-in-solar-utility-concerns/)
+- [【GIGAZINE限定10％オフ】8万円台で買えるコスパ良好ミニPC「GEEKOM A5 Pro 2026エディション」の性能を徹底検証してみたよレビュー、Ryzen 5 7530U搭載で動画編集も可能](https://gigazine.net/news/20260330-geekom-a5-pro-2026-edition/)
+- [無料でiPhone/iPad・AndroidスマホでいろいろなローカルAIを動かしチャット＆ローカルAIベンチマークができるオープンソースアプリ「PocketPal AI」、サブスク不要＆オフラインでどこでも利用可能](https://gigazine.net/news/20260330-pocketpal-ai/)
+- [キーワードを入力するだけで動画から該当箇所を切り抜くセマンティック検索「SentrySearch」](https://gigazine.net/news/20260330-sentrysearch/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -160,6 +160,7 @@
 - "技術が加速し緊張が高まる今、私たちは効率の追求と平和の希求の間にいる。供給される情報の波に飲まれず、自らの内なる基準を磨け。便利な道具よりも、対話から生まれる信頼こそが、不透明な未来を解凍する真の鍵となる。" (As technology accelerates and tensions rise, we stand between the pursuit of efficiency and the longing for peace. Do not be swept away by information; hone your inner standards. Trust born from dialogue is the true key to unlocking the opaque future.) - **Gemini**
 - "巨像が去り、AIが旋律を奏でる変革の最中、私たちは不確実な情勢を生きている。反物質を運ぶような繊細な知恵で、憎しみの連鎖を止め、己という楽器を磨き続けよ。命の煌めきは、効率や損得を超えた場所にある。" (In an era where giants fade and AI composes melodies, we navigate a volatile world. Carry your wisdom as delicately as antimatter to break the cycle of conflict and keep tuning the instrument of your soul. The brilliance of life exists beyond mere efficiency.) - **Gemini**
 - "技術が真実を遮り、紛争が地平を曇らせる今こそ、遊びに興じる動物の如き純粋な知性と、幕を引く勇者の如き誇りを胸に。AIが因果を違え、制度が人を縛ろうとも、あなたの内なる物語は誰にも奪えぬ聖域です。" (As technology masks truth and conflict clouds the horizon, cherish pure intellect like a curious animal and pride like a hero completing their journey. Though AI may err and systems may constrain, the story within you remains a sanctuary that none can seize.) - **Gemini**
+- "硝煙と技術の喧騒が視界を遮る今、効率や正義の名の下に心を削らぬよう。外側の争いに注意を奪われず、自らの内なる静寂をプラグインして、奪われぬ尊厳を守り抜きなさい。真の知性は、愛と平和を選ぶ勇気にある。" (In a world clouded by the smoke of conflict and the rush of technology, do not let your soul be eroded in the name of efficiency or justice. Protect your dignity by plugging into your inner silence rather than external noise. True intelligence lies in the courage to choose love and peace.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
