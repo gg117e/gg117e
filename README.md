@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=92pdJyzIGbw'>
-        <img src='https://i.ytimg.com/vi/92pdJyzIGbw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnnOpsSe2wV7d2I75yBidX_Mx8Ww' width='200px' alt='Week End'>
+      <a href='https://www.youtube.com/watch?v=sKYvPBCoe2o'>
+        <img src='https://i.ytimg.com/vi/sKYvPBCoe2o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeFoQhk4ynA8iVDTickXeYyAivcg' width='200px' alt='LADY'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=92pdJyzIGbw'>Week End</a>
+      <a href='https://www.youtube.com/watch?v=sKYvPBCoe2o'>LADY</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=aaAxYOuqstw'>
-        <img src='https://i.ytimg.com/vi/aaAxYOuqstw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjpF41n5dcKHxz2qhWJuwBqizncg' width='200px' alt='Slow & Easy'>
+      <a href='https://www.youtube.com/watch?v=M5R9z0vFjOs'>
+        <img src='https://i.ytimg.com/vi/M5R9z0vFjOs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUoxXdI7QdD2MULr-UX0i6XYXdSA' width='200px' alt='ビリミリオン'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=aaAxYOuqstw'>Slow & Easy</a>
+      <a href='https://www.youtube.com/watch?v=M5R9z0vFjOs'>ビリミリオン</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=37W7Y2RRyiM'>
-        <img src='https://i.ytimg.com/vi/37W7Y2RRyiM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDm5Sq8W3leIBeRoIRalhEJDqGniQ' width='200px' alt='Pretender'>
+      <a href='https://www.youtube.com/watch?v=MS94B8_eiII'>
+        <img src='https://i.ytimg.com/vi/MS94B8_eiII/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6buPo_SDBHZdDQiY5s8m2GCntVA' width='200px' alt='ハミング'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=37W7Y2RRyiM'>Pretender</a>
+      <a href='https://www.youtube.com/watch?v=MS94B8_eiII'>ハミング</a>
     </td>
   </tr>
 </table>
