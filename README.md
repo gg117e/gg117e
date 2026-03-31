@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=dMLNw_yzaFM'>
-        <img src='https://i.ytimg.com/vi/dMLNw_yzaFM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCE91zJ1MOoudAPxg0QkwkpSrNFxw' width='200px' alt='シルエット'>
+      <a href='https://www.youtube.com/watch?v=H_oxAmLvufM'>
+        <img src='https://i.ytimg.com/vi/H_oxAmLvufM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdaJT8v26IBiINKiuNPqHQR_5vAQ' width='200px' alt='BE:FIRST / I Want You Back -Official Audio-'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=dMLNw_yzaFM'>シルエット</a>
+      <a href='https://www.youtube.com/watch?v=H_oxAmLvufM'>BE:FIRST / I Want You Back -Official Audio-</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=kJEPeKPtZyw'>
-        <img src='https://i.ytimg.com/vi/kJEPeKPtZyw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHEQRF57cU-KWllU8xOBlwgrk83Q' width='200px' alt='花占い'>
+      <a href='https://www.youtube.com/watch?v=KJBoof4rjrg'>
+        <img src='https://i.ytimg.com/vi/KJBoof4rjrg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYlPGVYfBk7q9cXddAm78dnu8oAQ' width='200px' alt='Tatta'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=kJEPeKPtZyw'>花占い</a>
+      <a href='https://www.youtube.com/watch?v=KJBoof4rjrg'>Tatta</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=RuSNeIcPamk'>
-        <img src='https://i.ytimg.com/vi/RuSNeIcPamk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACQElNN-4SFIx_aT1F-ScHtTlzJA' width='200px' alt='【Official】Uru 『Love Song』  フジテレビ系 木曜劇場「推しの王子様」主題歌'>
+      <a href='https://www.youtube.com/watch?v=mj4Pa0ldUp8'>
+        <img src='https://i.ytimg.com/vi/mj4Pa0ldUp8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD14lODcjMhcKlqfeZWoy1pyMFyqg' width='200px' alt='地獄でなぜ悪い'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=RuSNeIcPamk'>【Official】Uru 『Love Song』  フジテレビ系 木曜劇場「推しの王子様」主題歌</a>
+      <a href='https://www.youtube.com/watch?v=mj4Pa0ldUp8'>地獄でなぜ悪い</a>
     </td>
   </tr>
 </table>
