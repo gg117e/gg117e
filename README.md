@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=H_oxAmLvufM'>
-        <img src='https://i.ytimg.com/vi/H_oxAmLvufM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdaJT8v26IBiINKiuNPqHQR_5vAQ' width='200px' alt='BE:FIRST / I Want You Back -Official Audio-'>
+      <a href='https://www.youtube.com/watch?v=9aveQLtaK30'>
+        <img src='https://i.ytimg.com/vi/9aveQLtaK30/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHLn-eCWxffBVVG5Hi7FNb98J-PA' width='200px' alt='ひまわり'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=H_oxAmLvufM'>BE:FIRST / I Want You Back -Official Audio-</a>
+      <a href='https://www.youtube.com/watch?v=9aveQLtaK30'>ひまわり</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=CCRWKZ7VVlg'>
-        <img src='https://i.ytimg.com/vi/CCRWKZ7VVlg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsNn5PmmhUQvDGLt33zb6ootAS8w' width='200px' alt='笑顔'>
+      <a href='https://www.youtube.com/watch?v=uKn4Yk5LEuQ'>
+        <img src='https://i.ytimg.com/vi/uKn4Yk5LEuQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAi7ShqaJSDeiHGz0fL-PZUq-EILQ' width='200px' alt='Tsukimashitewa'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=CCRWKZ7VVlg'>笑顔</a>
+      <a href='https://www.youtube.com/watch?v=uKn4Yk5LEuQ'>Tsukimashitewa</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=6IyRj4ui6ZA'>
-        <img src='https://i.ytimg.com/vi/6IyRj4ui6ZA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJnIeUXRMUh1719QYWf9nI8gyUUA' width='200px' alt='Boom Boom Back'>
+      <a href='https://www.youtube.com/watch?v=U6iReNSghS4'>
+        <img src='https://i.ytimg.com/vi/U6iReNSghS4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAL7XssFoF2SkL5wNau6M8VbXLtjQ' width='200px' alt='Kiseki'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=6IyRj4ui6ZA'>Boom Boom Back</a>
+      <a href='https://www.youtube.com/watch?v=U6iReNSghS4'>Kiseki</a>
     </td>
   </tr>
 </table>
