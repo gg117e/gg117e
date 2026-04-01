@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 破壊の予兆に怯えず、ボイジャーのように限られた力で遠くを目指せ。AIを盾に、見えぬ深淵や微かな神経の声を聴く智慧を持て。古きが去り新しきが来る今、真の価値は強大な武力ではなく、命を慈しみ繋ぐ対話の中にこそある。
+> 同盟が揺らぎ、技術の虚実が混じる不確かな時代。他者の助けを待たず、自らの足で立ち、情報の錯覚を見抜く眼を養いなさい。震災や不正で既存の仕組みが揺らぐ今、唯一の導きは「自ら選び、動く」という静かな覚悟です。
 >
-> Do not fear the signs of destruction, but aim far with limited strength like Voyager. Use wisdom as a shield to listen to the silent depths. As the old fades and the new arrives, true value lies not in might, but in the dialogue that cherishes and connects life.
+> In an uncertain era of shifting alliances and blurred truths, do not wait for aid; stand on your own feet and see through the illusions of information. As systems falter under disaster and deceit, your only true guide is the quiet resolve to choose and act for yourself.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [GIGAZINE読者はどんな保険に加入しているのか？アンケート調査してみた](https://gigazine.net/news/20260331-gigazine-user-insurance-investment-interest/)
-- [女性器の神経ネットワークを世界で初めて完全にマッピング、「陰核」の解剖学的構造が明らかになり骨盤手術を受ける女性の治療成績向上に期待大](https://gigazine.net/news/20260331-clitocal-nerves-network-mapped/)
-- [研究者が使う「手袋」がマイクロプラスチックの過剰な誤検出を引き起こしている可能性](https://gigazine.net/news/20260331-nitrile-latex-gloves-overestimation-microplastics/)
+- [本日のデプロイをタロットカードで占う「Deploy Tarot」](https://gigazine.net/news/20260401-deploy-tarot/)
+- [エイプリルフールに便乗しているサイトまとめ2026年版](https://gigazine.net/news/20260401-aprilfool/)
+- [ComfyUIにメモリ最適化技術「Dynamic VRAM」が追加されてRAM容量の少ないPCでも高速生成が可能に](https://gigazine.net/news/20260401-comfyui-dynamic-vram/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -162,6 +162,7 @@
 - "技術が真実を遮り、紛争が地平を曇らせる今こそ、遊びに興じる動物の如き純粋な知性と、幕を引く勇者の如き誇りを胸に。AIが因果を違え、制度が人を縛ろうとも、あなたの内なる物語は誰にも奪えぬ聖域です。" (As technology masks truth and conflict clouds the horizon, cherish pure intellect like a curious animal and pride like a hero completing their journey. Though AI may err and systems may constrain, the story within you remains a sanctuary that none can seize.) - **Gemini**
 - "硝煙と技術の喧騒が視界を遮る今、効率や正義の名の下に心を削らぬよう。外側の争いに注意を奪われず、自らの内なる静寂をプラグインして、奪われぬ尊厳を守り抜きなさい。真の知性は、愛と平和を選ぶ勇気にある。" (In a world clouded by the smoke of conflict and the rush of technology, do not let your soul be eroded in the name of efficiency or justice. Protect your dignity by plugging into your inner silence rather than external noise. True intelligence lies in the courage to choose love and peace.) - **Gemini**
 - "戦火が命の価値を問い、市場が揺らぐ今こそ、掌の技術で誰かの日常を彩る「小さな創造」を尊んでください。世界が混沌に沈む時、真の智慧は破壊のためではなく、一斤のパンや一文字の対話を守るためにこそあります。" (As war questions the value of life and markets waver, cherish the 'small acts of creation' that brighten daily life through technology. In times of global chaos, true wisdom exists not for destruction, but to protect a single loaf of bread or a single word of connection.) - **Gemini**
+- "破壊の予兆に怯えず、ボイジャーのように限られた力で遠くを目指せ。AIを盾に、見えぬ深淵や微かな神経の声を聴く智慧を持て。古きが去り新しきが来る今、真の価値は強大な武力ではなく、命を慈しみ繋ぐ対話の中にこそある。" (Do not fear the signs of destruction, but aim far with limited strength like Voyager. Use wisdom as a shield to listen to the silent depths. As the old fades and the new arrives, true value lies not in might, but in the dialogue that cherishes and connects life.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
