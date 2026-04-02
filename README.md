@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=OF45OXeH5VM'>
-        <img src='https://i.ytimg.com/vi/OF45OXeH5VM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0IISWvvwDLV43I2jjhFYNqIwbEA' width='200px' alt='感電'>
+      <a href='https://www.youtube.com/watch?v=Tj9fTEK-BA8'>
+        <img src='https://i.ytimg.com/vi/Tj9fTEK-BA8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxwEeFTF7jC9sl2oBjTENeVgTkQg' width='200px' alt='まちがいさがし'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=OF45OXeH5VM'>感電</a>
+      <a href='https://www.youtube.com/watch?v=Tj9fTEK-BA8'>まちがいさがし</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=1tk1pqwrOys'>
-        <img src='https://i.ytimg.com/vi/1tk1pqwrOys/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAa4d548fZz_6zUv6-AdAxqR1CW8A' width='200px' alt='廻廻奇譚 - Eve MV'>
+      <a href='https://www.youtube.com/watch?v=_HGPxXTIrvg'>
+        <img src='https://i.ytimg.com/vi/_HGPxXTIrvg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCntFc3OMMdrjs0ZHthaVaWH5snw' width='200px' alt='サマータイムシンデレラ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=1tk1pqwrOys'>廻廻奇譚 - Eve MV</a>
+      <a href='https://www.youtube.com/watch?v=_HGPxXTIrvg'>サマータイムシンデレラ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=3jwzfhaIf3U'>
-        <img src='https://i.ytimg.com/vi/3jwzfhaIf3U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyDkEcU9JaqmusItqe-hAV56rH3A' width='200px' alt='Eikouno Kakehashi'>
+      <a href='https://www.youtube.com/watch?v=Fay3ZhHS1rU'>
+        <img src='https://i.ytimg.com/vi/Fay3ZhHS1rU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjDVfcid0spA__YFixGLdGLPV6kA' width='200px' alt='桑田佳祐 – 100万年の幸せ!!（Full ver.）'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=3jwzfhaIf3U'>Eikouno Kakehashi</a>
+      <a href='https://www.youtube.com/watch?v=Fay3ZhHS1rU'>桑田佳祐 – 100万年の幸せ!!（Full ver.）</a>
     </td>
   </tr>
 </table>
