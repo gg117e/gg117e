@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=dMLNw_yzaFM'>
-        <img src='https://i.ytimg.com/vi/dMLNw_yzaFM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCE91zJ1MOoudAPxg0QkwkpSrNFxw' width='200px' alt='シルエット'>
+      <a href='https://www.youtube.com/watch?v=kJEPeKPtZyw'>
+        <img src='https://i.ytimg.com/vi/kJEPeKPtZyw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHEQRF57cU-KWllU8xOBlwgrk83Q' width='200px' alt='花占い'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=dMLNw_yzaFM'>シルエット</a>
+      <a href='https://www.youtube.com/watch?v=kJEPeKPtZyw'>花占い</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=nhfIpEUU9tc'>
-        <img src='https://i.ytimg.com/vi/nhfIpEUU9tc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgBpk2hSaERwDjiPaFIRz-Tc45rA' width='200px' alt='光るなら'>
+      <a href='https://www.youtube.com/watch?v=y6gc4g1uURg'>
+        <img src='https://i.ytimg.com/vi/y6gc4g1uURg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDZADRq-Gwl0EutXG1y3KU9Pv2RA' width='200px' alt='Phantom thief'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=nhfIpEUU9tc'>光るなら</a>
+      <a href='https://www.youtube.com/watch?v=y6gc4g1uURg'>Phantom thief</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=0izDjaaBa-A'>
-        <img src='https://i.ytimg.com/vi/0izDjaaBa-A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcNhcK-msy0yxQQnDdt5sDKgKU3w' width='200px' alt='光の跡'>
+      <a href='https://www.youtube.com/watch?v=P7bVX6fJfCg'>
+        <img src='https://i.ytimg.com/vi/P7bVX6fJfCg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCibqA8MwaVWSpL2VR6z3K_i0S3Rw' width='200px' alt='Omoinotake | IKUOKUKONEN 【Official Music Video】'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=0izDjaaBa-A'>光の跡</a>
+      <a href='https://www.youtube.com/watch?v=P7bVX6fJfCg'>Omoinotake | IKUOKUKONEN 【Official Music Video】</a>
     </td>
   </tr>
 </table>
