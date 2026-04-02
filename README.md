@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=sssoboSVd6A'>
-        <img src='https://i.ytimg.com/vi/sssoboSVd6A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABqS6M3D5Tk6on9fa68IULKZQALA' width='200px' alt='Ayumi'>
+      <a href='https://www.youtube.com/watch?v=cYWYGUDIQvo'>
+        <img src='https://i.ytimg.com/vi/cYWYGUDIQvo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_gw6gV71AGn1_EXczPMsjjgpHPQ' width='200px' alt='ドラえもん'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=sssoboSVd6A'>Ayumi</a>
+      <a href='https://www.youtube.com/watch?v=cYWYGUDIQvo'>ドラえもん</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=HUEoF7ntswo'>
-        <img src='https://i.ytimg.com/vi/HUEoF7ntswo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIjbJtv5eJ_d1UP7Ty9mQ5ADAXyQ' width='200px' alt='Love Song'>
+      <a href='https://www.youtube.com/watch?v=vms87P01vRU'>
+        <img src='https://i.ytimg.com/vi/vms87P01vRU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzZnQp_bBT2p2b05faDDdNT1ytRg' width='200px' alt='ファンファーレ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=HUEoF7ntswo'>Love Song</a>
+      <a href='https://www.youtube.com/watch?v=vms87P01vRU'>ファンファーレ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=H_oxAmLvufM'>
-        <img src='https://i.ytimg.com/vi/H_oxAmLvufM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdaJT8v26IBiINKiuNPqHQR_5vAQ' width='200px' alt='BE:FIRST / I Want You Back -Official Audio-'>
+      <a href='https://www.youtube.com/watch?v=hN5MBlGv2Ac'>
+        <img src='https://i.ytimg.com/vi/hN5MBlGv2Ac/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzbQItH3L-YHCHcM1KJ1pRu6gpGA' width='200px' alt='Official髭男dism - Subtitle [Official Video]'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=H_oxAmLvufM'>BE:FIRST / I Want You Back -Official Audio-</a>
+      <a href='https://www.youtube.com/watch?v=hN5MBlGv2Ac'>Official髭男dism - Subtitle [Official Video]</a>
     </td>
   </tr>
 </table>
