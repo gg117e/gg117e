@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=NytDYFWc--s'>
-        <img src='https://i.ytimg.com/vi/NytDYFWc--s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAam1nXolU_zNGmcEIM13wXQ3X_wQ' width='200px' alt='虹色の戦争'>
+      <a href='https://www.youtube.com/watch?v=LoyA7GvfOwA'>
+        <img src='https://i.ytimg.com/vi/LoyA7GvfOwA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAuADigIMCAAQARhkIGQoZDAP&rs=AOn4CLBk6pXQ6KVrYlVuaAckuf6xf3Owbg' width='200px' alt='Sad Song'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=NytDYFWc--s'>虹色の戦争</a>
+      <a href='https://www.youtube.com/watch?v=LoyA7GvfOwA'>Sad Song</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Pz9-XJ8SFKU'>
-        <img src='https://i.ytimg.com/vi/Pz9-XJ8SFKU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBq-Etp03Dzv0fNmneyfOmTHqbeTQ' width='200px' alt='Taketen'>
+      <a href='https://www.youtube.com/watch?v=fdnoxPq_Is8'>
+        <img src='https://i.ytimg.com/vi/fdnoxPq_Is8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPWxvixtaadySgnUIvVPraig7Ohw' width='200px' alt='Ola!!'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Pz9-XJ8SFKU'>Taketen</a>
+      <a href='https://www.youtube.com/watch?v=fdnoxPq_Is8'>Ola!!</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=GcXurBc6vao'>
-        <img src='https://i.ytimg.com/vi/GcXurBc6vao/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1h2cOKqsHtyYt1ytLA3FK8W9TZA' width='200px' alt='カタオモイ'>
+      <a href='https://www.youtube.com/watch?v=29vX07Sz3kw'>
+        <img src='https://i.ytimg.com/vi/29vX07Sz3kw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKaU55q7u0HPNBVdmcF1-ZubeeJA' width='200px' alt='Believe'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=GcXurBc6vao'>カタオモイ</a>
+      <a href='https://www.youtube.com/watch?v=29vX07Sz3kw'>Believe</a>
     </td>
   </tr>
 </table>
