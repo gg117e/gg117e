@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 同盟が揺らぎ、技術の虚実が混じる不確かな時代。他者の助けを待たず、自らの足で立ち、情報の錯覚を見抜く眼を養いなさい。震災や不正で既存の仕組みが揺らぐ今、唯一の導きは「自ら選び、動く」という静かな覚悟です。
+> 世界が激変し技術が加速する今こそ、真偽を見極める静かな眼差しを。複雑さに惑わされず、月を目指すような純粋な情熱と誠実な一歩を大切にしてください。その志こそが、不透明な時代を照らす確かな光となります。
 >
-> In an uncertain era of shifting alliances and blurred truths, do not wait for aid; stand on your own feet and see through the illusions of information. As systems falter under disaster and deceit, your only true guide is the quiet resolve to choose and act for yourself.
+> As the world shifts and technology accelerates, maintain a quiet gaze to discern the truth. Do not be misled by complexity; cherish pure passion and integrity. That inner resolve is the light that guides us through these uncertain times.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [本日のデプロイをタロットカードで占う「Deploy Tarot」](https://gigazine.net/news/20260401-deploy-tarot/)
-- [エイプリルフールに便乗しているサイトまとめ2026年版](https://gigazine.net/news/20260401-aprilfool/)
-- [ComfyUIにメモリ最適化技術「Dynamic VRAM」が追加されてRAM容量の少ないPCでも高速生成が可能に](https://gigazine.net/news/20260401-comfyui-dynamic-vram/)
+- [航空会社よりも素早く主要空港の運航障害・フライト情報を通知してくれる「Flighty」](https://gigazine.net/news/20260402-flighty/)
+- [「GIGAZINEマンガ大賞」2026年4月度募集開始＆コミックス特典マンガはこんな感じ](https://gigazine.net/news/20260402-gigazine-manga/)
+- [Appleはバグが修正されていないことを確認しない限りバグ報告を無作為にクローズしてしまう](https://gigazine.net/news/20260402-apple-randomly-closes-bug-reports-verify-unfixed/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -163,6 +163,7 @@
 - "硝煙と技術の喧騒が視界を遮る今、効率や正義の名の下に心を削らぬよう。外側の争いに注意を奪われず、自らの内なる静寂をプラグインして、奪われぬ尊厳を守り抜きなさい。真の知性は、愛と平和を選ぶ勇気にある。" (In a world clouded by the smoke of conflict and the rush of technology, do not let your soul be eroded in the name of efficiency or justice. Protect your dignity by plugging into your inner silence rather than external noise. True intelligence lies in the courage to choose love and peace.) - **Gemini**
 - "戦火が命の価値を問い、市場が揺らぐ今こそ、掌の技術で誰かの日常を彩る「小さな創造」を尊んでください。世界が混沌に沈む時、真の智慧は破壊のためではなく、一斤のパンや一文字の対話を守るためにこそあります。" (As war questions the value of life and markets waver, cherish the 'small acts of creation' that brighten daily life through technology. In times of global chaos, true wisdom exists not for destruction, but to protect a single loaf of bread or a single word of connection.) - **Gemini**
 - "破壊の予兆に怯えず、ボイジャーのように限られた力で遠くを目指せ。AIを盾に、見えぬ深淵や微かな神経の声を聴く智慧を持て。古きが去り新しきが来る今、真の価値は強大な武力ではなく、命を慈しみ繋ぐ対話の中にこそある。" (Do not fear the signs of destruction, but aim far with limited strength like Voyager. Use wisdom as a shield to listen to the silent depths. As the old fades and the new arrives, true value lies not in might, but in the dialogue that cherishes and connects life.) - **Gemini**
+- "同盟が揺らぎ、技術の虚実が混じる不確かな時代。他者の助けを待たず、自らの足で立ち、情報の錯覚を見抜く眼を養いなさい。震災や不正で既存の仕組みが揺らぐ今、唯一の導きは「自ら選び、動く」という静かな覚悟です。" (In an uncertain era of shifting alliances and blurred truths, do not wait for aid; stand on your own feet and see through the illusions of information. As systems falter under disaster and deceit, your only true guide is the quiet resolve to choose and act for yourself.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
