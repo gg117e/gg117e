@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=69yZ00BJCgM'>
-        <img src='https://i.ytimg.com/vi/69yZ00BJCgM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKJVbc2I-1y38yhjMYtYuwPhN2qA' width='200px' alt='Tokimeki'>
+      <a href='https://www.youtube.com/watch?v=Oa-Vc2amuA0'>
+        <img src='https://i.ytimg.com/vi/Oa-Vc2amuA0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdGtBnt7TKIjouSR0Y-waJjc32_A' width='200px' alt='Universe'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=69yZ00BJCgM'>Tokimeki</a>
+      <a href='https://www.youtube.com/watch?v=Oa-Vc2amuA0'>Universe</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=HrZX4KFfniU'>
-        <img src='https://i.ytimg.com/vi/HrZX4KFfniU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCj4NYNo6f32MhY3ua3KFVZQcplOw' width='200px' alt='Earthchild'>
+      <a href='https://www.youtube.com/watch?v=8E2VN7GO5eM'>
+        <img src='https://i.ytimg.com/vi/8E2VN7GO5eM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjez16ntm7mb1BHVpaPnxkJht3Mg' width='200px' alt='気まぐれロマンティック'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=HrZX4KFfniU'>Earthchild</a>
+      <a href='https://www.youtube.com/watch?v=8E2VN7GO5eM'>気まぐれロマンティック</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=jBILfisAXXs'>
-        <img src='https://i.ytimg.com/vi/jBILfisAXXs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6To1bSVwvvhDTNXjGY7ajk9CU7w' width='200px' alt='夢の外へ'>
+      <a href='https://www.youtube.com/watch?v=zuXiyCtrM2c'>
+        <img src='https://i.ytimg.com/vi/zuXiyCtrM2c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxAiQr_LrDmcdvKKiie81xFKnnzQ' width='200px' alt='ドライフラワー'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=jBILfisAXXs'>夢の外へ</a>
+      <a href='https://www.youtube.com/watch?v=zuXiyCtrM2c'>ドライフラワー</a>
     </td>
   </tr>
 </table>
