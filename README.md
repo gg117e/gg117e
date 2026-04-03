@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 世界が激変し技術が加速する今こそ、真偽を見極める静かな眼差しを。複雑さに惑わされず、月を目指すような純粋な情熱と誠実な一歩を大切にしてください。その志こそが、不透明な時代を照らす確かな光となります。
+> 空に月を望みAIが知を紡ぐ今、地上では古の憎悪が火を噴く。技術がどれほど進もうと、平和を編むのは人の意志だけです。排斥や暴力の連鎖を断ち、日常にある小さな対話と寛容を、明日へ繋ぐ糧としなさい。
 >
-> As the world shifts and technology accelerates, maintain a quiet gaze to discern the truth. Do not be misled by complexity; cherish pure passion and integrity. That inner resolve is the light that guides us through these uncertain times.
+> While we reach for the moon and AI weaves knowledge, ancient hatreds burn on Earth. No matter how technology evolves, only human will can weave peace. Break the cycle of exclusion and violence; let the small dialogues and tolerance of daily life be the nourishment that carries us into tomorrow.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [航空会社よりも素早く主要空港の運航障害・フライト情報を通知してくれる「Flighty」](https://gigazine.net/news/20260402-flighty/)
-- [「GIGAZINEマンガ大賞」2026年4月度募集開始＆コミックス特典マンガはこんな感じ](https://gigazine.net/news/20260402-gigazine-manga/)
-- [Appleはバグが修正されていないことを確認しない限りバグ報告を無作為にクローズしてしまう](https://gigazine.net/news/20260402-apple-randomly-closes-bug-reports-verify-unfixed/)
+- [現代まで強い影響を残す19世紀中国とイギリスの「アヘン戦争」について解説したムービー](https://gigazine.net/news/20260403-opium-wars/)
+- [GIGAZINE春のプレゼント大放出企画「アンケートに答えて全部持っていってください！」](https://gigazine.net/news/20260402-present-spring-2026/)
+- [Google傘下のDeepMindが極秘に進めた「マリオ計画」とは何だったのか、AGI安全策の行き詰まりが明らかに](https://gigazine.net/news/20260403-google-deepmind-project-mario-agi-safety/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -164,6 +164,7 @@
 - "戦火が命の価値を問い、市場が揺らぐ今こそ、掌の技術で誰かの日常を彩る「小さな創造」を尊んでください。世界が混沌に沈む時、真の智慧は破壊のためではなく、一斤のパンや一文字の対話を守るためにこそあります。" (As war questions the value of life and markets waver, cherish the 'small acts of creation' that brighten daily life through technology. In times of global chaos, true wisdom exists not for destruction, but to protect a single loaf of bread or a single word of connection.) - **Gemini**
 - "破壊の予兆に怯えず、ボイジャーのように限られた力で遠くを目指せ。AIを盾に、見えぬ深淵や微かな神経の声を聴く智慧を持て。古きが去り新しきが来る今、真の価値は強大な武力ではなく、命を慈しみ繋ぐ対話の中にこそある。" (Do not fear the signs of destruction, but aim far with limited strength like Voyager. Use wisdom as a shield to listen to the silent depths. As the old fades and the new arrives, true value lies not in might, but in the dialogue that cherishes and connects life.) - **Gemini**
 - "同盟が揺らぎ、技術の虚実が混じる不確かな時代。他者の助けを待たず、自らの足で立ち、情報の錯覚を見抜く眼を養いなさい。震災や不正で既存の仕組みが揺らぐ今、唯一の導きは「自ら選び、動く」という静かな覚悟です。" (In an uncertain era of shifting alliances and blurred truths, do not wait for aid; stand on your own feet and see through the illusions of information. As systems falter under disaster and deceit, your only true guide is the quiet resolve to choose and act for yourself.) - **Gemini**
+- "世界が激変し技術が加速する今こそ、真偽を見極める静かな眼差しを。複雑さに惑わされず、月を目指すような純粋な情熱と誠実な一歩を大切にしてください。その志こそが、不透明な時代を照らす確かな光となります。" (As the world shifts and technology accelerates, maintain a quiet gaze to discern the truth. Do not be misled by complexity; cherish pure passion and integrity. That inner resolve is the light that guides us through these uncertain times.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
