@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=mj4Pa0ldUp8'>
-        <img src='https://i.ytimg.com/vi/mj4Pa0ldUp8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD14lODcjMhcKlqfeZWoy1pyMFyqg' width='200px' alt='地獄でなぜ悪い'>
+      <a href='https://www.youtube.com/watch?v=I8fxhn_l08g'>
+        <img src='https://i.ytimg.com/vi/I8fxhn_l08g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDSBeXOzTWFpJfP7MAMG5QX5MRHA' width='200px' alt='Official髭男dism - Choral A [Official Video]'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=mj4Pa0ldUp8'>地獄でなぜ悪い</a>
+      <a href='https://www.youtube.com/watch?v=I8fxhn_l08g'>Official髭男dism - Choral A [Official Video]</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Jm2jOK45btw'>
-        <img src='https://i.ytimg.com/vi/Jm2jOK45btw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPMCDVE0qm5SI2owO0-6JB-sPNYw' width='200px' alt='Aiueongaku'>
+      <a href='https://www.youtube.com/watch?v=HUEoF7ntswo'>
+        <img src='https://i.ytimg.com/vi/HUEoF7ntswo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIjbJtv5eJ_d1UP7Ty9mQ5ADAXyQ' width='200px' alt='Love Song'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Jm2jOK45btw'>Aiueongaku</a>
+      <a href='https://www.youtube.com/watch?v=HUEoF7ntswo'>Love Song</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=JVZCRtChnB0'>
-        <img src='https://i.ytimg.com/vi/JVZCRtChnB0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALs3GdtzvV2OHV94xCXf8PS7MxuQ' width='200px' alt='点描の唄 / Mrs. GREEN APPLE (feat.井上苑子) full covered by オサム × 春茶'>
+      <a href='https://www.youtube.com/watch?v=PLNtwcIjgJE'>
+        <img src='https://i.ytimg.com/vi/PLNtwcIjgJE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRAewsfJBCUN9YE1jmdT2Zsd9E0A' width='200px' alt='Misenainamidawa Kittoitsuka'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=JVZCRtChnB0'>点描の唄 / Mrs. GREEN APPLE (feat.井上苑子) full covered by オサム × 春茶</a>
+      <a href='https://www.youtube.com/watch?v=PLNtwcIjgJE'>Misenainamidawa Kittoitsuka</a>
     </td>
   </tr>
 </table>
