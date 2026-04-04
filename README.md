@@ -26,18 +26,11 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=gpdh9AUzQjY'>
-        <img src='https://i.ytimg.com/vi/gpdh9AUzQjY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnZY9cYpCWhlK5DvkOpB3w46mpVQ' width='200px' alt='カーテンコール'>
+      <a href='https://www.youtube.com/watch?v=Hp9Z5TP1WfA'>
+        <img src='https://i.ytimg.com/vi/Hp9Z5TP1WfA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbKtFxlAWC69VyMDcx9N78dfe_Dw' width='200px' alt='115万キロのフィルム'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=gpdh9AUzQjY'>カーテンコール</a>
-    </td>
-    <td align='center'>
-      <a href='https://www.youtube.com/watch?v=LM_5KevVmYc'>
-        <img src='https://i.ytimg.com/vi/LM_5KevVmYc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4NqYuC703bhnQxOo1CE59_WIg0w' width='200px' alt='I Love You'>
-      </a>
-      <br />
-      <a href='https://www.youtube.com/watch?v=LM_5KevVmYc'>I Love You</a>
+      <a href='https://www.youtube.com/watch?v=Hp9Z5TP1WfA'>115万キロのフィルム</a>
     </td>
     <td align='center'>
       <a href='https://www.youtube.com/watch?v=jjuSkbNCSsI'>
@@ -45,6 +38,13 @@
       </a>
       <br />
       <a href='https://www.youtube.com/watch?v=jjuSkbNCSsI'>夢中</a>
+    </td>
+    <td align='center'>
+      <a href='https://www.youtube.com/watch?v=xolrlVnkKs8'>
+        <img src='https://i.ytimg.com/vi/xolrlVnkKs8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSrq4BOkHvsU0vlsTeUvDldE-BMg' width='200px' alt='GOOD LUCKY!!!!!'>
+      </a>
+      <br />
+      <a href='https://www.youtube.com/watch?v=xolrlVnkKs8'>GOOD LUCKY!!!!!</a>
     </td>
   </tr>
 </table>
