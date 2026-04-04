@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=f8mKfvnsYM4'>
-        <img src='https://i.ytimg.com/vi/f8mKfvnsYM4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSJK00pNJEU7KwJmfmg7L74zQO7Q' width='200px' alt='ばかまじめ'>
+      <a href='https://www.youtube.com/watch?v=H2r25lVcIHw'>
+        <img src='https://i.ytimg.com/vi/H2r25lVcIHw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgiffVYvt42FuGzVoZ1W9jo3MUFQ' width='200px' alt='花の塔'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=f8mKfvnsYM4'>ばかまじめ</a>
+      <a href='https://www.youtube.com/watch?v=H2r25lVcIHw'>花の塔</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=hID1Wt1ByEQ'>
-        <img src='https://i.ytimg.com/vi/hID1Wt1ByEQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6PREFxuitmk-F_ecqRXEOsN1hNg' width='200px' alt='Same Blue'>
+      <a href='https://www.youtube.com/watch?v=P7bVX6fJfCg'>
+        <img src='https://i.ytimg.com/vi/P7bVX6fJfCg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCibqA8MwaVWSpL2VR6z3K_i0S3Rw' width='200px' alt='Omoinotake | IKUOKUKONEN 【Official Music Video】'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=hID1Wt1ByEQ'>Same Blue</a>
+      <a href='https://www.youtube.com/watch?v=P7bVX6fJfCg'>Omoinotake | IKUOKUKONEN 【Official Music Video】</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Q-y3TtiKxsU'>
-        <img src='https://i.ytimg.com/vi/Q-y3TtiKxsU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJYbnkxTXam_a4M0GF97NMTrAoHg' width='200px' alt='チャンカパーナ'>
+      <a href='https://www.youtube.com/watch?v=IwQGnXpskoY'>
+        <img src='https://i.ytimg.com/vi/IwQGnXpskoY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDiHwirjE0LDcogv4uTcLmilOrQCQ' width='200px' alt='One Voice'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Q-y3TtiKxsU'>チャンカパーナ</a>
+      <a href='https://www.youtube.com/watch?v=IwQGnXpskoY'>One Voice</a>
     </td>
   </tr>
 </table>
