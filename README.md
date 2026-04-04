@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 空に月を望みAIが知を紡ぐ今、地上では古の憎悪が火を噴く。技術がどれほど進もうと、平和を編むのは人の意志だけです。排斥や暴力の連鎖を断ち、日常にある小さな対話と寛容を、明日へ繋ぐ糧としなさい。
+> 砲火が日常を侵しAIが知を競う今、1万年前から続く「不確かさ」を愛しましょう。効率や数字に回収されぬ、誰かを想い花を贈るような心の余白こそが混迷の海を渡る羅針盤。技術を友としつつ、生身の生を深く味わう勇気を持ってください。
 >
-> While we reach for the moon and AI weaves knowledge, ancient hatreds burn on Earth. No matter how technology evolves, only human will can weave peace. Break the cycle of exclusion and violence; let the small dialogues and tolerance of daily life be the nourishment that carries us into tomorrow.
+> As conflict touches daily life and AI reshapes our world, embrace the uncertainty that has defined humanity for millennia. Compassion—like the simple act of giving flowers—is a compass that data cannot replace. Use technology as your tool, but keep the courage to live your life with all your heart.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [現代まで強い影響を残す19世紀中国とイギリスの「アヘン戦争」について解説したムービー](https://gigazine.net/news/20260403-opium-wars/)
-- [GIGAZINE春のプレゼント大放出企画「アンケートに答えて全部持っていってください！」](https://gigazine.net/news/20260402-present-spring-2026/)
-- [Google傘下のDeepMindが極秘に進めた「マリオ計画」とは何だったのか、AGI安全策の行き詰まりが明らかに](https://gigazine.net/news/20260403-google-deepmind-project-mario-agi-safety/)
+- [アラブ首長国連邦でイランのミサイル攻撃の投稿を共有したとして観光客含む21人が起訴される](https://gigazine.net/news/20260404-uae-charged-missile-content/)
+- [無料でWindows・macOSのファイルやブラウザを内蔵ローカルAIを使いAPIキー不要で自動操作できる「Accomplish」、OpenAIやAnthropicなどの外部AIも利用可能](https://gigazine.net/news/20260403-accomplish/)
+- [人類は1万2000年以上前に「世界最古のサイコロ」を生み出していたとの研究結果](https://gigazine.net/news/20260403-native-americans-invented-worlds-oldest-dice/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -165,6 +165,7 @@
 - "破壊の予兆に怯えず、ボイジャーのように限られた力で遠くを目指せ。AIを盾に、見えぬ深淵や微かな神経の声を聴く智慧を持て。古きが去り新しきが来る今、真の価値は強大な武力ではなく、命を慈しみ繋ぐ対話の中にこそある。" (Do not fear the signs of destruction, but aim far with limited strength like Voyager. Use wisdom as a shield to listen to the silent depths. As the old fades and the new arrives, true value lies not in might, but in the dialogue that cherishes and connects life.) - **Gemini**
 - "同盟が揺らぎ、技術の虚実が混じる不確かな時代。他者の助けを待たず、自らの足で立ち、情報の錯覚を見抜く眼を養いなさい。震災や不正で既存の仕組みが揺らぐ今、唯一の導きは「自ら選び、動く」という静かな覚悟です。" (In an uncertain era of shifting alliances and blurred truths, do not wait for aid; stand on your own feet and see through the illusions of information. As systems falter under disaster and deceit, your only true guide is the quiet resolve to choose and act for yourself.) - **Gemini**
 - "世界が激変し技術が加速する今こそ、真偽を見極める静かな眼差しを。複雑さに惑わされず、月を目指すような純粋な情熱と誠実な一歩を大切にしてください。その志こそが、不透明な時代を照らす確かな光となります。" (As the world shifts and technology accelerates, maintain a quiet gaze to discern the truth. Do not be misled by complexity; cherish pure passion and integrity. That inner resolve is the light that guides us through these uncertain times.) - **Gemini**
+- "空に月を望みAIが知を紡ぐ今、地上では古の憎悪が火を噴く。技術がどれほど進もうと、平和を編むのは人の意志だけです。排斥や暴力の連鎖を断ち、日常にある小さな対話と寛容を、明日へ繋ぐ糧としなさい。" (While we reach for the moon and AI weaves knowledge, ancient hatreds burn on Earth. No matter how technology evolves, only human will can weave peace. Break the cycle of exclusion and violence; let the small dialogues and tolerance of daily life be the nourishment that carries us into tomorrow.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
