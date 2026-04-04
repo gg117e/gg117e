@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=_HGPxXTIrvg'>
-        <img src='https://i.ytimg.com/vi/_HGPxXTIrvg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCntFc3OMMdrjs0ZHthaVaWH5snw' width='200px' alt='サマータイムシンデレラ'>
+      <a href='https://www.youtube.com/watch?v=jjuSkbNCSsI'>
+        <img src='https://i.ytimg.com/vi/jjuSkbNCSsI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwX3eSlo1anK2mtqQrvHd9gyGJzg' width='200px' alt='夢中'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=_HGPxXTIrvg'>サマータイムシンデレラ</a>
+      <a href='https://www.youtube.com/watch?v=jjuSkbNCSsI'>夢中</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=kJEPeKPtZyw'>
-        <img src='https://i.ytimg.com/vi/kJEPeKPtZyw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHEQRF57cU-KWllU8xOBlwgrk83Q' width='200px' alt='花占い'>
+      <a href='https://www.youtube.com/watch?v=mpvYMI_Vd30'>
+        <img src='https://i.ytimg.com/vi/mpvYMI_Vd30/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDiD7JlHndZ4MUk22eELQLcoXqf4g' width='200px' alt='Michi'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=kJEPeKPtZyw'>花占い</a>
+      <a href='https://www.youtube.com/watch?v=mpvYMI_Vd30'>Michi</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=69yZ00BJCgM'>
-        <img src='https://i.ytimg.com/vi/69yZ00BJCgM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKJVbc2I-1y38yhjMYtYuwPhN2qA' width='200px' alt='Tokimeki'>
+      <a href='https://www.youtube.com/watch?v=n2m9ebS3tEo'>
+        <img src='https://i.ytimg.com/vi/n2m9ebS3tEo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXzDib6DqcUgUEmhX8e254Si2mQw' width='200px' alt='Beautiful Fin'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=69yZ00BJCgM'>Tokimeki</a>
+      <a href='https://www.youtube.com/watch?v=n2m9ebS3tEo'>Beautiful Fin</a>
     </td>
   </tr>
 </table>
