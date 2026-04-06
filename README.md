@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=xFL1OO6siJI'>
-        <img src='https://i.ytimg.com/vi/xFL1OO6siJI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCH_W3xlqcSThQ65fOuXCwQWmIZng' width='200px' alt='Dokokade Hi Wa Noboru'>
+      <a href='https://www.youtube.com/watch?v=vGoMNejaSy0'>
+        <img src='https://i.ytimg.com/vi/vGoMNejaSy0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwtTeGA590I9gRSqyYCpBIH8mvqQ' width='200px' alt='Robinson'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=xFL1OO6siJI'>Dokokade Hi Wa Noboru</a>
+      <a href='https://www.youtube.com/watch?v=vGoMNejaSy0'>Robinson</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=X55QEsB64O8'>
-        <img src='https://i.ytimg.com/vi/X55QEsB64O8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDazVneZ2Ic3_-LLYRyEOjtorKs0A' width='200px' alt='君の知らない物語'>
+      <a href='https://www.youtube.com/watch?v=8DPaNJjI-8Y'>
+        <img src='https://i.ytimg.com/vi/8DPaNJjI-8Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqhZF3yGmxLSsRRDBPDCEm_IBuYw' width='200px' alt='Stand by me, Stand by you.'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=X55QEsB64O8'>君の知らない物語</a>
+      <a href='https://www.youtube.com/watch?v=8DPaNJjI-8Y'>Stand by me, Stand by you.</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=l-6ag1J9MJI'>
-        <img src='https://i.ytimg.com/vi/l-6ag1J9MJI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNrIYq3E1-kTLo3OvkRZDab-OqpA' width='200px' alt='Continues'>
+      <a href='https://www.youtube.com/watch?v=N1XUt-ZcOf4'>
+        <img src='https://i.ytimg.com/vi/N1XUt-ZcOf4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxk96uW-3O9eGb8qj27Cr0CMOCqw' width='200px' alt='Columbus'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=l-6ag1J9MJI'>Continues</a>
+      <a href='https://www.youtube.com/watch?v=N1XUt-ZcOf4'>Columbus</a>
     </td>
   </tr>
 </table>
