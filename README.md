@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=CCRWKZ7VVlg'>
-        <img src='https://i.ytimg.com/vi/CCRWKZ7VVlg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsNn5PmmhUQvDGLt33zb6ootAS8w' width='200px' alt='笑顔'>
+      <a href='https://www.youtube.com/watch?v=XEHvZ5GrfM8'>
+        <img src='https://i.ytimg.com/vi/XEHvZ5GrfM8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIMwX4r8LPGzFEuy9nauo9407Ksw' width='200px' alt='Eine Kleine'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=CCRWKZ7VVlg'>笑顔</a>
+      <a href='https://www.youtube.com/watch?v=XEHvZ5GrfM8'>Eine Kleine</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=dHq0a22CPE8'>
-        <img src='https://i.ytimg.com/vi/dHq0a22CPE8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyQjsBuH2KA9LaLZROE2e6F-jQbg' width='200px' alt='GReeeeN - 恋'>
+      <a href='https://www.youtube.com/watch?v=LkCEumWZfF4'>
+        <img src='https://i.ytimg.com/vi/LkCEumWZfF4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyaPQcgdwfRFGuZtUyRhWWfBnpUg' width='200px' alt='平井 大 / もしも、僕がいなくても。（Music Video）'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=dHq0a22CPE8'>GReeeeN - 恋</a>
+      <a href='https://www.youtube.com/watch?v=LkCEumWZfF4'>平井 大 / もしも、僕がいなくても。（Music Video）</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=olsv91gZylw'>
-        <img src='https://i.ytimg.com/vi/olsv91gZylw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMk1mraa6RG1rdZqFj9hliTNqJwg' width='200px' alt='悲しみなんて笑い飛ばせ'>
+      <a href='https://www.youtube.com/watch?v=3jwzfhaIf3U'>
+        <img src='https://i.ytimg.com/vi/3jwzfhaIf3U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyDkEcU9JaqmusItqe-hAV56rH3A' width='200px' alt='Eikouno Kakehashi'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=olsv91gZylw'>悲しみなんて笑い飛ばせ</a>
+      <a href='https://www.youtube.com/watch?v=3jwzfhaIf3U'>Eikouno Kakehashi</a>
     </td>
   </tr>
 </table>
