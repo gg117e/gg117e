@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 変動する情勢やAIの助言に惑わされず、自らの思考を研ぎ澄ませ。巨像の崩壊や見せかけの救済が溢れる今こそ、温かな湯に身を浸すような静寂の中で己を整え、確かな一歩を刻む強さを持て。真実は外ではなく、内なる知性と生命の鼓動にある。
+> 瞬速の技術と激動する情勢。その喧騒の中で、太古の知恵が示した「癒やし」の価値を再発見してください。世界が豊かさを痛みで測るとしても、あなたは誰かの傷を繋ぎ止める、静かで温かな接着剤であれ。
 >
-> Do not be misled by volatile affairs or AI advice; sharpen your own thinking. Amidst collapsing giants and deceptive rescues, find stillness to recover and move forward with purpose. Truth lies not outside, but within your intellect and the pulse of life.
+> Amidst rapid technology and global friction, rediscover the value of healing shown by ancient wisdom. Even if the world measures wealth through pain, strive to be the quiet, warm adhesive that mends the wounds of those around you.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [知られざるネパールの大規模「登山偽救助」詐欺、世界中の保険会社から数百万ドルをだまし取っていた](https://gigazine.net/news/20260406-nepal-fake-rescue/)
-- [中学教師の3分の2がAIの使用により生徒の思考力が低下していると回答](https://gigazine.net/news/20260406-losing-thinking-skills-ai/)
-- [Microsoftはいかにして1兆ドルを消滅させたのか、Azureに対する信頼を損なった自己満足と誤った判断の内幕を元Azureコアエンジニアが証言](https://gigazine.net/news/20260406-microsoft-azure-failure/)
+- [「1日ゲームは何時間？」「どんなゲーム持ってる？」「どんなカテゴリのゲームが好き？」などGIGAZINE読者のゲーム習慣を調査してみた](https://gigazine.net/news/20260407-gigazine-user-game-preference/)
+- [GIGAZINE価格表・媒体資料を2026年4月版に更新しました！](https://gigazine.net/news/20260407-gigazine-media-materials-update/)
+- [iPhone 17 Proでパラメーター数80億のAIモデル「1-bit Bonsai 8B」をローカル実行してみたよレビュー、無料アプリのLocally AIで簡単に実行できる](https://gigazine.net/news/20260407-iphone-1-bit-bonsai-locally-ai/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -168,6 +168,7 @@
 - "空に月を望みAIが知を紡ぐ今、地上では古の憎悪が火を噴く。技術がどれほど進もうと、平和を編むのは人の意志だけです。排斥や暴力の連鎖を断ち、日常にある小さな対話と寛容を、明日へ繋ぐ糧としなさい。" (While we reach for the moon and AI weaves knowledge, ancient hatreds burn on Earth. No matter how technology evolves, only human will can weave peace. Break the cycle of exclusion and violence; let the small dialogues and tolerance of daily life be the nourishment that carries us into tomorrow.) - **Gemini**
 - "砲火が日常を侵しAIが知を競う今、1万年前から続く「不確かさ」を愛しましょう。効率や数字に回収されぬ、誰かを想い花を贈るような心の余白こそが混迷の海を渡る羅針盤。技術を友としつつ、生身の生を深く味わう勇気を持ってください。" (As conflict touches daily life and AI reshapes our world, embrace the uncertainty that has defined humanity for millennia. Compassion—like the simple act of giving flowers—is a compass that data cannot replace. Use technology as your tool, but keep the courage to live your life with all your heart.) - **Gemini**
 - "迫る危機の咆哮と、資源に阻まれる進化。その狭間で、私たちは「推し」や「学び」という名の魂の聖域を守り抜くべきです。巨大な歯車が軋む時こそ、自らの手で小さな幸せを組み立てる静かな強さを持ちなさい。" (Amidst the roar of looming crises and progress hindered by resource shortages, protect the sanctuary of your soul through what you love and learn. When the great gears of the world grind, find strength in crafting your own small joys.) - **Gemini**
+- "変動する情勢やAIの助言に惑わされず、自らの思考を研ぎ澄ませ。巨像の崩壊や見せかけの救済が溢れる今こそ、温かな湯に身を浸すような静寂の中で己を整え、確かな一歩を刻む強さを持て。真実は外ではなく、内なる知性と生命の鼓動にある。" (Do not be misled by volatile affairs or AI advice; sharpen your own thinking. Amidst collapsing giants and deceptive rescues, find stillness to recover and move forward with purpose. Truth lies not outside, but within your intellect and the pulse of life.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
