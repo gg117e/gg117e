@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=3jwzfhaIf3U'>
-        <img src='https://i.ytimg.com/vi/3jwzfhaIf3U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyDkEcU9JaqmusItqe-hAV56rH3A' width='200px' alt='Eikouno Kakehashi'>
+      <a href='https://www.youtube.com/watch?v=107UoVP2fAA'>
+        <img src='https://i.ytimg.com/vi/107UoVP2fAA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1eFCwYYYAUQ0JdHKBnC37uSW5_w' width='200px' alt='Heroine'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=3jwzfhaIf3U'>Eikouno Kakehashi</a>
+      <a href='https://www.youtube.com/watch?v=107UoVP2fAA'>Heroine</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=SaVLctSLnh8'>
-        <img src='https://i.ytimg.com/vi/SaVLctSLnh8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAo2EVknq2t_RyeExV89JobTcXiVw' width='200px' alt='ピースサイン - Peace Sign'>
+      <a href='https://www.youtube.com/watch?v=wggigwtz4dQ'>
+        <img src='https://i.ytimg.com/vi/wggigwtz4dQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDx8lLV4A1ksdgMSl8ktaqa75bzKw' width='200px' alt='IRIS OUT'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=SaVLctSLnh8'>ピースサイン - Peace Sign</a>
+      <a href='https://www.youtube.com/watch?v=wggigwtz4dQ'>IRIS OUT</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=E-2VQqidJL0'>
-        <img src='https://i.ytimg.com/vi/E-2VQqidJL0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaB1Y_Kb4wcIUX9klPvPTnq-AHew' width='200px' alt='CITRUS'>
+      <a href='https://www.youtube.com/watch?v=75g7GdgbkRU'>
+        <img src='https://i.ytimg.com/vi/75g7GdgbkRU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbtZAr86NRsUKq8o35sM1vEY6y_g' width='200px' alt='Bling-Bang-Bang-Born'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=E-2VQqidJL0'>CITRUS</a>
+      <a href='https://www.youtube.com/watch?v=75g7GdgbkRU'>Bling-Bang-Bang-Born</a>
     </td>
   </tr>
 </table>
