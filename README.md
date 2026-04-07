@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ME_ZU0ME4vQ'>
-        <img src='https://i.ytimg.com/vi/ME_ZU0ME4vQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcg2wcDNON6jYjuxGICte2SY1Adg' width='200px' alt='ゼロのままでいられたら'>
+      <a href='https://www.youtube.com/watch?v=FJOUiX0uuYM'>
+        <img src='https://i.ytimg.com/vi/FJOUiX0uuYM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCRluchGpZf-uIfzjnVnCzRAENzg' width='200px' alt='さよならエレジー'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ME_ZU0ME4vQ'>ゼロのままでいられたら</a>
+      <a href='https://www.youtube.com/watch?v=FJOUiX0uuYM'>さよならエレジー</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=1tk1pqwrOys'>
-        <img src='https://i.ytimg.com/vi/1tk1pqwrOys/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAa4d548fZz_6zUv6-AdAxqR1CW8A' width='200px' alt='廻廻奇譚 - Eve MV'>
+      <a href='https://www.youtube.com/watch?v=V6TEcoNUmc8'>
+        <img src='https://i.ytimg.com/vi/V6TEcoNUmc8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSLIKEiQCOt42rwL4jDoKMEret8g' width='200px' alt='Ditto'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=1tk1pqwrOys'>廻廻奇譚 - Eve MV</a>
+      <a href='https://www.youtube.com/watch?v=V6TEcoNUmc8'>Ditto</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=BT5fqQ0xXYs'>
-        <img src='https://i.ytimg.com/vi/BT5fqQ0xXYs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvJu2x5bSmOLxOc0ETl7cftwiIOw' width='200px' alt='Soramo Toberuhazu'>
+      <a href='https://www.youtube.com/watch?v=EqaDNpV5FvI'>
+        <img src='https://i.ytimg.com/vi/EqaDNpV5FvI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxXHnjB2e3tyxlKUuMfzSK7E7E8g' width='200px' alt='Blissful'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=BT5fqQ0xXYs'>Soramo Toberuhazu</a>
+      <a href='https://www.youtube.com/watch?v=EqaDNpV5FvI'>Blissful</a>
     </td>
   </tr>
 </table>
