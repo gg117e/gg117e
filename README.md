@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=3KWjq6V4YNo'>
-        <img src='https://i.ytimg.com/vi/3KWjq6V4YNo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2Upf8C4rqx-nY8WnLCnwFgGEynQ' width='200px' alt='ピーターパン'>
+      <a href='https://www.youtube.com/watch?v=CCRWKZ7VVlg'>
+        <img src='https://i.ytimg.com/vi/CCRWKZ7VVlg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsNn5PmmhUQvDGLt33zb6ootAS8w' width='200px' alt='笑顔'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=3KWjq6V4YNo'>ピーターパン</a>
+      <a href='https://www.youtube.com/watch?v=CCRWKZ7VVlg'>笑顔</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=DO_aopUeFnw'>
-        <img src='https://i.ytimg.com/vi/DO_aopUeFnw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKWBCw1miJEhYdmMNyNruwf_BWDA' width='200px' alt='Lilac'>
+      <a href='https://www.youtube.com/watch?v=dHq0a22CPE8'>
+        <img src='https://i.ytimg.com/vi/dHq0a22CPE8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyQjsBuH2KA9LaLZROE2e6F-jQbg' width='200px' alt='GReeeeN - 恋'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=DO_aopUeFnw'>Lilac</a>
+      <a href='https://www.youtube.com/watch?v=dHq0a22CPE8'>GReeeeN - 恋</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=vs-cO8XXDTc'>
-        <img src='https://i.ytimg.com/vi/vs-cO8XXDTc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0RhpW6ipEyFYy22iPoM--YLW-Ew' width='200px' alt='ファーストラヴ'>
+      <a href='https://www.youtube.com/watch?v=olsv91gZylw'>
+        <img src='https://i.ytimg.com/vi/olsv91gZylw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMk1mraa6RG1rdZqFj9hliTNqJwg' width='200px' alt='悲しみなんて笑い飛ばせ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=vs-cO8XXDTc'>ファーストラヴ</a>
+      <a href='https://www.youtube.com/watch?v=olsv91gZylw'>悲しみなんて笑い飛ばせ</a>
     </td>
   </tr>
 </table>
