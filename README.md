@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=HBqH4uJS0PU'>
-        <img src='https://i.ytimg.com/vi/HBqH4uJS0PU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGkaM2ZcnyB8o3mbXgfhwYnNF3NQ' width='200px' alt='Magnetic'>
+      <a href='https://www.youtube.com/watch?v=9uboB9bJ024'>
+        <img src='https://i.ytimg.com/vi/9uboB9bJ024/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3yXYsuTYSyIBZ3vROj3kSQLBJeg' width='200px' alt='にじいろ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=HBqH4uJS0PU'>Magnetic</a>
+      <a href='https://www.youtube.com/watch?v=9uboB9bJ024'>にじいろ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Ta6GW3kQ8UU'>
-        <img src='https://i.ytimg.com/vi/Ta6GW3kQ8UU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRMclMpIOvmCPeKMcFS80SNCONJw' width='200px' alt='ひたむき'>
+      <a href='https://www.youtube.com/watch?v=9UL2qJtv6Fo'>
+        <img src='https://i.ytimg.com/vi/9UL2qJtv6Fo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSSeEoumn3cU-x48Qt7bcCh1WW2w' width='200px' alt='Tobira'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Ta6GW3kQ8UU'>ひたむき</a>
+      <a href='https://www.youtube.com/watch?v=9UL2qJtv6Fo'>Tobira</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=I8fxhn_l08g'>
-        <img src='https://i.ytimg.com/vi/I8fxhn_l08g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDSBeXOzTWFpJfP7MAMG5QX5MRHA' width='200px' alt='Official髭男dism - Choral A [Official Video]'>
+      <a href='https://www.youtube.com/watch?v=H2r25lVcIHw'>
+        <img src='https://i.ytimg.com/vi/H2r25lVcIHw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgiffVYvt42FuGzVoZ1W9jo3MUFQ' width='200px' alt='花の塔'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=I8fxhn_l08g'>Official髭男dism - Choral A [Official Video]</a>
+      <a href='https://www.youtube.com/watch?v=H2r25lVcIHw'>花の塔</a>
     </td>
   </tr>
 </table>
