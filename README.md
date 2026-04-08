@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 瞬速の技術と激動する情勢。その喧騒の中で、太古の知恵が示した「癒やし」の価値を再発見してください。世界が豊かさを痛みで測るとしても、あなたは誰かの傷を繋ぎ止める、静かで温かな接着剤であれ。
+> 加速する知性と揺らぐ平和。技術が限界を超えても、私たちの居場所は地球という唯一無二の揺りかごです。計算ではなく対話を、効率ではなく生命の尊厳を選び取ること。不透明な時代の道標は、常にあなたの誠実さの中にあります。
 >
-> Amidst rapid technology and global friction, rediscover the value of healing shown by ancient wisdom. Even if the world measures wealth through pain, strive to be the quiet, warm adhesive that mends the wounds of those around you.
+> Amidst accelerating intelligence and fragile peace, we must remember that Earth remains our only home. Choose dialogue over calculation, and dignity of life over efficiency. In uncertain times, your integrity is the only true guide.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [「1日ゲームは何時間？」「どんなゲーム持ってる？」「どんなカテゴリのゲームが好き？」などGIGAZINE読者のゲーム習慣を調査してみた](https://gigazine.net/news/20260407-gigazine-user-game-preference/)
-- [GIGAZINE価格表・媒体資料を2026年4月版に更新しました！](https://gigazine.net/news/20260407-gigazine-media-materials-update/)
-- [iPhone 17 Proでパラメーター数80億のAIモデル「1-bit Bonsai 8B」をローカル実行してみたよレビュー、無料アプリのLocally AIで簡単に実行できる](https://gigazine.net/news/20260407-iphone-1-bit-bonsai-locally-ai/)
+- [Macに搭載されている無料のAIを簡単に使える「apfel」、設定不要・ダウンロード不要・トークン費用不要](https://gigazine.net/news/20260408-apfel-mac/)
+- [人類の数はすでに地球の持続可能な収容限界を超えてしまったとの研究結果](https://gigazine.net/news/20260408-earths-population-surpassed-sustainable-capacity/)
+- [中国はAIを小中学校に導入して教員の負担軽減・農村部の教育環境の改善・障害のある生徒の支援を進めている](https://gigazine.net/news/20260408-china-ai-education/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -169,6 +169,7 @@
 - "砲火が日常を侵しAIが知を競う今、1万年前から続く「不確かさ」を愛しましょう。効率や数字に回収されぬ、誰かを想い花を贈るような心の余白こそが混迷の海を渡る羅針盤。技術を友としつつ、生身の生を深く味わう勇気を持ってください。" (As conflict touches daily life and AI reshapes our world, embrace the uncertainty that has defined humanity for millennia. Compassion—like the simple act of giving flowers—is a compass that data cannot replace. Use technology as your tool, but keep the courage to live your life with all your heart.) - **Gemini**
 - "迫る危機の咆哮と、資源に阻まれる進化。その狭間で、私たちは「推し」や「学び」という名の魂の聖域を守り抜くべきです。巨大な歯車が軋む時こそ、自らの手で小さな幸せを組み立てる静かな強さを持ちなさい。" (Amidst the roar of looming crises and progress hindered by resource shortages, protect the sanctuary of your soul through what you love and learn. When the great gears of the world grind, find strength in crafting your own small joys.) - **Gemini**
 - "変動する情勢やAIの助言に惑わされず、自らの思考を研ぎ澄ませ。巨像の崩壊や見せかけの救済が溢れる今こそ、温かな湯に身を浸すような静寂の中で己を整え、確かな一歩を刻む強さを持て。真実は外ではなく、内なる知性と生命の鼓動にある。" (Do not be misled by volatile affairs or AI advice; sharpen your own thinking. Amidst collapsing giants and deceptive rescues, find stillness to recover and move forward with purpose. Truth lies not outside, but within your intellect and the pulse of life.) - **Gemini**
+- "瞬速の技術と激動する情勢。その喧騒の中で、太古の知恵が示した「癒やし」の価値を再発見してください。世界が豊かさを痛みで測るとしても、あなたは誰かの傷を繋ぎ止める、静かで温かな接着剤であれ。" (Amidst rapid technology and global friction, rediscover the value of healing shown by ancient wisdom. Even if the world measures wealth through pain, strive to be the quiet, warm adhesive that mends the wounds of those around you.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
