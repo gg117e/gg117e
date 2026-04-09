@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=mpvYMI_Vd30'>
-        <img src='https://i.ytimg.com/vi/mpvYMI_Vd30/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDiD7JlHndZ4MUk22eELQLcoXqf4g' width='200px' alt='Michi'>
+      <a href='https://www.youtube.com/watch?v=LkCEumWZfF4'>
+        <img src='https://i.ytimg.com/vi/LkCEumWZfF4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyaPQcgdwfRFGuZtUyRhWWfBnpUg' width='200px' alt='平井 大 / もしも、僕がいなくても。（Music Video）'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=mpvYMI_Vd30'>Michi</a>
+      <a href='https://www.youtube.com/watch?v=LkCEumWZfF4'>平井 大 / もしも、僕がいなくても。（Music Video）</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=whlXRYLhgx0'>
-        <img src='https://i.ytimg.com/vi/whlXRYLhgx0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGlE00IU9bwRQqqzhxwGDuajZ0HA' width='200px' alt='Bedroom Talk'>
+      <a href='https://www.youtube.com/watch?v=9uboB9bJ024'>
+        <img src='https://i.ytimg.com/vi/9uboB9bJ024/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3yXYsuTYSyIBZ3vROj3kSQLBJeg' width='200px' alt='にじいろ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=whlXRYLhgx0'>Bedroom Talk</a>
+      <a href='https://www.youtube.com/watch?v=9uboB9bJ024'>にじいろ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ME_ZU0ME4vQ'>
-        <img src='https://i.ytimg.com/vi/ME_ZU0ME4vQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcg2wcDNON6jYjuxGICte2SY1Adg' width='200px' alt='ゼロのままでいられたら'>
+      <a href='https://www.youtube.com/watch?v=Def4ipTm-y4'>
+        <img src='https://i.ytimg.com/vi/Def4ipTm-y4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCixEcYjMmjLWOaqoEVhRfGcylceQ' width='200px' alt='Lovin''>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ME_ZU0ME4vQ'>ゼロのままでいられたら</a>
+      <a href='https://www.youtube.com/watch?v=Def4ipTm-y4'>Lovin'</a>
     </td>
   </tr>
 </table>
