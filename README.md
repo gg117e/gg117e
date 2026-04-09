@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=mpvYMI_Vd30'>
-        <img src='https://i.ytimg.com/vi/mpvYMI_Vd30/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDiD7JlHndZ4MUk22eELQLcoXqf4g' width='200px' alt='Michi'>
+      <a href='https://www.youtube.com/watch?v=eoQAnGx4Pss'>
+        <img src='https://i.ytimg.com/vi/eoQAnGx4Pss/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFEUw0WZq7w7oBTR2L_48UsOCpsw' width='200px' alt='Wherever you are'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=mpvYMI_Vd30'>Michi</a>
+      <a href='https://www.youtube.com/watch?v=eoQAnGx4Pss'>Wherever you are</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=whlXRYLhgx0'>
-        <img src='https://i.ytimg.com/vi/whlXRYLhgx0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGlE00IU9bwRQqqzhxwGDuajZ0HA' width='200px' alt='Bedroom Talk'>
+      <a href='https://www.youtube.com/watch?v=75g7GdgbkRU'>
+        <img src='https://i.ytimg.com/vi/75g7GdgbkRU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbtZAr86NRsUKq8o35sM1vEY6y_g' width='200px' alt='Bling-Bang-Bang-Born'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=whlXRYLhgx0'>Bedroom Talk</a>
+      <a href='https://www.youtube.com/watch?v=75g7GdgbkRU'>Bling-Bang-Bang-Born</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=KWuBFuc2hX8'>
-        <img src='https://i.ytimg.com/vi/KWuBFuc2hX8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDbE9jqoMoGos1fTtw12yaYrw6NQ' width='200px' alt='YELL'>
+      <a href='https://www.youtube.com/watch?v=M5R9z0vFjOs'>
+        <img src='https://i.ytimg.com/vi/M5R9z0vFjOs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUoxXdI7QdD2MULr-UX0i6XYXdSA' width='200px' alt='ビリミリオン'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=KWuBFuc2hX8'>YELL</a>
+      <a href='https://www.youtube.com/watch?v=M5R9z0vFjOs'>ビリミリオン</a>
     </td>
   </tr>
 </table>
