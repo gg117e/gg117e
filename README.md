@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=PLNtwcIjgJE'>
-        <img src='https://i.ytimg.com/vi/PLNtwcIjgJE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRAewsfJBCUN9YE1jmdT2Zsd9E0A' width='200px' alt='Misenainamidawa Kittoitsuka'>
+      <a href='https://www.youtube.com/watch?v=mpvYMI_Vd30'>
+        <img src='https://i.ytimg.com/vi/mpvYMI_Vd30/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDiD7JlHndZ4MUk22eELQLcoXqf4g' width='200px' alt='Michi'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=PLNtwcIjgJE'>Misenainamidawa Kittoitsuka</a>
+      <a href='https://www.youtube.com/watch?v=mpvYMI_Vd30'>Michi</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=CCRWKZ7VVlg'>
-        <img src='https://i.ytimg.com/vi/CCRWKZ7VVlg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsNn5PmmhUQvDGLt33zb6ootAS8w' width='200px' alt='笑顔'>
+      <a href='https://www.youtube.com/watch?v=whlXRYLhgx0'>
+        <img src='https://i.ytimg.com/vi/whlXRYLhgx0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGlE00IU9bwRQqqzhxwGDuajZ0HA' width='200px' alt='Bedroom Talk'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=CCRWKZ7VVlg'>笑顔</a>
+      <a href='https://www.youtube.com/watch?v=whlXRYLhgx0'>Bedroom Talk</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=A0plb7gdzW4'>
-        <img src='https://i.ytimg.com/vi/A0plb7gdzW4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhPB6jEwaOqitRIOiPhQQSfsOuDw' width='200px' alt='Attitude'>
+      <a href='https://www.youtube.com/watch?v=ME_ZU0ME4vQ'>
+        <img src='https://i.ytimg.com/vi/ME_ZU0ME4vQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcg2wcDNON6jYjuxGICte2SY1Adg' width='200px' alt='ゼロのままでいられたら'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=A0plb7gdzW4'>Attitude</a>
+      <a href='https://www.youtube.com/watch?v=ME_ZU0ME4vQ'>ゼロのままでいられたら</a>
     </td>
   </tr>
 </table>
