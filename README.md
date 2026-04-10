@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=8DPaNJjI-8Y'>
-        <img src='https://i.ytimg.com/vi/8DPaNJjI-8Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqhZF3yGmxLSsRRDBPDCEm_IBuYw' width='200px' alt='Stand by me, Stand by you.'>
+      <a href='https://www.youtube.com/watch?v=rA_B_tm-Vz0'>
+        <img src='https://i.ytimg.com/vi/rA_B_tm-Vz0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIfs7N9nZxbosI-CRH47DBKhsHhQ' width='200px' alt='色彩'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=8DPaNJjI-8Y'>Stand by me, Stand by you.</a>
+      <a href='https://www.youtube.com/watch?v=rA_B_tm-Vz0'>色彩</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=MS94B8_eiII'>
-        <img src='https://i.ytimg.com/vi/MS94B8_eiII/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6buPo_SDBHZdDQiY5s8m2GCntVA' width='200px' alt='ハミング'>
+      <a href='https://www.youtube.com/watch?v=-xFtbSnu7R8'>
+        <img src='https://i.ytimg.com/vi/-xFtbSnu7R8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3SlWDyHFeatTYP7tLv700w_aWhg' width='200px' alt='Okuru Kotoba'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=MS94B8_eiII'>ハミング</a>
+      <a href='https://www.youtube.com/watch?v=-xFtbSnu7R8'>Okuru Kotoba</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=rxR1mBt__fo'>
-        <img src='https://i.ytimg.com/vi/rxR1mBt__fo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsWaFFvm2u38Jdjm5d7AcaKwvMMg' width='200px' alt='Natsuiro'>
+      <a href='https://www.youtube.com/watch?v=A0plb7gdzW4'>
+        <img src='https://i.ytimg.com/vi/A0plb7gdzW4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhPB6jEwaOqitRIOiPhQQSfsOuDw' width='200px' alt='Attitude'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=rxR1mBt__fo'>Natsuiro</a>
+      <a href='https://www.youtube.com/watch?v=A0plb7gdzW4'>Attitude</a>
     </td>
   </tr>
 </table>
