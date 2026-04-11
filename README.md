@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=n2m9ebS3tEo'>
-        <img src='https://i.ytimg.com/vi/n2m9ebS3tEo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXzDib6DqcUgUEmhX8e254Si2mQw' width='200px' alt='Beautiful Fin'>
+      <a href='https://www.youtube.com/watch?v=bVqeqvwu7NU'>
+        <img src='https://i.ytimg.com/vi/bVqeqvwu7NU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDe4lxrobQ3H1YHOPDK-W1dYWjsPA' width='200px' alt='Shining One'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=n2m9ebS3tEo'>Beautiful Fin</a>
+      <a href='https://www.youtube.com/watch?v=bVqeqvwu7NU'>Shining One</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=xolrlVnkKs8'>
-        <img src='https://i.ytimg.com/vi/xolrlVnkKs8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSrq4BOkHvsU0vlsTeUvDldE-BMg' width='200px' alt='GOOD LUCKY!!!!!'>
+      <a href='https://www.youtube.com/watch?v=Myj9iHDsOrk'>
+        <img src='https://i.ytimg.com/vi/Myj9iHDsOrk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9TTpA-QB9jo-DQV9VtuzgJxDJlQ' width='200px' alt='花束のかわりにメロディーを'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=xolrlVnkKs8'>GOOD LUCKY!!!!!</a>
+      <a href='https://www.youtube.com/watch?v=Myj9iHDsOrk'>花束のかわりにメロディーを</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=W8Q9Hs7Tgzg'>
-        <img src='https://i.ytimg.com/vi/W8Q9Hs7Tgzg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCF1Qy_4gJ79JnrDpU1uHuW0YOKUg' width='200px' alt='Wanted! Wanted!'>
+      <a href='https://www.youtube.com/watch?v=SaVLctSLnh8'>
+        <img src='https://i.ytimg.com/vi/SaVLctSLnh8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAo2EVknq2t_RyeExV89JobTcXiVw' width='200px' alt='ピースサイン - Peace Sign'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=W8Q9Hs7Tgzg'>Wanted! Wanted!</a>
+      <a href='https://www.youtube.com/watch?v=SaVLctSLnh8'>ピースサイン - Peace Sign</a>
     </td>
   </tr>
 </table>
