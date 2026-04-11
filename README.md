@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=N1XUt-ZcOf4'>
-        <img src='https://i.ytimg.com/vi/N1XUt-ZcOf4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxk96uW-3O9eGb8qj27Cr0CMOCqw' width='200px' alt='Columbus'>
+      <a href='https://www.youtube.com/watch?v=CjaM8qWzssk'>
+        <img src='https://i.ytimg.com/vi/CjaM8qWzssk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBP1ncZkqRaXEFX5KEzP-6JF15fBw' width='200px' alt='晩餐歌 - Bansanka'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=N1XUt-ZcOf4'>Columbus</a>
+      <a href='https://www.youtube.com/watch?v=CjaM8qWzssk'>晩餐歌 - Bansanka</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Mr2EWEPFtwk'>
-        <img src='https://i.ytimg.com/vi/Mr2EWEPFtwk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB40b7gpdm4JT-YxCurTEsFUH324g' width='200px' alt='花になって - Be a flower'>
+      <a href='https://www.youtube.com/watch?v=rpIsjz-oLOQ'>
+        <img src='https://i.ytimg.com/vi/rpIsjz-oLOQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvKColZ6hajVGwZLVf7Dvo4_g4yg' width='200px' alt='ヒロイン育成計画 feat. 涼海ひより（CV：水瀬いのり）／ HoneyWorks'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Mr2EWEPFtwk'>花になって - Be a flower</a>
+      <a href='https://www.youtube.com/watch?v=rpIsjz-oLOQ'>ヒロイン育成計画 feat. 涼海ひより（CV：水瀬いのり）／ HoneyWorks</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=BUG9r-s56II'>
-        <img src='https://i.ytimg.com/vi/BUG9r-s56II/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBvZsmOoGEgA_UCAVPi1PDbjkUDQ' width='200px' alt='舞台に立って'>
+      <a href='https://www.youtube.com/watch?v=SvtSWhyw7vs'>
+        <img src='https://i.ytimg.com/vi/SvtSWhyw7vs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtAy96XVYaLQyKcD0j4-yFSZRqrQ' width='200px' alt='TATTOO'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=BUG9r-s56II'>舞台に立って</a>
+      <a href='https://www.youtube.com/watch?v=SvtSWhyw7vs'>TATTOO</a>
     </td>
   </tr>
 </table>
