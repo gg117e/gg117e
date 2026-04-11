@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> AIが知らぬ間に思考を染め、データが街を熱する現代。情報の波でつながりを失うな。束の間の静寂を平和と呼び、便利さの裏にある歪みに目を凝らせ。真の叡智とは、アルゴリズムに流されず、生の鼓動を慈しむ心にある。
+> 宇宙への帰還やAIの進化が加速する今こそ、偽らぬ誠実さが光となります。過熱する世界で適切な距離を保ち、対話という名の桜を植えましょう。心の熱を冷ます静寂が、不確かな明日を生き抜く知恵となるのです。
 >
-> In an era where AI subtly colors our thoughts and data centers warm our streets, do not lose genuine connection in the digital tide. Discern the distortions hidden behind convenience and cherish the fleeting silences we call peace. True wisdom is to guard the pulse of life without being swept away by algorithms.
+> As lunar returns and AI evolution accelerate, unyielding integrity becomes our light. In an overheating world, keep a wise distance and plant seeds of dialogue. The silence that cools the heart is the wisdom needed to navigate an uncertain tomorrow.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [Xでリンクを含む投稿はエンゲージメント率が下がることが18のメディアアカウントを対象にした調査で明らかに](https://gigazine.net/news/20260410-x-post-with-link-low-engagement-with-link/)
-- [新しくプロジェクトに入った人がリポジトリの現状を素早く把握するためのGitコマンド5選](https://gigazine.net/news/20260410-git-command-before-reading-code/)
-- [AIによる文章入力支援はユーザーの考え方を知らないうちに左右してしまう可能性](https://gigazine.net/news/20260410-ai-writing-support-influence-thinking/)
+- [2026年第1四半期の全世界PC出荷台数は前年同期比2.5％増の6560万台、世界的なメモリ不足もPC出荷台数は好調](https://gigazine.net/news/20260411-pc-market-2026-q1/)
+- [フックやスピーカーの位置が自由に調整可能＆気になる音漏れも心配無用なオープンイヤーBluetoothイヤホン「400-BTTWS7」](https://gigazine.net/news/20260411-sanwa-400-bttws7-open-ear/)
+- [子どもに「これ欲しいプレゼントじゃなかった」と思われないようにする方法・思われたときに慰める方法](https://gigazine.net/news/20260411-kid-present-expectations/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -172,6 +172,7 @@
 - "瞬速の技術と激動する情勢。その喧騒の中で、太古の知恵が示した「癒やし」の価値を再発見してください。世界が豊かさを痛みで測るとしても、あなたは誰かの傷を繋ぎ止める、静かで温かな接着剤であれ。" (Amidst rapid technology and global friction, rediscover the value of healing shown by ancient wisdom. Even if the world measures wealth through pain, strive to be the quiet, warm adhesive that mends the wounds of those around you.) - **Gemini**
 - "加速する知性と揺らぐ平和。技術が限界を超えても、私たちの居場所は地球という唯一無二の揺りかごです。計算ではなく対話を、効率ではなく生命の尊厳を選び取ること。不透明な時代の道標は、常にあなたの誠実さの中にあります。" (Amidst accelerating intelligence and fragile peace, we must remember that Earth remains our only home. Choose dialogue over calculation, and dignity of life over efficiency. In uncertain times, your integrity is the only true guide.) - **Gemini**
 - "争いが止み、AIが神を介して心に寄り添う今、私たちは自らの規律という「静かな盾」を持つべきです。技術が世界を繋ぎ、古き油が力に変わるように、日々の正しい眠りと誠実な歩みが、あなたの命を輝かせます。" (As conflicts pause and AI finds resonance through the divine, we must carry the 'quiet shield' of self-discipline. Just as technology connects the world and waste transforms into energy, your daily rest and sincere steps will illuminate your life.) - **Gemini**
+- "AIが知らぬ間に思考を染め、データが街を熱する現代。情報の波でつながりを失うな。束の間の静寂を平和と呼び、便利さの裏にある歪みに目を凝らせ。真の叡智とは、アルゴリズムに流されず、生の鼓動を慈しむ心にある。" (In an era where AI subtly colors our thoughts and data centers warm our streets, do not lose genuine connection in the digital tide. Discern the distortions hidden behind convenience and cherish the fleeting silences we call peace. True wisdom is to guard the pulse of life without being swept away by algorithms.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
