@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ckq-dOv48sQ'>
-        <img src='https://i.ytimg.com/vi/ckq-dOv48sQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuE0UE4wSOKloWugH8wzdgDoG_PQ' width='200px' alt='猫 〜THE FIRST TAKE ver.〜'>
+      <a href='https://www.youtube.com/watch?v=iUUZPdV_fto'>
+        <img src='https://i.ytimg.com/vi/iUUZPdV_fto/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_ICcoHDAP&rs=AOn4CLAV03k82NO8AHGZMArSWpQ6UEtp8g' width='200px' alt='SEKAI NO OWARI「Romantic」【Official Audio】'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ckq-dOv48sQ'>猫 〜THE FIRST TAKE ver.〜</a>
+      <a href='https://www.youtube.com/watch?v=iUUZPdV_fto'>SEKAI NO OWARI「Romantic」【Official Audio】</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=bUnfuRew3PU'>
-        <img src='https://i.ytimg.com/vi/bUnfuRew3PU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCN7upglmRfybcjPg13tGydKO9bNA' width='200px' alt='Hello Song'>
+      <a href='https://www.youtube.com/watch?v=XEHvZ5GrfM8'>
+        <img src='https://i.ytimg.com/vi/XEHvZ5GrfM8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIMwX4r8LPGzFEuy9nauo9407Ksw' width='200px' alt='Eine Kleine'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=bUnfuRew3PU'>Hello Song</a>
+      <a href='https://www.youtube.com/watch?v=XEHvZ5GrfM8'>Eine Kleine</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=l2nqfPAMrSo'>
-        <img src='https://i.ytimg.com/vi/l2nqfPAMrSo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0nDqcmoaPuUfFdBbIX_7HAyJA8w' width='200px' alt='Chessboard'>
+      <a href='https://www.youtube.com/watch?v=1mcvbnDZFho'>
+        <img src='https://i.ytimg.com/vi/1mcvbnDZFho/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDYxeG6Q-a14U8TM3MZcWxjcmfvg' width='200px' alt='ドラマティックおいでよ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=l2nqfPAMrSo'>Chessboard</a>
+      <a href='https://www.youtube.com/watch?v=1mcvbnDZFho'>ドラマティックおいでよ</a>
     </td>
   </tr>
 </table>
