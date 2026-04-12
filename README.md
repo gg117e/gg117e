@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=CjaM8qWzssk'>
-        <img src='https://i.ytimg.com/vi/CjaM8qWzssk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBP1ncZkqRaXEFX5KEzP-6JF15fBw' width='200px' alt='晩餐歌 - Bansanka'>
+      <a href='https://www.youtube.com/watch?v=Ih2eEKTJXRg'>
+        <img src='https://i.ytimg.com/vi/Ih2eEKTJXRg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQmV1_CEd8Wt2-BmONx_nowgTjJg' width='200px' alt='タイムパラドックス'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=CjaM8qWzssk'>晩餐歌 - Bansanka</a>
+      <a href='https://www.youtube.com/watch?v=Ih2eEKTJXRg'>タイムパラドックス</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=rpIsjz-oLOQ'>
-        <img src='https://i.ytimg.com/vi/rpIsjz-oLOQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvKColZ6hajVGwZLVf7Dvo4_g4yg' width='200px' alt='ヒロイン育成計画 feat. 涼海ひより（CV：水瀬いのり）／ HoneyWorks'>
+      <a href='https://www.youtube.com/watch?v=12IZ8oyF6X4'>
+        <img src='https://i.ytimg.com/vi/12IZ8oyF6X4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTHYqp8jlD6v-pEq1V60UnghEk6Q' width='200px' alt='Shuhasu'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=rpIsjz-oLOQ'>ヒロイン育成計画 feat. 涼海ひより（CV：水瀬いのり）／ HoneyWorks</a>
+      <a href='https://www.youtube.com/watch?v=12IZ8oyF6X4'>Shuhasu</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=SvtSWhyw7vs'>
-        <img src='https://i.ytimg.com/vi/SvtSWhyw7vs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtAy96XVYaLQyKcD0j4-yFSZRqrQ' width='200px' alt='TATTOO'>
+      <a href='https://www.youtube.com/watch?v=5X_wSeKhPAU'>
+        <img src='https://i.ytimg.com/vi/5X_wSeKhPAU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBq3r0bpKi6IiOhtkcgzu-FS_beg' width='200px' alt='Orange'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=SvtSWhyw7vs'>TATTOO</a>
+      <a href='https://www.youtube.com/watch?v=5X_wSeKhPAU'>Orange</a>
     </td>
   </tr>
 </table>
