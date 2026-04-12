@@ -26,11 +26,18 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=NUFfRHk1Qcs'>
-        <img src='https://i.ytimg.com/vi/NUFfRHk1Qcs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMjNwQWGvQLii1tiFPU4ho3W8KtQ' width='200px' alt='Start'>
+      <a href='https://www.youtube.com/watch?v=ArN80_ahos0'>
+        <img src='https://i.ytimg.com/vi/ArN80_ahos0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0St2Q4-pGDvfGebZ98ijNN0K2qQ' width='200px' alt='Anatani'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=NUFfRHk1Qcs'>Start</a>
+      <a href='https://www.youtube.com/watch?v=ArN80_ahos0'>Anatani</a>
+    </td>
+    <td align='center'>
+      <a href='https://www.youtube.com/watch?v=pQpX71tiDNg'>
+        <img src='https://i.ytimg.com/vi/pQpX71tiDNg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXxwAnvmSxHdesXChIfeSv9_oNUg' width='200px' alt='Aiuta'>
+      </a>
+      <br />
+      <a href='https://www.youtube.com/watch?v=pQpX71tiDNg'>Aiuta</a>
     </td>
     <td align='center'>
       <a href='https://www.youtube.com/watch?v=ZF5w7kkk7Yo'>
@@ -38,13 +45,6 @@
       </a>
       <br />
       <a href='https://www.youtube.com/watch?v=ZF5w7kkk7Yo'>What's Going On?</a>
-    </td>
-    <td align='center'>
-      <a href='https://www.youtube.com/watch?v=a1AhJHqB6Sw'>
-        <img src='https://i.ytimg.com/vi/a1AhJHqB6Sw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-ychpIWP6288wouYECnGIj9mP1Q' width='200px' alt='ありがとう'>
-      </a>
-      <br />
-      <a href='https://www.youtube.com/watch?v=a1AhJHqB6Sw'>ありがとう</a>
     </td>
   </tr>
 </table>
