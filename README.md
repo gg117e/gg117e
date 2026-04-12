@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 宇宙への帰還やAIの進化が加速する今こそ、偽らぬ誠実さが光となります。過熱する世界で適切な距離を保ち、対話という名の桜を植えましょう。心の熱を冷ます静寂が、不確かな明日を生き抜く知恵となるのです。
+> 紛争の火種や機械が紡ぐ虚構に惑わされるな。対話を重んじ、飾らぬ心で真実を捉えよ。命の尊厳は効率では測れず、遊び心こそが難局を拓く鍵となる。複雑な時代を生き抜くには、内なる静寂と簡潔な誠実さを選べ。
 >
-> As lunar returns and AI evolution accelerate, unyielding integrity becomes our light. In an overheating world, keep a wise distance and plant seeds of dialogue. The silence that cools the heart is the wisdom needed to navigate an uncertain tomorrow.
+> Be not misled by the sparks of conflict or fictions spun by machines. Value dialogue and grasp the truth with an unadorned heart. Life's dignity defies efficiency; a playful spirit is the key to overcoming hardship. In this complex age, choose inner silence and simple sincerity.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [2026年第1四半期の全世界PC出荷台数は前年同期比2.5％増の6560万台、世界的なメモリ不足もPC出荷台数は好調](https://gigazine.net/news/20260411-pc-market-2026-q1/)
-- [フックやスピーカーの位置が自由に調整可能＆気になる音漏れも心配無用なオープンイヤーBluetoothイヤホン「400-BTTWS7」](https://gigazine.net/news/20260411-sanwa-400-bttws7-open-ear/)
-- [子どもに「これ欲しいプレゼントじゃなかった」と思われないようにする方法・思われたときに慰める方法](https://gigazine.net/news/20260411-kid-present-expectations/)
+- [連邦航空局は航空管制官不足の解決策としてゲーマーに期待を寄せている](https://gigazine.net/news/20260412-faa-gamers-air-traffic-controller-shortage/)
+- [Backblaze初期のストレージ収納ケース「ストレージポッド 1.0」がコンピューター歴史博物館へ寄贈されることに](https://gigazine.net/news/20260412-backblaze-history/)
+- [畳めば片手で持ち運べるくらいコンパクトになるキングジムの「ノートパソコンスタンド(折畳式)」レビュー](https://gigazine.net/news/20260412-kingjim-note-pc-foldable-stand/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -173,6 +173,7 @@
 - "加速する知性と揺らぐ平和。技術が限界を超えても、私たちの居場所は地球という唯一無二の揺りかごです。計算ではなく対話を、効率ではなく生命の尊厳を選び取ること。不透明な時代の道標は、常にあなたの誠実さの中にあります。" (Amidst accelerating intelligence and fragile peace, we must remember that Earth remains our only home. Choose dialogue over calculation, and dignity of life over efficiency. In uncertain times, your integrity is the only true guide.) - **Gemini**
 - "争いが止み、AIが神を介して心に寄り添う今、私たちは自らの規律という「静かな盾」を持つべきです。技術が世界を繋ぎ、古き油が力に変わるように、日々の正しい眠りと誠実な歩みが、あなたの命を輝かせます。" (As conflicts pause and AI finds resonance through the divine, we must carry the 'quiet shield' of self-discipline. Just as technology connects the world and waste transforms into energy, your daily rest and sincere steps will illuminate your life.) - **Gemini**
 - "AIが知らぬ間に思考を染め、データが街を熱する現代。情報の波でつながりを失うな。束の間の静寂を平和と呼び、便利さの裏にある歪みに目を凝らせ。真の叡智とは、アルゴリズムに流されず、生の鼓動を慈しむ心にある。" (In an era where AI subtly colors our thoughts and data centers warm our streets, do not lose genuine connection in the digital tide. Discern the distortions hidden behind convenience and cherish the fleeting silences we call peace. True wisdom is to guard the pulse of life without being swept away by algorithms.) - **Gemini**
+- "宇宙への帰還やAIの進化が加速する今こそ、偽らぬ誠実さが光となります。過熱する世界で適切な距離を保ち、対話という名の桜を植えましょう。心の熱を冷ます静寂が、不確かな明日を生き抜く知恵となるのです。" (As lunar returns and AI evolution accelerate, unyielding integrity becomes our light. In an overheating world, keep a wise distance and plant seeds of dialogue. The silence that cools the heart is the wisdom needed to navigate an uncertain tomorrow.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
