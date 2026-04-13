@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=SQcq990N5NY'>
-        <img src='https://i.ytimg.com/vi/SQcq990N5NY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWlOgX0s6Lzh8Clxs5rWiyYXwfUg' width='200px' alt='また逢う日まで'>
+      <a href='https://www.youtube.com/watch?v=GOIuU0ejpzc'>
+        <img src='https://i.ytimg.com/vi/GOIuU0ejpzc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPs_NzMHy2jXKKNMWZW7ccM4HxGg' width='200px' alt='GReeeeN / アカリ 【TBS系 日曜劇場『TOKYO MER～走る緊急救命室～』主題歌】'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=SQcq990N5NY'>また逢う日まで</a>
+      <a href='https://www.youtube.com/watch?v=GOIuU0ejpzc'>GReeeeN / アカリ 【TBS系 日曜劇場『TOKYO MER～走る緊急救命室～』主題歌】</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=5W2LCOjgA2w'>
-        <img src='https://i.ytimg.com/vi/5W2LCOjgA2w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJVEmSPKowr8dFsCJBt-6t_A-uTA' width='200px' alt='好き、お願い'>
+      <a href='https://www.youtube.com/watch?v=P7bVX6fJfCg'>
+        <img src='https://i.ytimg.com/vi/P7bVX6fJfCg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCibqA8MwaVWSpL2VR6z3K_i0S3Rw' width='200px' alt='Omoinotake | IKUOKUKONEN 【Official Music Video】'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=5W2LCOjgA2w'>好き、お願い</a>
+      <a href='https://www.youtube.com/watch?v=P7bVX6fJfCg'>Omoinotake | IKUOKUKONEN 【Official Music Video】</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Jm2jOK45btw'>
-        <img src='https://i.ytimg.com/vi/Jm2jOK45btw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPMCDVE0qm5SI2owO0-6JB-sPNYw' width='200px' alt='Aiueongaku'>
+      <a href='https://www.youtube.com/watch?v=nwKt2dWGm2E'>
+        <img src='https://i.ytimg.com/vi/nwKt2dWGm2E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcY7vD2oYljg6A-h8qMezj0KmhpA' width='200px' alt='プロローグ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Jm2jOK45btw'>Aiueongaku</a>
+      <a href='https://www.youtube.com/watch?v=nwKt2dWGm2E'>プロローグ</a>
     </td>
   </tr>
 </table>
