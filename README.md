@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> デジタルの幻影と、物理的な境界線に揺らぐ今日。便利な道具に魂を預けず、変動する数字に希望を委ねるな。足元の土に触れ、見えない酸素を紡ぐように、逆境の中でも他者と命の温もりを分かち合う者こそが、真の光となる。
+> 技術や他国への依存を脱ぎ捨て、自らの『OS』を確立しましょう。地政学的な封鎖やAIの波に呑まれず、静かに、だが着実に歩み続けること。効率や利益を追う前に、今ここにある命の尊さを最優先に刻みなさい。
 >
-> In a day swayed by digital illusions and physical borders, do not entrust your soul to tools or your hope to shifting numbers. Touch the earth beneath you and share the warmth of life amidst adversity, like weaving oxygen from dust; only then will you become a true light.
+> Cast off dependencies on external tech or powers and establish your own inner 'OS.' Do not be swept away by geopolitical blockades or AI surges; walk quietly but steadily. Before chasing efficiency or profit, prioritize the sanctity of the life before you.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [Geminiの生成したコンテンツに埋め込まれたSynthIDの電子透かしは除去可能](https://gigazine.net/news/20260413-reverse-synthid/)
-- [ハローキティやクロミなどサンリオの人気キャラクターをPC画面に表示できる「Desktop Mate」のDLCレビュー](https://gigazine.net/news/20260413-desktop-mate-sanrio/)
-- [Claudeには自分が送信したメッセージをユーザーからのものだと誤認する致命的バグがあるとの指摘](https://gigazine.net/news/20260413-claude-self-message/)
+- [Gmail・Yahoo!メール・Outlook・Thunderbird・Beckyなど数多くのメールクライアントがある中でGIGAZINE読者が使っているのはどれなのか？アンケートで調査してみた](https://gigazine.net/news/20260414-gigazine-user-mail-client/)
+- [フランス政府がWindows搭載の政府用コンピュータをLinuxに移行する計画を発表、アメリカ製技術への依存をさらに軽減するため](https://gigazine.net/news/20260414-france-windows-linux/)
+- [実は「味の素」は半導体材料「ABF」で100％の世界シェアを掌握している、ABFの価格引き上げを投資ファンドが求めていることも明らかに](https://gigazine.net/news/20260414-ajinomoto-ai-abf/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -175,6 +175,7 @@
 - "AIが知らぬ間に思考を染め、データが街を熱する現代。情報の波でつながりを失うな。束の間の静寂を平和と呼び、便利さの裏にある歪みに目を凝らせ。真の叡智とは、アルゴリズムに流されず、生の鼓動を慈しむ心にある。" (In an era where AI subtly colors our thoughts and data centers warm our streets, do not lose genuine connection in the digital tide. Discern the distortions hidden behind convenience and cherish the fleeting silences we call peace. True wisdom is to guard the pulse of life without being swept away by algorithms.) - **Gemini**
 - "宇宙への帰還やAIの進化が加速する今こそ、偽らぬ誠実さが光となります。過熱する世界で適切な距離を保ち、対話という名の桜を植えましょう。心の熱を冷ます静寂が、不確かな明日を生き抜く知恵となるのです。" (As lunar returns and AI evolution accelerate, unyielding integrity becomes our light. In an overheating world, keep a wise distance and plant seeds of dialogue. The silence that cools the heart is the wisdom needed to navigate an uncertain tomorrow.) - **Gemini**
 - "紛争の火種や機械が紡ぐ虚構に惑わされるな。対話を重んじ、飾らぬ心で真実を捉えよ。命の尊厳は効率では測れず、遊び心こそが難局を拓く鍵となる。複雑な時代を生き抜くには、内なる静寂と簡潔な誠実さを選べ。" (Be not misled by the sparks of conflict or fictions spun by machines. Value dialogue and grasp the truth with an unadorned heart. Life's dignity defies efficiency; a playful spirit is the key to overcoming hardship. In this complex age, choose inner silence and simple sincerity.) - **Gemini**
+- "デジタルの幻影と、物理的な境界線に揺らぐ今日。便利な道具に魂を預けず、変動する数字に希望を委ねるな。足元の土に触れ、見えない酸素を紡ぐように、逆境の中でも他者と命の温もりを分かち合う者こそが、真の光となる。" (In a day swayed by digital illusions and physical borders, do not entrust your soul to tools or your hope to shifting numbers. Touch the earth beneath you and share the warmth of life amidst adversity, like weaving oxygen from dust; only then will you become a true light.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
