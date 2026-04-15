@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=XEHvZ5GrfM8'>
-        <img src='https://i.ytimg.com/vi/XEHvZ5GrfM8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIMwX4r8LPGzFEuy9nauo9407Ksw' width='200px' alt='Eine Kleine'>
+      <a href='https://www.youtube.com/watch?v=f8mKfvnsYM4'>
+        <img src='https://i.ytimg.com/vi/f8mKfvnsYM4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSJK00pNJEU7KwJmfmg7L74zQO7Q' width='200px' alt='ばかまじめ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=XEHvZ5GrfM8'>Eine Kleine</a>
+      <a href='https://www.youtube.com/watch?v=f8mKfvnsYM4'>ばかまじめ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=q-fHmduwxBg'>
-        <img src='https://i.ytimg.com/vi/q-fHmduwxBg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9OTsLYdBH_rbeNrt7xEptfvW_vQ' width='200px' alt='ビンテージ'>
+      <a href='https://www.youtube.com/watch?v=1mcvbnDZFho'>
+        <img src='https://i.ytimg.com/vi/1mcvbnDZFho/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDYxeG6Q-a14U8TM3MZcWxjcmfvg' width='200px' alt='ドラマティックおいでよ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=q-fHmduwxBg'>ビンテージ</a>
+      <a href='https://www.youtube.com/watch?v=1mcvbnDZFho'>ドラマティックおいでよ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=vs-cO8XXDTc'>
-        <img src='https://i.ytimg.com/vi/vs-cO8XXDTc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0RhpW6ipEyFYy22iPoM--YLW-Ew' width='200px' alt='ファーストラヴ'>
+      <a href='https://www.youtube.com/watch?v=bwqurkN3vhE'>
+        <img src='https://i.ytimg.com/vi/bwqurkN3vhE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0WOCmULFS7X-iN9B9vHmdTG94Sw' width='200px' alt='アイデア'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=vs-cO8XXDTc'>ファーストラヴ</a>
+      <a href='https://www.youtube.com/watch?v=bwqurkN3vhE'>アイデア</a>
     </td>
   </tr>
 </table>
