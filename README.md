@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=HBqH4uJS0PU'>
-        <img src='https://i.ytimg.com/vi/HBqH4uJS0PU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGkaM2ZcnyB8o3mbXgfhwYnNF3NQ' width='200px' alt='Magnetic'>
+      <a href='https://www.youtube.com/watch?v=jBILfisAXXs'>
+        <img src='https://i.ytimg.com/vi/jBILfisAXXs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6To1bSVwvvhDTNXjGY7ajk9CU7w' width='200px' alt='夢の外へ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=HBqH4uJS0PU'>Magnetic</a>
+      <a href='https://www.youtube.com/watch?v=jBILfisAXXs'>夢の外へ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=kZn8kahY_-8'>
-        <img src='https://i.ytimg.com/vi/kZn8kahY_-8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBH4BWSxhHVCNATHzYUxY48I2DFdw' width='200px' alt='Irotoridori'>
+      <a href='https://www.youtube.com/watch?v=KQNT6hbgf6g'>
+        <img src='https://i.ytimg.com/vi/KQNT6hbgf6g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9u_NKnOrjXZLJMcCymhOCKrr5FA' width='200px' alt='Toku Toku (2012 Remaster)'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=kZn8kahY_-8'>Irotoridori</a>
+      <a href='https://www.youtube.com/watch?v=KQNT6hbgf6g'>Toku Toku (2012 Remaster)</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=BT5fqQ0xXYs'>
-        <img src='https://i.ytimg.com/vi/BT5fqQ0xXYs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvJu2x5bSmOLxOc0ETl7cftwiIOw' width='200px' alt='Soramo Toberuhazu'>
+      <a href='https://www.youtube.com/watch?v=Jm2jOK45btw'>
+        <img src='https://i.ytimg.com/vi/Jm2jOK45btw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPMCDVE0qm5SI2owO0-6JB-sPNYw' width='200px' alt='Aiueongaku'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=BT5fqQ0xXYs'>Soramo Toberuhazu</a>
+      <a href='https://www.youtube.com/watch?v=Jm2jOK45btw'>Aiueongaku</a>
     </td>
   </tr>
 </table>
