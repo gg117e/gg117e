@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=mLBe332PrQ0'>
-        <img src='https://i.ytimg.com/vi/mLBe332PrQ0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCn6a1PepAWYqVhrPmg2106R8n7UQ' width='200px' alt='Magic'>
+      <a href='https://www.youtube.com/watch?v=xpMW7wJTT3c'>
+        <img src='https://i.ytimg.com/vi/xpMW7wJTT3c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApHdPftEzlfVZIqAOSvCvom_1lwQ' width='200px' alt='Matane.'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=mLBe332PrQ0'>Magic</a>
+      <a href='https://www.youtube.com/watch?v=xpMW7wJTT3c'>Matane.</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=eIftMq4xQKI'>
-        <img src='https://i.ytimg.com/vi/eIftMq4xQKI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApxz6mKZjU2jDXshcbcolcKs7iFw' width='200px' alt='Anohino Orange'>
+      <a href='https://www.youtube.com/watch?v=XEHvZ5GrfM8'>
+        <img src='https://i.ytimg.com/vi/XEHvZ5GrfM8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIMwX4r8LPGzFEuy9nauo9407Ksw' width='200px' alt='Eine Kleine'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=eIftMq4xQKI'>Anohino Orange</a>
+      <a href='https://www.youtube.com/watch?v=XEHvZ5GrfM8'>Eine Kleine</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=x9v8aNl6Aps'>
-        <img src='https://i.ytimg.com/vi/x9v8aNl6Aps/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVvWYRclYEKfr0HcfVA2vAvYjv6g' width='200px' alt='ONE OK ROCK - Heartache [Studio Jam Session]'>
+      <a href='https://www.youtube.com/watch?v=zlJSYqcO2-4'>
+        <img src='https://i.ytimg.com/vi/zlJSYqcO2-4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2T_Y869Rqoi9MFA8BqnrVmiJlyQ' width='200px' alt='Clap Clap'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=x9v8aNl6Aps'>ONE OK ROCK - Heartache [Studio Jam Session]</a>
+      <a href='https://www.youtube.com/watch?v=zlJSYqcO2-4'>Clap Clap</a>
     </td>
   </tr>
 </table>
