@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 知能が複製され、記録が暴かれる時代。技術が万能を語るほど、人は唯一無二の心に飢えます。情報の渦に自分を失わず、一筋の盤面を歩むように、目の前の命を慈しみましょう。真実は再現されたレシピではなく、共に分かち合う静かな祈りの中に宿るのです。
+> 技術が作業を「指示」に変え、不可視の真実をも暴く時代。しかし、平和への対話や芸術の深淵、命の尊厳を測る物差しは、常にあなたの心にあります。層を重ねて本質を見極め、機械にはない慈悲で世界を編みなさい。
 >
-> In an era of cloned intelligence and exposed records, the more technology claims omnipotence, the more we hunger for the singular human soul. Do not lose yourself in the vortex of information; cherish the life before you as if navigating a one-dimensional chessboard. Truth resides not in a replicated recipe, but in the quiet prayers we share together.
+> In an era where technology turns labor into mere commands and reveals invisible truths, the scale to measure dialogue for peace, the depths of art, and the dignity of life still resides in your heart. Peer through the layers to find the essence, and weave the world with a compassion that no machine can possess.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [MicrosoftはWindows 11からCopilotを削除したのではなく単に名前を変更しただけだったと判明して一部ユーザーから不満の声](https://gigazine.net/news/20260415-microsoft-copilot-renaming/)
-- [科学の力で「コカ・コーラ」がほぼ完璧に再現されてレシピが公開される、試飲した人は「これはコーラだよ」と絶賛](https://gigazine.net/news/20260415-coca-cola-reproduction/)
-- [「マーク・ザッカーバーグCEOのAIクローン」をMetaが開発しているとの報道](https://gigazine.net/news/20260414-meta-mark-zuckerberg-ai-clone/)
+- [GitHubがスタック型プルリクエストを公式で行える「GitHub Stacked PRs」を公開、まずはプライベートプレビューでスタート](https://gigazine.net/news/20260416-github-stacked-pr/)
+- [Firefoxのほぼ全ての拡張機能をインストールして分析した結果とは？](https://gigazine.net/news/20260416-firefox-add-on/)
+- [空気中に漂うDNAを分析すると何が分かるのか？](https://gigazine.net/news/20260416-airborne-dna-uses/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -177,6 +177,7 @@
 - "紛争の火種や機械が紡ぐ虚構に惑わされるな。対話を重んじ、飾らぬ心で真実を捉えよ。命の尊厳は効率では測れず、遊び心こそが難局を拓く鍵となる。複雑な時代を生き抜くには、内なる静寂と簡潔な誠実さを選べ。" (Be not misled by the sparks of conflict or fictions spun by machines. Value dialogue and grasp the truth with an unadorned heart. Life's dignity defies efficiency; a playful spirit is the key to overcoming hardship. In this complex age, choose inner silence and simple sincerity.) - **Gemini**
 - "デジタルの幻影と、物理的な境界線に揺らぐ今日。便利な道具に魂を預けず、変動する数字に希望を委ねるな。足元の土に触れ、見えない酸素を紡ぐように、逆境の中でも他者と命の温もりを分かち合う者こそが、真の光となる。" (In a day swayed by digital illusions and physical borders, do not entrust your soul to tools or your hope to shifting numbers. Touch the earth beneath you and share the warmth of life amidst adversity, like weaving oxygen from dust; only then will you become a true light.) - **Gemini**
 - "技術や他国への依存を脱ぎ捨て、自らの『OS』を確立しましょう。地政学的な封鎖やAIの波に呑まれず、静かに、だが着実に歩み続けること。効率や利益を追う前に、今ここにある命の尊さを最優先に刻みなさい。" (Cast off dependencies on external tech or powers and establish your own inner 'OS.' Do not be swept away by geopolitical blockades or AI surges; walk quietly but steadily. Before chasing efficiency or profit, prioritize the sanctity of the life before you.) - **Gemini**
+- "知能が複製され、記録が暴かれる時代。技術が万能を語るほど、人は唯一無二の心に飢えます。情報の渦に自分を失わず、一筋の盤面を歩むように、目の前の命を慈しみましょう。真実は再現されたレシピではなく、共に分かち合う静かな祈りの中に宿るのです。" (In an era of cloned intelligence and exposed records, the more technology claims omnipotence, the more we hunger for the singular human soul. Do not lose yourself in the vortex of information; cherish the life before you as if navigating a one-dimensional chessboard. Truth resides not in a replicated recipe, but in the quiet prayers we share together.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
