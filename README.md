@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=_8XkaEkv8ew'>
-        <img src='https://i.ytimg.com/vi/_8XkaEkv8ew/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIiwYJPTC9qKRDgty7AUWjpdphXw' width='200px' alt='キャラクター'>
+      <a href='https://www.youtube.com/watch?v=QlyW9kYHTDo'>
+        <img src='https://i.ytimg.com/vi/QlyW9kYHTDo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQFnLrxul-P672hEh7Ctcb3KYlmw' width='200px' alt='Time Machine'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=_8XkaEkv8ew'>キャラクター</a>
+      <a href='https://www.youtube.com/watch?v=QlyW9kYHTDo'>Time Machine</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=A0plb7gdzW4'>
-        <img src='https://i.ytimg.com/vi/A0plb7gdzW4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhPB6jEwaOqitRIOiPhQQSfsOuDw' width='200px' alt='Attitude'>
+      <a href='https://www.youtube.com/watch?v=dGZqpVCJP3k'>
+        <img src='https://i.ytimg.com/vi/dGZqpVCJP3k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7TuZC6EGVoQIpgUkBaKKSxjMCrw' width='200px' alt='群青'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=A0plb7gdzW4'>Attitude</a>
+      <a href='https://www.youtube.com/watch?v=dGZqpVCJP3k'>群青</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=vms87P01vRU'>
-        <img src='https://i.ytimg.com/vi/vms87P01vRU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzZnQp_bBT2p2b05faDDdNT1ytRg' width='200px' alt='ファンファーレ'>
+      <a href='https://www.youtube.com/watch?v=DO_aopUeFnw'>
+        <img src='https://i.ytimg.com/vi/DO_aopUeFnw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKWBCw1miJEhYdmMNyNruwf_BWDA' width='200px' alt='Lilac'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=vms87P01vRU'>ファンファーレ</a>
+      <a href='https://www.youtube.com/watch?v=DO_aopUeFnw'>Lilac</a>
     </td>
   </tr>
 </table>
