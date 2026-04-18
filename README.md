@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Kg50ItKY1SY'>
-        <img src='https://i.ytimg.com/vi/Kg50ItKY1SY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0GMWUoBR7Y2z_v6sXaj4_I6dVaQ' width='200px' alt='Nanndemonaiyo,'>
+      <a href='https://www.youtube.com/watch?v=mS7iQKWy9HU'>
+        <img src='https://i.ytimg.com/vi/mS7iQKWy9HU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtJV-grxMKT9h26f-DU1NjRvTCBw' width='200px' alt='未完成なままで'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Kg50ItKY1SY'>Nanndemonaiyo,</a>
+      <a href='https://www.youtube.com/watch?v=mS7iQKWy9HU'>未完成なままで</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=hSdcy2_vtaQ'>
-        <img src='https://i.ytimg.com/vi/hSdcy2_vtaQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPw24hhUebfUwdjUQ9IOX0zI-_3Q' width='200px' alt='僕らまた (Us, again) - SG (Official Lyric Video)'>
+      <a href='https://www.youtube.com/watch?v=kJEPeKPtZyw'>
+        <img src='https://i.ytimg.com/vi/kJEPeKPtZyw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHEQRF57cU-KWllU8xOBlwgrk83Q' width='200px' alt='花占い'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=hSdcy2_vtaQ'>僕らまた (Us, again) - SG (Official Lyric Video)</a>
+      <a href='https://www.youtube.com/watch?v=kJEPeKPtZyw'>花占い</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=lUNO0Tt87zo'>
-        <img src='https://i.ytimg.com/vi/lUNO0Tt87zo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACIrFHuVynvp-eNkxrH-yYEh9C7Q' width='200px' alt='空'>
+      <a href='https://www.youtube.com/watch?v=37W7Y2RRyiM'>
+        <img src='https://i.ytimg.com/vi/37W7Y2RRyiM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDm5Sq8W3leIBeRoIRalhEJDqGniQ' width='200px' alt='Pretender'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=lUNO0Tt87zo'>空</a>
+      <a href='https://www.youtube.com/watch?v=37W7Y2RRyiM'>Pretender</a>
     </td>
   </tr>
 </table>
