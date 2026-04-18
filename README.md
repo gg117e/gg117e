@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
+      <a href='https://www.youtube.com/watch?v=FuxtXqD19lI'>
+        <img src='https://i.ytimg.com/vi/FuxtXqD19lI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5MThWoojMGPW0Kep9FJAmSFIcaw' width='200px' alt='50%'>
+      </a>
+      <br />
+      <a href='https://www.youtube.com/watch?v=FuxtXqD19lI'>50%</a>
+    </td>
+    <td align='center'>
+      <a href='https://www.youtube.com/watch?v=oJd3TP5kb6k'>
+        <img src='https://i.ytimg.com/vi/oJd3TP5kb6k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVr-TA9PEhiwjzoFO-DmLlBYVIAg' width='200px' alt='New My Normal'>
+      </a>
+      <br />
+      <a href='https://www.youtube.com/watch?v=oJd3TP5kb6k'>New My Normal</a>
+    </td>
+    <td align='center'>
       <a href='https://www.youtube.com/watch?v=ArN80_ahos0'>
         <img src='https://i.ytimg.com/vi/ArN80_ahos0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0St2Q4-pGDvfGebZ98ijNN0K2qQ' width='200px' alt='Anatani'>
       </a>
       <br />
       <a href='https://www.youtube.com/watch?v=ArN80_ahos0'>Anatani</a>
-    </td>
-    <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Ih2eEKTJXRg'>
-        <img src='https://i.ytimg.com/vi/Ih2eEKTJXRg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQmV1_CEd8Wt2-BmONx_nowgTjJg' width='200px' alt='タイムパラドックス'>
-      </a>
-      <br />
-      <a href='https://www.youtube.com/watch?v=Ih2eEKTJXRg'>タイムパラドックス</a>
-    </td>
-    <td align='center'>
-      <a href='https://www.youtube.com/watch?v=PLNtwcIjgJE'>
-        <img src='https://i.ytimg.com/vi/PLNtwcIjgJE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRAewsfJBCUN9YE1jmdT2Zsd9E0A' width='200px' alt='Misenainamidawa Kittoitsuka'>
-      </a>
-      <br />
-      <a href='https://www.youtube.com/watch?v=PLNtwcIjgJE'>Misenainamidawa Kittoitsuka</a>
     </td>
   </tr>
 </table>
