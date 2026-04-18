@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=v87I8nzcek4'>
-        <img src='https://i.ytimg.com/vi/v87I8nzcek4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDh_mgv0ssvYLbXwKji5DAd0FexqA' width='200px' alt='Floriginal'>
+      <a href='https://www.youtube.com/watch?v=HBqH4uJS0PU'>
+        <img src='https://i.ytimg.com/vi/HBqH4uJS0PU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGkaM2ZcnyB8o3mbXgfhwYnNF3NQ' width='200px' alt='Magnetic'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=v87I8nzcek4'>Floriginal</a>
+      <a href='https://www.youtube.com/watch?v=HBqH4uJS0PU'>Magnetic</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=1GQ07JcqH48'>
-        <img src='https://i.ytimg.com/vi/1GQ07JcqH48/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSPACmTI9ygMCW0JC14xxWjsnbSA' width='200px' alt='Family Song'>
+      <a href='https://www.youtube.com/watch?v=EaC8Dgtvrb0'>
+        <img src='https://i.ytimg.com/vi/EaC8Dgtvrb0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDen1M2a_gSpOzmWdpa2e2nUIB8mg' width='200px' alt='そんなbitterな話'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=1GQ07JcqH48'>Family Song</a>
+      <a href='https://www.youtube.com/watch?v=EaC8Dgtvrb0'>そんなbitterな話</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=-_PKhPMXMDY'>
-        <img src='https://i.ytimg.com/vi/-_PKhPMXMDY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA96C28QeG6Y8XikTP7sXlae0UcmA' width='200px' alt='Tokimeki / Vaundy：MUSIC VIDEO'>
+      <a href='https://www.youtube.com/watch?v=W25pTZ5Gmew'>
+        <img src='https://i.ytimg.com/vi/W25pTZ5Gmew/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZ1ZnvcCrWBxZ8Yxd_9b9jXBe7jQ' width='200px' alt='決心'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=-_PKhPMXMDY'>Tokimeki / Vaundy：MUSIC VIDEO</a>
+      <a href='https://www.youtube.com/watch?v=W25pTZ5Gmew'>決心</a>
     </td>
   </tr>
 </table>
