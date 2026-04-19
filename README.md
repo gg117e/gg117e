@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Ta6GW3kQ8UU'>
-        <img src='https://i.ytimg.com/vi/Ta6GW3kQ8UU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRMclMpIOvmCPeKMcFS80SNCONJw' width='200px' alt='ひたむき'>
+      <a href='https://www.youtube.com/watch?v=0OZ15_9YKPc'>
+        <img src='https://i.ytimg.com/vi/0OZ15_9YKPc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDw-Z7Q01p2yef5ViEEv7j0i6ACZg' width='200px' alt='異端なスター'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Ta6GW3kQ8UU'>ひたむき</a>
+      <a href='https://www.youtube.com/watch?v=0OZ15_9YKPc'>異端なスター</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=WWB01IuMvzA'>
-        <img src='https://i.ytimg.com/vi/WWB01IuMvzA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gOAAoADigIMCAAQARhlIEkoPzAP&rs=AOn4CLC6k3VR61-lJ48-EQFwaCqvmAawSg' width='200px' alt='God knows... ''The Melancholy of Haruhi Suzumiya'' 【涼宮ハルヒの憂鬱】Kadokawa公認MAD【ﾍﾞｰｽ 演奏】'>
+      <a href='https://www.youtube.com/watch?v=mQgpJPStoYQ'>
+        <img src='https://i.ytimg.com/vi/mQgpJPStoYQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQh25MLFhpwmdOqMrf8DSEWT_akg' width='200px' alt='切望'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=WWB01IuMvzA'>God knows... ''The Melancholy of Haruhi Suzumiya'' 【涼宮ハルヒの憂鬱】Kadokawa公認MAD【ﾍﾞｰｽ 演奏】</a>
+      <a href='https://www.youtube.com/watch?v=mQgpJPStoYQ'>切望</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Jm2jOK45btw'>
-        <img src='https://i.ytimg.com/vi/Jm2jOK45btw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPMCDVE0qm5SI2owO0-6JB-sPNYw' width='200px' alt='Aiueongaku'>
+      <a href='https://www.youtube.com/watch?v=Def4ipTm-y4'>
+        <img src='https://i.ytimg.com/vi/Def4ipTm-y4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCixEcYjMmjLWOaqoEVhRfGcylceQ' width='200px' alt='Lovin''>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Jm2jOK45btw'>Aiueongaku</a>
+      <a href='https://www.youtube.com/watch?v=Def4ipTm-y4'>Lovin'</a>
     </td>
   </tr>
 </table>
