@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=5X_wSeKhPAU'>
-        <img src='https://i.ytimg.com/vi/5X_wSeKhPAU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBq3r0bpKi6IiOhtkcgzu-FS_beg' width='200px' alt='Orange'>
+      <a href='https://www.youtube.com/watch?v=HrZX4KFfniU'>
+        <img src='https://i.ytimg.com/vi/HrZX4KFfniU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCj4NYNo6f32MhY3ua3KFVZQcplOw' width='200px' alt='Earthchild'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=5X_wSeKhPAU'>Orange</a>
+      <a href='https://www.youtube.com/watch?v=HrZX4KFfniU'>Earthchild</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=8PbGeKwEnK0'>
-        <img src='https://i.ytimg.com/vi/8PbGeKwEnK0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWYv4vO1ta-DKEtdPaeTh9ifxA0g' width='200px' alt='Pop Virus'>
+      <a href='https://www.youtube.com/watch?v=rxR1mBt__fo'>
+        <img src='https://i.ytimg.com/vi/rxR1mBt__fo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsWaFFvm2u38Jdjm5d7AcaKwvMMg' width='200px' alt='Natsuiro'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=8PbGeKwEnK0'>Pop Virus</a>
+      <a href='https://www.youtube.com/watch?v=rxR1mBt__fo'>Natsuiro</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ME_ZU0ME4vQ'>
-        <img src='https://i.ytimg.com/vi/ME_ZU0ME4vQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcg2wcDNON6jYjuxGICte2SY1Adg' width='200px' alt='ゼロのままでいられたら'>
+      <a href='https://www.youtube.com/watch?v=vAfgHtZt6gs'>
+        <img src='https://i.ytimg.com/vi/vAfgHtZt6gs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeNAV46w1eCS5FzH7yrnp2Zp2eIg' width='200px' alt='大丈夫'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ME_ZU0ME4vQ'>ゼロのままでいられたら</a>
+      <a href='https://www.youtube.com/watch?v=vAfgHtZt6gs'>大丈夫</a>
     </td>
   </tr>
 </table>
