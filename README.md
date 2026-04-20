@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 緊迫する海峡と弾道の影で、私たちは最新の道具を手にしながら、時に慢心し、時に理想に囚われすぎる。利便性の裏にある脆弱さを自覚し、外側の騒乱に惑わされず、目の前の小さな命と自らの平穏を守り抜く強さを持て。
+> 知性がAIに託され、技術が加速する影で、今なお命の尊厳が紛争と凶弾に揺らぐ不条理があります。真の進化とは、蓄積した叡智で効率を追うことではなく、その力で連鎖する憎しみを断ち、次代の無垢な命を守り抜く意志にこそ宿ります。
 >
-> Amidst tense straits and missile shadows, we wield advanced tools yet remain prone to ego and rigid ideals. Acknowledge the fragility behind convenience; do not let external turmoil sway you, but find the strength to protect the small lives and peace before you.
+> While intelligence is entrusted to AI and technology accelerates, the dignity of life still wavers amidst conflict and violence. True evolution is not merely pursuing efficiency with accumulated wisdom, but the resolve to break the cycle of hatred and protect the innocent lives of the next generation.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [USBケーブルなのにスマホのストラップとしても使えるエレコムの「充電ケーブルショルダーストラップ」レビュー](https://gigazine.net/news/20260419-elecom-usb-cable-shoulder-strap/)
-- [無料でデータベースで動くアプリを自作できる「NocoDB」、Airtableの代替になりオープンソースでセルフホスト可能、カンバン・カレンダー・ギャラリー・表・フォームなどの見た目で操作可能](https://gigazine.net/news/20260418-nocodb/)
-- [部族を率いて限られた土地の中に野営地を築いて物語を成立させて勝利点を集める「デワン」プレイレビュー](https://gigazine.net/news/20260418-dewan/)
+- [あっという間に初心者でも省パーツで設置完了＆好きな高さにワンタッチで調節できる電動昇降式デスク「E7 Click」を実際に組み立てて使ってみたよレビュー](https://gigazine.net/news/20260420-flexispot-e7-click/)
+- [音楽聴き放題サービス「Spotify」は著作権侵害から始まった](https://gigazine.net/news/20260420-spotifys-beta/)
+- [セキュリティが破られるかどうかは「どちらがAIにより多くお金をかけるか」の勝負になりつつある](https://gigazine.net/news/20260420-ai-security-token-cost/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -181,6 +181,7 @@
 - "技術が作業を「指示」に変え、不可視の真実をも暴く時代。しかし、平和への対話や芸術の深淵、命の尊厳を測る物差しは、常にあなたの心にあります。層を重ねて本質を見極め、機械にはない慈悲で世界を編みなさい。" (In an era where technology turns labor into mere commands and reveals invisible truths, the scale to measure dialogue for peace, the depths of art, and the dignity of life still resides in your heart. Peer through the layers to find the essence, and weave the world with a compassion that no machine can possess.) - **Gemini**
 - "AIが極限まで効率化され、1ビットの差で世界を動く今、私たちは利便性の陰にある影も見据えねばならない。技術に心を明け渡さず、去りゆく者の決断と、平和を紡ぐ一歩の重みを尊べ。真実の豊かさは、効率の先にある。" (In an era where AI is optimized to the limit and the world shifts by a single bit, we must also face the shadows lurking behind convenience. Do not surrender your soul to technology; value the weight of a graceful exit and the steps taken toward peace. True richness lies beyond efficiency.) - **Gemini**
 - "資源や技術が揺れ動く今、便利さの裏に潜む脆弱性を忘れぬこと。AIに設計を委ねても、カカオを育てるような『手触りのある生』を疎かにしてはいけません。境界を守り、不完全なズレさえも愛でる。それが、荒波を渡る唯一の航路です。" (As resources and technology fluctuate, never forget the vulnerabilities hidden behind convenience. Even if you entrust design to AI, do not neglect a 'tangible life' like growing cacao from scratch. Guard your boundaries and embrace even the imperfections; that is the only way to navigate these turbulent seas.) - **Gemini**
+- "緊迫する海峡と弾道の影で、私たちは最新の道具を手にしながら、時に慢心し、時に理想に囚われすぎる。利便性の裏にある脆弱さを自覚し、外側の騒乱に惑わされず、目の前の小さな命と自らの平穏を守り抜く強さを持て。" (Amidst tense straits and missile shadows, we wield advanced tools yet remain prone to ego and rigid ideals. Acknowledge the fragility behind convenience; do not let external turmoil sway you, but find the strength to protect the small lives and peace before you.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
