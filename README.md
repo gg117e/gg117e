@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Hp9Z5TP1WfA'>
-        <img src='https://i.ytimg.com/vi/Hp9Z5TP1WfA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbKtFxlAWC69VyMDcx9N78dfe_Dw' width='200px' alt='115万キロのフィルム'>
+      <a href='https://www.youtube.com/watch?v=yFRNB8Jji4Y'>
+        <img src='https://i.ytimg.com/vi/yFRNB8Jji4Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAa-LXQ-EF_QYmSvbdUJF-CyB5nwA' width='200px' alt='燈'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Hp9Z5TP1WfA'>115万キロのフィルム</a>
+      <a href='https://www.youtube.com/watch?v=yFRNB8Jji4Y'>燈</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=wPsr3_UVA0U'>
-        <img src='https://i.ytimg.com/vi/wPsr3_UVA0U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEcVsySSnNqV47RppVnh7XTlEAQQ' width='200px' alt='Wonderful'>
+      <a href='https://www.youtube.com/watch?v=bt2j17P7XVE'>
+        <img src='https://i.ytimg.com/vi/bt2j17P7XVE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfLPyZRgXU9JFZzFkCBW1iTiq4QA' width='200px' alt='Pride'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=wPsr3_UVA0U'>Wonderful</a>
+      <a href='https://www.youtube.com/watch?v=bt2j17P7XVE'>Pride</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=P6UsnAkgN4U'>
-        <img src='https://i.ytimg.com/vi/P6UsnAkgN4U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDN99wUcqZRQMOUoYD12Wj-269sdQ' width='200px' alt='Setsuna'>
+      <a href='https://www.youtube.com/watch?v=1mcvbnDZFho'>
+        <img src='https://i.ytimg.com/vi/1mcvbnDZFho/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDYxeG6Q-a14U8TM3MZcWxjcmfvg' width='200px' alt='ドラマティックおいでよ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=P6UsnAkgN4U'>Setsuna</a>
+      <a href='https://www.youtube.com/watch?v=1mcvbnDZFho'>ドラマティックおいでよ</a>
     </td>
   </tr>
 </table>
