@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=eoQAnGx4Pss'>
-        <img src='https://i.ytimg.com/vi/eoQAnGx4Pss/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFEUw0WZq7w7oBTR2L_48UsOCpsw' width='200px' alt='Wherever you are'>
+      <a href='https://www.youtube.com/watch?v=E-2VQqidJL0'>
+        <img src='https://i.ytimg.com/vi/E-2VQqidJL0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaB1Y_Kb4wcIUX9klPvPTnq-AHew' width='200px' alt='CITRUS'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=eoQAnGx4Pss'>Wherever you are</a>
+      <a href='https://www.youtube.com/watch?v=E-2VQqidJL0'>CITRUS</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=HrZX4KFfniU'>
-        <img src='https://i.ytimg.com/vi/HrZX4KFfniU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCj4NYNo6f32MhY3ua3KFVZQcplOw' width='200px' alt='Earthchild'>
+      <a href='https://www.youtube.com/watch?v=pyDCubgU57g'>
+        <img src='https://i.ytimg.com/vi/pyDCubgU57g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB37uBdxYISYHLCGDBUZUW3NbL7Hw' width='200px' alt='蒼のワルツ - Eve MV'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=HrZX4KFfniU'>Earthchild</a>
+      <a href='https://www.youtube.com/watch?v=pyDCubgU57g'>蒼のワルツ - Eve MV</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=uTt67zwzLdo'>
-        <img src='https://i.ytimg.com/vi/uTt67zwzLdo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNz1DV3wReqjvonmJoIoIbRRqIxQ' width='200px' alt='あなたがいることで'>
+      <a href='https://www.youtube.com/watch?v=7Ze7MDQjXS0'>
+        <img src='https://i.ytimg.com/vi/7Ze7MDQjXS0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGUaOf-Ae6mkpk1Gw2m3-BwQUjqA' width='200px' alt='Soranji'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=uTt67zwzLdo'>あなたがいることで</a>
+      <a href='https://www.youtube.com/watch?v=7Ze7MDQjXS0'>Soranji</a>
     </td>
   </tr>
 </table>
