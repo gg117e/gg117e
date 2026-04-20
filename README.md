@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=yFRNB8Jji4Y'>
-        <img src='https://i.ytimg.com/vi/yFRNB8Jji4Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAa-LXQ-EF_QYmSvbdUJF-CyB5nwA' width='200px' alt='燈'>
+      <a href='https://www.youtube.com/watch?v=SVkGRoLicuA'>
+        <img src='https://i.ytimg.com/vi/SVkGRoLicuA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEGWRcMYMGbnY-HOcgFSINA1NRIA' width='200px' alt='Sukidakara'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=yFRNB8Jji4Y'>燈</a>
+      <a href='https://www.youtube.com/watch?v=SVkGRoLicuA'>Sukidakara</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=bt2j17P7XVE'>
-        <img src='https://i.ytimg.com/vi/bt2j17P7XVE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfLPyZRgXU9JFZzFkCBW1iTiq4QA' width='200px' alt='Pride'>
+      <a href='https://www.youtube.com/watch?v=-_PKhPMXMDY'>
+        <img src='https://i.ytimg.com/vi/-_PKhPMXMDY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA96C28QeG6Y8XikTP7sXlae0UcmA' width='200px' alt='Tokimeki / Vaundy：MUSIC VIDEO'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=bt2j17P7XVE'>Pride</a>
+      <a href='https://www.youtube.com/watch?v=-_PKhPMXMDY'>Tokimeki / Vaundy：MUSIC VIDEO</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=1mcvbnDZFho'>
-        <img src='https://i.ytimg.com/vi/1mcvbnDZFho/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDYxeG6Q-a14U8TM3MZcWxjcmfvg' width='200px' alt='ドラマティックおいでよ'>
+      <a href='https://www.youtube.com/watch?v=hyz4f5gGGC8'>
+        <img src='https://i.ytimg.com/vi/hyz4f5gGGC8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2PPvbXgTXIwB3tTt5KVAj53sAog' width='200px' alt='わたしの一番かわいいところ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=1mcvbnDZFho'>ドラマティックおいでよ</a>
+      <a href='https://www.youtube.com/watch?v=hyz4f5gGGC8'>わたしの一番かわいいところ</a>
     </td>
   </tr>
 </table>
