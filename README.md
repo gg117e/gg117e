@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=V6TEcoNUmc8'>
-        <img src='https://i.ytimg.com/vi/V6TEcoNUmc8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSLIKEiQCOt42rwL4jDoKMEret8g' width='200px' alt='Ditto'>
+      <a href='https://www.youtube.com/watch?v=gd5-TdPJ3AQ'>
+        <img src='https://i.ytimg.com/vi/gd5-TdPJ3AQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNjAMJ8Kxvjdhc3SeaC0UwgqFcWg' width='200px' alt='Bokuno Koto'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=V6TEcoNUmc8'>Ditto</a>
+      <a href='https://www.youtube.com/watch?v=gd5-TdPJ3AQ'>Bokuno Koto</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ED8Q0ipvhg8'>
-        <img src='https://i.ytimg.com/vi/ED8Q0ipvhg8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDr8DalCaVoHA8DtY0mxyBK_QYifQ' width='200px' alt='Haruwo Machiwabite'>
+      <a href='https://www.youtube.com/watch?v=EpM37GEGhDc'>
+        <img src='https://i.ytimg.com/vi/EpM37GEGhDc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTartsk2_M7nJLY8In09O7fUUIwQ' width='200px' alt='Itoshi Kimie (Essential Ver.)'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ED8Q0ipvhg8'>Haruwo Machiwabite</a>
+      <a href='https://www.youtube.com/watch?v=EpM37GEGhDc'>Itoshi Kimie (Essential Ver.)</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Qsz6WoK5GWk'>
-        <img src='https://i.ytimg.com/vi/Qsz6WoK5GWk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-06hgBny-IdAYM450HQ-rlDr2wA' width='200px' alt='風に吹かれて'>
+      <a href='https://www.youtube.com/watch?v=WjIsq1-ZBaw'>
+        <img src='https://i.ytimg.com/vi/WjIsq1-ZBaw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCh9rmrKCmdRlaAejuSaWKVb-hTg' width='200px' alt='平井 大 / 栄光の扉（Music Video）'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Qsz6WoK5GWk'>風に吹かれて</a>
+      <a href='https://www.youtube.com/watch?v=WjIsq1-ZBaw'>平井 大 / 栄光の扉（Music Video）</a>
     </td>
   </tr>
 </table>
