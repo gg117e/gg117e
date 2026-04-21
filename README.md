@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=WjIsq1-ZBaw'>
-        <img src='https://i.ytimg.com/vi/WjIsq1-ZBaw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCh9rmrKCmdRlaAejuSaWKVb-hTg' width='200px' alt='平井 大 / 栄光の扉（Music Video）'>
+      <a href='https://www.youtube.com/watch?v=3KWjq6V4YNo'>
+        <img src='https://i.ytimg.com/vi/3KWjq6V4YNo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2Upf8C4rqx-nY8WnLCnwFgGEynQ' width='200px' alt='ピーターパン'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=WjIsq1-ZBaw'>平井 大 / 栄光の扉（Music Video）</a>
+      <a href='https://www.youtube.com/watch?v=3KWjq6V4YNo'>ピーターパン</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=hN5MBlGv2Ac'>
-        <img src='https://i.ytimg.com/vi/hN5MBlGv2Ac/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzbQItH3L-YHCHcM1KJ1pRu6gpGA' width='200px' alt='Official髭男dism - Subtitle [Official Video]'>
+      <a href='https://www.youtube.com/watch?v=PLNtwcIjgJE'>
+        <img src='https://i.ytimg.com/vi/PLNtwcIjgJE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRAewsfJBCUN9YE1jmdT2Zsd9E0A' width='200px' alt='Misenainamidawa Kittoitsuka'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=hN5MBlGv2Ac'>Official髭男dism - Subtitle [Official Video]</a>
+      <a href='https://www.youtube.com/watch?v=PLNtwcIjgJE'>Misenainamidawa Kittoitsuka</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ZosT1iyOU2g'>
-        <img src='https://i.ytimg.com/vi/ZosT1iyOU2g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDiKwFTggMjRRJLDfVRhNfXfoYJw' width='200px' alt='手紙 〜拝啓　十五の君へ〜'>
+      <a href='https://www.youtube.com/watch?v=aRtoPwe4ado'>
+        <img src='https://i.ytimg.com/vi/aRtoPwe4ado/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9PXwnyKWh73Tc7PGeIqoYftngtg' width='200px' alt='Sanitizer'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ZosT1iyOU2g'>手紙 〜拝啓　十五の君へ〜</a>
+      <a href='https://www.youtube.com/watch?v=aRtoPwe4ado'>Sanitizer</a>
     </td>
   </tr>
 </table>
