@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=M74KYy2jpyM'>
-        <img src='https://i.ytimg.com/vi/M74KYy2jpyM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-To5xuUwT9bMnLKHWzSqxU503dQ' width='200px' alt='Sharon'>
+      <a href='https://www.youtube.com/watch?v=EpM37GEGhDc'>
+        <img src='https://i.ytimg.com/vi/EpM37GEGhDc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTartsk2_M7nJLY8In09O7fUUIwQ' width='200px' alt='Itoshi Kimie (Essential Ver.)'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=M74KYy2jpyM'>Sharon</a>
+      <a href='https://www.youtube.com/watch?v=EpM37GEGhDc'>Itoshi Kimie (Essential Ver.)</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Tt__9q0JEOI'>
-        <img src='https://i.ytimg.com/vi/Tt__9q0JEOI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4QvFidAb2oKxtlArfQGs68apPGQ' width='200px' alt='Wasurenagusa'>
+      <a href='https://www.youtube.com/watch?v=jJzw1h5CR-I'>
+        <img src='https://i.ytimg.com/vi/jJzw1h5CR-I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgZft81TKDb1zhEWMWErRz1zAAAQ' width='200px' alt='Dramaturgy - Eve MV'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Tt__9q0JEOI'>Wasurenagusa</a>
+      <a href='https://www.youtube.com/watch?v=jJzw1h5CR-I'>Dramaturgy - Eve MV</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=SQcq990N5NY'>
-        <img src='https://i.ytimg.com/vi/SQcq990N5NY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWlOgX0s6Lzh8Clxs5rWiyYXwfUg' width='200px' alt='また逢う日まで'>
+      <a href='https://www.youtube.com/watch?v=LM_5KevVmYc'>
+        <img src='https://i.ytimg.com/vi/LM_5KevVmYc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4NqYuC703bhnQxOo1CE59_WIg0w' width='200px' alt='I Love You'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=SQcq990N5NY'>また逢う日まで</a>
+      <a href='https://www.youtube.com/watch?v=LM_5KevVmYc'>I Love You</a>
     </td>
   </tr>
 </table>
