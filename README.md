@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=3KWjq6V4YNo'>
-        <img src='https://i.ytimg.com/vi/3KWjq6V4YNo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2Upf8C4rqx-nY8WnLCnwFgGEynQ' width='200px' alt='ピーターパン'>
+      <a href='https://www.youtube.com/watch?v=WHKlMwYHb34'>
+        <img src='https://i.ytimg.com/vi/WHKlMwYHb34/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJt9CGgZ8JoQ_HT18Wl7xKSjJ9fw' width='200px' alt='The Peak'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=3KWjq6V4YNo'>ピーターパン</a>
+      <a href='https://www.youtube.com/watch?v=WHKlMwYHb34'>The Peak</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=PLNtwcIjgJE'>
-        <img src='https://i.ytimg.com/vi/PLNtwcIjgJE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRAewsfJBCUN9YE1jmdT2Zsd9E0A' width='200px' alt='Misenainamidawa Kittoitsuka'>
+      <a href='https://www.youtube.com/watch?v=9wDFyZDAW2I'>
+        <img src='https://i.ytimg.com/vi/9wDFyZDAW2I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlPACkNx6DfP3rMaY3vsQQ1NQ1-g' width='200px' alt='Tomo ～Tabidachinotoki～'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=PLNtwcIjgJE'>Misenainamidawa Kittoitsuka</a>
+      <a href='https://www.youtube.com/watch?v=9wDFyZDAW2I'>Tomo ～Tabidachinotoki～</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=aRtoPwe4ado'>
-        <img src='https://i.ytimg.com/vi/aRtoPwe4ado/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9PXwnyKWh73Tc7PGeIqoYftngtg' width='200px' alt='Sanitizer'>
+      <a href='https://www.youtube.com/watch?v=gpdh9AUzQjY'>
+        <img src='https://i.ytimg.com/vi/gpdh9AUzQjY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnZY9cYpCWhlK5DvkOpB3w46mpVQ' width='200px' alt='カーテンコール'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=aRtoPwe4ado'>Sanitizer</a>
+      <a href='https://www.youtube.com/watch?v=gpdh9AUzQjY'>カーテンコール</a>
     </td>
   </tr>
 </table>
