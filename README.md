@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=sssoboSVd6A'>
-        <img src='https://i.ytimg.com/vi/sssoboSVd6A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABqS6M3D5Tk6on9fa68IULKZQALA' width='200px' alt='Ayumi'>
+      <a href='https://www.youtube.com/watch?v=ZI6kQh30aLs'>
+        <img src='https://i.ytimg.com/vi/ZI6kQh30aLs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOt-OJxA0AVDoneSRZp4glsrs0QQ' width='200px' alt='Be Free'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=sssoboSVd6A'>Ayumi</a>
+      <a href='https://www.youtube.com/watch?v=ZI6kQh30aLs'>Be Free</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=P6UsnAkgN4U'>
-        <img src='https://i.ytimg.com/vi/P6UsnAkgN4U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDN99wUcqZRQMOUoYD12Wj-269sdQ' width='200px' alt='Setsuna'>
+      <a href='https://www.youtube.com/watch?v=NytDYFWc--s'>
+        <img src='https://i.ytimg.com/vi/NytDYFWc--s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAam1nXolU_zNGmcEIM13wXQ3X_wQ' width='200px' alt='虹色の戦争'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=P6UsnAkgN4U'>Setsuna</a>
+      <a href='https://www.youtube.com/watch?v=NytDYFWc--s'>虹色の戦争</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Ih2eEKTJXRg'>
-        <img src='https://i.ytimg.com/vi/Ih2eEKTJXRg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQmV1_CEd8Wt2-BmONx_nowgTjJg' width='200px' alt='タイムパラドックス'>
+      <a href='https://www.youtube.com/watch?v=I8fxhn_l08g'>
+        <img src='https://i.ytimg.com/vi/I8fxhn_l08g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDSBeXOzTWFpJfP7MAMG5QX5MRHA' width='200px' alt='Official髭男dism - Choral A [Official Video]'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Ih2eEKTJXRg'>タイムパラドックス</a>
+      <a href='https://www.youtube.com/watch?v=I8fxhn_l08g'>Official髭男dism - Choral A [Official Video]</a>
     </td>
   </tr>
 </table>
