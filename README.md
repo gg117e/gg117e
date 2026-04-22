@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ZI6kQh30aLs'>
-        <img src='https://i.ytimg.com/vi/ZI6kQh30aLs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOt-OJxA0AVDoneSRZp4glsrs0QQ' width='200px' alt='Be Free'>
+      <a href='https://www.youtube.com/watch?v=JX8UNk5bAK8'>
+        <img src='https://i.ytimg.com/vi/JX8UNk5bAK8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8_mjwoEimkQONjmS2J0waFkwd9Q' width='200px' alt='のびしろ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ZI6kQh30aLs'>Be Free</a>
+      <a href='https://www.youtube.com/watch?v=JX8UNk5bAK8'>のびしろ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=NytDYFWc--s'>
-        <img src='https://i.ytimg.com/vi/NytDYFWc--s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAam1nXolU_zNGmcEIM13wXQ3X_wQ' width='200px' alt='虹色の戦争'>
+      <a href='https://www.youtube.com/watch?v=qzK1_zMo1kI'>
+        <img src='https://i.ytimg.com/vi/qzK1_zMo1kI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClQqDW9hqroIxRd5zGwAnrB1I6vg' width='200px' alt='Life'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=NytDYFWc--s'>虹色の戦争</a>
+      <a href='https://www.youtube.com/watch?v=qzK1_zMo1kI'>Life</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=I8fxhn_l08g'>
-        <img src='https://i.ytimg.com/vi/I8fxhn_l08g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDSBeXOzTWFpJfP7MAMG5QX5MRHA' width='200px' alt='Official髭男dism - Choral A [Official Video]'>
+      <a href='https://www.youtube.com/watch?v=mUSVav9pKO4'>
+        <img src='https://i.ytimg.com/vi/mUSVav9pKO4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhv2LigyWBJWYAak96zB6Pocg1cQ' width='200px' alt='Sunny'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=I8fxhn_l08g'>Official髭男dism - Choral A [Official Video]</a>
+      <a href='https://www.youtube.com/watch?v=mUSVav9pKO4'>Sunny</a>
     </td>
   </tr>
 </table>
