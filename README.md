@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ErqUUYWfOBo'>
-        <img src='https://i.ytimg.com/vi/ErqUUYWfOBo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOSuaDQ-44YRfAfNZSNO7AyglYcA' width='200px' alt='決戦スピリット／CHiCO with HoneyWorks'>
+      <a href='https://www.youtube.com/watch?v=eoQAnGx4Pss'>
+        <img src='https://i.ytimg.com/vi/eoQAnGx4Pss/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFEUw0WZq7w7oBTR2L_48UsOCpsw' width='200px' alt='Wherever you are'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ErqUUYWfOBo'>決戦スピリット／CHiCO with HoneyWorks</a>
+      <a href='https://www.youtube.com/watch?v=eoQAnGx4Pss'>Wherever you are</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=HBqH4uJS0PU'>
-        <img src='https://i.ytimg.com/vi/HBqH4uJS0PU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGkaM2ZcnyB8o3mbXgfhwYnNF3NQ' width='200px' alt='Magnetic'>
+      <a href='https://www.youtube.com/watch?v=3eQJUAXy_kU'>
+        <img src='https://i.ytimg.com/vi/3eQJUAXy_kU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHbfg4lj9LHnyG5hF1-qvNr2NFuw' width='200px' alt='恋の前ならえ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=HBqH4uJS0PU'>Magnetic</a>
+      <a href='https://www.youtube.com/watch?v=3eQJUAXy_kU'>恋の前ならえ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=OEsV1iQNQFw'>
-        <img src='https://i.ytimg.com/vi/OEsV1iQNQFw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnGdeEWZl4JUUFduoF9VdWrDnQOw' width='200px' alt='相思相愛'>
+      <a href='https://www.youtube.com/watch?v=nwKt2dWGm2E'>
+        <img src='https://i.ytimg.com/vi/nwKt2dWGm2E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcY7vD2oYljg6A-h8qMezj0KmhpA' width='200px' alt='プロローグ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=OEsV1iQNQFw'>相思相愛</a>
+      <a href='https://www.youtube.com/watch?v=nwKt2dWGm2E'>プロローグ</a>
     </td>
   </tr>
 </table>
