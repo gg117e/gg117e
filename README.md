@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=xFL1OO6siJI'>
-        <img src='https://i.ytimg.com/vi/xFL1OO6siJI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCH_W3xlqcSThQ65fOuXCwQWmIZng' width='200px' alt='Dokokade Hi Wa Noboru'>
+      <a href='https://www.youtube.com/watch?v=Jm2jOK45btw'>
+        <img src='https://i.ytimg.com/vi/Jm2jOK45btw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPMCDVE0qm5SI2owO0-6JB-sPNYw' width='200px' alt='Aiueongaku'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=xFL1OO6siJI'>Dokokade Hi Wa Noboru</a>
+      <a href='https://www.youtube.com/watch?v=Jm2jOK45btw'>Aiueongaku</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=XtBUrzpLjGQ'>
-        <img src='https://i.ytimg.com/vi/XtBUrzpLjGQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChrRq5NxAovVcUY4eqeydpNsNh_w' width='200px' alt='Aiuta'>
+      <a href='https://www.youtube.com/watch?v=9UL2qJtv6Fo'>
+        <img src='https://i.ytimg.com/vi/9UL2qJtv6Fo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSSeEoumn3cU-x48Qt7bcCh1WW2w' width='200px' alt='Tobira'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=XtBUrzpLjGQ'>Aiuta</a>
+      <a href='https://www.youtube.com/watch?v=9UL2qJtv6Fo'>Tobira</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=kNDbaYEp0tU'>
-        <img src='https://i.ytimg.com/vi/kNDbaYEp0tU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvX1Ba1QNm2i-8CkQ93gpnsd2H7g' width='200px' alt='怪獣の花唄'>
+      <a href='https://www.youtube.com/watch?v=W25pTZ5Gmew'>
+        <img src='https://i.ytimg.com/vi/W25pTZ5Gmew/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZ1ZnvcCrWBxZ8Yxd_9b9jXBe7jQ' width='200px' alt='決心'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=kNDbaYEp0tU'>怪獣の花唄</a>
+      <a href='https://www.youtube.com/watch?v=W25pTZ5Gmew'>決心</a>
     </td>
   </tr>
 </table>
