@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=HZFQbyb39lU'>
-        <img src='https://i.ytimg.com/vi/HZFQbyb39lU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAb_miPNN8kFLEVyEwuBij_-Pqiyw' width='200px' alt='I Want You Back'>
+      <a href='https://www.youtube.com/watch?v=UitnwW70eic'>
+        <img src='https://i.ytimg.com/vi/UitnwW70eic/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3st8qo7M3jM2zixcX6Wq1iLLaKg' width='200px' alt='レオ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=HZFQbyb39lU'>I Want You Back</a>
+      <a href='https://www.youtube.com/watch?v=UitnwW70eic'>レオ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=FJOUiX0uuYM'>
-        <img src='https://i.ytimg.com/vi/FJOUiX0uuYM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCRluchGpZf-uIfzjnVnCzRAENzg' width='200px' alt='さよならエレジー'>
+      <a href='https://www.youtube.com/watch?v=A0plb7gdzW4'>
+        <img src='https://i.ytimg.com/vi/A0plb7gdzW4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhPB6jEwaOqitRIOiPhQQSfsOuDw' width='200px' alt='Attitude'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=FJOUiX0uuYM'>さよならエレジー</a>
+      <a href='https://www.youtube.com/watch?v=A0plb7gdzW4'>Attitude</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=rpIsjz-oLOQ'>
-        <img src='https://i.ytimg.com/vi/rpIsjz-oLOQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvKColZ6hajVGwZLVf7Dvo4_g4yg' width='200px' alt='ヒロイン育成計画 feat. 涼海ひより（CV：水瀬いのり）／ HoneyWorks'>
+      <a href='https://www.youtube.com/watch?v=9aveQLtaK30'>
+        <img src='https://i.ytimg.com/vi/9aveQLtaK30/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHLn-eCWxffBVVG5Hi7FNb98J-PA' width='200px' alt='ひまわり'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=rpIsjz-oLOQ'>ヒロイン育成計画 feat. 涼海ひより（CV：水瀬いのり）／ HoneyWorks</a>
+      <a href='https://www.youtube.com/watch?v=9aveQLtaK30'>ひまわり</a>
     </td>
   </tr>
 </table>
