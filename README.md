@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=oJd3TP5kb6k'>
-        <img src='https://i.ytimg.com/vi/oJd3TP5kb6k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVr-TA9PEhiwjzoFO-DmLlBYVIAg' width='200px' alt='New My Normal'>
+      <a href='https://www.youtube.com/watch?v=tIKnAwgjHWU'>
+        <img src='https://i.ytimg.com/vi/tIKnAwgjHWU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMg_KeVtmmXSjur37sZtESTrMehg' width='200px' alt='Shunshu'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=oJd3TP5kb6k'>New My Normal</a>
+      <a href='https://www.youtube.com/watch?v=tIKnAwgjHWU'>Shunshu</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=29vX07Sz3kw'>
-        <img src='https://i.ytimg.com/vi/29vX07Sz3kw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKaU55q7u0HPNBVdmcF1-ZubeeJA' width='200px' alt='Believe'>
+      <a href='https://www.youtube.com/watch?v=YFOg4grr_yA'>
+        <img src='https://i.ytimg.com/vi/YFOg4grr_yA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA78r8IZpJxtjfrvHIwGm6oVawSAg' width='200px' alt='紙一重'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=29vX07Sz3kw'>Believe</a>
+      <a href='https://www.youtube.com/watch?v=YFOg4grr_yA'>紙一重</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=EaC8Dgtvrb0'>
-        <img src='https://i.ytimg.com/vi/EaC8Dgtvrb0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDen1M2a_gSpOzmWdpa2e2nUIB8mg' width='200px' alt='そんなbitterな話'>
+      <a href='https://www.youtube.com/watch?v=SaVLctSLnh8'>
+        <img src='https://i.ytimg.com/vi/SaVLctSLnh8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAo2EVknq2t_RyeExV89JobTcXiVw' width='200px' alt='ピースサイン - Peace Sign'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=EaC8Dgtvrb0'>そんなbitterな話</a>
+      <a href='https://www.youtube.com/watch?v=SaVLctSLnh8'>ピースサイン - Peace Sign</a>
     </td>
   </tr>
 </table>
