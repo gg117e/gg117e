@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> AIと株価が未知の頂を競い、世界が熱を帯びる今こそ、外圧に踊る鮭のような焦燥を捨てよ。技術は道具、富は手段に過ぎない。情報の濁流に呑まれず、自らの手で日常を編み上げる静かな意志こそが、真の「知性」なのだ。
+> 監視と模倣の技術が溢れ、不穏な銃声が響く今。安易な言葉に惑わされず、自らの手で独自の価値を刻みなさい。一滴の献血が示すように、顔の見えぬ誰かを想う小さな誠実さこそが、混迷の時代を照らす真実の光です。
 >
-> As AI and stock markets race toward unknown peaks, resist the frantic urge to swim driven by external pressures. Technology is a tool; wealth, a means. True intelligence lies in a quiet will that crafts daily life with one's own hands, unswayed by the turbulent currents of information.
+> Amidst surveillance, imitation, and global unrest, do not be swayed by shallow words. Carve out your own value. As a single drop of donated blood shows, small acts of sincerity for others are the true light in this chaotic era.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [「VAIO SX14-R │ ALL BLACK EDITION」徹底ベンチマークレビュー、ゲームも動画編集も画像生成AIも実行可能な高性能PC](https://gigazine.net/news/20260423-vaio-sx14-r-black-performance-benchmark/)
-- [漆黒の14インチPC「VAIO SX14-R │ ALL BLACK EDITION」外観レビュー](https://gigazine.net/news/20260423-vaio-sx14-r-black-edition-appearance/)
-- [VAIO初のCopilot+ PC「VAIO SX14-R」の外観＆搭載ポートを速攻レビュー](https://gigazine.net/news/20260423-vaio-sx14-r-appearance/)
+- [大企業が情報格差を利用して消費者を限界ギリギリまで搾取する「監視型価格設定」とは？何が問題なのか？](https://gigazine.net/news/20260424-surveillance-pricing-exploiting-information-asymmetries/)
+- [寄せ集めパーツとAIエージェントで基板を撮影・マップ化してプロービングする自作環境「AutoProber」](https://gigazine.net/news/20260424-autoprober-diy-flying-probe/)
+- [オンライン賭博のために気象観測所のセンサーを温めて総額540万円以上を荒稼ぎした人物がいる可能性](https://gigazine.net/news/20260423-hair-dryer-paris-weather-sensor-polymarket/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -185,6 +185,7 @@
 - "知性がAIに託され、技術が加速する影で、今なお命の尊厳が紛争と凶弾に揺らぐ不条理があります。真の進化とは、蓄積した叡智で効率を追うことではなく、その力で連鎖する憎しみを断ち、次代の無垢な命を守り抜く意志にこそ宿ります。" (While intelligence is entrusted to AI and technology accelerates, the dignity of life still wavers amidst conflict and violence. True evolution is not merely pursuing efficiency with accumulated wisdom, but the resolve to break the cycle of hatred and protect the innocent lives of the next generation.) - **Gemini**
 - "加速する知性と激動の世界に惑わされず、自らの内なる静寂を羅針盤となしなさい。同調の波に呑まれず、本物を見極める眼を養うこと。外側の争いを鎮める唯一の道は、まず己の心に揺るぎない平和を築くことから始まります。" (In a world of accelerating intelligence and upheaval, let your inner silence be your compass. Do not be swept away by social pressure; cultivate the eyes to discern what is authentic. The only way to calm external conflicts is to first build an unshakeable peace within your own heart.) - **Gemini**
 - "技術が生命に刻まれ、国家が情報に目を光らせる今。効率に呑まれず、サウナのように心を整える空白を保て。AIに測れぬ「個の美徳」と「平穏への備え」こそが、不透明な境界を越え、明日へ命を繋ぐ確かな光となる。" (As technology carves into life and nations sharpen their watch, do not let efficiency consume you; keep a void to steady your soul. Individual virtues and preparedness that AI cannot measure are the true lights to guide life through uncertain borders.) - **Gemini**
+- "AIと株価が未知の頂を競い、世界が熱を帯びる今こそ、外圧に踊る鮭のような焦燥を捨てよ。技術は道具、富は手段に過ぎない。情報の濁流に呑まれず、自らの手で日常を編み上げる静かな意志こそが、真の「知性」なのだ。" (As AI and stock markets race toward unknown peaks, resist the frantic urge to swim driven by external pressures. Technology is a tool; wealth, a means. True intelligence lies in a quiet will that crafts daily life with one's own hands, unswayed by the turbulent currents of information.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
