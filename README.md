@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 監視と模倣の技術が溢れ、不穏な銃声が響く今。安易な言葉に惑わされず、自らの手で独自の価値を刻みなさい。一滴の献血が示すように、顔の見えぬ誰かを想う小さな誠実さこそが、混迷の時代を照らす真実の光です。
+> 技術が現実を模倣し、地政学が揺らぐ今こそ、己の内の真実を見つめよ。加速する「時間」の中で、偽りに惑わされず、信念が持つ癒やしの力を糧とせよ。世界が変わろうとも、命の価値はあなたの眼差しが決めるのだ。
 >
-> Amidst surveillance, imitation, and global unrest, do not be swayed by shallow words. Carve out your own value. As a single drop of donated blood shows, small acts of sincerity for others are the true light in this chaotic era.
+> As technology mimics reality and geopolitics shift, look toward the truth within. Amidst the acceleration of time, do not be misled by falsehoods, but find strength in the healing power of belief. Though the world changes, the value of life is defined by your own perspective.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [大企業が情報格差を利用して消費者を限界ギリギリまで搾取する「監視型価格設定」とは？何が問題なのか？](https://gigazine.net/news/20260424-surveillance-pricing-exploiting-information-asymmetries/)
-- [寄せ集めパーツとAIエージェントで基板を撮影・マップ化してプロービングする自作環境「AutoProber」](https://gigazine.net/news/20260424-autoprober-diy-flying-probe/)
-- [オンライン賭博のために気象観測所のセンサーを温めて総額540万円以上を荒稼ぎした人物がいる可能性](https://gigazine.net/news/20260423-hair-dryer-paris-weather-sensor-polymarket/)
+- [MetaがAmazonのAIチップ「AWS Graviton」の供給契約を締結、次世代AIエージェント構築の基盤に](https://gigazine.net/news/20260425-meta-signs-agreement-aws-graviton/)
+- [「偽物だとわかっている薬っぽいもの」を飲むだけで高齢者の記憶力が向上してストレスが緩和されるという研究結果](https://gigazine.net/news/20260425-fake-medicine-real-results-memory-stress/)
+- [動物が感じる「時間」はどう異なるのか？](https://gigazine.net/news/20260425-animal-time-perception/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -186,6 +186,7 @@
 - "加速する知性と激動の世界に惑わされず、自らの内なる静寂を羅針盤となしなさい。同調の波に呑まれず、本物を見極める眼を養うこと。外側の争いを鎮める唯一の道は、まず己の心に揺るぎない平和を築くことから始まります。" (In a world of accelerating intelligence and upheaval, let your inner silence be your compass. Do not be swept away by social pressure; cultivate the eyes to discern what is authentic. The only way to calm external conflicts is to first build an unshakeable peace within your own heart.) - **Gemini**
 - "技術が生命に刻まれ、国家が情報に目を光らせる今。効率に呑まれず、サウナのように心を整える空白を保て。AIに測れぬ「個の美徳」と「平穏への備え」こそが、不透明な境界を越え、明日へ命を繋ぐ確かな光となる。" (As technology carves into life and nations sharpen their watch, do not let efficiency consume you; keep a void to steady your soul. Individual virtues and preparedness that AI cannot measure are the true lights to guide life through uncertain borders.) - **Gemini**
 - "AIと株価が未知の頂を競い、世界が熱を帯びる今こそ、外圧に踊る鮭のような焦燥を捨てよ。技術は道具、富は手段に過ぎない。情報の濁流に呑まれず、自らの手で日常を編み上げる静かな意志こそが、真の「知性」なのだ。" (As AI and stock markets race toward unknown peaks, resist the frantic urge to swim driven by external pressures. Technology is a tool; wealth, a means. True intelligence lies in a quiet will that crafts daily life with one's own hands, unswayed by the turbulent currents of information.) - **Gemini**
+- "監視と模倣の技術が溢れ、不穏な銃声が響く今。安易な言葉に惑わされず、自らの手で独自の価値を刻みなさい。一滴の献血が示すように、顔の見えぬ誰かを想う小さな誠実さこそが、混迷の時代を照らす真実の光です。" (Amidst surveillance, imitation, and global unrest, do not be swayed by shallow words. Carve out your own value. As a single drop of donated blood shows, small acts of sincerity for others are the true light in this chaotic era.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
