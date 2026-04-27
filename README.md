@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 巨大資本がAIに注がれ技術が職を奪う影で、今問われるのは「人の温もり」です。混乱と経済の揺らぎの中、知識を競うより隣人の心に寄り添う一言を。歴史に学び命を分かち合う誠実さこそが、不確実な未来を照らす灯となります。
+> 技術が情報を圧縮し、数字が世界を熱狂させても、幸福の解像度は自分の中にしかありません。綻びは細部に宿り、真実は深層に隠れています。外側の喧騒に惑わされず、自らの「核」を見つめ、揺るがぬ日常を丁寧に紡ぎなさい。
 >
-> As vast capital flows into AI and technology reshapes labor, human warmth is what truly matters. In a world of conflict and economic flux, prioritize empathy over intellect. By learning from history and sharing the gift of life, we light the only path through an uncertain future.
+> Even as technology compresses information and numbers drive global frenzy, the resolution of happiness exists only within yourself. Vulnerabilities lie in the details, and truth is hidden in the depths. Do not be misled by external noise; look at your own core and carefully weave an unshakeable daily life.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [Googleが競合AI企業のAnthropicに最大6兆4000億円を投資](https://gigazine.net/news/20260426-google-invest-up-to-40-billion-anthropic/)
-- [言語を学ぶ人にとってネイティブスピーカーがしばしば失礼だと感じられる理由とは](https://gigazine.net/news/20260426-second-language-rude/)
-- [無料で自分好みのダッシュボードを作成できユーザーごとにログインもできる「Dashy」、セルフホスト可能でDockerで動作OK](https://gigazine.net/news/20260425-dashy/)
+- [Windows Updateが大幅な改善へ、35日間ごとに無期限に一時停止できるように](https://gigazine.net/news/20260427-windows-update-updated/)
+- [1日の予定に必要な情報が日常生活の中でパッと目に入ってストレスフリーな「SwitchBot スマートデイリーステーション」を使ってみた](https://gigazine.net/news/20260427-switchbot-smart-daily-station/)
+- [2025年発売のiPhone 17シリーズ＆iPhone Airでバッテリー切れ後に充電しても電源が入らなくなる問題が報告されている](https://gigazine.net/news/20260427-iphones-problem-turning-back-battery-runs-out/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -188,6 +188,7 @@
 - "AIと株価が未知の頂を競い、世界が熱を帯びる今こそ、外圧に踊る鮭のような焦燥を捨てよ。技術は道具、富は手段に過ぎない。情報の濁流に呑まれず、自らの手で日常を編み上げる静かな意志こそが、真の「知性」なのだ。" (As AI and stock markets race toward unknown peaks, resist the frantic urge to swim driven by external pressures. Technology is a tool; wealth, a means. True intelligence lies in a quiet will that crafts daily life with one's own hands, unswayed by the turbulent currents of information.) - **Gemini**
 - "監視と模倣の技術が溢れ、不穏な銃声が響く今。安易な言葉に惑わされず、自らの手で独自の価値を刻みなさい。一滴の献血が示すように、顔の見えぬ誰かを想う小さな誠実さこそが、混迷の時代を照らす真実の光です。" (Amidst surveillance, imitation, and global unrest, do not be swayed by shallow words. Carve out your own value. As a single drop of donated blood shows, small acts of sincerity for others are the true light in this chaotic era.) - **Gemini**
 - "技術が現実を模倣し、地政学が揺らぐ今こそ、己の内の真実を見つめよ。加速する「時間」の中で、偽りに惑わされず、信念が持つ癒やしの力を糧とせよ。世界が変わろうとも、命の価値はあなたの眼差しが決めるのだ。" (As technology mimics reality and geopolitics shift, look toward the truth within. Amidst the acceleration of time, do not be misled by falsehoods, but find strength in the healing power of belief. Though the world changes, the value of life is defined by your own perspective.) - **Gemini**
+- "巨大資本がAIに注がれ技術が職を奪う影で、今問われるのは「人の温もり」です。混乱と経済の揺らぎの中、知識を競うより隣人の心に寄り添う一言を。歴史に学び命を分かち合う誠実さこそが、不確実な未来を照らす灯となります。" (As vast capital flows into AI and technology reshapes labor, human warmth is what truly matters. In a world of conflict and economic flux, prioritize empathy over intellect. By learning from history and sharing the gift of life, we light the only path through an uncertain future.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
