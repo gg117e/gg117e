@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Tj9fTEK-BA8'>
-        <img src='https://i.ytimg.com/vi/Tj9fTEK-BA8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxwEeFTF7jC9sl2oBjTENeVgTkQg' width='200px' alt='まちがいさがし'>
+      <a href='https://www.youtube.com/watch?v=yFRNB8Jji4Y'>
+        <img src='https://i.ytimg.com/vi/yFRNB8Jji4Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAa-LXQ-EF_QYmSvbdUJF-CyB5nwA' width='200px' alt='燈'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Tj9fTEK-BA8'>まちがいさがし</a>
+      <a href='https://www.youtube.com/watch?v=yFRNB8Jji4Y'>燈</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=SVkGRoLicuA'>
-        <img src='https://i.ytimg.com/vi/SVkGRoLicuA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEGWRcMYMGbnY-HOcgFSINA1NRIA' width='200px' alt='Sukidakara'>
+      <a href='https://www.youtube.com/watch?v=rA_B_tm-Vz0'>
+        <img src='https://i.ytimg.com/vi/rA_B_tm-Vz0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIfs7N9nZxbosI-CRH47DBKhsHhQ' width='200px' alt='色彩'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=SVkGRoLicuA'>Sukidakara</a>
+      <a href='https://www.youtube.com/watch?v=rA_B_tm-Vz0'>色彩</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Hp9Z5TP1WfA'>
-        <img src='https://i.ytimg.com/vi/Hp9Z5TP1WfA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbKtFxlAWC69VyMDcx9N78dfe_Dw' width='200px' alt='115万キロのフィルム'>
+      <a href='https://www.youtube.com/watch?v=OEsV1iQNQFw'>
+        <img src='https://i.ytimg.com/vi/OEsV1iQNQFw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnGdeEWZl4JUUFduoF9VdWrDnQOw' width='200px' alt='相思相愛'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Hp9Z5TP1WfA'>115万キロのフィルム</a>
+      <a href='https://www.youtube.com/watch?v=OEsV1iQNQFw'>相思相愛</a>
     </td>
   </tr>
 </table>
