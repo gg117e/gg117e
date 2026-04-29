@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Tj9fTEK-BA8'>
-        <img src='https://i.ytimg.com/vi/Tj9fTEK-BA8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxwEeFTF7jC9sl2oBjTENeVgTkQg' width='200px' alt='まちがいさがし'>
+      <a href='https://www.youtube.com/watch?v=kZn8kahY_-8'>
+        <img src='https://i.ytimg.com/vi/kZn8kahY_-8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBH4BWSxhHVCNATHzYUxY48I2DFdw' width='200px' alt='Irotoridori'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Tj9fTEK-BA8'>まちがいさがし</a>
+      <a href='https://www.youtube.com/watch?v=kZn8kahY_-8'>Irotoridori</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=RuSNeIcPamk'>
-        <img src='https://i.ytimg.com/vi/RuSNeIcPamk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACQElNN-4SFIx_aT1F-ScHtTlzJA' width='200px' alt='【Official】Uru 『Love Song』  フジテレビ系 木曜劇場「推しの王子様」主題歌'>
+      <a href='https://www.youtube.com/watch?v=H_oxAmLvufM'>
+        <img src='https://i.ytimg.com/vi/H_oxAmLvufM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdaJT8v26IBiINKiuNPqHQR_5vAQ' width='200px' alt='BE:FIRST / I Want You Back -Official Audio-'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=RuSNeIcPamk'>【Official】Uru 『Love Song』  フジテレビ系 木曜劇場「推しの王子様」主題歌</a>
+      <a href='https://www.youtube.com/watch?v=H_oxAmLvufM'>BE:FIRST / I Want You Back -Official Audio-</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=1jS94sWWokk'>
-        <img src='https://i.ytimg.com/vi/1jS94sWWokk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxqYiCxzeXYaMH_2cNJD-UWssuIQ' width='200px' alt='MIRROR MIRROR'>
+      <a href='https://www.youtube.com/watch?v=bFG7vT99Y_Q'>
+        <img src='https://i.ytimg.com/vi/bFG7vT99Y_Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWStkU-qU8U77B0aJaq_3E7tu_NA' width='200px' alt='Namidazora'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=1jS94sWWokk'>MIRROR MIRROR</a>
+      <a href='https://www.youtube.com/watch?v=bFG7vT99Y_Q'>Namidazora</a>
     </td>
   </tr>
 </table>
