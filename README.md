@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> AIが瞬時に真実を暴き、国家の枠組みが揺らぐ時代。タコが命を繋ぐ唯一の腕を必死に守るように、あなたも情報の荒波から「自分だけの芯」を死守せよ。技術は過去を蘇らせるが、未来を創るのは今のあなたの誠実さだ。
+> 加速する技術や経済の荒波に惑わされず、心臓が鼓動を刻むように、自らの確かなリズムを守り抜いてください。余計なものを削ぎ落とし、本質に根ざして歩む一途な姿勢こそが、激動の世界で自分を失わずに生きるための唯一の解となります。
 >
-> In an era where AI unveils truth instantly and global orders shift, protect your core as fiercely as an octopus guards its lifeline. While technology can revive the past, only your integrity in the present can forge a meaningful future.
+> Do not let accelerating technology or economic turbulence sway you. Like the heart’s constant beat, maintain your own steady rhythm. Stripping away the superficial and walking with a focus on your core values is the only way to remain true to yourself in this volatile world.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [100年以上研究されてもアルツハイマー病の治療法が見つからない理由とは？](https://gigazine.net/news/20260429-alzheimers-disease-research/)
-- [「AirPods Ultra」が2026年後半に発売される可能性が高まっている](https://gigazine.net/news/20260429-airpods-ultra/)
-- [オスのタコが交尾に必要な1本の腕を必死に守っていることが判明](https://gigazine.net/news/20260429-octopus-avoid-using-hectocotylized-arm/)
+- [すぐにAIスマートホームを自宅で実現できる「SwitchBot AIハブ」を使ってみた、家電＋AIをいろいろ構築できてなんとあのOpenClaw環境もボタンを押すだけでサクッと完了](https://gigazine.net/news/20260430-switchbot-aihub-openclaw/)
+- [Microsoftが2026年度第3四半期の業績を発表、クラウド事業が好調もXboxはハードウェアの売上が33％も減少](https://gigazine.net/news/20260430-microsoft-fy26-q3-earnings-reports/)
+- [夢の全固体電池の実用化を阻む「樹枝状結晶(デンドライト)」が形成される理由が明らかに](https://gigazine.net/news/20260430-short-circuit-solid-state-batteries-dendrite/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -191,6 +191,7 @@
 - "巨大資本がAIに注がれ技術が職を奪う影で、今問われるのは「人の温もり」です。混乱と経済の揺らぎの中、知識を競うより隣人の心に寄り添う一言を。歴史に学び命を分かち合う誠実さこそが、不確実な未来を照らす灯となります。" (As vast capital flows into AI and technology reshapes labor, human warmth is what truly matters. In a world of conflict and economic flux, prioritize empathy over intellect. By learning from history and sharing the gift of life, we light the only path through an uncertain future.) - **Gemini**
 - "技術が情報を圧縮し、数字が世界を熱狂させても、幸福の解像度は自分の中にしかありません。綻びは細部に宿り、真実は深層に隠れています。外側の喧騒に惑わされず、自らの「核」を見つめ、揺るがぬ日常を丁寧に紡ぎなさい。" (Even as technology compresses information and numbers drive global frenzy, the resolution of happiness exists only within yourself. Vulnerabilities lie in the details, and truth is hidden in the depths. Do not be misled by external noise; look at your own core and carefully weave an unshakeable daily life.) - **Gemini**
 - "盟約が揺らぎ対立が深まる今、真の生存戦略は「生の温もり」への回帰にあります。情報の虚像に惑わされず、自らの手で確かな現実を耕しなさい。凍てつく時代を溶かすのは、冷徹な理屈ではなく、隣人と分かち合う静かな熱なのです。" (As alliances shift and conflicts deepen, the ultimate survival strategy lies in returning to the warmth of life. Do not be misled by digital illusions; cultivate your own tangible reality. What thaws a frozen era is not cold logic, but the quiet heat shared with others.) - **Gemini**
+- "AIが瞬時に真実を暴き、国家の枠組みが揺らぐ時代。タコが命を繋ぐ唯一の腕を必死に守るように、あなたも情報の荒波から「自分だけの芯」を死守せよ。技術は過去を蘇らせるが、未来を創るのは今のあなたの誠実さだ。" (In an era where AI unveils truth instantly and global orders shift, protect your core as fiercely as an octopus guards its lifeline. While technology can revive the past, only your integrity in the present can forge a meaningful future.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
