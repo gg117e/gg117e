@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=i7Jy4GC3l6U'>
-        <img src='https://i.ytimg.com/vi/i7Jy4GC3l6U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCejND-9KtsWSEPV3xhsot3dcMUYQ' width='200px' alt='Nachtmusik'>
+      <a href='https://www.youtube.com/watch?v=SvtSWhyw7vs'>
+        <img src='https://i.ytimg.com/vi/SvtSWhyw7vs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtAy96XVYaLQyKcD0j4-yFSZRqrQ' width='200px' alt='TATTOO'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=i7Jy4GC3l6U'>Nachtmusik</a>
+      <a href='https://www.youtube.com/watch?v=SvtSWhyw7vs'>TATTOO</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Pz9-XJ8SFKU'>
-        <img src='https://i.ytimg.com/vi/Pz9-XJ8SFKU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBq-Etp03Dzv0fNmneyfOmTHqbeTQ' width='200px' alt='Taketen'>
+      <a href='https://www.youtube.com/watch?v=DO_aopUeFnw'>
+        <img src='https://i.ytimg.com/vi/DO_aopUeFnw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKWBCw1miJEhYdmMNyNruwf_BWDA' width='200px' alt='Lilac'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Pz9-XJ8SFKU'>Taketen</a>
+      <a href='https://www.youtube.com/watch?v=DO_aopUeFnw'>Lilac</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=EqaDNpV5FvI'>
-        <img src='https://i.ytimg.com/vi/EqaDNpV5FvI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxXHnjB2e3tyxlKUuMfzSK7E7E8g' width='200px' alt='Blissful'>
+      <a href='https://www.youtube.com/watch?v=ZODK5o0PCbk'>
+        <img src='https://i.ytimg.com/vi/ZODK5o0PCbk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCO4i_-hjOexA9d03JV7fqdobq3yg' width='200px' alt='Imato Anokorono Bokura'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=EqaDNpV5FvI'>Blissful</a>
+      <a href='https://www.youtube.com/watch?v=ZODK5o0PCbk'>Imato Anokorono Bokura</a>
     </td>
   </tr>
 </table>
