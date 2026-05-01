@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=KKi7KXynBwA'>
-        <img src='https://i.ytimg.com/vi/KKi7KXynBwA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFTKwBCcvNjWzxputKmC9GKipoZQ' width='200px' alt='名前を呼ぶよ'>
+      <a href='https://www.youtube.com/watch?v=EpM37GEGhDc'>
+        <img src='https://i.ytimg.com/vi/EpM37GEGhDc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTartsk2_M7nJLY8In09O7fUUIwQ' width='200px' alt='Itoshi Kimie (Essential Ver.)'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=KKi7KXynBwA'>名前を呼ぶよ</a>
+      <a href='https://www.youtube.com/watch?v=EpM37GEGhDc'>Itoshi Kimie (Essential Ver.)</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Mr2EWEPFtwk'>
-        <img src='https://i.ytimg.com/vi/Mr2EWEPFtwk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB40b7gpdm4JT-YxCurTEsFUH324g' width='200px' alt='花になって - Be a flower'>
+      <a href='https://www.youtube.com/watch?v=taMwG5lOq80'>
+        <img src='https://i.ytimg.com/vi/taMwG5lOq80/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtRHtD3sc1odeK-K8ONv0uYxv0hw' width='200px' alt='SWEET TWEET'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Mr2EWEPFtwk'>花になって - Be a flower</a>
+      <a href='https://www.youtube.com/watch?v=taMwG5lOq80'>SWEET TWEET</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=hSdcy2_vtaQ'>
-        <img src='https://i.ytimg.com/vi/hSdcy2_vtaQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPw24hhUebfUwdjUQ9IOX0zI-_3Q' width='200px' alt='僕らまた (Us, again) - SG (Official Lyric Video)'>
+      <a href='https://www.youtube.com/watch?v=LoyA7GvfOwA'>
+        <img src='https://i.ytimg.com/vi/LoyA7GvfOwA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAuADigIMCAAQARhkIGQoZDAP&rs=AOn4CLBk6pXQ6KVrYlVuaAckuf6xf3Owbg' width='200px' alt='Sad Song'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=hSdcy2_vtaQ'>僕らまた (Us, again) - SG (Official Lyric Video)</a>
+      <a href='https://www.youtube.com/watch?v=LoyA7GvfOwA'>Sad Song</a>
     </td>
   </tr>
 </table>
