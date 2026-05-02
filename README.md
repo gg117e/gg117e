@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=dHq0a22CPE8'>
-        <img src='https://i.ytimg.com/vi/dHq0a22CPE8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyQjsBuH2KA9LaLZROE2e6F-jQbg' width='200px' alt='GReeeeN - 恋'>
+      <a href='https://www.youtube.com/watch?v=jBILfisAXXs'>
+        <img src='https://i.ytimg.com/vi/jBILfisAXXs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6To1bSVwvvhDTNXjGY7ajk9CU7w' width='200px' alt='夢の外へ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=dHq0a22CPE8'>GReeeeN - 恋</a>
+      <a href='https://www.youtube.com/watch?v=jBILfisAXXs'>夢の外へ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=EqaDNpV5FvI'>
-        <img src='https://i.ytimg.com/vi/EqaDNpV5FvI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxXHnjB2e3tyxlKUuMfzSK7E7E8g' width='200px' alt='Blissful'>
+      <a href='https://www.youtube.com/watch?v=kNDbaYEp0tU'>
+        <img src='https://i.ytimg.com/vi/kNDbaYEp0tU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvX1Ba1QNm2i-8CkQ93gpnsd2H7g' width='200px' alt='怪獣の花唄'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=EqaDNpV5FvI'>Blissful</a>
+      <a href='https://www.youtube.com/watch?v=kNDbaYEp0tU'>怪獣の花唄</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=p1qM75a9FeE'>
-        <img src='https://i.ytimg.com/vi/p1qM75a9FeE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClYikOff8dhkp27FSkVQFXZWivEA' width='200px' alt='Official髭男dism - HELLO［Official Video］'>
+      <a href='https://www.youtube.com/watch?v=qKymy-TvdVE'>
+        <img src='https://i.ytimg.com/vi/qKymy-TvdVE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDP1yLmmRvXLT_Vim3sYALhDOyskw' width='200px' alt='Rain'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=p1qM75a9FeE'>Official髭男dism - HELLO［Official Video］</a>
+      <a href='https://www.youtube.com/watch?v=qKymy-TvdVE'>Rain</a>
     </td>
   </tr>
 </table>
