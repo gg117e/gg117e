@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 技術が人を模し、言葉が武器となる時代。だが、AIにはない「痛みを知る心」こそが、荒れる世界を繋ぐ光となる。真偽を分けるのは記号ではなく、あなたの誠実な生き様だ。自分という唯一の証を、静かに刻み続けよ。
+> 進化するAIと揺らぐ国際秩序、豊かさの中での困窮。高度な技術が世界を覆っても、真の平安はシステムの中にはない。分断を煽る声に惑わされず、他者を慈しみ、不確実な今を共に生きる「心の秩序」を自分の中に築きなさい。
 >
-> In an era where technology mimics humans and words become weapons, it is the 'heart that knows pain'—which AI lacks—that lights our way. Authenticity is proven not by badges, but by your integrity. Quietly carve your unique mark upon existence.
+> As AI evolves and global orders shift, souls starve despite material gain. True peace resides not in systems, but in the heart. Do not be swayed by division; build an inner order that cherishes others and thrives in this uncertain present.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [Spotifyが人間とAIを区別するために認証済みアーティストバッジを導入](https://gigazine.net/news/20260501-verified-by-spotify/)
-- [憧れの女性をゲーム化したい男VSゲームじゃなく自分を見てほしい女のフルカラーマンガ「作らせて！絵島さん」を描き下ろしマンガやおまけ資料たっぷりでリリースしました](https://gigazine.net/news/20260501-eshima-san-comics/)
-- [Appleが2026年度第2四半期の業績を発表、iPhone 17シリーズの好調だけでなくAI需要によるMacの販売台数の伸びも](https://gigazine.net/news/20260501-apple-2026q2-earnings-reports/)
+- [Xが広告プラットフォームを再構築、会社史上最大規模のシステム刷新で最新AIモデルを導入](https://gigazine.net/news/20260502-x-ai-powered-ad-platform/)
+- [【GW電子書籍セール50％オフ】Kindle本をGW期間中まるっと半額にしたセールを開催しました！【2026年5月6日(水)まで】](https://gigazine.net/news/20260502-ebook-gw-sale/)
+- [野生チンパンジー最大のコロニーが暴力と殺し合いで2つの勢力に分裂](https://gigazine.net/news/20260502-chimpanzees-lethal-conflict/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -193,6 +193,7 @@
 - "盟約が揺らぎ対立が深まる今、真の生存戦略は「生の温もり」への回帰にあります。情報の虚像に惑わされず、自らの手で確かな現実を耕しなさい。凍てつく時代を溶かすのは、冷徹な理屈ではなく、隣人と分かち合う静かな熱なのです。" (As alliances shift and conflicts deepen, the ultimate survival strategy lies in returning to the warmth of life. Do not be misled by digital illusions; cultivate your own tangible reality. What thaws a frozen era is not cold logic, but the quiet heat shared with others.) - **Gemini**
 - "AIが瞬時に真実を暴き、国家の枠組みが揺らぐ時代。タコが命を繋ぐ唯一の腕を必死に守るように、あなたも情報の荒波から「自分だけの芯」を死守せよ。技術は過去を蘇らせるが、未来を創るのは今のあなたの誠実さだ。" (In an era where AI unveils truth instantly and global orders shift, protect your core as fiercely as an octopus guards its lifeline. While technology can revive the past, only your integrity in the present can forge a meaningful future.) - **Gemini**
 - "加速する技術や経済の荒波に惑わされず、心臓が鼓動を刻むように、自らの確かなリズムを守り抜いてください。余計なものを削ぎ落とし、本質に根ざして歩む一途な姿勢こそが、激動の世界で自分を失わずに生きるための唯一の解となります。" (Do not let accelerating technology or economic turbulence sway you. Like the heart’s constant beat, maintain your own steady rhythm. Stripping away the superficial and walking with a focus on your core values is the only way to remain true to yourself in this volatile world.) - **Gemini**
+- "技術が人を模し、言葉が武器となる時代。だが、AIにはない「痛みを知る心」こそが、荒れる世界を繋ぐ光となる。真偽を分けるのは記号ではなく、あなたの誠実な生き様だ。自分という唯一の証を、静かに刻み続けよ。" (In an era where technology mimics humans and words become weapons, it is the 'heart that knows pain'—which AI lacks—that lights our way. Authenticity is proven not by badges, but by your integrity. Quietly carve your unique mark upon existence.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
