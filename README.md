@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=wykx9MzjL-8'>
-        <img src='https://i.ytimg.com/vi/wykx9MzjL-8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaoH4EOxmPn7by1akUA2OC7YMMhg' width='200px' alt='AAA / "Wake up!"Music Video'>
+      <a href='https://www.youtube.com/watch?v=dHq0a22CPE8'>
+        <img src='https://i.ytimg.com/vi/dHq0a22CPE8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyQjsBuH2KA9LaLZROE2e6F-jQbg' width='200px' alt='GReeeeN - 恋'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=wykx9MzjL-8'>AAA / "Wake up!"Music Video</a>
+      <a href='https://www.youtube.com/watch?v=dHq0a22CPE8'>GReeeeN - 恋</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=lUNO0Tt87zo'>
-        <img src='https://i.ytimg.com/vi/lUNO0Tt87zo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACIrFHuVynvp-eNkxrH-yYEh9C7Q' width='200px' alt='空'>
+      <a href='https://www.youtube.com/watch?v=EqaDNpV5FvI'>
+        <img src='https://i.ytimg.com/vi/EqaDNpV5FvI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxXHnjB2e3tyxlKUuMfzSK7E7E8g' width='200px' alt='Blissful'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=lUNO0Tt87zo'>空</a>
+      <a href='https://www.youtube.com/watch?v=EqaDNpV5FvI'>Blissful</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=sssoboSVd6A'>
-        <img src='https://i.ytimg.com/vi/sssoboSVd6A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABqS6M3D5Tk6on9fa68IULKZQALA' width='200px' alt='Ayumi'>
+      <a href='https://www.youtube.com/watch?v=p1qM75a9FeE'>
+        <img src='https://i.ytimg.com/vi/p1qM75a9FeE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClYikOff8dhkp27FSkVQFXZWivEA' width='200px' alt='Official髭男dism - HELLO［Official Video］'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=sssoboSVd6A'>Ayumi</a>
+      <a href='https://www.youtube.com/watch?v=p1qM75a9FeE'>Official髭男dism - HELLO［Official Video］</a>
     </td>
   </tr>
 </table>
