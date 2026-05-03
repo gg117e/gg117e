@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=go6WjvgMYjU'>
-        <img src='https://i.ytimg.com/vi/go6WjvgMYjU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNQUVsFUfDV8o-RKYab7T9eBFTxA' width='200px' alt='17才'>
+      <a href='https://www.youtube.com/watch?v=i7Jy4GC3l6U'>
+        <img src='https://i.ytimg.com/vi/i7Jy4GC3l6U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCejND-9KtsWSEPV3xhsot3dcMUYQ' width='200px' alt='Nachtmusik'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=go6WjvgMYjU'>17才</a>
+      <a href='https://www.youtube.com/watch?v=i7Jy4GC3l6U'>Nachtmusik</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=mvGHElGp4dE'>
-        <img src='https://i.ytimg.com/vi/mvGHElGp4dE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZFvJf_4jpwfRfSNlea6vUs4Bm0g' width='200px' alt='Skip'>
+      <a href='https://www.youtube.com/watch?v=12IZ8oyF6X4'>
+        <img src='https://i.ytimg.com/vi/12IZ8oyF6X4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTHYqp8jlD6v-pEq1V60UnghEk6Q' width='200px' alt='Shuhasu'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=mvGHElGp4dE'>Skip</a>
+      <a href='https://www.youtube.com/watch?v=12IZ8oyF6X4'>Shuhasu</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=LoyA7GvfOwA'>
-        <img src='https://i.ytimg.com/vi/LoyA7GvfOwA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAuADigIMCAAQARhkIGQoZDAP&rs=AOn4CLBk6pXQ6KVrYlVuaAckuf6xf3Owbg' width='200px' alt='Sad Song'>
+      <a href='https://www.youtube.com/watch?v=P7bVX6fJfCg'>
+        <img src='https://i.ytimg.com/vi/P7bVX6fJfCg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCibqA8MwaVWSpL2VR6z3K_i0S3Rw' width='200px' alt='Omoinotake | IKUOKUKONEN 【Official Music Video】'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=LoyA7GvfOwA'>Sad Song</a>
+      <a href='https://www.youtube.com/watch?v=P7bVX6fJfCg'>Omoinotake | IKUOKUKONEN 【Official Music Video】</a>
     </td>
   </tr>
 </table>
