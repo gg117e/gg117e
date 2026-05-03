@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=W8Q9Hs7Tgzg'>
-        <img src='https://i.ytimg.com/vi/W8Q9Hs7Tgzg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCF1Qy_4gJ79JnrDpU1uHuW0YOKUg' width='200px' alt='Wanted! Wanted!'>
+      <a href='https://www.youtube.com/watch?v=gpdh9AUzQjY'>
+        <img src='https://i.ytimg.com/vi/gpdh9AUzQjY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnZY9cYpCWhlK5DvkOpB3w46mpVQ' width='200px' alt='カーテンコール'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=W8Q9Hs7Tgzg'>Wanted! Wanted!</a>
+      <a href='https://www.youtube.com/watch?v=gpdh9AUzQjY'>カーテンコール</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=wPCO-7xW9WI'>
-        <img src='https://i.ytimg.com/vi/wPCO-7xW9WI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9tWioBHokmqNRNhQNPvsbay361g' width='200px' alt='Shizuku'>
+      <a href='https://www.youtube.com/watch?v=QlyW9kYHTDo'>
+        <img src='https://i.ytimg.com/vi/QlyW9kYHTDo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQFnLrxul-P672hEh7Ctcb3KYlmw' width='200px' alt='Time Machine'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=wPCO-7xW9WI'>Shizuku</a>
+      <a href='https://www.youtube.com/watch?v=QlyW9kYHTDo'>Time Machine</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=OEsV1iQNQFw'>
-        <img src='https://i.ytimg.com/vi/OEsV1iQNQFw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnGdeEWZl4JUUFduoF9VdWrDnQOw' width='200px' alt='相思相愛'>
+      <a href='https://www.youtube.com/watch?v=7Ze7MDQjXS0'>
+        <img src='https://i.ytimg.com/vi/7Ze7MDQjXS0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGUaOf-Ae6mkpk1Gw2m3-BwQUjqA' width='200px' alt='Soranji'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=OEsV1iQNQFw'>相思相愛</a>
+      <a href='https://www.youtube.com/watch?v=7Ze7MDQjXS0'>Soranji</a>
     </td>
   </tr>
 </table>
