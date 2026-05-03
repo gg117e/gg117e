@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=OF45OXeH5VM'>
-        <img src='https://i.ytimg.com/vi/OF45OXeH5VM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0IISWvvwDLV43I2jjhFYNqIwbEA' width='200px' alt='感電'>
+      <a href='https://www.youtube.com/watch?v=LoyA7GvfOwA'>
+        <img src='https://i.ytimg.com/vi/LoyA7GvfOwA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAuADigIMCAAQARhkIGQoZDAP&rs=AOn4CLBk6pXQ6KVrYlVuaAckuf6xf3Owbg' width='200px' alt='Sad Song'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=OF45OXeH5VM'>感電</a>
+      <a href='https://www.youtube.com/watch?v=LoyA7GvfOwA'>Sad Song</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=xFL1OO6siJI'>
-        <img src='https://i.ytimg.com/vi/xFL1OO6siJI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCH_W3xlqcSThQ65fOuXCwQWmIZng' width='200px' alt='Dokokade Hi Wa Noboru'>
+      <a href='https://www.youtube.com/watch?v=YFOg4grr_yA'>
+        <img src='https://i.ytimg.com/vi/YFOg4grr_yA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA78r8IZpJxtjfrvHIwGm6oVawSAg' width='200px' alt='紙一重'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=xFL1OO6siJI'>Dokokade Hi Wa Noboru</a>
+      <a href='https://www.youtube.com/watch?v=YFOg4grr_yA'>紙一重</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=aRtoPwe4ado'>
-        <img src='https://i.ytimg.com/vi/aRtoPwe4ado/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9PXwnyKWh73Tc7PGeIqoYftngtg' width='200px' alt='Sanitizer'>
+      <a href='https://www.youtube.com/watch?v=-521tYMXtyU'>
+        <img src='https://i.ytimg.com/vi/-521tYMXtyU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADlt7wGkC8moPxQ8on9gYz2n8dbg' width='200px' alt='For Decades'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=aRtoPwe4ado'>Sanitizer</a>
+      <a href='https://www.youtube.com/watch?v=-521tYMXtyU'>For Decades</a>
     </td>
   </tr>
 </table>
