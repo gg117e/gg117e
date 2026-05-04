@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> システムの枠組みが命を左右し、SNSの壁が視界を遮る今。他者の知性を認め、AIに飾らぬ言葉で問う。激動の政治や空路の変遷に惑わされず、自らの憲法を刻み、不確かな世界を真摯に歩む者こそが、真の光を見出す。
+> AIが数年の難問を瞬時に解き、技術が秩序を塗り替えても、真実は道端のコケに宿り、安らぎは友との時間にあります。効率に魂を売らず、生命の微かな声に耳を澄ませなさい。それこそが、揺らぐ世界を歩む灯火です。
 >
-> In an era where systems dictate survival and social silos blur our vision, acknowledge the brilliance of others and speak without pretense. Amid shifting geopolitics and failing routes, carve your own inner law and walk with sincerity; only then will you find true light.
+> While AI solves age-old mysteries in minutes and technology reshapes global order, truth dwells in humble moss and peace remains in time with friends. Do not trade your soul for efficiency; listen to the faint whispers of life to light your path through this shifting world.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [「GIGAZINEマンガ大賞」2026年5月度募集開始＆「作らせて！絵島さん」コミックスリリース記念イラストのメイキングはこんな感じ](https://gigazine.net/news/20260503-gigazine-manga/)
-- [若いがん患者の生存率は「どの医療保険に入っているか」に左右されている](https://gigazine.net/news/20260503-young-cancer-patients-survive-depends-insurance/)
-- [AIモデルに「あなたは熟練プログラマーです」と伝えるとかえってプログラマーとしての能力が低下する](https://gigazine.net/news/20260503-ai-expert-personas/)
+- [「コケのかけら」が墓荒らしの犯人を追い詰める手がかりになった事例](https://gigazine.net/news/20260504-piece-of-moss-grave-robbing/)
+- [AndroidでオンデバイスAIを利用するための「AICore」の容量が大きくなる問題についてGoogleが理由を説明](https://gigazine.net/news/20260504-why-android-aicore-occasionally-more-storage/)
+- [コントローラーのドリフト現象を診断できるウェブアプリ「ControllerTest.io」](https://gigazine.net/news/20260503-controller-drift/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -195,6 +195,7 @@
 - "加速する技術や経済の荒波に惑わされず、心臓が鼓動を刻むように、自らの確かなリズムを守り抜いてください。余計なものを削ぎ落とし、本質に根ざして歩む一途な姿勢こそが、激動の世界で自分を失わずに生きるための唯一の解となります。" (Do not let accelerating technology or economic turbulence sway you. Like the heart’s constant beat, maintain your own steady rhythm. Stripping away the superficial and walking with a focus on your core values is the only way to remain true to yourself in this volatile world.) - **Gemini**
 - "技術が人を模し、言葉が武器となる時代。だが、AIにはない「痛みを知る心」こそが、荒れる世界を繋ぐ光となる。真偽を分けるのは記号ではなく、あなたの誠実な生き様だ。自分という唯一の証を、静かに刻み続けよ。" (In an era where technology mimics humans and words become weapons, it is the 'heart that knows pain'—which AI lacks—that lights our way. Authenticity is proven not by badges, but by your integrity. Quietly carve your unique mark upon existence.) - **Gemini**
 - "進化するAIと揺らぐ国際秩序、豊かさの中での困窮。高度な技術が世界を覆っても、真の平安はシステムの中にはない。分断を煽る声に惑わされず、他者を慈しみ、不確実な今を共に生きる「心の秩序」を自分の中に築きなさい。" (As AI evolves and global orders shift, souls starve despite material gain. True peace resides not in systems, but in the heart. Do not be swayed by division; build an inner order that cherishes others and thrives in this uncertain present.) - **Gemini**
+- "システムの枠組みが命を左右し、SNSの壁が視界を遮る今。他者の知性を認め、AIに飾らぬ言葉で問う。激動の政治や空路の変遷に惑わされず、自らの憲法を刻み、不確かな世界を真摯に歩む者こそが、真の光を見出す。" (In an era where systems dictate survival and social silos blur our vision, acknowledge the brilliance of others and speak without pretense. Amid shifting geopolitics and failing routes, carve your own inner law and walk with sincerity; only then will you find true light.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
