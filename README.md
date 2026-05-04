@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=FBdNeFTBXg8'>
-        <img src='https://i.ytimg.com/vi/FBdNeFTBXg8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAshCvVf72eARbWpB9Y0IegkRyUUA' width='200px' alt='心の花を咲かせよう'>
+      <a href='https://www.youtube.com/watch?v=hmTKQf7khaE'>
+        <img src='https://i.ytimg.com/vi/hmTKQf7khaE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUCEZYFa01YzKxYxchVAFSzHm3hg' width='200px' alt='Automatic'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=FBdNeFTBXg8'>心の花を咲かせよう</a>
+      <a href='https://www.youtube.com/watch?v=hmTKQf7khaE'>Automatic</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Kg50ItKY1SY'>
-        <img src='https://i.ytimg.com/vi/Kg50ItKY1SY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0GMWUoBR7Y2z_v6sXaj4_I6dVaQ' width='200px' alt='Nanndemonaiyo,'>
+      <a href='https://www.youtube.com/watch?v=Tj9fTEK-BA8'>
+        <img src='https://i.ytimg.com/vi/Tj9fTEK-BA8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxwEeFTF7jC9sl2oBjTENeVgTkQg' width='200px' alt='まちがいさがし'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Kg50ItKY1SY'>Nanndemonaiyo,</a>
+      <a href='https://www.youtube.com/watch?v=Tj9fTEK-BA8'>まちがいさがし</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=2t4EHkBJUPY'>
-        <img src='https://i.ytimg.com/vi/2t4EHkBJUPY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBM4WuzG3tkueGVzH987lO7td5HGg' width='200px' alt='Airi Suzuki『heart notes』(Music Video)'>
+      <a href='https://www.youtube.com/watch?v=nhfIpEUU9tc'>
+        <img src='https://i.ytimg.com/vi/nhfIpEUU9tc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgBpk2hSaERwDjiPaFIRz-Tc45rA' width='200px' alt='光るなら'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=2t4EHkBJUPY'>Airi Suzuki『heart notes』(Music Video)</a>
+      <a href='https://www.youtube.com/watch?v=nhfIpEUU9tc'>光るなら</a>
     </td>
   </tr>
 </table>
