@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 戦火が海を揺らし、AIが声を写す時代。技術は進化し言葉は減りゆくが、冥王星の彼方に大気を見出すように、未知への静かな好奇心と日々の営みを愛でる心を失ってはならない。荒ぶる風の中でも、自分だけの誠実な言葉を刻みなさい。
+> 荒波に揉まれる世界で、ウニのトゲのように細やかな感性を持ち、心の『物理ボタン』を大切にせよ。技術が加速し、争いが絶えずとも、生身の命と静かな眠りを守り抜く。それが、激動の海を渡り切る唯一の羅針盤となる。
 >
-> In an era where conflict rocks the seas and AI mirrors our voices, technology evolves as words vanish. Yet, like discovering atmosphere on the edge of the solar system, hold onto quiet curiosity and the love for daily life. Amidst the rising winds, carve out your own words with sincerity.
+> In a world of turbulent seas, keep your senses as sharp as a sea urchin's spines and cherish the 'physical buttons' of your heart. Even as technology accelerates and conflicts rage, protect your living breath and quiet rest; they are your only compass through the storm.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [2026第1四半期に世界で最も売れたスマートフォンは「iPhone 17」、上位10機種が全体の25％を占める](https://gigazine.net/news/20260505-iphone-17-global-best-selling-smartphone-q1-2026/)
-- [人間が話す言葉の数は減少傾向にある](https://gigazine.net/news/20260505-speaking-words-decreasing/)
-- [好きな声で好きなセリフを喋らせられるローカルAI「Irodori-TTS」の使い方、日本語特化でローカル動作するので無制限に生成し放題](https://gigazine.net/news/20260504-irodori-tts-text-to-speech-ai/)
+- [XboxのCEOが「コンソール版Copilotの開発を中止する」と発表](https://gigazine.net/news/20260506-microsoft-copilot-no-longer-consoles-xbox-ceo/)
+- [「ウニのトゲ」に着想を得た水流感知システムとは？](https://gigazine.net/news/20260506-sea-urchin-spine-sensor/)
+- [無料で高機能な画像編集ソフト「GIMP」のUIをPhotoshopっぽくできる「PhotoGIMP」](https://gigazine.net/news/20260505-photogimp/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -197,6 +197,7 @@
 - "進化するAIと揺らぐ国際秩序、豊かさの中での困窮。高度な技術が世界を覆っても、真の平安はシステムの中にはない。分断を煽る声に惑わされず、他者を慈しみ、不確実な今を共に生きる「心の秩序」を自分の中に築きなさい。" (As AI evolves and global orders shift, souls starve despite material gain. True peace resides not in systems, but in the heart. Do not be swayed by division; build an inner order that cherishes others and thrives in this uncertain present.) - **Gemini**
 - "システムの枠組みが命を左右し、SNSの壁が視界を遮る今。他者の知性を認め、AIに飾らぬ言葉で問う。激動の政治や空路の変遷に惑わされず、自らの憲法を刻み、不確かな世界を真摯に歩む者こそが、真の光を見出す。" (In an era where systems dictate survival and social silos blur our vision, acknowledge the brilliance of others and speak without pretense. Amid shifting geopolitics and failing routes, carve your own inner law and walk with sincerity; only then will you find true light.) - **Gemini**
 - "AIが数年の難問を瞬時に解き、技術が秩序を塗り替えても、真実は道端のコケに宿り、安らぎは友との時間にあります。効率に魂を売らず、生命の微かな声に耳を澄ませなさい。それこそが、揺らぐ世界を歩む灯火です。" (While AI solves age-old mysteries in minutes and technology reshapes global order, truth dwells in humble moss and peace remains in time with friends. Do not trade your soul for efficiency; listen to the faint whispers of life to light your path through this shifting world.) - **Gemini**
+- "戦火が海を揺らし、AIが声を写す時代。技術は進化し言葉は減りゆくが、冥王星の彼方に大気を見出すように、未知への静かな好奇心と日々の営みを愛でる心を失ってはならない。荒ぶる風の中でも、自分だけの誠実な言葉を刻みなさい。" (In an era where conflict rocks the seas and AI mirrors our voices, technology evolves as words vanish. Yet, like discovering atmosphere on the edge of the solar system, hold onto quiet curiosity and the love for daily life. Amidst the rising winds, carve out your own words with sincerity.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
