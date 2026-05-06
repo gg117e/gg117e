@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Fay3ZhHS1rU'>
-        <img src='https://i.ytimg.com/vi/Fay3ZhHS1rU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjDVfcid0spA__YFixGLdGLPV6kA' width='200px' alt='桑田佳祐 – 100万年の幸せ!!（Full ver.）'>
+      <a href='https://www.youtube.com/watch?v=jJzw1h5CR-I'>
+        <img src='https://i.ytimg.com/vi/jJzw1h5CR-I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgZft81TKDb1zhEWMWErRz1zAAAQ' width='200px' alt='Dramaturgy - Eve MV'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Fay3ZhHS1rU'>桑田佳祐 – 100万年の幸せ!!（Full ver.）</a>
+      <a href='https://www.youtube.com/watch?v=jJzw1h5CR-I'>Dramaturgy - Eve MV</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Myj9iHDsOrk'>
-        <img src='https://i.ytimg.com/vi/Myj9iHDsOrk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9TTpA-QB9jo-DQV9VtuzgJxDJlQ' width='200px' alt='花束のかわりにメロディーを'>
+      <a href='https://www.youtube.com/watch?v=_HGPxXTIrvg'>
+        <img src='https://i.ytimg.com/vi/_HGPxXTIrvg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCntFc3OMMdrjs0ZHthaVaWH5snw' width='200px' alt='サマータイムシンデレラ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Myj9iHDsOrk'>花束のかわりにメロディーを</a>
+      <a href='https://www.youtube.com/watch?v=_HGPxXTIrvg'>サマータイムシンデレラ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=_bH_0NIi_Vc'>
-        <img src='https://i.ytimg.com/vi/_bH_0NIi_Vc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsceiLz7G_AJQoMUqKRGRR0QUfJA' width='200px' alt='日曜日のラブレター'>
+      <a href='https://www.youtube.com/watch?v=1tk1pqwrOys'>
+        <img src='https://i.ytimg.com/vi/1tk1pqwrOys/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAa4d548fZz_6zUv6-AdAxqR1CW8A' width='200px' alt='廻廻奇譚 - Eve MV'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=_bH_0NIi_Vc'>日曜日のラブレター</a>
+      <a href='https://www.youtube.com/watch?v=1tk1pqwrOys'>廻廻奇譚 - Eve MV</a>
     </td>
   </tr>
 </table>
