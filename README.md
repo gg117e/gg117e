@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=v4jO0WBnEdw'>
-        <img src='https://i.ytimg.com/vi/v4jO0WBnEdw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDjZFqg9zkQbsvumZ20ymY_Pr00g' width='200px' alt='Don’t Wake Me Up'>
+      <a href='https://www.youtube.com/watch?v=_HGPxXTIrvg'>
+        <img src='https://i.ytimg.com/vi/_HGPxXTIrvg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCntFc3OMMdrjs0ZHthaVaWH5snw' width='200px' alt='サマータイムシンデレラ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=v4jO0WBnEdw'>Don’t Wake Me Up</a>
+      <a href='https://www.youtube.com/watch?v=_HGPxXTIrvg'>サマータイムシンデレラ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=wPCO-7xW9WI'>
-        <img src='https://i.ytimg.com/vi/wPCO-7xW9WI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9tWioBHokmqNRNhQNPvsbay361g' width='200px' alt='Shizuku'>
+      <a href='https://www.youtube.com/watch?v=0OZ15_9YKPc'>
+        <img src='https://i.ytimg.com/vi/0OZ15_9YKPc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDw-Z7Q01p2yef5ViEEv7j0i6ACZg' width='200px' alt='異端なスター'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=wPCO-7xW9WI'>Shizuku</a>
+      <a href='https://www.youtube.com/watch?v=0OZ15_9YKPc'>異端なスター</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=bwqurkN3vhE'>
-        <img src='https://i.ytimg.com/vi/bwqurkN3vhE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0WOCmULFS7X-iN9B9vHmdTG94Sw' width='200px' alt='アイデア'>
+      <a href='https://www.youtube.com/watch?v=roZaPAlr2dg'>
+        <img src='https://i.ytimg.com/vi/roZaPAlr2dg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDB9aKfpvK4cCOCWtETsyqmaor4RA' width='200px' alt='日常'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=bwqurkN3vhE'>アイデア</a>
+      <a href='https://www.youtube.com/watch?v=roZaPAlr2dg'>日常</a>
     </td>
   </tr>
 </table>
