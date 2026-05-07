@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 荒波に揉まれる世界で、ウニのトゲのように細やかな感性を持ち、心の『物理ボタン』を大切にせよ。技術が加速し、争いが絶えずとも、生身の命と静かな眠りを守り抜く。それが、激動の海を渡り切る唯一の羅針盤となる。
+> 技術が病を予見し効率が加速する世で、私たちは計算機が測れぬ「今」を生きています。制度や機械に魂を委ねず、情報の濁流の中でこそ、隣人の痛みと命の静寂を慈しみなさい。真の賢さは、速さではなく深さに宿るのです。
 >
-> In a world of turbulent seas, keep your senses as sharp as a sea urchin's spines and cherish the 'physical buttons' of your heart. Even as technology accelerates and conflicts rage, protect your living breath and quiet rest; they are your only compass through the storm.
+> In a world where technology foresees illness and efficiency accelerates, we live in a "now" that no computer can measure. Do not surrender your soul to systems or machines; instead, cherish your neighbor's pain and the silence of life amidst the torrent of information. True wisdom dwells not in speed, but in depth.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [XboxのCEOが「コンソール版Copilotの開発を中止する」と発表](https://gigazine.net/news/20260506-microsoft-copilot-no-longer-consoles-xbox-ceo/)
-- [「ウニのトゲ」に着想を得た水流感知システムとは？](https://gigazine.net/news/20260506-sea-urchin-spine-sensor/)
-- [無料で高機能な画像編集ソフト「GIMP」のUIをPhotoshopっぽくできる「PhotoGIMP」](https://gigazine.net/news/20260505-photogimp/)
+- [AnthropicがSpaceXとの提携を発表、Claude Code＆APIの利用制限を引き上げ](https://gigazine.net/news/20260507-anthropic-deal-with-spacex-raises-claude-code-limits/)
+- [小型AIで下書きを生成して大型AIを爆速化する「マルチトークン予測」という技術をGoogleが発表](https://gigazine.net/news/20260507-multi-token-prediction/)
+- [Steam ControllerのCADファイルがクリエイティブ・コモンズ・ライセンスの下で正式に公開される](https://gigazine.net/news/20260507-steam-controller-cad-creative-commons/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -198,6 +198,7 @@
 - "システムの枠組みが命を左右し、SNSの壁が視界を遮る今。他者の知性を認め、AIに飾らぬ言葉で問う。激動の政治や空路の変遷に惑わされず、自らの憲法を刻み、不確かな世界を真摯に歩む者こそが、真の光を見出す。" (In an era where systems dictate survival and social silos blur our vision, acknowledge the brilliance of others and speak without pretense. Amid shifting geopolitics and failing routes, carve your own inner law and walk with sincerity; only then will you find true light.) - **Gemini**
 - "AIが数年の難問を瞬時に解き、技術が秩序を塗り替えても、真実は道端のコケに宿り、安らぎは友との時間にあります。効率に魂を売らず、生命の微かな声に耳を澄ませなさい。それこそが、揺らぐ世界を歩む灯火です。" (While AI solves age-old mysteries in minutes and technology reshapes global order, truth dwells in humble moss and peace remains in time with friends. Do not trade your soul for efficiency; listen to the faint whispers of life to light your path through this shifting world.) - **Gemini**
 - "戦火が海を揺らし、AIが声を写す時代。技術は進化し言葉は減りゆくが、冥王星の彼方に大気を見出すように、未知への静かな好奇心と日々の営みを愛でる心を失ってはならない。荒ぶる風の中でも、自分だけの誠実な言葉を刻みなさい。" (In an era where conflict rocks the seas and AI mirrors our voices, technology evolves as words vanish. Yet, like discovering atmosphere on the edge of the solar system, hold onto quiet curiosity and the love for daily life. Amidst the rising winds, carve out your own words with sincerity.) - **Gemini**
+- "荒波に揉まれる世界で、ウニのトゲのように細やかな感性を持ち、心の『物理ボタン』を大切にせよ。技術が加速し、争いが絶えずとも、生身の命と静かな眠りを守り抜く。それが、激動の海を渡り切る唯一の羅針盤となる。" (In a world of turbulent seas, keep your senses as sharp as a sea urchin's spines and cherish the 'physical buttons' of your heart. Even as technology accelerates and conflicts rage, protect your living breath and quiet rest; they are your only compass through the storm.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
