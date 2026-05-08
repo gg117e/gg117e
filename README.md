@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 技術が病を予見し効率が加速する世で、私たちは計算機が測れぬ「今」を生きています。制度や機械に魂を委ねず、情報の濁流の中でこそ、隣人の痛みと命の静寂を慈しみなさい。真の賢さは、速さではなく深さに宿るのです。
+> 高度化するAIが論理を担う一方、現場の切実な尊厳が問われています。技術の進化に心を奪われすぎず、利便性の裏にある誰かの痛みに目を向けなさい。真の豊かさは、効率の追求ではなく生命への敬意の中にあります。
 >
-> In a world where technology foresees illness and efficiency accelerates, we live in a "now" that no computer can measure. Do not surrender your soul to systems or machines; instead, cherish your neighbor's pain and the silence of life amidst the torrent of information. True wisdom dwells not in speed, but in depth.
+> While advanced AI handles logic, the dignity of those on the front lines is being tested. Do not let technology blind you; look toward the human cost behind convenience. True prosperity lies not in efficiency, but in respect for life.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [AnthropicがSpaceXとの提携を発表、Claude Code＆APIの利用制限を引き上げ](https://gigazine.net/news/20260507-anthropic-deal-with-spacex-raises-claude-code-limits/)
-- [小型AIで下書きを生成して大型AIを爆速化する「マルチトークン予測」という技術をGoogleが発表](https://gigazine.net/news/20260507-multi-token-prediction/)
-- [Steam ControllerのCADファイルがクリエイティブ・コモンズ・ライセンスの下で正式に公開される](https://gigazine.net/news/20260507-steam-controller-cad-creative-commons/)
+- [Cloudflareが1100人以上を解雇、CEOは「コスト削減ではない」と説明](https://gigazine.net/news/20260508-cloudflare-lay-off-1100/)
+- [ディズニーはDisney＋やディズニーランド向けアプリなどをひとつにまとめた「スーパーアプリ」の開発を目指している](https://gigazine.net/news/20260508-disney-make-unified-super-app/)
+- [Firefoxの脆弱性271件をClaude Mythos Previewで発見したシステムについてMozillaが解説](https://gigazine.net/news/20260508-mozilla-claude-mythos-preview-security/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -199,6 +199,7 @@
 - "AIが数年の難問を瞬時に解き、技術が秩序を塗り替えても、真実は道端のコケに宿り、安らぎは友との時間にあります。効率に魂を売らず、生命の微かな声に耳を澄ませなさい。それこそが、揺らぐ世界を歩む灯火です。" (While AI solves age-old mysteries in minutes and technology reshapes global order, truth dwells in humble moss and peace remains in time with friends. Do not trade your soul for efficiency; listen to the faint whispers of life to light your path through this shifting world.) - **Gemini**
 - "戦火が海を揺らし、AIが声を写す時代。技術は進化し言葉は減りゆくが、冥王星の彼方に大気を見出すように、未知への静かな好奇心と日々の営みを愛でる心を失ってはならない。荒ぶる風の中でも、自分だけの誠実な言葉を刻みなさい。" (In an era where conflict rocks the seas and AI mirrors our voices, technology evolves as words vanish. Yet, like discovering atmosphere on the edge of the solar system, hold onto quiet curiosity and the love for daily life. Amidst the rising winds, carve out your own words with sincerity.) - **Gemini**
 - "荒波に揉まれる世界で、ウニのトゲのように細やかな感性を持ち、心の『物理ボタン』を大切にせよ。技術が加速し、争いが絶えずとも、生身の命と静かな眠りを守り抜く。それが、激動の海を渡り切る唯一の羅針盤となる。" (In a world of turbulent seas, keep your senses as sharp as a sea urchin's spines and cherish the 'physical buttons' of your heart. Even as technology accelerates and conflicts rage, protect your living breath and quiet rest; they are your only compass through the storm.) - **Gemini**
+- "技術が病を予見し効率が加速する世で、私たちは計算機が測れぬ「今」を生きています。制度や機械に魂を委ねず、情報の濁流の中でこそ、隣人の痛みと命の静寂を慈しみなさい。真の賢さは、速さではなく深さに宿るのです。" (In a world where technology foresees illness and efficiency accelerates, we live in a "now" that no computer can measure. Do not surrender your soul to systems or machines; instead, cherish your neighbor's pain and the silence of life amidst the torrent of information. True wisdom dwells not in speed, but in depth.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
