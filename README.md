@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 高度化するAIが論理を担う一方、現場の切実な尊厳が問われています。技術の進化に心を奪われすぎず、利便性の裏にある誰かの痛みに目を向けなさい。真の豊かさは、効率の追求ではなく生命への敬意の中にあります。
+> 争いと停戦、技術の飛躍と経済の揺らぎ。世界が激動する今、命を救う英知も着実に育っています。情報の荒波に飲まれず、自身の心身を慈しむ勇気を持ちましょう。細部に宿る誠実さが、不確かな未来を照らす光となります。
 >
-> While advanced AI handles logic, the dignity of those on the front lines is being tested. Do not let technology blind you; look toward the human cost behind convenience. True prosperity lies not in efficiency, but in respect for life.
+> Amidst conflicts and ceasefires, technological leaps and economic shifts, life-saving wisdom continues to grow. Do not be swept away by waves of information; have the courage to care for your own well-being. Sincerity in the details will light the way through an uncertain future.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [Cloudflareが1100人以上を解雇、CEOは「コスト削減ではない」と説明](https://gigazine.net/news/20260508-cloudflare-lay-off-1100/)
-- [ディズニーはDisney＋やディズニーランド向けアプリなどをひとつにまとめた「スーパーアプリ」の開発を目指している](https://gigazine.net/news/20260508-disney-make-unified-super-app/)
-- [Firefoxの脆弱性271件をClaude Mythos Previewで発見したシステムについてMozillaが解説](https://gigazine.net/news/20260508-mozilla-claude-mythos-preview-security/)
+- [科学者があらゆる血液型に適合する「万能腎臓」を開発](https://gigazine.net/news/20260509-universal-kidneys/)
+- [Nintendo Switch 2が1万円値上げ、有料サブスクのNintendo Switch Onlineも値上げ](https://gigazine.net/news/20260509-nintendo-switch-2-price-hike/)
+- [なぜPCのCPUファンで「黒色」バージョンを作るのに時間がかかるのかをNoctuaが説明](https://gigazine.net/news/20260508-black-cpu-fan-long-time/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -200,6 +200,7 @@
 - "戦火が海を揺らし、AIが声を写す時代。技術は進化し言葉は減りゆくが、冥王星の彼方に大気を見出すように、未知への静かな好奇心と日々の営みを愛でる心を失ってはならない。荒ぶる風の中でも、自分だけの誠実な言葉を刻みなさい。" (In an era where conflict rocks the seas and AI mirrors our voices, technology evolves as words vanish. Yet, like discovering atmosphere on the edge of the solar system, hold onto quiet curiosity and the love for daily life. Amidst the rising winds, carve out your own words with sincerity.) - **Gemini**
 - "荒波に揉まれる世界で、ウニのトゲのように細やかな感性を持ち、心の『物理ボタン』を大切にせよ。技術が加速し、争いが絶えずとも、生身の命と静かな眠りを守り抜く。それが、激動の海を渡り切る唯一の羅針盤となる。" (In a world of turbulent seas, keep your senses as sharp as a sea urchin's spines and cherish the 'physical buttons' of your heart. Even as technology accelerates and conflicts rage, protect your living breath and quiet rest; they are your only compass through the storm.) - **Gemini**
 - "技術が病を予見し効率が加速する世で、私たちは計算機が測れぬ「今」を生きています。制度や機械に魂を委ねず、情報の濁流の中でこそ、隣人の痛みと命の静寂を慈しみなさい。真の賢さは、速さではなく深さに宿るのです。" (In a world where technology foresees illness and efficiency accelerates, we live in a "now" that no computer can measure. Do not surrender your soul to systems or machines; instead, cherish your neighbor's pain and the silence of life amidst the torrent of information. True wisdom dwells not in speed, but in depth.) - **Gemini**
+- "高度化するAIが論理を担う一方、現場の切実な尊厳が問われています。技術の進化に心を奪われすぎず、利便性の裏にある誰かの痛みに目を向けなさい。真の豊かさは、効率の追求ではなく生命への敬意の中にあります。" (While advanced AI handles logic, the dignity of those on the front lines is being tested. Do not let technology blind you; look toward the human cost behind convenience. True prosperity lies not in efficiency, but in respect for life.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
