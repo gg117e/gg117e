@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=_4sc3Q8tsoQ'>
-        <img src='https://i.ytimg.com/vi/_4sc3Q8tsoQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDS6H9Sws06amZv6LJCWYaX5lIZ3Q' width='200px' alt='Koe'>
+      <a href='https://www.youtube.com/watch?v=HUEoF7ntswo'>
+        <img src='https://i.ytimg.com/vi/HUEoF7ntswo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIjbJtv5eJ_d1UP7Ty9mQ5ADAXyQ' width='200px' alt='Love Song'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=_4sc3Q8tsoQ'>Koe</a>
+      <a href='https://www.youtube.com/watch?v=HUEoF7ntswo'>Love Song</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=vms87P01vRU'>
-        <img src='https://i.ytimg.com/vi/vms87P01vRU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzZnQp_bBT2p2b05faDDdNT1ytRg' width='200px' alt='ファンファーレ'>
+      <a href='https://www.youtube.com/watch?v=SVkGRoLicuA'>
+        <img src='https://i.ytimg.com/vi/SVkGRoLicuA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEGWRcMYMGbnY-HOcgFSINA1NRIA' width='200px' alt='Sukidakara'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=vms87P01vRU'>ファンファーレ</a>
+      <a href='https://www.youtube.com/watch?v=SVkGRoLicuA'>Sukidakara</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=mQgpJPStoYQ'>
-        <img src='https://i.ytimg.com/vi/mQgpJPStoYQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQh25MLFhpwmdOqMrf8DSEWT_akg' width='200px' alt='切望'>
+      <a href='https://www.youtube.com/watch?v=6qcELHEilnQ'>
+        <img src='https://i.ytimg.com/vi/6qcELHEilnQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBd6ScUlxU0bLM9fk6y64sP8k6oRw' width='200px' alt='Shiori'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=mQgpJPStoYQ'>切望</a>
+      <a href='https://www.youtube.com/watch?v=6qcELHEilnQ'>Shiori</a>
     </td>
   </tr>
 </table>
