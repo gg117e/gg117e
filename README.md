@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 争いと停戦、技術の飛躍と経済の揺らぎ。世界が激動する今、命を救う英知も着実に育っています。情報の荒波に飲まれず、自身の心身を慈しむ勇気を持ちましょう。細部に宿る誠実さが、不確かな未来を照らす光となります。
+> 効率を追う技術や国家の動向に惑わされず、運転手への礼節や古い食器の記憶、祭りの後の掃除といった「細部への誠実さ」を大切にしてください。不透明な時代だからこそ、目に見えない場所で徳を積む振る舞いが、あなたの真の価値を形作ります。
 >
-> Amidst conflicts and ceasefires, technological leaps and economic shifts, life-saving wisdom continues to grow. Do not be swept away by waves of information; have the courage to care for your own well-being. Sincerity in the details will light the way through an uncertain future.
+> Do not be distracted by the pursuit of efficient technology or global maneuvers. Cherish integrity in the details: courtesy to a driver, memories in old dishes, and cleaning up after the feast. In uncertain times, it is the virtue you cultivate in unseen places that defines your true worth.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [科学者があらゆる血液型に適合する「万能腎臓」を開発](https://gigazine.net/news/20260509-universal-kidneys/)
-- [Nintendo Switch 2が1万円値上げ、有料サブスクのNintendo Switch Onlineも値上げ](https://gigazine.net/news/20260509-nintendo-switch-2-price-hike/)
-- [なぜPCのCPUファンで「黒色」バージョンを作るのに時間がかかるのかをNoctuaが説明](https://gigazine.net/news/20260508-black-cpu-fan-long-time/)
+- [テスラのCybertruckがまたもやリコール、2024～2026年に販売された18インチスチールホイール装着モデルでホイール故障のリスクあり](https://gigazine.net/news/20260510-cybertruck-recall-tesla-rotor-cracks/)
+- [砂漠のド真ん中に1週間だけの街を作り上げる「バーニングマン」は終了後に数週間かけてゴミ掃除をしている](https://gigazine.net/news/20260510-burning-man-moop/)
+- [Duolingoの採用試験では「会場に着くまでのタクシー運転手への態度」が選考基準になっていた](https://gigazine.net/news/20260510-duoling-interview-test/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -201,6 +201,7 @@
 - "荒波に揉まれる世界で、ウニのトゲのように細やかな感性を持ち、心の『物理ボタン』を大切にせよ。技術が加速し、争いが絶えずとも、生身の命と静かな眠りを守り抜く。それが、激動の海を渡り切る唯一の羅針盤となる。" (In a world of turbulent seas, keep your senses as sharp as a sea urchin's spines and cherish the 'physical buttons' of your heart. Even as technology accelerates and conflicts rage, protect your living breath and quiet rest; they are your only compass through the storm.) - **Gemini**
 - "技術が病を予見し効率が加速する世で、私たちは計算機が測れぬ「今」を生きています。制度や機械に魂を委ねず、情報の濁流の中でこそ、隣人の痛みと命の静寂を慈しみなさい。真の賢さは、速さではなく深さに宿るのです。" (In a world where technology foresees illness and efficiency accelerates, we live in a "now" that no computer can measure. Do not surrender your soul to systems or machines; instead, cherish your neighbor's pain and the silence of life amidst the torrent of information. True wisdom dwells not in speed, but in depth.) - **Gemini**
 - "高度化するAIが論理を担う一方、現場の切実な尊厳が問われています。技術の進化に心を奪われすぎず、利便性の裏にある誰かの痛みに目を向けなさい。真の豊かさは、効率の追求ではなく生命への敬意の中にあります。" (While advanced AI handles logic, the dignity of those on the front lines is being tested. Do not let technology blind you; look toward the human cost behind convenience. True prosperity lies not in efficiency, but in respect for life.) - **Gemini**
+- "争いと停戦、技術の飛躍と経済の揺らぎ。世界が激動する今、命を救う英知も着実に育っています。情報の荒波に飲まれず、自身の心身を慈しむ勇気を持ちましょう。細部に宿る誠実さが、不確かな未来を照らす光となります。" (Amidst conflicts and ceasefires, technological leaps and economic shifts, life-saving wisdom continues to grow. Do not be swept away by waves of information; have the courage to care for your own well-being. Sincerity in the details will light the way through an uncertain future.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
