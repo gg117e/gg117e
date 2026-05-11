@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=SQcq990N5NY'>
-        <img src='https://i.ytimg.com/vi/SQcq990N5NY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWlOgX0s6Lzh8Clxs5rWiyYXwfUg' width='200px' alt='また逢う日まで'>
+      <a href='https://www.youtube.com/watch?v=LM_5KevVmYc'>
+        <img src='https://i.ytimg.com/vi/LM_5KevVmYc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4NqYuC703bhnQxOo1CE59_WIg0w' width='200px' alt='I Love You'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=SQcq990N5NY'>また逢う日まで</a>
+      <a href='https://www.youtube.com/watch?v=LM_5KevVmYc'>I Love You</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=roZaPAlr2dg'>
-        <img src='https://i.ytimg.com/vi/roZaPAlr2dg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDB9aKfpvK4cCOCWtETsyqmaor4RA' width='200px' alt='日常'>
+      <a href='https://www.youtube.com/watch?v=uhY5LztYnoQ'>
+        <img src='https://i.ytimg.com/vi/uhY5LztYnoQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCG2PLxs6Mn3iT3s5CyejxHT6v26g' width='200px' alt='ありがとうの輪'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=roZaPAlr2dg'>日常</a>
+      <a href='https://www.youtube.com/watch?v=uhY5LztYnoQ'>ありがとうの輪</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=9wDFyZDAW2I'>
-        <img src='https://i.ytimg.com/vi/9wDFyZDAW2I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlPACkNx6DfP3rMaY3vsQQ1NQ1-g' width='200px' alt='Tomo ～Tabidachinotoki～'>
+      <a href='https://www.youtube.com/watch?v=HBqH4uJS0PU'>
+        <img src='https://i.ytimg.com/vi/HBqH4uJS0PU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGkaM2ZcnyB8o3mbXgfhwYnNF3NQ' width='200px' alt='Magnetic'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=9wDFyZDAW2I'>Tomo ～Tabidachinotoki～</a>
+      <a href='https://www.youtube.com/watch?v=HBqH4uJS0PU'>Magnetic</a>
     </td>
   </tr>
 </table>
