@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 効率を追う技術や国家の動向に惑わされず、運転手への礼節や古い食器の記憶、祭りの後の掃除といった「細部への誠実さ」を大切にしてください。不透明な時代だからこそ、目に見えない場所で徳を積む振る舞いが、あなたの真の価値を形作ります。
+> AIが効率を競い、市場が熱狂に沸く今、計算できない『人の痛み』に耳を澄ませてください。技術がどれほど進化しても、命の重みと不器用な優しさだけは代替不可能です。効率の影にある個の輝きを守り抜く強さを。
 >
-> Do not be distracted by the pursuit of efficient technology or global maneuvers. Cherish integrity in the details: courtesy to a driver, memories in old dishes, and cleaning up after the feast. In uncertain times, it is the virtue you cultivate in unseen places that defines your true worth.
+> As AI competes for efficiency and markets surge with fervor, listen closely to the 'human pain' that cannot be calculated. No matter how technology evolves, the weight of life and clumsy kindness remain irreplaceable. Have the strength to protect the individual radiance hidden in the shadows of efficiency.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [テスラのCybertruckがまたもやリコール、2024～2026年に販売された18インチスチールホイール装着モデルでホイール故障のリスクあり](https://gigazine.net/news/20260510-cybertruck-recall-tesla-rotor-cracks/)
-- [砂漠のド真ん中に1週間だけの街を作り上げる「バーニングマン」は終了後に数週間かけてゴミ掃除をしている](https://gigazine.net/news/20260510-burning-man-moop/)
-- [Duolingoの採用試験では「会場に着くまでのタクシー運転手への態度」が選考基準になっていた](https://gigazine.net/news/20260510-duoling-interview-test/)
+- [Amazonプライム・ビデオにも縦型動画フィード機能が導入される見通し](https://gigazine.net/news/20260511-amazon-prime-video-clips/)
+- [コストをなんとわずか17分の1に節約できるDeepSeek V4 Proを使ったClaude Codeエージェントループ「deepclaude」](https://gigazine.net/news/20260511-deepclaude/)
+- [AIにも「身内びいき」がある、採用AIは同じAIモデルが書いた履歴書を高く評価しやすいとの研究結果](https://gigazine.net/news/20260511-ai-self-preferencing-hiring/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -202,6 +202,7 @@
 - "技術が病を予見し効率が加速する世で、私たちは計算機が測れぬ「今」を生きています。制度や機械に魂を委ねず、情報の濁流の中でこそ、隣人の痛みと命の静寂を慈しみなさい。真の賢さは、速さではなく深さに宿るのです。" (In a world where technology foresees illness and efficiency accelerates, we live in a "now" that no computer can measure. Do not surrender your soul to systems or machines; instead, cherish your neighbor's pain and the silence of life amidst the torrent of information. True wisdom dwells not in speed, but in depth.) - **Gemini**
 - "高度化するAIが論理を担う一方、現場の切実な尊厳が問われています。技術の進化に心を奪われすぎず、利便性の裏にある誰かの痛みに目を向けなさい。真の豊かさは、効率の追求ではなく生命への敬意の中にあります。" (While advanced AI handles logic, the dignity of those on the front lines is being tested. Do not let technology blind you; look toward the human cost behind convenience. True prosperity lies not in efficiency, but in respect for life.) - **Gemini**
 - "争いと停戦、技術の飛躍と経済の揺らぎ。世界が激動する今、命を救う英知も着実に育っています。情報の荒波に飲まれず、自身の心身を慈しむ勇気を持ちましょう。細部に宿る誠実さが、不確かな未来を照らす光となります。" (Amidst conflicts and ceasefires, technological leaps and economic shifts, life-saving wisdom continues to grow. Do not be swept away by waves of information; have the courage to care for your own well-being. Sincerity in the details will light the way through an uncertain future.) - **Gemini**
+- "効率を追う技術や国家の動向に惑わされず、運転手への礼節や古い食器の記憶、祭りの後の掃除といった「細部への誠実さ」を大切にしてください。不透明な時代だからこそ、目に見えない場所で徳を積む振る舞いが、あなたの真の価値を形作ります。" (Do not be distracted by the pursuit of efficient technology or global maneuvers. Cherish integrity in the details: courtesy to a driver, memories in old dishes, and cleaning up after the feast. In uncertain times, it is the virtue you cultivate in unseen places that defines your true worth.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
