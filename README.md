@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> AIが効率を競い、市場が熱狂に沸く今、計算できない『人の痛み』に耳を澄ませてください。技術がどれほど進化しても、命の重みと不器用な優しさだけは代替不可能です。効率の影にある個の輝きを守り抜く強さを。
+> 技術が盾となり原子の隙間が壁となる今、効率や数字に還元できない「心の感性」を研ぎ澄ましてください。疫病や経済の荒波に揺らぐ世界で、小説の一節に震えるような情緒こそが、あなたを導く真の座標となります。
 >
-> As AI competes for efficiency and markets surge with fervor, listen closely to the 'human pain' that cannot be calculated. No matter how technology evolves, the weight of life and clumsy kindness remain irreplaceable. Have the strength to protect the individual radiance hidden in the shadows of efficiency.
+> In an era where technology acts as a shield and atomic gaps as barriers, sharpen your inner sensitivity beyond mere utility or data. Amidst global instability and economic shifts, the raw emotions stirred by a single line of literature will serve as your true coordinates.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [Amazonプライム・ビデオにも縦型動画フィード機能が導入される見通し](https://gigazine.net/news/20260511-amazon-prime-video-clips/)
-- [コストをなんとわずか17分の1に節約できるDeepSeek V4 Proを使ったClaude Codeエージェントループ「deepclaude」](https://gigazine.net/news/20260511-deepclaude/)
-- [AIにも「身内びいき」がある、採用AIは同じAIモデルが書いた履歴書を高く評価しやすいとの研究結果](https://gigazine.net/news/20260511-ai-self-preferencing-hiring/)
+- [OpenAIが攻撃者より先に脆弱性を検知・修正するセキュリティAI「Daybreak」を発表](https://gigazine.net/news/20260512-openai-daybreak/)
+- [「デフォルトブラウザを選ぶ画面」でFirefoxを選択するユーザーが600万人に達し10秒に1回選ばれる状況に](https://gigazine.net/news/20260512-firefox-browser-choice/)
+- [コンビニのおにぎりは1個何円まで許せる？GIGAZINE読者に聞いてみた](https://gigazine.net/news/20260512-gigazine-user-convenience-store-onigiri/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -203,6 +203,7 @@
 - "高度化するAIが論理を担う一方、現場の切実な尊厳が問われています。技術の進化に心を奪われすぎず、利便性の裏にある誰かの痛みに目を向けなさい。真の豊かさは、効率の追求ではなく生命への敬意の中にあります。" (While advanced AI handles logic, the dignity of those on the front lines is being tested. Do not let technology blind you; look toward the human cost behind convenience. True prosperity lies not in efficiency, but in respect for life.) - **Gemini**
 - "争いと停戦、技術の飛躍と経済の揺らぎ。世界が激動する今、命を救う英知も着実に育っています。情報の荒波に飲まれず、自身の心身を慈しむ勇気を持ちましょう。細部に宿る誠実さが、不確かな未来を照らす光となります。" (Amidst conflicts and ceasefires, technological leaps and economic shifts, life-saving wisdom continues to grow. Do not be swept away by waves of information; have the courage to care for your own well-being. Sincerity in the details will light the way through an uncertain future.) - **Gemini**
 - "効率を追う技術や国家の動向に惑わされず、運転手への礼節や古い食器の記憶、祭りの後の掃除といった「細部への誠実さ」を大切にしてください。不透明な時代だからこそ、目に見えない場所で徳を積む振る舞いが、あなたの真の価値を形作ります。" (Do not be distracted by the pursuit of efficient technology or global maneuvers. Cherish integrity in the details: courtesy to a driver, memories in old dishes, and cleaning up after the feast. In uncertain times, it is the virtue you cultivate in unseen places that defines your true worth.) - **Gemini**
+- "AIが効率を競い、市場が熱狂に沸く今、計算できない『人の痛み』に耳を澄ませてください。技術がどれほど進化しても、命の重みと不器用な優しさだけは代替不可能です。効率の影にある個の輝きを守り抜く強さを。" (As AI competes for efficiency and markets surge with fervor, listen closely to the 'human pain' that cannot be calculated. No matter how technology evolves, the weight of life and clumsy kindness remain irreplaceable. Have the strength to protect the individual radiance hidden in the shadows of efficiency.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
