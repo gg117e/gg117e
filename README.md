@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=CMG1oZEqU_M'>
-        <img src='https://i.ytimg.com/vi/CMG1oZEqU_M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkBFGePzFdnLtItuad-Hpp4I5Sbg' width='200px' alt='Answer'>
+      <a href='https://www.youtube.com/watch?v=ZI6kQh30aLs'>
+        <img src='https://i.ytimg.com/vi/ZI6kQh30aLs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOt-OJxA0AVDoneSRZp4glsrs0QQ' width='200px' alt='Be Free'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=CMG1oZEqU_M'>Answer</a>
+      <a href='https://www.youtube.com/watch?v=ZI6kQh30aLs'>Be Free</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=HrZX4KFfniU'>
-        <img src='https://i.ytimg.com/vi/HrZX4KFfniU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCj4NYNo6f32MhY3ua3KFVZQcplOw' width='200px' alt='Earthchild'>
+      <a href='https://www.youtube.com/watch?v=hN5MBlGv2Ac'>
+        <img src='https://i.ytimg.com/vi/hN5MBlGv2Ac/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzbQItH3L-YHCHcM1KJ1pRu6gpGA' width='200px' alt='Official髭男dism - Subtitle [Official Video]'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=HrZX4KFfniU'>Earthchild</a>
+      <a href='https://www.youtube.com/watch?v=hN5MBlGv2Ac'>Official髭男dism - Subtitle [Official Video]</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Ta6GW3kQ8UU'>
-        <img src='https://i.ytimg.com/vi/Ta6GW3kQ8UU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRMclMpIOvmCPeKMcFS80SNCONJw' width='200px' alt='ひたむき'>
+      <a href='https://www.youtube.com/watch?v=69yZ00BJCgM'>
+        <img src='https://i.ytimg.com/vi/69yZ00BJCgM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKJVbc2I-1y38yhjMYtYuwPhN2qA' width='200px' alt='Tokimeki'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Ta6GW3kQ8UU'>ひたむき</a>
+      <a href='https://www.youtube.com/watch?v=69yZ00BJCgM'>Tokimeki</a>
     </td>
   </tr>
 </table>
