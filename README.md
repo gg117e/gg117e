@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Mr2EWEPFtwk'>
-        <img src='https://i.ytimg.com/vi/Mr2EWEPFtwk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB40b7gpdm4JT-YxCurTEsFUH324g' width='200px' alt='花になって - Be a flower'>
+      <a href='https://www.youtube.com/watch?v=CMG1oZEqU_M'>
+        <img src='https://i.ytimg.com/vi/CMG1oZEqU_M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkBFGePzFdnLtItuad-Hpp4I5Sbg' width='200px' alt='Answer'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Mr2EWEPFtwk'>花になって - Be a flower</a>
+      <a href='https://www.youtube.com/watch?v=CMG1oZEqU_M'>Answer</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=bVqeqvwu7NU'>
-        <img src='https://i.ytimg.com/vi/bVqeqvwu7NU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDe4lxrobQ3H1YHOPDK-W1dYWjsPA' width='200px' alt='Shining One'>
+      <a href='https://www.youtube.com/watch?v=HrZX4KFfniU'>
+        <img src='https://i.ytimg.com/vi/HrZX4KFfniU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCj4NYNo6f32MhY3ua3KFVZQcplOw' width='200px' alt='Earthchild'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=bVqeqvwu7NU'>Shining One</a>
+      <a href='https://www.youtube.com/watch?v=HrZX4KFfniU'>Earthchild</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=8PbGeKwEnK0'>
-        <img src='https://i.ytimg.com/vi/8PbGeKwEnK0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWYv4vO1ta-DKEtdPaeTh9ifxA0g' width='200px' alt='Pop Virus'>
+      <a href='https://www.youtube.com/watch?v=Ta6GW3kQ8UU'>
+        <img src='https://i.ytimg.com/vi/Ta6GW3kQ8UU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRMclMpIOvmCPeKMcFS80SNCONJw' width='200px' alt='ひたむき'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=8PbGeKwEnK0'>Pop Virus</a>
+      <a href='https://www.youtube.com/watch?v=Ta6GW3kQ8UU'>ひたむき</a>
     </td>
   </tr>
 </table>
