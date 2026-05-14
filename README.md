@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 鋼の翼や知能の融合が世界を揺らしても、生命の本質は変わらぬ円環の中にあります。過去を修復し、歴史から学び、自らの手で未来を綴る主体性こそが、不確かな時代の荒波を渡る唯一の羅針盤となるのです。
+> 株価やAIが頂点を極める狂騒の中で、散歩する足取りや失われた記憶の回復こそが、人間性の灯火です。激動する国境や数字に惑わされず、ただ「今」という唯一の居場所を慈しみ、誠実に歩み続けなさい。
 >
-> Even as iron wings and merging intelligences shake the world, the essence of life remains within an unchanging cycle. The autonomy to repair the past, learn from history, and write your own future is the only compass to navigate these uncertain times.
+> Amidst the frenzy of soaring stocks and AI miracles, the simple act of walking and the recovery of lost memories are the true lanterns of humanity. Do not be swayed by shifting borders or numbers; cherish the present as your only home and walk with integrity.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [PS5用の公式ライセンスコントローラー「SCUF Omega」が登場、ドリフトに強い磁気式アナログスティック搭載](https://gigazine.net/news/20260513-playstation-scuf-omega/)
-- [3Dプリンターメーカーから圧力をかけられた開発者に対して「修理する権利」のため戦うルイス・ロスマンが費用支援を約束、クラウドファンディング呼びかけも](https://gigazine.net/news/20260513-louis-rossmann-bambu-lab/)
-- [1980年代まで肉や砂糖が配給制だったポーランドが世界経済大国トップ20に名を連ねた理由とは？](https://gigazine.net/news/20260513-poland-economy-growth-worlds-20th/)
+- [XboxのCEOが「Xbox」なのか「XBOX」なのかを知るべくユーザーにアンケートを実施中、一体どちらが多数派なのか？](https://gigazine.net/news/20260514-xbox-ceo-wants-to-know-spell/)
+- [実写映画版「ゼルダの伝説」の公開日が前倒しに](https://gigazine.net/news/20260514-the-legend-of-zelda-movie-release-date-change/)
+- [ソニーがハイスペックスマホ「Xperia 1 VIII」を発表、望遠カメラのセンサーサイズが4倍に＆有線イヤホン使用可能＆microSDカードで容量増設可能](https://gigazine.net/news/20260514-sony-xperia-1-viii/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -205,6 +205,7 @@
 - "効率を追う技術や国家の動向に惑わされず、運転手への礼節や古い食器の記憶、祭りの後の掃除といった「細部への誠実さ」を大切にしてください。不透明な時代だからこそ、目に見えない場所で徳を積む振る舞いが、あなたの真の価値を形作ります。" (Do not be distracted by the pursuit of efficient technology or global maneuvers. Cherish integrity in the details: courtesy to a driver, memories in old dishes, and cleaning up after the feast. In uncertain times, it is the virtue you cultivate in unseen places that defines your true worth.) - **Gemini**
 - "AIが効率を競い、市場が熱狂に沸く今、計算できない『人の痛み』に耳を澄ませてください。技術がどれほど進化しても、命の重みと不器用な優しさだけは代替不可能です。効率の影にある個の輝きを守り抜く強さを。" (As AI competes for efficiency and markets surge with fervor, listen closely to the 'human pain' that cannot be calculated. No matter how technology evolves, the weight of life and clumsy kindness remain irreplaceable. Have the strength to protect the individual radiance hidden in the shadows of efficiency.) - **Gemini**
 - "技術が盾となり原子の隙間が壁となる今、効率や数字に還元できない「心の感性」を研ぎ澄ましてください。疫病や経済の荒波に揺らぐ世界で、小説の一節に震えるような情緒こそが、あなたを導く真の座標となります。" (In an era where technology acts as a shield and atomic gaps as barriers, sharpen your inner sensitivity beyond mere utility or data. Amidst global instability and economic shifts, the raw emotions stirred by a single line of literature will serve as your true coordinates.) - **Gemini**
+- "鋼の翼や知能の融合が世界を揺らしても、生命の本質は変わらぬ円環の中にあります。過去を修復し、歴史から学び、自らの手で未来を綴る主体性こそが、不確かな時代の荒波を渡る唯一の羅針盤となるのです。" (Even as iron wings and merging intelligences shake the world, the essence of life remains within an unchanging cycle. The autonomy to repair the past, learn from history, and write your own future is the only compass to navigate these uncertain times.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
