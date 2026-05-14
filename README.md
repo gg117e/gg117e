@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=bm6t1rGL5P8'>
-        <img src='https://i.ytimg.com/vi/bm6t1rGL5P8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRWK87dNyNRlMIJFzg-gT49hTHrQ' width='200px' alt='Tobira'>
+      <a href='https://www.youtube.com/watch?v=bFG7vT99Y_Q'>
+        <img src='https://i.ytimg.com/vi/bFG7vT99Y_Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWStkU-qU8U77B0aJaq_3E7tu_NA' width='200px' alt='Namidazora'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=bm6t1rGL5P8'>Tobira</a>
+      <a href='https://www.youtube.com/watch?v=bFG7vT99Y_Q'>Namidazora</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=cMLTX2FClxw'>
-        <img src='https://i.ytimg.com/vi/cMLTX2FClxw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdhytK3vnYCrOsTlHB2LeYE2Kp5g' width='200px' alt='Official髭男dism - ビンテージ［Official Video］'>
+      <a href='https://www.youtube.com/watch?v=7Ze7MDQjXS0'>
+        <img src='https://i.ytimg.com/vi/7Ze7MDQjXS0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGUaOf-Ae6mkpk1Gw2m3-BwQUjqA' width='200px' alt='Soranji'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=cMLTX2FClxw'>Official髭男dism - ビンテージ［Official Video］</a>
+      <a href='https://www.youtube.com/watch?v=7Ze7MDQjXS0'>Soranji</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=jJzw1h5CR-I'>
-        <img src='https://i.ytimg.com/vi/jJzw1h5CR-I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgZft81TKDb1zhEWMWErRz1zAAAQ' width='200px' alt='Dramaturgy - Eve MV'>
+      <a href='https://www.youtube.com/watch?v=GcXurBc6vao'>
+        <img src='https://i.ytimg.com/vi/GcXurBc6vao/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1h2cOKqsHtyYt1ytLA3FK8W9TZA' width='200px' alt='カタオモイ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=jJzw1h5CR-I'>Dramaturgy - Eve MV</a>
+      <a href='https://www.youtube.com/watch?v=GcXurBc6vao'>カタオモイ</a>
     </td>
   </tr>
 </table>
