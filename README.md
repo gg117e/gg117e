@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=KKi7KXynBwA'>
-        <img src='https://i.ytimg.com/vi/KKi7KXynBwA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFTKwBCcvNjWzxputKmC9GKipoZQ' width='200px' alt='名前を呼ぶよ'>
+      <a href='https://www.youtube.com/watch?v=pjepmiuuH-A'>
+        <img src='https://i.ytimg.com/vi/pjepmiuuH-A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGCPr1dhG8TgZYOg5-RB6sHh5hGA' width='200px' alt='Glorious'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=KKi7KXynBwA'>名前を呼ぶよ</a>
+      <a href='https://www.youtube.com/watch?v=pjepmiuuH-A'>Glorious</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=9aveQLtaK30'>
-        <img src='https://i.ytimg.com/vi/9aveQLtaK30/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHLn-eCWxffBVVG5Hi7FNb98J-PA' width='200px' alt='ひまわり'>
+      <a href='https://www.youtube.com/watch?v=pyDCubgU57g'>
+        <img src='https://i.ytimg.com/vi/pyDCubgU57g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB37uBdxYISYHLCGDBUZUW3NbL7Hw' width='200px' alt='蒼のワルツ - Eve MV'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=9aveQLtaK30'>ひまわり</a>
+      <a href='https://www.youtube.com/watch?v=pyDCubgU57g'>蒼のワルツ - Eve MV</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=xpMW7wJTT3c'>
-        <img src='https://i.ytimg.com/vi/xpMW7wJTT3c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApHdPftEzlfVZIqAOSvCvom_1lwQ' width='200px' alt='Matane.'>
+      <a href='https://www.youtube.com/watch?v=LM_5KevVmYc'>
+        <img src='https://i.ytimg.com/vi/LM_5KevVmYc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4NqYuC703bhnQxOo1CE59_WIg0w' width='200px' alt='I Love You'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=xpMW7wJTT3c'>Matane.</a>
+      <a href='https://www.youtube.com/watch?v=LM_5KevVmYc'>I Love You</a>
     </td>
   </tr>
 </table>
