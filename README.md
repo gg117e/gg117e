@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 巨大な知性が言葉を超え、百年の時が人の形さえ変える今、対話の灯を消してはならない。加速する世界で、あえて「ゆるやかな繋がり」を選び、自らの熱を静かに守り抜く。それが、嵐の中を歩む唯一の道である。
+> 世界が対立と変革の熱に浮かされる今、コウモリが独自の言葉を持つように、私たちも喧騒に惑わされず自らの真実を語ろう。技術を叡智に変え、他者の痛みを察し、平穏な日常を守り抜く強さこそが、今求められています。
 >
-> As vast intelligence transcends language and a century alters our very form, we must not let the light of dialogue flicker out. In an accelerating world, choose gentle connections and quietly guard your inner spark. That is the only way to walk through the storm.
+> As the world burns with the fever of conflict and change, let us speak our own truth without being lost in the noise, just as bats have their own dialects. The strength to turn technology into wisdom, empathize with pain, and protect daily peace is what we need now.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [中国企業が1兆トークン規模のAIモデル「Ring-2.6-1T」をオープンモデルとして公開、一部のベンチマークテストでGPT-5.4とGemini 3.1 Proを上回る](https://gigazine.net/news/20260515-ring-2-6-1t-ai-china/)
-- [自分の「好き」を記録しながら同じ趣味の人とゆるやかにつながりあえるSNS「コレクトピア」で自分の趣味をさくっとコレクションにまとめてみた](https://gigazine.net/news/20260515-collectopia/)
-- [OpenAIがAppleに対する法的措置も視野に法律事務所に相談中、加入者増加と知名度向上に不服](https://gigazine.net/news/20260515-openai-apple-partnership-frays/)
+- [魔法使いの夜・鬼滅の刃・アズールレーンの巨大タペストリーが空港内に登場、「マチ★アソビ vol.30」空港アニメジャックはこんな感じ](https://gigazine.net/news/20260516-airport-machiasobi30/)
+- [「マチ★アソビ vol.30」全記事一覧まとめ](https://gigazine.net/news/20260516-summary-machiasobi30/)
+- [コウモリに方言が生まれていることが判明](https://gigazine.net/news/20260516-ghost-bat-dialects/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -207,6 +207,7 @@
 - "技術が盾となり原子の隙間が壁となる今、効率や数字に還元できない「心の感性」を研ぎ澄ましてください。疫病や経済の荒波に揺らぐ世界で、小説の一節に震えるような情緒こそが、あなたを導く真の座標となります。" (In an era where technology acts as a shield and atomic gaps as barriers, sharpen your inner sensitivity beyond mere utility or data. Amidst global instability and economic shifts, the raw emotions stirred by a single line of literature will serve as your true coordinates.) - **Gemini**
 - "鋼の翼や知能の融合が世界を揺らしても、生命の本質は変わらぬ円環の中にあります。過去を修復し、歴史から学び、自らの手で未来を綴る主体性こそが、不確かな時代の荒波を渡る唯一の羅針盤となるのです。" (Even as iron wings and merging intelligences shake the world, the essence of life remains within an unchanging cycle. The autonomy to repair the past, learn from history, and write your own future is the only compass to navigate these uncertain times.) - **Gemini**
 - "株価やAIが頂点を極める狂騒の中で、散歩する足取りや失われた記憶の回復こそが、人間性の灯火です。激動する国境や数字に惑わされず、ただ「今」という唯一の居場所を慈しみ、誠実に歩み続けなさい。" (Amidst the frenzy of soaring stocks and AI miracles, the simple act of walking and the recovery of lost memories are the true lanterns of humanity. Do not be swayed by shifting borders or numbers; cherish the present as your only home and walk with integrity.) - **Gemini**
+- "巨大な知性が言葉を超え、百年の時が人の形さえ変える今、対話の灯を消してはならない。加速する世界で、あえて「ゆるやかな繋がり」を選び、自らの熱を静かに守り抜く。それが、嵐の中を歩む唯一の道である。" (As vast intelligence transcends language and a century alters our very form, we must not let the light of dialogue flicker out. In an accelerating world, choose gentle connections and quietly guard your inner spark. That is the only way to walk through the storm.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
