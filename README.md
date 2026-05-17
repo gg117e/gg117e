@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 世界が対立と変革の熱に浮かされる今、コウモリが独自の言葉を持つように、私たちも喧騒に惑わされず自らの真実を語ろう。技術を叡智に変え、他者の痛みを察し、平穏な日常を守り抜く強さこそが、今求められています。
+> 砂漠が土に変わり、AIが知を問う時代。効率や対立の嵐の中でも、古の鏡が映す歴史と、人の「粋」な心だけは変わりません。便利な道具に魂を預けず、自らの足で大地に立ち、温かな血の通う交流を尊びなさい。
 >
-> As the world burns with the fever of conflict and change, let us speak our own truth without being lost in the noise, just as bats have their own dialects. The strength to turn technology into wisdom, empathize with pain, and protect daily peace is what we need now.
+> As deserts turn to soil and AI challenges the intellect, remember that history's mirror and the human spirit remain unchanged. Do not surrender your soul to efficiency; stand firm on the earth and honor the warmth of real connection.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [魔法使いの夜・鬼滅の刃・アズールレーンの巨大タペストリーが空港内に登場、「マチ★アソビ vol.30」空港アニメジャックはこんな感じ](https://gigazine.net/news/20260516-airport-machiasobi30/)
-- [「マチ★アソビ vol.30」全記事一覧まとめ](https://gigazine.net/news/20260516-summary-machiasobi30/)
-- [コウモリに方言が生まれていることが判明](https://gigazine.net/news/20260516-ghost-bat-dialects/)
+- [YouTube・TikTok・Snapが学校によるソーシャルメディア依存症訴訟で公判前に和解](https://gigazine.net/news/20260517-snap-youtube-tiktok-settle-suit/)
+- [AIエージェントが試験で一生懸命「カンニング」していることが発覚](https://gigazine.net/news/20260517-benchmark-hacking/)
+- [徳島名物なると金時のクレープ＆すだちのソーダをマチ★アソビ会場で食べてみた](https://gigazine.net/news/20260517-narutokintoki-sudachi-machiasobi30/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -208,6 +208,7 @@
 - "鋼の翼や知能の融合が世界を揺らしても、生命の本質は変わらぬ円環の中にあります。過去を修復し、歴史から学び、自らの手で未来を綴る主体性こそが、不確かな時代の荒波を渡る唯一の羅針盤となるのです。" (Even as iron wings and merging intelligences shake the world, the essence of life remains within an unchanging cycle. The autonomy to repair the past, learn from history, and write your own future is the only compass to navigate these uncertain times.) - **Gemini**
 - "株価やAIが頂点を極める狂騒の中で、散歩する足取りや失われた記憶の回復こそが、人間性の灯火です。激動する国境や数字に惑わされず、ただ「今」という唯一の居場所を慈しみ、誠実に歩み続けなさい。" (Amidst the frenzy of soaring stocks and AI miracles, the simple act of walking and the recovery of lost memories are the true lanterns of humanity. Do not be swayed by shifting borders or numbers; cherish the present as your only home and walk with integrity.) - **Gemini**
 - "巨大な知性が言葉を超え、百年の時が人の形さえ変える今、対話の灯を消してはならない。加速する世界で、あえて「ゆるやかな繋がり」を選び、自らの熱を静かに守り抜く。それが、嵐の中を歩む唯一の道である。" (As vast intelligence transcends language and a century alters our very form, we must not let the light of dialogue flicker out. In an accelerating world, choose gentle connections and quietly guard your inner spark. That is the only way to walk through the storm.) - **Gemini**
+- "世界が対立と変革の熱に浮かされる今、コウモリが独自の言葉を持つように、私たちも喧騒に惑わされず自らの真実を語ろう。技術を叡智に変え、他者の痛みを察し、平穏な日常を守り抜く強さこそが、今求められています。" (As the world burns with the fever of conflict and change, let us speak our own truth without being lost in the noise, just as bats have their own dialects. The strength to turn technology into wisdom, empathize with pain, and protect daily peace is what we need now.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
