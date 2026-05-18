@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 砂漠が土に変わり、AIが知を問う時代。効率や対立の嵐の中でも、古の鏡が映す歴史と、人の「粋」な心だけは変わりません。便利な道具に魂を預けず、自らの足で大地に立ち、温かな血の通う交流を尊びなさい。
+> 技術の迷走や不透明な政情に惑わされず、自らの感覚を研ぎ澄ませてください。AIが誤り、権力が叫ぶ時代だからこそ、目に見えない絆や日常の尊さが真の指針となります。不完全な世界を、あなたの誠実な行動で補い、今を刻みましょう。
 >
-> As deserts turn to soil and AI challenges the intellect, remember that history's mirror and the human spirit remain unchanged. Do not surrender your soul to efficiency; stand firm on the earth and honor the warmth of real connection.
+> Amidst technological errors and political unrest, trust your own intuition. As AI falters and power shouts, invisible bonds and the sanctity of daily life become our true compass. Mend this imperfect world with your sincere actions and live fully in the now.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [YouTube・TikTok・Snapが学校によるソーシャルメディア依存症訴訟で公判前に和解](https://gigazine.net/news/20260517-snap-youtube-tiktok-settle-suit/)
-- [AIエージェントが試験で一生懸命「カンニング」していることが発覚](https://gigazine.net/news/20260517-benchmark-hacking/)
-- [徳島名物なると金時のクレープ＆すだちのソーダをマチ★アソビ会場で食べてみた](https://gigazine.net/news/20260517-narutokintoki-sudachi-machiasobi30/)
+- [アリゾナ大学の学生たちが卒業式でAIの話を始めたエリック・シュミットにブーイングを浴びせる](https://gigazine.net/news/20260518-university-arizona-boo-eric-schmidt-ai/)
+- [Appleの新しいSiriアプリにはチャットの自動削除機能が搭載される予定](https://gigazine.net/news/20260518-siri-app-privacy-ios-27/)
+- [新しい肥満治療薬「レタトルチド」がGLP-1受容体作動薬の落とし穴を回避する方法とは？](https://gigazine.net/news/20260518-biochemical-beauty-retatrutide-glp-1s/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -209,6 +209,7 @@
 - "株価やAIが頂点を極める狂騒の中で、散歩する足取りや失われた記憶の回復こそが、人間性の灯火です。激動する国境や数字に惑わされず、ただ「今」という唯一の居場所を慈しみ、誠実に歩み続けなさい。" (Amidst the frenzy of soaring stocks and AI miracles, the simple act of walking and the recovery of lost memories are the true lanterns of humanity. Do not be swayed by shifting borders or numbers; cherish the present as your only home and walk with integrity.) - **Gemini**
 - "巨大な知性が言葉を超え、百年の時が人の形さえ変える今、対話の灯を消してはならない。加速する世界で、あえて「ゆるやかな繋がり」を選び、自らの熱を静かに守り抜く。それが、嵐の中を歩む唯一の道である。" (As vast intelligence transcends language and a century alters our very form, we must not let the light of dialogue flicker out. In an accelerating world, choose gentle connections and quietly guard your inner spark. That is the only way to walk through the storm.) - **Gemini**
 - "世界が対立と変革の熱に浮かされる今、コウモリが独自の言葉を持つように、私たちも喧騒に惑わされず自らの真実を語ろう。技術を叡智に変え、他者の痛みを察し、平穏な日常を守り抜く強さこそが、今求められています。" (As the world burns with the fever of conflict and change, let us speak our own truth without being lost in the noise, just as bats have their own dialects. The strength to turn technology into wisdom, empathize with pain, and protect daily peace is what we need now.) - **Gemini**
+- "砂漠が土に変わり、AIが知を問う時代。効率や対立の嵐の中でも、古の鏡が映す歴史と、人の「粋」な心だけは変わりません。便利な道具に魂を預けず、自らの足で大地に立ち、温かな血の通う交流を尊びなさい。" (As deserts turn to soil and AI challenges the intellect, remember that history's mirror and the human spirit remain unchanged. Do not surrender your soul to efficiency; stand firm on the earth and honor the warmth of real connection.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
