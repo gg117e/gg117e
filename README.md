@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=mj4Pa0ldUp8'>
-        <img src='https://i.ytimg.com/vi/mj4Pa0ldUp8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD14lODcjMhcKlqfeZWoy1pyMFyqg' width='200px' alt='地獄でなぜ悪い'>
+      <a href='https://www.youtube.com/watch?v=Fay3ZhHS1rU'>
+        <img src='https://i.ytimg.com/vi/Fay3ZhHS1rU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjDVfcid0spA__YFixGLdGLPV6kA' width='200px' alt='桑田佳祐 – 100万年の幸せ!!（Full ver.）'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=mj4Pa0ldUp8'>地獄でなぜ悪い</a>
+      <a href='https://www.youtube.com/watch?v=Fay3ZhHS1rU'>桑田佳祐 – 100万年の幸せ!!（Full ver.）</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=0OZ15_9YKPc'>
-        <img src='https://i.ytimg.com/vi/0OZ15_9YKPc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDw-Z7Q01p2yef5ViEEv7j0i6ACZg' width='200px' alt='異端なスター'>
+      <a href='https://www.youtube.com/watch?v=yFRNB8Jji4Y'>
+        <img src='https://i.ytimg.com/vi/yFRNB8Jji4Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAa-LXQ-EF_QYmSvbdUJF-CyB5nwA' width='200px' alt='燈'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=0OZ15_9YKPc'>異端なスター</a>
+      <a href='https://www.youtube.com/watch?v=yFRNB8Jji4Y'>燈</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=bwqurkN3vhE'>
-        <img src='https://i.ytimg.com/vi/bwqurkN3vhE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0WOCmULFS7X-iN9B9vHmdTG94Sw' width='200px' alt='アイデア'>
+      <a href='https://www.youtube.com/watch?v=xFL1OO6siJI'>
+        <img src='https://i.ytimg.com/vi/xFL1OO6siJI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCH_W3xlqcSThQ65fOuXCwQWmIZng' width='200px' alt='Dokokade Hi Wa Noboru'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=bwqurkN3vhE'>アイデア</a>
+      <a href='https://www.youtube.com/watch?v=xFL1OO6siJI'>Dokokade Hi Wa Noboru</a>
     </td>
   </tr>
 </table>
