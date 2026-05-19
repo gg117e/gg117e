@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=hID1Wt1ByEQ'>
-        <img src='https://i.ytimg.com/vi/hID1Wt1ByEQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6PREFxuitmk-F_ecqRXEOsN1hNg' width='200px' alt='Same Blue'>
+      <a href='https://www.youtube.com/watch?v=gpdh9AUzQjY'>
+        <img src='https://i.ytimg.com/vi/gpdh9AUzQjY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnZY9cYpCWhlK5DvkOpB3w46mpVQ' width='200px' alt='カーテンコール'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=hID1Wt1ByEQ'>Same Blue</a>
+      <a href='https://www.youtube.com/watch?v=gpdh9AUzQjY'>カーテンコール</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=olsv91gZylw'>
-        <img src='https://i.ytimg.com/vi/olsv91gZylw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMk1mraa6RG1rdZqFj9hliTNqJwg' width='200px' alt='悲しみなんて笑い飛ばせ'>
+      <a href='https://www.youtube.com/watch?v=oPdIjsctolE'>
+        <img src='https://i.ytimg.com/vi/oPdIjsctolE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1T1itQlYqc1WOopgeaDxc2jiiHQ' width='200px' alt='milet「Ordinary days」MUSIC VIDEO'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=olsv91gZylw'>悲しみなんて笑い飛ばせ</a>
+      <a href='https://www.youtube.com/watch?v=oPdIjsctolE'>milet「Ordinary days」MUSIC VIDEO</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ZODK5o0PCbk'>
-        <img src='https://i.ytimg.com/vi/ZODK5o0PCbk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCO4i_-hjOexA9d03JV7fqdobq3yg' width='200px' alt='Imato Anokorono Bokura'>
+      <a href='https://www.youtube.com/watch?v=ErqUUYWfOBo'>
+        <img src='https://i.ytimg.com/vi/ErqUUYWfOBo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOSuaDQ-44YRfAfNZSNO7AyglYcA' width='200px' alt='決戦スピリット／CHiCO with HoneyWorks'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ZODK5o0PCbk'>Imato Anokorono Bokura</a>
+      <a href='https://www.youtube.com/watch?v=ErqUUYWfOBo'>決戦スピリット／CHiCO with HoneyWorks</a>
     </td>
   </tr>
 </table>
