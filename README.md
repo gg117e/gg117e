@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=gpdh9AUzQjY'>
-        <img src='https://i.ytimg.com/vi/gpdh9AUzQjY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnZY9cYpCWhlK5DvkOpB3w46mpVQ' width='200px' alt='カーテンコール'>
+      <a href='https://www.youtube.com/watch?v=_zVFYb5jzr8'>
+        <img src='https://i.ytimg.com/vi/_zVFYb5jzr8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCN42WTnWBBGIgKGCcTgP1-bACk1w' width='200px' alt='Love Letter'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=gpdh9AUzQjY'>カーテンコール</a>
+      <a href='https://www.youtube.com/watch?v=_zVFYb5jzr8'>Love Letter</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=oPdIjsctolE'>
-        <img src='https://i.ytimg.com/vi/oPdIjsctolE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1T1itQlYqc1WOopgeaDxc2jiiHQ' width='200px' alt='milet「Ordinary days」MUSIC VIDEO'>
+      <a href='https://www.youtube.com/watch?v=5X_wSeKhPAU'>
+        <img src='https://i.ytimg.com/vi/5X_wSeKhPAU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBq3r0bpKi6IiOhtkcgzu-FS_beg' width='200px' alt='Orange'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=oPdIjsctolE'>milet「Ordinary days」MUSIC VIDEO</a>
+      <a href='https://www.youtube.com/watch?v=5X_wSeKhPAU'>Orange</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ErqUUYWfOBo'>
-        <img src='https://i.ytimg.com/vi/ErqUUYWfOBo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOSuaDQ-44YRfAfNZSNO7AyglYcA' width='200px' alt='決戦スピリット／CHiCO with HoneyWorks'>
+      <a href='https://www.youtube.com/watch?v=s4ZThuWQdhA'>
+        <img src='https://i.ytimg.com/vi/s4ZThuWQdhA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBL2544KnUtG-gjg-ro3N-gIAIgbw' width='200px' alt='Que Sera Sera'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ErqUUYWfOBo'>決戦スピリット／CHiCO with HoneyWorks</a>
+      <a href='https://www.youtube.com/watch?v=s4ZThuWQdhA'>Que Sera Sera</a>
     </td>
   </tr>
 </table>
