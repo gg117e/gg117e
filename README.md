@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=kJEPeKPtZyw'>
-        <img src='https://i.ytimg.com/vi/kJEPeKPtZyw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHEQRF57cU-KWllU8xOBlwgrk83Q' width='200px' alt='花占い'>
+      <a href='https://www.youtube.com/watch?v=JX8UNk5bAK8'>
+        <img src='https://i.ytimg.com/vi/JX8UNk5bAK8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8_mjwoEimkQONjmS2J0waFkwd9Q' width='200px' alt='のびしろ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=kJEPeKPtZyw'>花占い</a>
+      <a href='https://www.youtube.com/watch?v=JX8UNk5bAK8'>のびしろ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=WjIsq1-ZBaw'>
-        <img src='https://i.ytimg.com/vi/WjIsq1-ZBaw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCh9rmrKCmdRlaAejuSaWKVb-hTg' width='200px' alt='平井 大 / 栄光の扉（Music Video）'>
+      <a href='https://www.youtube.com/watch?v=xFL1OO6siJI'>
+        <img src='https://i.ytimg.com/vi/xFL1OO6siJI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCH_W3xlqcSThQ65fOuXCwQWmIZng' width='200px' alt='Dokokade Hi Wa Noboru'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=WjIsq1-ZBaw'>平井 大 / 栄光の扉（Music Video）</a>
+      <a href='https://www.youtube.com/watch?v=xFL1OO6siJI'>Dokokade Hi Wa Noboru</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=1Zj84ajLO0E'>
-        <img src='https://i.ytimg.com/vi/1Zj84ajLO0E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzCzHeBm0IcTaqcvSVnADwwMndqw' width='200px' alt='Sasanqua'>
+      <a href='https://www.youtube.com/watch?v=rqJgOLXsr3M'>
+        <img src='https://i.ytimg.com/vi/rqJgOLXsr3M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCec-aruTMcKZDIMW7DHuBnHIVUnA' width='200px' alt='おもかげ (produced by Vaundy)'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=1Zj84ajLO0E'>Sasanqua</a>
+      <a href='https://www.youtube.com/watch?v=rqJgOLXsr3M'>おもかげ (produced by Vaundy)</a>
     </td>
   </tr>
 </table>
