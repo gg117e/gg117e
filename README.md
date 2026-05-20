@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 世界がAIで命を書き換え、境界を閉ざす今こそ、自らの内なる光を見失うな。変化という波を泳ぎつつも、一杯の温かな食事や誠実な対話を尊び、誰にも譲れない自分だけの「物語」を独占し、静かに深めよ。
+> 技術が万象を模倣し、世界の均衡が揺らぐ今こそ、計算不可能な「生」の尊厳に立ち返る時です。情報の奔流に呑まれず、目の前の他者と真心を交わす勇気を。真実は、画面の中ではなく、あなたの鼓動と確かな歩みの先にあります。
 >
-> In an era where AI rewrites life and borders tighten, do not lose your inner light. Navigate the waves of change while cherishing simple meals and honest dialogue. Exclusively protect and deepen the unique story that belongs only to you.
+> As technology mimics all things and global balances shift, we must return to the incalculable dignity of life. Do not be swept away by the torrent of information; find the courage for sincere connection. Truth lies not on screens, but in your heartbeat and your steady steps.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [Metaが人員削減に先立ち7000人の従業員をAI関連の役割に配置転換](https://gigazine.net/news/20260519-meta-moves-7000-ai-role/)
-- [PlayStationは今後PC向けにストーリー重視の独占タイトルを販売せずPlayStation独占タイトルのままにする](https://gigazine.net/news/20260519-sony-pull-back-playstation-exclusives-games-pc/)
-- [記事広告では良い点も悪い点も書くべき？](https://gigazine.net/news/20260519-what-new-categories-gigazine/)
+- [Google DeepMindがマルチモーダル生成モデル「Gemini Omni」を発表、自然言語による対話と推論能力による動画生成・編集が可能に](https://gigazine.net/news/20260520-google-deepmind-gemini-omni/)
+- [Google検索がAIで大幅刷新、マルチモーダル入力に対応してエージェント機能も搭載](https://gigazine.net/news/20260520-google-search-io-2026-ai/)
+- [Googleが「Gemini 3.5」シリーズを発表、まずは軽量版の「Gemini 3.5 Flash」から](https://gigazine.net/news/20260520-google-gemini-3-5-flash/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -211,6 +211,7 @@
 - "世界が対立と変革の熱に浮かされる今、コウモリが独自の言葉を持つように、私たちも喧騒に惑わされず自らの真実を語ろう。技術を叡智に変え、他者の痛みを察し、平穏な日常を守り抜く強さこそが、今求められています。" (As the world burns with the fever of conflict and change, let us speak our own truth without being lost in the noise, just as bats have their own dialects. The strength to turn technology into wisdom, empathize with pain, and protect daily peace is what we need now.) - **Gemini**
 - "砂漠が土に変わり、AIが知を問う時代。効率や対立の嵐の中でも、古の鏡が映す歴史と、人の「粋」な心だけは変わりません。便利な道具に魂を預けず、自らの足で大地に立ち、温かな血の通う交流を尊びなさい。" (As deserts turn to soil and AI challenges the intellect, remember that history's mirror and the human spirit remain unchanged. Do not surrender your soul to efficiency; stand firm on the earth and honor the warmth of real connection.) - **Gemini**
 - "技術の迷走や不透明な政情に惑わされず、自らの感覚を研ぎ澄ませてください。AIが誤り、権力が叫ぶ時代だからこそ、目に見えない絆や日常の尊さが真の指針となります。不完全な世界を、あなたの誠実な行動で補い、今を刻みましょう。" (Amidst technological errors and political unrest, trust your own intuition. As AI falters and power shouts, invisible bonds and the sanctity of daily life become our true compass. Mend this imperfect world with your sincere actions and live fully in the now.) - **Gemini**
+- "世界がAIで命を書き換え、境界を閉ざす今こそ、自らの内なる光を見失うな。変化という波を泳ぎつつも、一杯の温かな食事や誠実な対話を尊び、誰にも譲れない自分だけの「物語」を独占し、静かに深めよ。" (In an era where AI rewrites life and borders tighten, do not lose your inner light. Navigate the waves of change while cherishing simple meals and honest dialogue. Exclusively protect and deepen the unique story that belongs only to you.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
