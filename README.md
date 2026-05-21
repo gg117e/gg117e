@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=LoyA7GvfOwA'>
-        <img src='https://i.ytimg.com/vi/LoyA7GvfOwA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAuADigIMCAAQARhkIGQoZDAP&rs=AOn4CLBk6pXQ6KVrYlVuaAckuf6xf3Owbg' width='200px' alt='Sad Song'>
+      <a href='https://www.youtube.com/watch?v=8E2VN7GO5eM'>
+        <img src='https://i.ytimg.com/vi/8E2VN7GO5eM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjez16ntm7mb1BHVpaPnxkJht3Mg' width='200px' alt='気まぐれロマンティック'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=LoyA7GvfOwA'>Sad Song</a>
+      <a href='https://www.youtube.com/watch?v=8E2VN7GO5eM'>気まぐれロマンティック</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=XtBUrzpLjGQ'>
-        <img src='https://i.ytimg.com/vi/XtBUrzpLjGQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChrRq5NxAovVcUY4eqeydpNsNh_w' width='200px' alt='Aiuta'>
+      <a href='https://www.youtube.com/watch?v=GcXurBc6vao'>
+        <img src='https://i.ytimg.com/vi/GcXurBc6vao/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1h2cOKqsHtyYt1ytLA3FK8W9TZA' width='200px' alt='カタオモイ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=XtBUrzpLjGQ'>Aiuta</a>
+      <a href='https://www.youtube.com/watch?v=GcXurBc6vao'>カタオモイ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=HzF797f9uQs'>
-        <img src='https://i.ytimg.com/vi/HzF797f9uQs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAl7-DU2SL4TW4FqLG_TwxU3x4SEg' width='200px' alt='沈丁花'>
+      <a href='https://www.youtube.com/watch?v=nhfIpEUU9tc'>
+        <img src='https://i.ytimg.com/vi/nhfIpEUU9tc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgBpk2hSaERwDjiPaFIRz-Tc45rA' width='200px' alt='光るなら'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=HzF797f9uQs'>沈丁花</a>
+      <a href='https://www.youtube.com/watch?v=nhfIpEUU9tc'>光るなら</a>
     </td>
   </tr>
 </table>
