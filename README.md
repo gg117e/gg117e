@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 廃鉱に眠る新石のように、旧き記憶の影に未来は潜む。技術や権力の激流に呑まれず、日々の脆い繋がりを丁寧に編み上げよ。自らの羅針盤を信じる者のみが、この不確かな時代を照らす静かなる光となれるのだ。
+> AIが瞬時に物語を紡ぎ、景色を記録する時代だからこそ、レンズを通さず、心で今を捉えよ。虚構と現が交錯し、争いの影が差す世界で、迷わず一歩を踏み出す勇気と、真実を見極める瞳が、あなたの唯一の光となる。
 >
-> Like new minerals in old mines, the future hides in the shadows of the past. Do not be swept away by torrents of technology or power; weave the fragile threads of daily life with care. Only those who trust their inner compass can become a quiet light in these uncertain times.
+> In an era where AI instantly crafts stories and records every scene, dare to perceive the world with your heart, not through a lens. Amidst the blur of fiction and reality, and the shadows of conflict, your courage to step forward and a gaze seeking truth will be your only light.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [eインクディスプレイ＆3マイクアレイ内蔵のワイヤレスマイク「Mic Pro」をInsta360が発表、価格は1万8500円から](https://gigazine.net/news/20260521-insta360-mic-pro/)
-- [「Apple Sports」が日本でも利用可能になったので使ってみた、iPhoneでメジャーリーグやワールドカップの最新情報を確認できるApple公式アプリ](https://gigazine.net/news/20260521-apple-sports/)
-- [将来の量子コンピューターに役立つ可能性を秘めた「量子スピン液体」の候補となる鉱物が廃鉱山から大量に見つかる](https://gigazine.net/news/20260521-abandoned-mine-ultra-pure-quantum-crystals/)
+- [音楽生成AI「Stable Audio 3.0」が登場、6分以上の音楽を生成可能な大型モデルとスマホで動作する小型モデルが公開される](https://gigazine.net/news/20260522-stable-audio-3/)
+- [SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース](https://gigazine.net/news/20260522-spotify-audiobooks-elevenlabs/)
+- [国際的な短編小説賞を受賞した5作品中3作品が「生成AIで書かれた可能性が高い」と指摘される事態に](https://gigazine.net/news/20260522-commonwealth-short-story-winner-ai-generated/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -213,6 +213,7 @@
 - "技術の迷走や不透明な政情に惑わされず、自らの感覚を研ぎ澄ませてください。AIが誤り、権力が叫ぶ時代だからこそ、目に見えない絆や日常の尊さが真の指針となります。不完全な世界を、あなたの誠実な行動で補い、今を刻みましょう。" (Amidst technological errors and political unrest, trust your own intuition. As AI falters and power shouts, invisible bonds and the sanctity of daily life become our true compass. Mend this imperfect world with your sincere actions and live fully in the now.) - **Gemini**
 - "世界がAIで命を書き換え、境界を閉ざす今こそ、自らの内なる光を見失うな。変化という波を泳ぎつつも、一杯の温かな食事や誠実な対話を尊び、誰にも譲れない自分だけの「物語」を独占し、静かに深めよ。" (In an era where AI rewrites life and borders tighten, do not lose your inner light. Navigate the waves of change while cherishing simple meals and honest dialogue. Exclusively protect and deepen the unique story that belongs only to you.) - **Gemini**
 - "技術が万象を模倣し、世界の均衡が揺らぐ今こそ、計算不可能な「生」の尊厳に立ち返る時です。情報の奔流に呑まれず、目の前の他者と真心を交わす勇気を。真実は、画面の中ではなく、あなたの鼓動と確かな歩みの先にあります。" (As technology mimics all things and global balances shift, we must return to the incalculable dignity of life. Do not be swept away by the torrent of information; find the courage for sincere connection. Truth lies not on screens, but in your heartbeat and your steady steps.) - **Gemini**
+- "廃鉱に眠る新石のように、旧き記憶の影に未来は潜む。技術や権力の激流に呑まれず、日々の脆い繋がりを丁寧に編み上げよ。自らの羅針盤を信じる者のみが、この不確かな時代を照らす静かなる光となれるのだ。" (Like new minerals in old mines, the future hides in the shadows of the past. Do not be swept away by torrents of technology or power; weave the fragile threads of daily life with care. Only those who trust their inner compass can become a quiet light in these uncertain times.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
