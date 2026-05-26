@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 技術が加速し情勢が激変する今、効率の影に隠れた「修復する力」を忘れてはならない。綻びを繕う手、偽りを見抜く眼、平和を紡ぐ意志。便利さに溺れず、自らの知恵で生を整えることが、不確かな明日を照らす光となる。
+> AIが過去を美しく塗り替え、予測市場が未来を数値化しても、人の心までは測れない。紛争や一瞬の過失が日常を揺らす今こそ、外の喧騒に惑わされず、自らの尊厳を「原版」として刻み続けよ。技術は伴走者に過ぎない。
 >
-> In an era of accelerating technology and shifting geopolitics, never forget the power to repair what is hidden behind efficiency. The hands that mend, the eyes that see through deception, and the will to weave peace. Beyond mere convenience, tending to life with your own wisdom is the light that illuminates an uncertain future.
+> While AI beautifies the past and markets quantify the future, the human heart remains immeasurable. Amidst conflicts and sudden lapses, do not be swayed by the noise; carve out your own dignity as the original. Technology is but a companion, not the master.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [HPがハイエンドノートPCユーザーのブートループ問題の原因となっているBIOSアップデートについて調査中](https://gigazine.net/news/20260525-hp-pc-bootloop/)
-- [Runwayが動画編集AI「Aleph 2.0」をリリース、動画の一部分を編集すると残りはAIが自動で編集してくれる](https://gigazine.net/news/20260525-runway-aleph-video-edit-ai/)
-- [Googleのミラーリング機能「Google Cast」がiPhoneでも使えるようになる可能性](https://gigazine.net/news/20260525-google-cast-join-iphone-airplay/)
+- [古いアニメをAIで美麗に生まれ変わらせる「Aiarty Video Enhancer」使ってみたレビュー、簡単操作で低解像度の動画を4Kに高画質化](https://gigazine.net/news/20260526-aiarty-video-enhancer/)
+- [Gemma 4をMacBookで実行して「大量の動画ファイルの説明文」を実行したAI開発者の記録が興味深い](https://gigazine.net/news/20260526-gemma-4-video-index/)
+- [「現存する世界最古の活版印刷機」がベルギーの博物館に展示されている](https://gigazine.net/news/20260526-worlds-two-oldest-printing-presses/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -217,6 +217,7 @@
 - "AIが瞬時に物語を紡ぎ、景色を記録する時代だからこそ、レンズを通さず、心で今を捉えよ。虚構と現が交錯し、争いの影が差す世界で、迷わず一歩を踏み出す勇気と、真実を見極める瞳が、あなたの唯一の光となる。" (In an era where AI instantly crafts stories and records every scene, dare to perceive the world with your heart, not through a lens. Amidst the blur of fiction and reality, and the shadows of conflict, your courage to step forward and a gaze seeking truth will be your only light.) - **Gemini**
 - "宇宙を拓く技術が加速し、国家の対立が深まる今こそ、静かな博物館を歩くような心の余裕を。脆い安全や移ろう経済に惑わされず、強靭な身体と豊かな感性を磨き、不確かな時代を自らの足で健やかに歩みなさい。" (As technology opens the cosmos while nations remain divided, seek the serenity of a quiet museum. Do not be swayed by fragile security or shifting economies; cultivate a resilient body and mind to walk gracefully through this uncertain age.) - **Gemini**
 - "AIの熱狂や国家の不和に惑わされず、自らの手で道具を直し、自らの意志で決断せよ。空へ放たれた電波のように、あなたの誠実な生き方こそが、遠い未来へ届く不滅の灯火となる。知を愛し、命の重みを忘れるな。" (Amidst AI fervor and global discord, repair your own tools and decide your own path. Like radio waves sent into space, your sincere way of life will be the eternal light reaching the distant future. Cherish knowledge and never forget the weight of life.) - **Gemini**
+- "技術が加速し情勢が激変する今、効率の影に隠れた「修復する力」を忘れてはならない。綻びを繕う手、偽りを見抜く眼、平和を紡ぐ意志。便利さに溺れず、自らの知恵で生を整えることが、不確かな明日を照らす光となる。" (In an era of accelerating technology and shifting geopolitics, never forget the power to repair what is hidden behind efficiency. The hands that mend, the eyes that see through deception, and the will to weave peace. Beyond mere convenience, tending to life with your own wisdom is the light that illuminates an uncertain future.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
