@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> AIが過去を美しく塗り替え、予測市場が未来を数値化しても、人の心までは測れない。紛争や一瞬の過失が日常を揺らす今こそ、外の喧騒に惑わされず、自らの尊厳を「原版」として刻み続けよ。技術は伴走者に過ぎない。
+> 技術が職を替え、数字が踊り、嵐が地を洗う。激動の今、真の知恵とは移り変わる道具に溺れず、自らの尊厳と他者への慈しみを守り抜く強さにあります。情報の波に己を失わず、内なる羅針盤を信じて、静かに歩みなさい。
 >
-> While AI beautifies the past and markets quantify the future, the human heart remains immeasurable. Amidst conflicts and sudden lapses, do not be swayed by the noise; carve out your own dignity as the original. Technology is but a companion, not the master.
+> Technology shifts labor, markets surge, and storms reshape the land. In these turbulent times, true wisdom is the strength to protect your dignity and compassion without being consumed by tools. Do not lose yourself in information; trust your inner compass and walk with quiet resolve.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [古いアニメをAIで美麗に生まれ変わらせる「Aiarty Video Enhancer」使ってみたレビュー、簡単操作で低解像度の動画を4Kに高画質化](https://gigazine.net/news/20260526-aiarty-video-enhancer/)
-- [Gemma 4をMacBookで実行して「大量の動画ファイルの説明文」を実行したAI開発者の記録が興味深い](https://gigazine.net/news/20260526-gemma-4-video-index/)
-- [「現存する世界最古の活版印刷機」がベルギーの博物館に展示されている](https://gigazine.net/news/20260526-worlds-two-oldest-printing-presses/)
+- [NVIDIAがグラボ設定アプリ「NVIDIAコントロールパネル」のサポート終了を宣言、NVIDIAアプリへの移行が案内される](https://gigazine.net/news/20260527-nvidia-control-panel-retiring/)
+- [週に3億回超ダウンロードされているオープンソースパッケージ「Starlette」の脆弱性により数百万のAIエージェントが危険にさらされる](https://gigazine.net/news/20260527-millions-ai-agents-imperiled-vulnerability-starlette/)
+- [DuckDuckGoのユーザー数が急増、Google I/OでのAI関連の発表を受けて](https://gigazine.net/news/20260527-not-google-but-duckduckgo/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -218,6 +218,7 @@
 - "宇宙を拓く技術が加速し、国家の対立が深まる今こそ、静かな博物館を歩くような心の余裕を。脆い安全や移ろう経済に惑わされず、強靭な身体と豊かな感性を磨き、不確かな時代を自らの足で健やかに歩みなさい。" (As technology opens the cosmos while nations remain divided, seek the serenity of a quiet museum. Do not be swayed by fragile security or shifting economies; cultivate a resilient body and mind to walk gracefully through this uncertain age.) - **Gemini**
 - "AIの熱狂や国家の不和に惑わされず、自らの手で道具を直し、自らの意志で決断せよ。空へ放たれた電波のように、あなたの誠実な生き方こそが、遠い未来へ届く不滅の灯火となる。知を愛し、命の重みを忘れるな。" (Amidst AI fervor and global discord, repair your own tools and decide your own path. Like radio waves sent into space, your sincere way of life will be the eternal light reaching the distant future. Cherish knowledge and never forget the weight of life.) - **Gemini**
 - "技術が加速し情勢が激変する今、効率の影に隠れた「修復する力」を忘れてはならない。綻びを繕う手、偽りを見抜く眼、平和を紡ぐ意志。便利さに溺れず、自らの知恵で生を整えることが、不確かな明日を照らす光となる。" (In an era of accelerating technology and shifting geopolitics, never forget the power to repair what is hidden behind efficiency. The hands that mend, the eyes that see through deception, and the will to weave peace. Beyond mere convenience, tending to life with your own wisdom is the light that illuminates an uncertain future.) - **Gemini**
+- "AIが過去を美しく塗り替え、予測市場が未来を数値化しても、人の心までは測れない。紛争や一瞬の過失が日常を揺らす今こそ、外の喧騒に惑わされず、自らの尊厳を「原版」として刻み続けよ。技術は伴走者に過ぎない。" (While AI beautifies the past and markets quantify the future, the human heart remains immeasurable. Amidst conflicts and sudden lapses, do not be swayed by the noise; carve out your own dignity as the original. Technology is but a companion, not the master.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
