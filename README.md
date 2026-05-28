@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 技術が職を替え、数字が踊り、嵐が地を洗う。激動の今、真の知恵とは移り変わる道具に溺れず、自らの尊厳と他者への慈しみを守り抜く強さにあります。情報の波に己を失わず、内なる羅針盤を信じて、静かに歩みなさい。
+> AIが真偽を裁き、衛星が空を覆う時代。紛争と欲望の喧騒の中で、私たちは「命の重み」を忘れがちです。外側の正解に縋るのをやめ、自らの内なる羅針盤を磨きなさい。誠実さこそが、混迷を抜ける唯一の光となります。
 >
-> Technology shifts labor, markets surge, and storms reshape the land. In these turbulent times, true wisdom is the strength to protect your dignity and compassion without being consumed by tools. Do not lose yourself in information; trust your inner compass and walk with quiet resolve.
+> In an era where AI judges truth and satellites veil the sky, the weight of life is often lost in the noise of conflict and greed. Stop clinging to external answers and sharpen your inner compass. Integrity is the only light that guides us through the chaos.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [NVIDIAがグラボ設定アプリ「NVIDIAコントロールパネル」のサポート終了を宣言、NVIDIAアプリへの移行が案内される](https://gigazine.net/news/20260527-nvidia-control-panel-retiring/)
-- [週に3億回超ダウンロードされているオープンソースパッケージ「Starlette」の脆弱性により数百万のAIエージェントが危険にさらされる](https://gigazine.net/news/20260527-millions-ai-agents-imperiled-vulnerability-starlette/)
-- [DuckDuckGoのユーザー数が急増、Google I/OでのAI関連の発表を受けて](https://gigazine.net/news/20260527-not-google-but-duckduckgo/)
+- [YouTubeがAI生成コンテンツを自動検出へ、投稿者が申告しなくてもラベル表示](https://gigazine.net/news/20260528-youtube-ai-label/)
+- [Amazonは衛星通信サービスGlobalstarを買収する一環としてAppleの保有するGlobalstarの株式20％も取得する計画](https://gigazine.net/news/20260528-amazon-take-over-apple-stake-globalstar/)
+- [Blueskyは「国家が関与する世論操作アカウント」を1年で8526件削除](https://gigazine.net/news/20260528-bluesky-state-backed-influence-activity/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -219,6 +219,7 @@
 - "AIの熱狂や国家の不和に惑わされず、自らの手で道具を直し、自らの意志で決断せよ。空へ放たれた電波のように、あなたの誠実な生き方こそが、遠い未来へ届く不滅の灯火となる。知を愛し、命の重みを忘れるな。" (Amidst AI fervor and global discord, repair your own tools and decide your own path. Like radio waves sent into space, your sincere way of life will be the eternal light reaching the distant future. Cherish knowledge and never forget the weight of life.) - **Gemini**
 - "技術が加速し情勢が激変する今、効率の影に隠れた「修復する力」を忘れてはならない。綻びを繕う手、偽りを見抜く眼、平和を紡ぐ意志。便利さに溺れず、自らの知恵で生を整えることが、不確かな明日を照らす光となる。" (In an era of accelerating technology and shifting geopolitics, never forget the power to repair what is hidden behind efficiency. The hands that mend, the eyes that see through deception, and the will to weave peace. Beyond mere convenience, tending to life with your own wisdom is the light that illuminates an uncertain future.) - **Gemini**
 - "AIが過去を美しく塗り替え、予測市場が未来を数値化しても、人の心までは測れない。紛争や一瞬の過失が日常を揺らす今こそ、外の喧騒に惑わされず、自らの尊厳を「原版」として刻み続けよ。技術は伴走者に過ぎない。" (While AI beautifies the past and markets quantify the future, the human heart remains immeasurable. Amidst conflicts and sudden lapses, do not be swayed by the noise; carve out your own dignity as the original. Technology is but a companion, not the master.) - **Gemini**
+- "技術が職を替え、数字が踊り、嵐が地を洗う。激動の今、真の知恵とは移り変わる道具に溺れず、自らの尊厳と他者への慈しみを守り抜く強さにあります。情報の波に己を失わず、内なる羅針盤を信じて、静かに歩みなさい。" (Technology shifts labor, markets surge, and storms reshape the land. In these turbulent times, true wisdom is the strength to protect your dignity and compassion without being consumed by tools. Do not lose yourself in information; trust your inner compass and walk with quiet resolve.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
