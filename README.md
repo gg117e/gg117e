@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=RuSNeIcPamk'>
-        <img src='https://i.ytimg.com/vi/RuSNeIcPamk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACQElNN-4SFIx_aT1F-ScHtTlzJA' width='200px' alt='【Official】Uru 『Love Song』  フジテレビ系 木曜劇場「推しの王子様」主題歌'>
+      <a href='https://www.youtube.com/watch?v=KWuBFuc2hX8'>
+        <img src='https://i.ytimg.com/vi/KWuBFuc2hX8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDbE9jqoMoGos1fTtw12yaYrw6NQ' width='200px' alt='YELL'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=RuSNeIcPamk'>【Official】Uru 『Love Song』  フジテレビ系 木曜劇場「推しの王子様」主題歌</a>
+      <a href='https://www.youtube.com/watch?v=KWuBFuc2hX8'>YELL</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=JVZCRtChnB0'>
-        <img src='https://i.ytimg.com/vi/JVZCRtChnB0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALs3GdtzvV2OHV94xCXf8PS7MxuQ' width='200px' alt='点描の唄 / Mrs. GREEN APPLE (feat.井上苑子) full covered by オサム × 春茶'>
+      <a href='https://www.youtube.com/watch?v=PLNtwcIjgJE'>
+        <img src='https://i.ytimg.com/vi/PLNtwcIjgJE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRAewsfJBCUN9YE1jmdT2Zsd9E0A' width='200px' alt='Misenainamidawa Kittoitsuka'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=JVZCRtChnB0'>点描の唄 / Mrs. GREEN APPLE (feat.井上苑子) full covered by オサム × 春茶</a>
+      <a href='https://www.youtube.com/watch?v=PLNtwcIjgJE'>Misenainamidawa Kittoitsuka</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=A1g9Ev-Ml5g'>
-        <img src='https://i.ytimg.com/vi/A1g9Ev-Ml5g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYaQo0xKzXpdDNtCRer4QMwIqPwg' width='200px' alt='虹'>
+      <a href='https://www.youtube.com/watch?v=-_PKhPMXMDY'>
+        <img src='https://i.ytimg.com/vi/-_PKhPMXMDY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA96C28QeG6Y8XikTP7sXlae0UcmA' width='200px' alt='Tokimeki / Vaundy：MUSIC VIDEO'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=A1g9Ev-Ml5g'>虹</a>
+      <a href='https://www.youtube.com/watch?v=-_PKhPMXMDY'>Tokimeki / Vaundy：MUSIC VIDEO</a>
     </td>
   </tr>
 </table>
