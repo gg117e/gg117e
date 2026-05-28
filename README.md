@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=rxR1mBt__fo'>
-        <img src='https://i.ytimg.com/vi/rxR1mBt__fo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsWaFFvm2u38Jdjm5d7AcaKwvMMg' width='200px' alt='Natsuiro'>
+      <a href='https://www.youtube.com/watch?v=1Zj84ajLO0E'>
+        <img src='https://i.ytimg.com/vi/1Zj84ajLO0E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzCzHeBm0IcTaqcvSVnADwwMndqw' width='200px' alt='Sasanqua'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=rxR1mBt__fo'>Natsuiro</a>
+      <a href='https://www.youtube.com/watch?v=1Zj84ajLO0E'>Sasanqua</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=BT5fqQ0xXYs'>
-        <img src='https://i.ytimg.com/vi/BT5fqQ0xXYs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvJu2x5bSmOLxOc0ETl7cftwiIOw' width='200px' alt='Soramo Toberuhazu'>
+      <a href='https://www.youtube.com/watch?v=RuSNeIcPamk'>
+        <img src='https://i.ytimg.com/vi/RuSNeIcPamk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACQElNN-4SFIx_aT1F-ScHtTlzJA' width='200px' alt='【Official】Uru 『Love Song』  フジテレビ系 木曜劇場「推しの王子様」主題歌'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=BT5fqQ0xXYs'>Soramo Toberuhazu</a>
+      <a href='https://www.youtube.com/watch?v=RuSNeIcPamk'>【Official】Uru 『Love Song』  フジテレビ系 木曜劇場「推しの王子様」主題歌</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Oa-Vc2amuA0'>
-        <img src='https://i.ytimg.com/vi/Oa-Vc2amuA0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdGtBnt7TKIjouSR0Y-waJjc32_A' width='200px' alt='Universe'>
+      <a href='https://www.youtube.com/watch?v=-_PKhPMXMDY'>
+        <img src='https://i.ytimg.com/vi/-_PKhPMXMDY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA96C28QeG6Y8XikTP7sXlae0UcmA' width='200px' alt='Tokimeki / Vaundy：MUSIC VIDEO'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Oa-Vc2amuA0'>Universe</a>
+      <a href='https://www.youtube.com/watch?v=-_PKhPMXMDY'>Tokimeki / Vaundy：MUSIC VIDEO</a>
     </td>
   </tr>
 </table>
