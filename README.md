@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=rA_B_tm-Vz0'>
-        <img src='https://i.ytimg.com/vi/rA_B_tm-Vz0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIfs7N9nZxbosI-CRH47DBKhsHhQ' width='200px' alt='色彩'>
+      <a href='https://www.youtube.com/watch?v=RuSNeIcPamk'>
+        <img src='https://i.ytimg.com/vi/RuSNeIcPamk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACQElNN-4SFIx_aT1F-ScHtTlzJA' width='200px' alt='【Official】Uru 『Love Song』  フジテレビ系 木曜劇場「推しの王子様」主題歌'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=rA_B_tm-Vz0'>色彩</a>
+      <a href='https://www.youtube.com/watch?v=RuSNeIcPamk'>【Official】Uru 『Love Song』  フジテレビ系 木曜劇場「推しの王子様」主題歌</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=MS94B8_eiII'>
-        <img src='https://i.ytimg.com/vi/MS94B8_eiII/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6buPo_SDBHZdDQiY5s8m2GCntVA' width='200px' alt='ハミング'>
+      <a href='https://www.youtube.com/watch?v=HzF797f9uQs'>
+        <img src='https://i.ytimg.com/vi/HzF797f9uQs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAl7-DU2SL4TW4FqLG_TwxU3x4SEg' width='200px' alt='沈丁花'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=MS94B8_eiII'>ハミング</a>
+      <a href='https://www.youtube.com/watch?v=HzF797f9uQs'>沈丁花</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=lkBsQjXthT8'>
-        <img src='https://i.ytimg.com/vi/lkBsQjXthT8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClS4XjBBpC-70uJ1h1-WbGfyPDOg' width='200px' alt='HEART BEAT'>
+      <a href='https://www.youtube.com/watch?v=3eQJUAXy_kU'>
+        <img src='https://i.ytimg.com/vi/3eQJUAXy_kU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHbfg4lj9LHnyG5hF1-qvNr2NFuw' width='200px' alt='恋の前ならえ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=lkBsQjXthT8'>HEART BEAT</a>
+      <a href='https://www.youtube.com/watch?v=3eQJUAXy_kU'>恋の前ならえ</a>
     </td>
   </tr>
 </table>
