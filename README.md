@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=A0plb7gdzW4'>
-        <img src='https://i.ytimg.com/vi/A0plb7gdzW4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhPB6jEwaOqitRIOiPhQQSfsOuDw' width='200px' alt='Attitude'>
+      <a href='https://www.youtube.com/watch?v=PAEgjePd3r8'>
+        <img src='https://i.ytimg.com/vi/PAEgjePd3r8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBImdVGIqHDt7WHt6w3QnttAzYTwQ' width='200px' alt='I'm a mess'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=A0plb7gdzW4'>Attitude</a>
+      <a href='https://www.youtube.com/watch?v=PAEgjePd3r8'>I'm a mess</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=KQNT6hbgf6g'>
-        <img src='https://i.ytimg.com/vi/KQNT6hbgf6g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9u_NKnOrjXZLJMcCymhOCKrr5FA' width='200px' alt='Toku Toku (2012 Remaster)'>
+      <a href='https://www.youtube.com/watch?v=aaAxYOuqstw'>
+        <img src='https://i.ytimg.com/vi/aaAxYOuqstw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjpF41n5dcKHxz2qhWJuwBqizncg' width='200px' alt='Slow & Easy'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=KQNT6hbgf6g'>Toku Toku (2012 Remaster)</a>
+      <a href='https://www.youtube.com/watch?v=aaAxYOuqstw'>Slow & Easy</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Kg50ItKY1SY'>
-        <img src='https://i.ytimg.com/vi/Kg50ItKY1SY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0GMWUoBR7Y2z_v6sXaj4_I6dVaQ' width='200px' alt='Nanndemonaiyo,'>
+      <a href='https://www.youtube.com/watch?v=29vX07Sz3kw'>
+        <img src='https://i.ytimg.com/vi/29vX07Sz3kw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKaU55q7u0HPNBVdmcF1-ZubeeJA' width='200px' alt='Believe'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Kg50ItKY1SY'>Nanndemonaiyo,</a>
+      <a href='https://www.youtube.com/watch?v=29vX07Sz3kw'>Believe</a>
     </td>
   </tr>
 </table>
