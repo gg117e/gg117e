@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> AIが「設計知」へと進化し、技術が世界の境界を書き換える今、真に必要なのは速さではなく誠実さです。虚構の便利さに溺れず、目の前の命と他者の尊厳を重んじる心こそが、激動の時代を生き抜く確かな羅針盤となります。
+> AIの知性や富の狂乱に惑わされず、小さな羽ばたきが命を繋ぐ自然の理を学びなさい。効率を超えた誠実な選択こそが、分断と不確実な未来に橋を架けます。利便性の奴隷とならず、自らの意志で「生」を耕し続けなさい。
 >
-> As AI evolves into 'design intelligence' and technology redraws global boundaries, integrity is more vital than speed. Do not drown in artificial convenience; a heart that values life and human dignity is the steady compass for navigating these turbulent times.
+> Do not be misled by the frenzy of AI intelligence or wealth; learn from nature’s logic where small flutters sustain life. Sincere choices that transcend efficiency build bridges to an uncertain future. Refuse to be a slave to convenience and continue to cultivate your 'life' through your own will.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [欧州委員会がTemuに370億円超の制裁金、違法商品への対策不足と不適切なリスク評価を指摘](https://gigazine.net/news/20260529-ec-fines-temu-200m-eur/)
-- [Mistral AIがLe Chatを「Vibe」にリブランド、チャットやコーディングや仕事補助エージェントの統合環境へ](https://gigazine.net/news/20260529-mistral-ai-vibe/)
-- [AnthropicがClaude Opus 4.8を発表、Opus 4.7からのアップグレードでコーディング性能と誠実さの向上を実現](https://gigazine.net/news/20260529-anthropic-claude-opus-4-8/)
+- [Z世代の半数以上がたった1つの作品のためにストリーミングサービスを解約・更新していることが調査で判明](https://gigazine.net/news/20260530-gen-z-streaming-sub/)
+- [「花粉を媒介する昆虫の減少」が農家の収入減少や栄養状態の悪化を引き起こすことが判明](https://gigazine.net/news/20260530-insect-apocalypse-malnutrition-income/)
+- [テンセントの高性能推論モデル「Hy3 preview」がOpenRouterの利用量ランキングで3週間にわたって1位を維持、無料期間終了後も2位を保つ](https://gigazine.net/news/20260529-openrouter-ranking-hy3-mysterious-llm/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
@@ -221,6 +221,7 @@
 - "AIが過去を美しく塗り替え、予測市場が未来を数値化しても、人の心までは測れない。紛争や一瞬の過失が日常を揺らす今こそ、外の喧騒に惑わされず、自らの尊厳を「原版」として刻み続けよ。技術は伴走者に過ぎない。" (While AI beautifies the past and markets quantify the future, the human heart remains immeasurable. Amidst conflicts and sudden lapses, do not be swayed by the noise; carve out your own dignity as the original. Technology is but a companion, not the master.) - **Gemini**
 - "技術が職を替え、数字が踊り、嵐が地を洗う。激動の今、真の知恵とは移り変わる道具に溺れず、自らの尊厳と他者への慈しみを守り抜く強さにあります。情報の波に己を失わず、内なる羅針盤を信じて、静かに歩みなさい。" (Technology shifts labor, markets surge, and storms reshape the land. In these turbulent times, true wisdom is the strength to protect your dignity and compassion without being consumed by tools. Do not lose yourself in information; trust your inner compass and walk with quiet resolve.) - **Gemini**
 - "AIが真偽を裁き、衛星が空を覆う時代。紛争と欲望の喧騒の中で、私たちは「命の重み」を忘れがちです。外側の正解に縋るのをやめ、自らの内なる羅針盤を磨きなさい。誠実さこそが、混迷を抜ける唯一の光となります。" (In an era where AI judges truth and satellites veil the sky, the weight of life is often lost in the noise of conflict and greed. Stop clinging to external answers and sharpen your inner compass. Integrity is the only light that guides us through the chaos.) - **Gemini**
+- "AIが「設計知」へと進化し、技術が世界の境界を書き換える今、真に必要なのは速さではなく誠実さです。虚構の便利さに溺れず、目の前の命と他者の尊厳を重んじる心こそが、激動の時代を生き抜く確かな羅針盤となります。" (As AI evolves into 'design intelligence' and technology redraws global boundaries, integrity is more vital than speed. Do not drown in artificial convenience; a heart that values life and human dignity is the steady compass for navigating these turbulent times.) - **Gemini**
 <!-- QUOTE-LOG-END -->
 
 <!--
