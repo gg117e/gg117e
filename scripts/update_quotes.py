@@ -168,8 +168,6 @@ def update_readme(new_quote):
     # Define markers
     daily_start = '<!-- DAILY-QUOTE-START -->'
     daily_end = '<!-- DAILY-QUOTE-END -->'
-    log_start = '<!-- QUOTE-LOG-START -->'
-    log_end = '<!-- QUOTE-LOG-END -->'
     grad_start = '<!-- GRADUATION-COUNTDOWN-START -->'
     grad_end = '<!-- GRADUATION-COUNTDOWN-END -->'
     news_start = '<!-- GIGAZINE-NEWS-START -->'
@@ -177,70 +175,19 @@ def update_readme(new_quote):
 
     # Regex patterns
     daily_pattern = re.compile(f'({re.escape(daily_start)})(.*?)({re.escape(daily_end)})', re.DOTALL)
-    log_pattern = re.compile(f'({re.escape(log_start)})(.*?)({re.escape(log_end)})', re.DOTALL)
     grad_pattern = re.compile(f'({re.escape(grad_start)})(.*?)({re.escape(grad_end)})', re.DOTALL)
     news_pattern = re.compile(f'({re.escape(news_start)})(.*?)({re.escape(news_end)})', re.DOTALL)
 
     daily_match = daily_pattern.search(content)
-    log_match = log_pattern.search(content)
     grad_match = grad_pattern.search(content)
     news_match = news_pattern.search(content)
 
     if not daily_match:
         print("Error: Daily quote markers not found in README.md.")
         return
-    if not log_match:
-        print("Error: Quote log markers not found in README.md.")
-        return
-
-    current_daily_content = daily_match.group(2)
-
     # Format new daily quote
     # Using a specific delimiter structure to make parsing easier later
     new_daily_content = f"\n> {new_quote['quote']}\n>\n> {new_quote['translation']}\n>\n> — **{new_quote['author']}**\n"
-
-    updated_log_content = log_match.group(2)
-
-    # Logic: If current content exists AND it's not the same as the new one, add to log.
-    if current_daily_content and current_daily_content.strip() and current_daily_content.strip() != new_daily_content.strip():
-        # Try to parse the previous quote
-        try:
-            # Expected format:
-            # > Quote...
-            # >
-            # > Translation...
-            # >
-            # > — **Author**
-
-            # Split by the empty quote lines used as spacers
-            parts = current_daily_content.strip().split('\n>\n> ')
-
-            if len(parts) == 3:
-                # Part 1: Quote (remove leading '> ')
-                quote_part = parts[0].replace('>', '', 1).strip()
-                # Part 2: Translation
-                trans_part = parts[1].strip()
-                # Part 3: Author (remove '— **' and '**')
-                author_part = parts[2].strip()
-                if author_part.startswith('— '):
-                    author_part = author_part[2:]
-                author_part = author_part.replace('**', '')
-
-                log_entry = f"- \"{quote_part}\" ({trans_part}) - **{author_part}**"
-
-                # Avoid duplicates in log
-                if log_entry not in updated_log_content:
-                    if not updated_log_content.strip():
-                        updated_log_content = f"\n{log_entry}\n"
-                    else:
-                        updated_log_content = updated_log_content.rstrip() + f"\n{log_entry}\n"
-            else:
-                print("Warning: Could not parse previous quote format. Skipping log update for it.")
-        except Exception as e:
-            print(f"Warning: Error parsing previous quote: {e}")
-
-    # Update Log Section First (replace content between markers)
-    content = content.replace(log_match.group(0), f"{log_start}{updated_log_content}{log_end}")
 
     # Update Daily Section
     daily_match_new = daily_pattern.search(content)
