@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> AIが「設計知」へと進化し、技術が世界の境界を書き換える今、真に必要なのは速さではなく誠実さです。虚構の便利さに溺れず、目の前の命と他者の尊厳を重んじる心こそが、激動の時代を生き抜く確かな羅針盤となります。
+> AIの知性や富の狂乱に惑わされず、小さな羽ばたきが命を繋ぐ自然の理を学びなさい。効率を超えた誠実な選択こそが、分断と不確実な未来に橋を架けます。利便性の奴隷とならず、自らの意志で「生」を耕し続けなさい。
 >
-> As AI evolves into 'design intelligence' and technology redraws global boundaries, integrity is more vital than speed. Do not drown in artificial convenience; a heart that values life and human dignity is the steady compass for navigating these turbulent times.
+> Do not be misled by the frenzy of AI intelligence or wealth; learn from nature’s logic where small flutters sustain life. Sincere choices that transcend efficiency build bridges to an uncertain future. Refuse to be a slave to convenience and continue to cultivate your 'life' through your own will.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=PAEgjePd3r8'>
-        <img src='https://i.ytimg.com/vi/PAEgjePd3r8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBImdVGIqHDt7WHt6w3QnttAzYTwQ' width='200px' alt='I'm a mess'>
+      <a href='https://www.youtube.com/watch?v=vAfgHtZt6gs'>
+        <img src='https://i.ytimg.com/vi/vAfgHtZt6gs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeNAV46w1eCS5FzH7yrnp2Zp2eIg' width='200px' alt='大丈夫'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=PAEgjePd3r8'>I'm a mess</a>
+      <a href='https://www.youtube.com/watch?v=vAfgHtZt6gs'>大丈夫</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=aaAxYOuqstw'>
-        <img src='https://i.ytimg.com/vi/aaAxYOuqstw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjpF41n5dcKHxz2qhWJuwBqizncg' width='200px' alt='Slow & Easy'>
+      <a href='https://www.youtube.com/watch?v=go6WjvgMYjU'>
+        <img src='https://i.ytimg.com/vi/go6WjvgMYjU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNQUVsFUfDV8o-RKYab7T9eBFTxA' width='200px' alt='17才'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=aaAxYOuqstw'>Slow & Easy</a>
+      <a href='https://www.youtube.com/watch?v=go6WjvgMYjU'>17才</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=29vX07Sz3kw'>
-        <img src='https://i.ytimg.com/vi/29vX07Sz3kw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKaU55q7u0HPNBVdmcF1-ZubeeJA' width='200px' alt='Believe'>
+      <a href='https://www.youtube.com/watch?v=jBILfisAXXs'>
+        <img src='https://i.ytimg.com/vi/jBILfisAXXs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6To1bSVwvvhDTNXjGY7ajk9CU7w' width='200px' alt='夢の外へ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=29vX07Sz3kw'>Believe</a>
+      <a href='https://www.youtube.com/watch?v=jBILfisAXXs'>夢の外へ</a>
     </td>
   </tr>
 </table>
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [欧州委員会がTemuに370億円超の制裁金、違法商品への対策不足と不適切なリスク評価を指摘](https://gigazine.net/news/20260529-ec-fines-temu-200m-eur/)
-- [Mistral AIがLe Chatを「Vibe」にリブランド、チャットやコーディングや仕事補助エージェントの統合環境へ](https://gigazine.net/news/20260529-mistral-ai-vibe/)
-- [AnthropicがClaude Opus 4.8を発表、Opus 4.7からのアップグレードでコーディング性能と誠実さの向上を実現](https://gigazine.net/news/20260529-anthropic-claude-opus-4-8/)
+- [Z世代の半数以上がたった1つの作品のためにストリーミングサービスを解約・更新していることが調査で判明](https://gigazine.net/news/20260530-gen-z-streaming-sub/)
+- [「花粉を媒介する昆虫の減少」が農家の収入減少や栄養状態の悪化を引き起こすことが判明](https://gigazine.net/news/20260530-insect-apocalypse-malnutrition-income/)
+- [テンセントの高性能推論モデル「Hy3 preview」がOpenRouterの利用量ランキングで3週間にわたって1位を維持、無料期間終了後も2位を保つ](https://gigazine.net/news/20260529-openrouter-ranking-hy3-mysterious-llm/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
