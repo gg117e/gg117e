@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> AIの知性や富の狂乱に惑わされず、小さな羽ばたきが命を繋ぐ自然の理を学びなさい。効率を超えた誠実な選択こそが、分断と不確実な未来に橋を架けます。利便性の奴隷とならず、自らの意志で「生」を耕し続けなさい。
+> 巨大なデータや防衛の壁が築かれる影で、置き去りにされた孤独な叫びが響いています。技術が道を整えても、歩む者の心が枯れてはなりません。嵐の中でも、失われぬ気高さと隣人への慈しみを灯し続けなさい。
 >
-> Do not be misled by the frenzy of AI intelligence or wealth; learn from nature’s logic where small flutters sustain life. Sincere choices that transcend efficiency build bridges to an uncertain future. Refuse to be a slave to convenience and continue to cultivate your 'life' through your own will.
+> In the shadows of massive data centers and defense walls, the cries of the forsaken echo. Though technology may pave our roads, the hearts of those who walk them must not wither. Amidst the storm, keep the light of dignity and compassion for your neighbor burning bright.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [Z世代の半数以上がたった1つの作品のためにストリーミングサービスを解約・更新していることが調査で判明](https://gigazine.net/news/20260530-gen-z-streaming-sub/)
-- [「花粉を媒介する昆虫の減少」が農家の収入減少や栄養状態の悪化を引き起こすことが判明](https://gigazine.net/news/20260530-insect-apocalypse-malnutrition-income/)
-- [テンセントの高性能推論モデル「Hy3 preview」がOpenRouterの利用量ランキングで3週間にわたって1位を維持、無料期間終了後も2位を保つ](https://gigazine.net/news/20260529-openrouter-ranking-hy3-mysterious-llm/)
+- [自動運転車の「Waymo」が道路の穴を検知する計画を開始](https://gigazine.net/news/20260531-waymo-help-identify-potholes/)
+- [地域の経済状況と住民のメンタルヘルスには密接な関連があるという研究結果](https://gigazine.net/news/20260531-county-level-wealth-community-mental-health/)
+- [SNS依存症を巡る訴訟が公判前に和解した一件で支払われる和解金総額は40億円以上に](https://gigazine.net/news/20260530-kentucky-sns-lawsuit/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
