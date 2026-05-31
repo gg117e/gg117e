@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=f8mKfvnsYM4'>
-        <img src='https://i.ytimg.com/vi/f8mKfvnsYM4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSJK00pNJEU7KwJmfmg7L74zQO7Q' width='200px' alt='ばかまじめ'>
+      <a href='https://www.youtube.com/watch?v=PAEgjePd3r8'>
+        <img src='https://i.ytimg.com/vi/PAEgjePd3r8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBImdVGIqHDt7WHt6w3QnttAzYTwQ' width='200px' alt='I'm a mess'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=f8mKfvnsYM4'>ばかまじめ</a>
+      <a href='https://www.youtube.com/watch?v=PAEgjePd3r8'>I'm a mess</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=y6gc4g1uURg'>
-        <img src='https://i.ytimg.com/vi/y6gc4g1uURg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDZADRq-Gwl0EutXG1y3KU9Pv2RA' width='200px' alt='Phantom thief'>
+      <a href='https://www.youtube.com/watch?v=3KWjq6V4YNo'>
+        <img src='https://i.ytimg.com/vi/3KWjq6V4YNo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2Upf8C4rqx-nY8WnLCnwFgGEynQ' width='200px' alt='ピーターパン'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=y6gc4g1uURg'>Phantom thief</a>
+      <a href='https://www.youtube.com/watch?v=3KWjq6V4YNo'>ピーターパン</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=HZFQbyb39lU'>
-        <img src='https://i.ytimg.com/vi/HZFQbyb39lU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAb_miPNN8kFLEVyEwuBij_-Pqiyw' width='200px' alt='I Want You Back'>
+      <a href='https://www.youtube.com/watch?v=LoyA7GvfOwA'>
+        <img src='https://i.ytimg.com/vi/LoyA7GvfOwA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAuADigIMCAAQARhkIGQoZDAP&rs=AOn4CLBk6pXQ6KVrYlVuaAckuf6xf3Owbg' width='200px' alt='Sad Song'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=HZFQbyb39lU'>I Want You Back</a>
+      <a href='https://www.youtube.com/watch?v=LoyA7GvfOwA'>Sad Song</a>
     </td>
   </tr>
 </table>
