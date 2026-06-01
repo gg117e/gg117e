@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 巨大なデータや防衛の壁が築かれる影で、置き去りにされた孤独な叫びが響いています。技術が道を整えても、歩む者の心が枯れてはなりません。嵐の中でも、失われぬ気高さと隣人への慈しみを灯し続けなさい。
+> 技術が加速し経済が揺れ動く今こそ、外の喧騒に流されず、自らの「心の羅針盤」を較正しましょう。AIに思考を委ねる前に、隣人の痛みや家族の絆、失われゆく静寂を慈しむこと。それが荒波を生き抜く智慧となります。
 >
-> In the shadows of massive data centers and defense walls, the cries of the forsaken echo. Though technology may pave our roads, the hearts of those who walk them must not wither. Amidst the storm, keep the light of dignity and compassion for your neighbor burning bright.
+> As technology accelerates and the economy shifts, calibrate your own 'inner compass' rather than being swept away by the noise. Before surrendering your thoughts to AI, cherish human bonds and silent reflection. This is the true wisdom for navigating turbulent times.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [自動運転車の「Waymo」が道路の穴を検知する計画を開始](https://gigazine.net/news/20260531-waymo-help-identify-potholes/)
-- [地域の経済状況と住民のメンタルヘルスには密接な関連があるという研究結果](https://gigazine.net/news/20260531-county-level-wealth-community-mental-health/)
-- [SNS依存症を巡る訴訟が公判前に和解した一件で支払われる和解金総額は40億円以上に](https://gigazine.net/news/20260530-kentucky-sns-lawsuit/)
+- [NVIDIAがArmベースの新型ノートPC向けチップ「N1」と「N1X」を発表か、低価格帯ノートPCとゲーミングノートPCへの搭載を狙う](https://gigazine.net/news/20260601-nvidia-n1-n1x-leaked-specification/)
+- [Intel Coreシリーズ3プロセッサーを搭載した新型Swift Air 14をAcerが発表、学生や家庭向けの低価格帯Windows PCか](https://gigazine.net/news/20260601-acer-new-swift-air-14/)
+- [Appleはスマートグラス市場でMetaに対抗するだけでなく市場全体を変革しようとしている](https://gigazine.net/news/20260601-apple-strategy-smart-glasses/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
