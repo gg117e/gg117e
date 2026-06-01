@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Q-y3TtiKxsU'>
-        <img src='https://i.ytimg.com/vi/Q-y3TtiKxsU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJYbnkxTXam_a4M0GF97NMTrAoHg' width='200px' alt='チャンカパーナ'>
+      <a href='https://www.youtube.com/watch?v=ME_ZU0ME4vQ'>
+        <img src='https://i.ytimg.com/vi/ME_ZU0ME4vQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcg2wcDNON6jYjuxGICte2SY1Adg' width='200px' alt='ゼロのままでいられたら'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Q-y3TtiKxsU'>チャンカパーナ</a>
+      <a href='https://www.youtube.com/watch?v=ME_ZU0ME4vQ'>ゼロのままでいられたら</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=N1XUt-ZcOf4'>
-        <img src='https://i.ytimg.com/vi/N1XUt-ZcOf4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxk96uW-3O9eGb8qj27Cr0CMOCqw' width='200px' alt='Columbus'>
+      <a href='https://www.youtube.com/watch?v=3jwzfhaIf3U'>
+        <img src='https://i.ytimg.com/vi/3jwzfhaIf3U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyDkEcU9JaqmusItqe-hAV56rH3A' width='200px' alt='Eikouno Kakehashi'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=N1XUt-ZcOf4'>Columbus</a>
+      <a href='https://www.youtube.com/watch?v=3jwzfhaIf3U'>Eikouno Kakehashi</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=M5R9z0vFjOs'>
-        <img src='https://i.ytimg.com/vi/M5R9z0vFjOs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUoxXdI7QdD2MULr-UX0i6XYXdSA' width='200px' alt='ビリミリオン'>
+      <a href='https://www.youtube.com/watch?v=i7Jy4GC3l6U'>
+        <img src='https://i.ytimg.com/vi/i7Jy4GC3l6U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCejND-9KtsWSEPV3xhsot3dcMUYQ' width='200px' alt='Nachtmusik'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=M5R9z0vFjOs'>ビリミリオン</a>
+      <a href='https://www.youtube.com/watch?v=i7Jy4GC3l6U'>Nachtmusik</a>
     </td>
   </tr>
 </table>
