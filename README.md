@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 技術が加速し経済が揺れ動く今こそ、外の喧騒に流されず、自らの「心の羅針盤」を較正しましょう。AIに思考を委ねる前に、隣人の痛みや家族の絆、失われゆく静寂を慈しむこと。それが荒波を生き抜く智慧となります。
+> 技術が合理化を極め、嵐が平穏を脅かす今、効率を超えた「労り」にこそ生命の価値は宿ります。AIが予測できぬ混沌の中で、立ち止まり、誰かのために心を砕くその不器用な誠実さこそが、混迷する世界を照らす光です。
 >
-> As technology accelerates and the economy shifts, calibrate your own 'inner compass' rather than being swept away by the noise. Before surrendering your thoughts to AI, cherish human bonds and silent reflection. This is the true wisdom for navigating turbulent times.
+> In an era of extreme AI efficiency and gathering storms, the true value of life resides in compassion that transcends logic. Amidst chaos no machine can predict, the clumsy sincerity of pausing to care for another is the light that guides us.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [NVIDIAがArmベースの新型ノートPC向けチップ「N1」と「N1X」を発表か、低価格帯ノートPCとゲーミングノートPCへの搭載を狙う](https://gigazine.net/news/20260601-nvidia-n1-n1x-leaked-specification/)
-- [Intel Coreシリーズ3プロセッサーを搭載した新型Swift Air 14をAcerが発表、学生や家庭向けの低価格帯Windows PCか](https://gigazine.net/news/20260601-acer-new-swift-air-14/)
-- [Appleはスマートグラス市場でMetaに対抗するだけでなく市場全体を変革しようとしている](https://gigazine.net/news/20260601-apple-strategy-smart-glasses/)
+- [NVIDIAの新型SoC「RTX Spark」を搭載したMicrosoft Surface Laptop UltraやASUS ProArt P16などの情報が明らかに](https://gigazine.net/news/20260602-nvidia-rtx-spark-laptop-pcs/)
+- [民泊で家事用ロボットをテストして家の中をめちゃくちゃにした疑いでロボットスタートアップ企業が提訴される](https://gigazine.net/news/20260602-robot-company-sued-airbnb-host/)
+- [未発表のGoogle Pixel Watch 5が海底で見つかる、人気ゲーム・ボーダーランズの開発者が報告](https://gigazine.net/news/20260602-google-pixel-watch-5-spoiled/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
