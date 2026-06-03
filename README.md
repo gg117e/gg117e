@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 技術が合理化を極め、嵐が平穏を脅かす今、効率を超えた「労り」にこそ生命の価値は宿ります。AIが予測できぬ混沌の中で、立ち止まり、誰かのために心を砕くその不器用な誠実さこそが、混迷する世界を照らす光です。
+> 技術が量子を導き嵐が地を揺らす今、効率の波にのまれず命のリズムを守りなさい。真の賢さは、進歩を御しながら休息と誠実さを慈しむ心に宿ります。静かなる内面こそが、不確かな世界を生き抜くための羅針盤です。
 >
-> In an era of extreme AI efficiency and gathering storms, the true value of life resides in compassion that transcends logic. Amidst chaos no machine can predict, the clumsy sincerity of pausing to care for another is the light that guides us.
+> As technology guides the quantum and storms shake the earth, guard your life's rhythm without being swept away by efficiency. True wisdom dwells in a heart that masters progress while cherishing rest and sincerity. Your quiet inner self is the compass for navigating this uncertain world.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [NVIDIAの新型SoC「RTX Spark」を搭載したMicrosoft Surface Laptop UltraやASUS ProArt P16などの情報が明らかに](https://gigazine.net/news/20260602-nvidia-rtx-spark-laptop-pcs/)
-- [民泊で家事用ロボットをテストして家の中をめちゃくちゃにした疑いでロボットスタートアップ企業が提訴される](https://gigazine.net/news/20260602-robot-company-sued-airbnb-host/)
-- [未発表のGoogle Pixel Watch 5が海底で見つかる、人気ゲーム・ボーダーランズの開発者が報告](https://gigazine.net/news/20260602-google-pixel-watch-5-spoiled/)
+- [Androidスマホになりすまし電話検出機能が追加される、RCSをベースに発信者が本当に電話アプリから発信しているかどうかを検証可能](https://gigazine.net/news/20260603-android-fake-call-detection/)
+- [MicrosoftがAIエージェント専用デバイス向け新プラットフォーム「Project Solara」を発表、WindowsではなくAndroidベースのOSでエージェント中心のシステムを形成](https://gigazine.net/news/20260603-microsoft-project-solara/)
+- [AnthropicがClaude Mythos Previewの先行提供プログラム「Project Glasswing」を15カ国以上に拡大](https://gigazine.net/news/20260603-anthropic-project-glasswing-extend/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
