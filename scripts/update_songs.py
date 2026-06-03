@@ -30,9 +30,10 @@ def update_readme(songs):
     with open(README_PATH, "r", encoding="utf-8") as f:
         content = f.read()
 
-    new_content = "### 🎵 Daily Recommended Songs\n\n"
-    new_content += "<table>\n"
-    new_content += "  <tr>\n"
+    parts = []
+    parts.append("### 🎵 Daily Recommended Songs\n\n")
+    parts.append("<table>\n")
+    parts.append("  <tr>\n")
 
     # Thumbnails
     for song in songs:
@@ -56,16 +57,17 @@ def update_readme(songs):
         if not thumb_url:
             thumb_url = "https://via.placeholder.com/200x150?text=No+Image"
 
-        new_content += f"    <td align='center'>\n"
-        new_content += f"      <a href='{url}'>\n"
-        new_content += f"        <img src='{thumb_url}' width='200px' alt='{title}'>\n"
-        new_content += f"      </a>\n"
-        new_content += f"      <br />\n"
-        new_content += f"      <a href='{url}'>{title}</a>\n"
-        new_content += f"    </td>\n"
+        parts.append(f"    <td align='center'>\n")
+        parts.append(f"      <a href='{url}'>\n")
+        parts.append(f"        <img src='{thumb_url}' width='200px' alt='{title}'>\n")
+        parts.append(f"      </a>\n")
+        parts.append(f"      <br />\n")
+        parts.append(f"      <a href='{url}'>{title}</a>\n")
+        parts.append(f"    </td>\n")
 
-    new_content += "  </tr>\n"
-    new_content += "</table>\n"
+    parts.append("  </tr>\n")
+    parts.append("</table>\n")
+    new_content = "".join(parts)
 
     # Replace content between markers
     pattern = re.compile(f"{re.escape(START_MARKER)}.*?{re.escape(END_MARKER)}", re.DOTALL)
