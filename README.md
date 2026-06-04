@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=WjIsq1-ZBaw'>
-        <img src='https://i.ytimg.com/vi/WjIsq1-ZBaw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCh9rmrKCmdRlaAejuSaWKVb-hTg' width='200px' alt='平井 大 / 栄光の扉（Music Video）'>
+      <a href='https://www.youtube.com/watch?v=1Zj84ajLO0E'>
+        <img src='https://i.ytimg.com/vi/1Zj84ajLO0E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzCzHeBm0IcTaqcvSVnADwwMndqw' width='200px' alt='Sasanqua'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=WjIsq1-ZBaw'>平井 大 / 栄光の扉（Music Video）</a>
+      <a href='https://www.youtube.com/watch?v=1Zj84ajLO0E'>Sasanqua</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=EpM37GEGhDc'>
-        <img src='https://i.ytimg.com/vi/EpM37GEGhDc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTartsk2_M7nJLY8In09O7fUUIwQ' width='200px' alt='Itoshi Kimie (Essential Ver.)'>
+      <a href='https://www.youtube.com/watch?v=pjepmiuuH-A'>
+        <img src='https://i.ytimg.com/vi/pjepmiuuH-A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGCPr1dhG8TgZYOg5-RB6sHh5hGA' width='200px' alt='Glorious'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=EpM37GEGhDc'>Itoshi Kimie (Essential Ver.)</a>
+      <a href='https://www.youtube.com/watch?v=pjepmiuuH-A'>Glorious</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=v4jO0WBnEdw'>
-        <img src='https://i.ytimg.com/vi/v4jO0WBnEdw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDjZFqg9zkQbsvumZ20ymY_Pr00g' width='200px' alt='Don’t Wake Me Up'>
+      <a href='https://www.youtube.com/watch?v=SQcq990N5NY'>
+        <img src='https://i.ytimg.com/vi/SQcq990N5NY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWlOgX0s6Lzh8Clxs5rWiyYXwfUg' width='200px' alt='また逢う日まで'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=v4jO0WBnEdw'>Don’t Wake Me Up</a>
+      <a href='https://www.youtube.com/watch?v=SQcq990N5NY'>また逢う日まで</a>
     </td>
   </tr>
 </table>
