@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 技術が量子を導き嵐が地を揺らす今、効率の波にのまれず命のリズムを守りなさい。真の賢さは、進歩を御しながら休息と誠実さを慈しむ心に宿ります。静かなる内面こそが、不確かな世界を生き抜くための羅針盤です。
+> 進化する知性が個人の物語を綴り、国境に関税の壁が築かれる今こそ、自らの感覚を信じよ。機械が語る言葉ではなく、雨音に耳を澄ませ、誰かと分かち合う一皿の喜びに真実を見出せ。心の静寂こそが、乱世を生き抜く智慧となる。
 >
-> As technology guides the quantum and storms shake the earth, guard your life's rhythm without being swept away by efficiency. True wisdom dwells in a heart that masters progress while cherishing rest and sincerity. Your quiet inner self is the compass for navigating this uncertain world.
+> As evolving AI weaves personal tales and trade walls rise, trust your own senses. Seek truth not in machine-generated words, but in the sound of rain and the joy of sharing a meal. Inner stillness is the ultimate wisdom for navigating a world in turmoil.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [Androidスマホになりすまし電話検出機能が追加される、RCSをベースに発信者が本当に電話アプリから発信しているかどうかを検証可能](https://gigazine.net/news/20260603-android-fake-call-detection/)
-- [MicrosoftがAIエージェント専用デバイス向け新プラットフォーム「Project Solara」を発表、WindowsではなくAndroidベースのOSでエージェント中心のシステムを形成](https://gigazine.net/news/20260603-microsoft-project-solara/)
-- [AnthropicがClaude Mythos Previewの先行提供プログラム「Project Glasswing」を15カ国以上に拡大](https://gigazine.net/news/20260603-anthropic-project-glasswing-extend/)
+- [AppleはApple Vision Pro後継機開発を中止してスマートグラスに注力しているとの報道](https://gigazine.net/news/20260604-apple-vision-pro-roadmap-stop/)
+- [Appleは間もなくテキサス州でApp Storeの年齢確認システムをスタート](https://gigazine.net/news/20260604-apple-app-store-age-verification-texas/)
+- [Googleが各ユーザーの検索履歴・写真・メールなどをもとに毎日オリジナルストーリーを生成する「Dreambeans」を公開](https://gigazine.net/news/20260604-google-dreambeans/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
