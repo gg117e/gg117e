@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=3KWjq6V4YNo'>
-        <img src='https://i.ytimg.com/vi/3KWjq6V4YNo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2Upf8C4rqx-nY8WnLCnwFgGEynQ' width='200px' alt='ピーターパン'>
+      <a href='https://www.youtube.com/watch?v=CjaM8qWzssk'>
+        <img src='https://i.ytimg.com/vi/CjaM8qWzssk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBP1ncZkqRaXEFX5KEzP-6JF15fBw' width='200px' alt='晩餐歌 - Bansanka'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=3KWjq6V4YNo'>ピーターパン</a>
+      <a href='https://www.youtube.com/watch?v=CjaM8qWzssk'>晩餐歌 - Bansanka</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=go6WjvgMYjU'>
-        <img src='https://i.ytimg.com/vi/go6WjvgMYjU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNQUVsFUfDV8o-RKYab7T9eBFTxA' width='200px' alt='17才'>
+      <a href='https://www.youtube.com/watch?v=Q-y3TtiKxsU'>
+        <img src='https://i.ytimg.com/vi/Q-y3TtiKxsU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJYbnkxTXam_a4M0GF97NMTrAoHg' width='200px' alt='チャンカパーナ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=go6WjvgMYjU'>17才</a>
+      <a href='https://www.youtube.com/watch?v=Q-y3TtiKxsU'>チャンカパーナ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ZODK5o0PCbk'>
-        <img src='https://i.ytimg.com/vi/ZODK5o0PCbk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCO4i_-hjOexA9d03JV7fqdobq3yg' width='200px' alt='Imato Anokorono Bokura'>
+      <a href='https://www.youtube.com/watch?v=mctEybOqY6s'>
+        <img src='https://i.ytimg.com/vi/mctEybOqY6s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB97mzRbYaNpDzDeEqCkFLBMUFafQ' width='200px' alt='勇者'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ZODK5o0PCbk'>Imato Anokorono Bokura</a>
+      <a href='https://www.youtube.com/watch?v=mctEybOqY6s'>勇者</a>
     </td>
   </tr>
 </table>
