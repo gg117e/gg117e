@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 進化する知性が個人の物語を綴り、国境に関税の壁が築かれる今こそ、自らの感覚を信じよ。機械が語る言葉ではなく、雨音に耳を澄ませ、誰かと分かち合う一皿の喜びに真実を見出せ。心の静寂こそが、乱世を生き抜く智慧となる。
+> AIが心の杖となり、知が機械に委ねられる時代。しかし、平和を乞う手紙の震えや命の尊厳は、いかなる計算式にも記せません。外の不足に惑わされず、自らの意志という消えぬ灯火を頼りに、確かな一歩を刻みなさい。
 >
-> As evolving AI weaves personal tales and trade walls rise, trust your own senses. Seek truth not in machine-generated words, but in the sound of rain and the joy of sharing a meal. Inner stillness is the ultimate wisdom for navigating a world in turmoil.
+> In an age where AI becomes a crutch for the soul and intellect is ceded to machines, the tremor of a plea for peace and the dignity of life remain beyond any formula. Do not be swayed by external scarcity; walk firmly, guided by the unquenchable light of your own will.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [AppleはApple Vision Pro後継機開発を中止してスマートグラスに注力しているとの報道](https://gigazine.net/news/20260604-apple-vision-pro-roadmap-stop/)
-- [Appleは間もなくテキサス州でApp Storeの年齢確認システムをスタート](https://gigazine.net/news/20260604-apple-app-store-age-verification-texas/)
-- [Googleが各ユーザーの検索履歴・写真・メールなどをもとに毎日オリジナルストーリーを生成する「Dreambeans」を公開](https://gigazine.net/news/20260604-google-dreambeans/)
+- [ノートPCに8GBのRAMが復活、部品不足の中メーカーは手頃な価格のノートPCを提供するためにメモリ容量を削減している](https://gigazine.net/news/20260605-laptop-8gb-ram/)
+- [59.99ドルの有料ブラウザ「Brave Origin」が正式リリース、「最高レベルのプライバシーとセキュリティ保護を備えたミニマルなブラウザ」と開発はアピール](https://gigazine.net/news/20260605-brave-origin-released/)
+- [ValveがゲーミングPC「Steam Machine」とVRヘッドセット「Steam Frame」の2026年夏発売を発表](https://gigazine.net/news/20260605-steam-machine-frame-2026-summer-release/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
