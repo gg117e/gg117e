@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> AIが心の杖となり、知が機械に委ねられる時代。しかし、平和を乞う手紙の震えや命の尊厳は、いかなる計算式にも記せません。外の不足に惑わされず、自らの意志という消えぬ灯火を頼りに、確かな一歩を刻みなさい。
+> AIが自律し国が富を競う今こそ、古代の叡智に学びましょう。真の文明の進歩とは、技術の速度ではなく、命への不安に寄り添い格差を埋める慈しみにあります。効率の先にある、守るべき個の生と対話を大切に。
 >
-> In an age where AI becomes a crutch for the soul and intellect is ceded to machines, the tremor of a plea for peace and the dignity of life remain beyond any formula. Do not be swayed by external scarcity; walk firmly, guided by the unquenchable light of your own will.
+> As AI gains autonomy and nations vie for wealth, let us learn from ancient wisdom. True progress is measured not by technological speed, but by the compassion that bridges inequality and comforts the soul. Value the individual life and dialogue beyond efficiency.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [ノートPCに8GBのRAMが復活、部品不足の中メーカーは手頃な価格のノートPCを提供するためにメモリ容量を削減している](https://gigazine.net/news/20260605-laptop-8gb-ram/)
-- [59.99ドルの有料ブラウザ「Brave Origin」が正式リリース、「最高レベルのプライバシーとセキュリティ保護を備えたミニマルなブラウザ」と開発はアピール](https://gigazine.net/news/20260605-brave-origin-released/)
-- [ValveがゲーミングPC「Steam Machine」とVRヘッドセット「Steam Frame」の2026年夏発売を発表](https://gigazine.net/news/20260605-steam-machine-frame-2026-summer-release/)
+- [約4000年前の古代都市モヘンジョダロでは都市が発展するほど格差が小さくなっていたという研究結果](https://gigazine.net/news/20260606-mohenjo-daro-inequality-declined/)
+- [AIになりきって他人の質問に回答できるチャットボット「Your AI Slop Bores Me」](https://gigazine.net/news/20260606-your-ai-slop-bores-me/)
+- [無料でiPhone・iPadから直接YouTubeの動画をダウンロードして保存できる「SW-DLT」、YouTubeアプリから数タップでダウンロード可能](https://gigazine.net/news/20260605-sw-dlt-youtube-download/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
