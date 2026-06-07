@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> AIが自律し国が富を競う今こそ、古代の叡智に学びましょう。真の文明の進歩とは、技術の速度ではなく、命への不安に寄り添い格差を埋める慈しみにあります。効率の先にある、守るべき個の生と対話を大切に。
+> 技術が知性を分かち、国家が境界を閉ざす今こそ、日常の静かなリズムを守りましょう。他者の痛みに寄り添い、情報の波に呑まれず、自らの知を磨くこと。一粒の雨が大地を潤すように、誠実な生が世界を癒します。
 >
-> As AI gains autonomy and nations vie for wealth, let us learn from ancient wisdom. True progress is measured not by technological speed, but by the compassion that bridges inequality and comforts the soul. Value the individual life and dialogue beyond efficiency.
+> As technology divides intellect and nations close borders, protect the quiet rhythm of daily life. Empathize with others' pain and hone your wisdom without being swept away by digital waves. Just as a single raindrop nourishes the earth, a life of integrity heals the world.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [約4000年前の古代都市モヘンジョダロでは都市が発展するほど格差が小さくなっていたという研究結果](https://gigazine.net/news/20260606-mohenjo-daro-inequality-declined/)
-- [AIになりきって他人の質問に回答できるチャットボット「Your AI Slop Bores Me」](https://gigazine.net/news/20260606-your-ai-slop-bores-me/)
-- [無料でiPhone・iPadから直接YouTubeの動画をダウンロードして保存できる「SW-DLT」、YouTubeアプリから数タップでダウンロード可能](https://gigazine.net/news/20260605-sw-dlt-youtube-download/)
+- [孫のがん治療費を稼ぐためにマインクラフトを配信していた81歳のおばあちゃんがスワッティング被害に遭う](https://gigazine.net/news/20260607-grandma-streamer-swatting/)
+- [GoogleがSpaceXの計算能力にアクセスするため月額1500億円弱を支払う契約を締結](https://gigazine.net/news/20260606-google-will-pay-spacex-920-million-usd-per-month/)
+- [規則正しい生活リズムで暮らすことが生物学的老化を遅らせる鍵かもしれない](https://gigazine.net/news/20260606-daily-rhythms-slow-biological-aging/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
