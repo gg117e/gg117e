@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 技術が知性を分かち、国家が境界を閉ざす今こそ、日常の静かなリズムを守りましょう。他者の痛みに寄り添い、情報の波に呑まれず、自らの知を磨くこと。一粒の雨が大地を潤すように、誠実な生が世界を癒します。
+> 高度な知能が仮想を広げても、大地は揺れ、命は肉体に宿る。技術を研ぎ澄ましつつ、足元の脆さを忘れるな。市場や紛争の嵐に翻弄されず、最小限の力で心を軽く保ち、今この一瞬の生を深く慈しみ、守り抜け。
 >
-> As technology divides intellect and nations close borders, protect the quiet rhythm of daily life. Empathize with others' pain and hone your wisdom without being swept away by digital waves. Just as a single raindrop nourishes the earth, a life of integrity heals the world.
+> Even as advanced intelligence expands the virtual, the earth shakes and life remains bound to the flesh. Sharpen your tools, but never forget the world's fragility. Amidst storms of markets and conflict, keep your heart light and efficient, and cherish this singular moment of existence.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [孫のがん治療費を稼ぐためにマインクラフトを配信していた81歳のおばあちゃんがスワッティング被害に遭う](https://gigazine.net/news/20260607-grandma-streamer-swatting/)
-- [GoogleがSpaceXの計算能力にアクセスするため月額1500億円弱を支払う契約を締結](https://gigazine.net/news/20260606-google-will-pay-spacex-920-million-usd-per-month/)
-- [規則正しい生活リズムで暮らすことが生物学的老化を遅らせる鍵かもしれない](https://gigazine.net/news/20260606-daily-rhythms-slow-biological-aging/)
+- [Metaの「テントの中にデータセンターを設立する」という計画の詳細が明らかに](https://gigazine.net/news/20260608-meta-tents-data-centers/)
+- [2026年6月9日(火)午前2時から始まるAppleのWWDC26ではどんなことが発表される見込みなのか？](https://gigazine.net/news/20260608-prediction-apple-wwdc26/)
+- [日立とIntelがフィジカルAI加速に向けて戦略的協業を発表](https://gigazine.net/news/20260608-hitachi-intel/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
