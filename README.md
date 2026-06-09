@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=eIftMq4xQKI'>
-        <img src='https://i.ytimg.com/vi/eIftMq4xQKI/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBEKRDd8nwb83mz11_LylADU2dIsA' width='200px' alt='Anohino Orange'>
+      <a href='https://www.youtube.com/watch?v=_bH_0NIi_Vc'>
+        <img src='https://i.ytimg.com/vi/_bH_0NIi_Vc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsceiLz7G_AJQoMUqKRGRR0QUfJA' width='200px' alt='日曜日のラブレター'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=eIftMq4xQKI'>Anohino Orange</a>
+      <a href='https://www.youtube.com/watch?v=_bH_0NIi_Vc'>日曜日のラブレター</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=1jS94sWWokk'>
-        <img src='https://i.ytimg.com/vi/1jS94sWWokk/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAbpelTJzWC9KZxh2OMvF_tQAmPRw' width='200px' alt='MIRROR MIRROR'>
+      <a href='https://www.youtube.com/watch?v=KehpqLWwy4g'>
+        <img src='https://i.ytimg.com/vi/KehpqLWwy4g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwRwKHNWODESeECqonWaQJ9FmtFA' width='200px' alt='Message'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=1jS94sWWokk'>MIRROR MIRROR</a>
+      <a href='https://www.youtube.com/watch?v=KehpqLWwy4g'>Message</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=go6WjvgMYjU'>
-        <img src='https://i.ytimg.com/vi/go6WjvgMYjU/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLCyj85xrMQ9DeYphBu-RQ-RmHdX2w' width='200px' alt='17才'>
+      <a href='https://www.youtube.com/watch?v=gzHTMjMS-wI'>
+        <img src='https://i.ytimg.com/vi/gzHTMjMS-wI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCp8jNtX5jo9nTTY8FExjOfsoG9ZQ' width='200px' alt='Aino Katachi'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=go6WjvgMYjU'>17才</a>
+      <a href='https://www.youtube.com/watch?v=gzHTMjMS-wI'>Aino Katachi</a>
     </td>
   </tr>
 </table>
