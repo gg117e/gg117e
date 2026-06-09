@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 高度な知能が仮想を広げても、大地は揺れ、命は肉体に宿る。技術を研ぎ澄ましつつ、足元の脆さを忘れるな。市場や紛争の嵐に翻弄されず、最小限の力で心を軽く保ち、今この一瞬の生を深く慈しみ、守り抜け。
+> AIが日々の営みを代替し、情報の激流が理性を揺さぶる今こそ、目に見えぬ「生」の重みを感じなさい。技術が便利さを極めても、震災や孤独を癒やすのは数字に頼らぬ慈しみと、不確かな明日を歩む覚悟だけです。
 >
-> Even as advanced intelligence expands the virtual, the earth shakes and life remains bound to the flesh. Sharpen your tools, but never forget the world's fragility. Amidst storms of markets and conflict, keep your heart light and efficient, and cherish this singular moment of existence.
+> In an era where AI automates our lives and information storms cloud our reason, we must feel the invisible weight of life itself. No matter how advanced technology becomes, it is compassion beyond numbers and the courage to face an uncertain tomorrow that heal our disasters and solitude.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [Metaの「テントの中にデータセンターを設立する」という計画の詳細が明らかに](https://gigazine.net/news/20260608-meta-tents-data-centers/)
-- [2026年6月9日(火)午前2時から始まるAppleのWWDC26ではどんなことが発表される見込みなのか？](https://gigazine.net/news/20260608-prediction-apple-wwdc26/)
-- [日立とIntelがフィジカルAI加速に向けて戦略的協業を発表](https://gigazine.net/news/20260608-hitachi-intel/)
+- [「テレビ史上最高のショット」と語り継がれる映像とは？](https://gigazine.net/news/20260609-greatest-shot-in-television/)
+- [トランプ大統領一族が仮想通貨市場や予測市場に参入するため政府機関から職員を追放したとの報道](https://gigazine.net/news/20260609-cftc-trump/)
+- [腸内細菌のバランスを保って睡眠を改善するための3つのヒント](https://gigazine.net/news/20260609-gut-microbiota-sleep/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
