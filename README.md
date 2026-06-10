@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> AIが日々の営みを代替し、情報の激流が理性を揺さぶる今こそ、目に見えぬ「生」の重みを感じなさい。技術が便利さを極めても、震災や孤独を癒やすのは数字に頼らぬ慈しみと、不確かな明日を歩む覚悟だけです。
+> 言葉が瞬時に翻訳され、AIが深淵を暴く時代。世界が怒りと技術で加速しても、人は己の誠実さを守り、百年を待つ建築のように静かに愛を育むべきです。情報の渦に自分を失わず、心の羅針盤を信じて歩みなさい。
 >
-> In an era where AI automates our lives and information storms cloud our reason, we must feel the invisible weight of life itself. No matter how advanced technology becomes, it is compassion beyond numbers and the courage to face an uncertain tomorrow that heal our disasters and solitude.
+> In an era where words are translated instantly and AI uncovers every secret, though the world accelerates with rage and technology, we must guard our integrity and nurture love quietly, like a cathedral built over centuries. Do not lose yourself in the vortex of information; walk by the compass of your heart.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [「テレビ史上最高のショット」と語り継がれる映像とは？](https://gigazine.net/news/20260609-greatest-shot-in-television/)
-- [トランプ大統領一族が仮想通貨市場や予測市場に参入するため政府機関から職員を追放したとの報道](https://gigazine.net/news/20260609-cftc-trump/)
-- [腸内細菌のバランスを保って睡眠を改善するための3つのヒント](https://gigazine.net/news/20260609-gut-microbiota-sleep/)
+- [Googleが即時翻訳を実現する「Gemini 3.5 Live Translate」を発表、iOSとAndroidのGoogle翻訳アプリにも実装へ](https://gigazine.net/news/20260610-google-gemini-3-5-live-translate/)
+- [ついに「Claude Mythos」の正式版が登場＆利用者制限撤廃版の「Claude Fable」も登場して誰でも使用可能に](https://gigazine.net/news/20260610-claude-mythos-fable/)
+- [macOS 27 Golden GateのSafariに搭載される新機能](https://gigazine.net/news/20260610-safari-macos-27-golden-gate/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
