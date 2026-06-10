@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=M5R9z0vFjOs'>
-        <img src='https://i.ytimg.com/vi/M5R9z0vFjOs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUoxXdI7QdD2MULr-UX0i6XYXdSA' width='200px' alt='ビリミリオン'>
+      <a href='https://www.youtube.com/watch?v=DO_aopUeFnw'>
+        <img src='https://i.ytimg.com/vi/DO_aopUeFnw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKWBCw1miJEhYdmMNyNruwf_BWDA' width='200px' alt='Lilac'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=M5R9z0vFjOs'>ビリミリオン</a>
+      <a href='https://www.youtube.com/watch?v=DO_aopUeFnw'>Lilac</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=zuXiyCtrM2c'>
-        <img src='https://i.ytimg.com/vi/zuXiyCtrM2c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxAiQr_LrDmcdvKKiie81xFKnnzQ' width='200px' alt='ドライフラワー'>
+      <a href='https://www.youtube.com/watch?v=TGz8AXN3gLA'>
+        <img src='https://i.ytimg.com/vi/TGz8AXN3gLA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWS1qZN5VGY_ZeMcSCBwCxLE3fIg' width='200px' alt='さよーならまたいつか！- Sayonara'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=zuXiyCtrM2c'>ドライフラワー</a>
+      <a href='https://www.youtube.com/watch?v=TGz8AXN3gLA'>さよーならまたいつか！- Sayonara</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=rqJgOLXsr3M'>
-        <img src='https://i.ytimg.com/vi/rqJgOLXsr3M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCec-aruTMcKZDIMW7DHuBnHIVUnA' width='200px' alt='おもかげ (produced by Vaundy)'>
+      <a href='https://www.youtube.com/watch?v=P7bVX6fJfCg'>
+        <img src='https://i.ytimg.com/vi/P7bVX6fJfCg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCibqA8MwaVWSpL2VR6z3K_i0S3Rw' width='200px' alt='Omoinotake | IKUOKUKONEN 【Official Music Video】'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=rqJgOLXsr3M'>おもかげ (produced by Vaundy)</a>
+      <a href='https://www.youtube.com/watch?v=P7bVX6fJfCg'>Omoinotake | IKUOKUKONEN 【Official Music Video】</a>
     </td>
   </tr>
 </table>
