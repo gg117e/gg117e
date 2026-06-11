@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 言葉が瞬時に翻訳され、AIが深淵を暴く時代。世界が怒りと技術で加速しても、人は己の誠実さを守り、百年を待つ建築のように静かに愛を育むべきです。情報の渦に自分を失わず、心の羅針盤を信じて歩みなさい。
+> 激動の情勢や技術の奔流に惑わされず、百年の歳月をかけ完成した塔のように、己の信念を静かに積み上げなさい。便利さや監視に心を売らず、孤独さえも糧として、自分だけの揺るぎない聖域を築くことが今を生きる知恵です。
 >
-> In an era where words are translated instantly and AI uncovers every secret, though the world accelerates with rage and technology, we must guard our integrity and nurture love quietly, like a cathedral built over centuries. Do not lose yourself in the vortex of information; walk by the compass of your heart.
+> Amidst global turmoil and technological torrents, build your convictions steadily like a century-old spire. Do not trade your inner peace for convenience or scrutiny; embrace even solitude as strength to craft your own unshakable sanctuary.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [Googleが即時翻訳を実現する「Gemini 3.5 Live Translate」を発表、iOSとAndroidのGoogle翻訳アプリにも実装へ](https://gigazine.net/news/20260610-google-gemini-3-5-live-translate/)
-- [ついに「Claude Mythos」の正式版が登場＆利用者制限撤廃版の「Claude Fable」も登場して誰でも使用可能に](https://gigazine.net/news/20260610-claude-mythos-fable/)
-- [macOS 27 Golden GateのSafariに搭載される新機能](https://gigazine.net/news/20260610-safari-macos-27-golden-gate/)
+- [「npm install」だけでコードが実行される時代が終了へ、npmが自動スクリプト実行を標準で停止する予定](https://gigazine.net/news/20260611-npm-install-script/)
+- [「Claude Fable 5」では会話履歴がAnthropicの従業員によって読まれる場合がある、Microsoftはリスク評価のために従業員による使用を保留中](https://gigazine.net/news/20260611-microsoft-claude-fable-5/)
+- [超コンパクト＆超軽量のロジクール初の折りたたみワイヤレスマウス「Mobi Fold」レビュー](https://gigazine.net/news/20260611-logicool-mobi-fold/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
