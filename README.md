@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 激動の情勢や技術の奔流に惑わされず、百年の歳月をかけ完成した塔のように、己の信念を静かに積み上げなさい。便利さや監視に心を売らず、孤独さえも糧として、自分だけの揺るぎない聖域を築くことが今を生きる知恵です。
+> 巨大な資本とAIが加速する時代、私たちは新旧の交代と脆さに直面します。しかしH3の再起や対話による停戦が示すのは、失敗を超え、調和を選ぶ意志こそが真の力だということ。技術に依らず、自らの心に誠実な航路を描きなさい。
 >
-> Amidst global turmoil and technological torrents, build your convictions steadily like a century-old spire. Do not trade your inner peace for convenience or scrutiny; embrace even solitude as strength to craft your own unshakable sanctuary.
+> In an era where massive capital and AI accelerate, we face constant transition and fragility. Yet, the resurgence of H3 and the choice for peace through dialogue remind us that true power lies in overcoming failure and seeking harmony. Navigate your life with a heart of integrity, beyond mere technology.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [「npm install」だけでコードが実行される時代が終了へ、npmが自動スクリプト実行を標準で停止する予定](https://gigazine.net/news/20260611-npm-install-script/)
-- [「Claude Fable 5」では会話履歴がAnthropicの従業員によって読まれる場合がある、Microsoftはリスク評価のために従業員による使用を保留中](https://gigazine.net/news/20260611-microsoft-claude-fable-5/)
-- [超コンパクト＆超軽量のロジクール初の折りたたみワイヤレスマウス「Mobi Fold」レビュー](https://gigazine.net/news/20260611-logicool-mobi-fold/)
+- [Windows互換レイヤーのCrossOverが最新バージョンの27でAppleシリコン専用となりIntel搭載Macでは利用不可に](https://gigazine.net/news/20260612-crossover-27-removes-legacy-support-mac-intel/)
+- [OpenAIがCodexの機能強化のためにAI企業「Ona」を買収](https://gigazine.net/news/20260612-openai-acquire-ona/)
+- [イーロン・マスク率いるSpaceXが世界最大の新規株式公開(IPO)で約12兆円を調達](https://gigazine.net/news/20260612-space-x-ipo-75-b-dollar/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
