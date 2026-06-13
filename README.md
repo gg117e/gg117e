@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 巨大な資本とAIが加速する時代、私たちは新旧の交代と脆さに直面します。しかしH3の再起や対話による停戦が示すのは、失敗を超え、調和を選ぶ意志こそが真の力だということ。技術に依らず、自らの心に誠実な航路を描きなさい。
+> 加速する知性と激動する政情の中、自らの歩調を見失ってはならない。巨大な力さえ管理される時代だからこそ、日々の律動を整え、情報の虚実に惑わされず、手触りのある命の尊厳を自らの灯火として進みなさい。
 >
-> In an era where massive capital and AI accelerate, we face constant transition and fragility. Yet, the resurgence of H3 and the choice for peace through dialogue remind us that true power lies in overcoming failure and seeking harmony. Navigate your life with a heart of integrity, beyond mere technology.
+> Amidst accelerating intelligence and turbulent politics, do not lose your own pace. In an era where even great powers are constrained, harmonize your daily rhythms and let the tangible dignity of life be your guiding light.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [Windows互換レイヤーのCrossOverが最新バージョンの27でAppleシリコン専用となりIntel搭載Macでは利用不可に](https://gigazine.net/news/20260612-crossover-27-removes-legacy-support-mac-intel/)
-- [OpenAIがCodexの機能強化のためにAI企業「Ona」を買収](https://gigazine.net/news/20260612-openai-acquire-ona/)
-- [イーロン・マスク率いるSpaceXが世界最大の新規株式公開(IPO)で約12兆円を調達](https://gigazine.net/news/20260612-space-x-ipo-75-b-dollar/)
+- [食事の時間が不規則な人ほどうつ病の症状が現れやすいことが判明](https://gigazine.net/news/20260613-skipping-meals-irregular-eating-depression/)
+- [最大6690万画素のソニー製ミラーレス一眼カメラ「α7R VI」の外観をじっくり観察してみたよレビュー](https://gigazine.net/news/20260613-sony-alpha7r-vi-appearance/)
+- [FBIがワールドカップ関連の詐欺行為を行っている偽のFIFAウェブサイトについて警告](https://gigazine.net/news/20260613-fifa-fake-website/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
