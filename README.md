@@ -26,11 +26,11 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=1GQ07JcqH48'>
-        <img src='https://i.ytimg.com/vi/1GQ07JcqH48/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSPACmTI9ygMCW0JC14xxWjsnbSA' width='200px' alt='Family Song'>
+      <a href='https://www.youtube.com/watch?v=YFOg4grr_yA'>
+        <img src='https://i.ytimg.com/vi/YFOg4grr_yA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA78r8IZpJxtjfrvHIwGm6oVawSAg' width='200px' alt='紙一重'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=1GQ07JcqH48'>Family Song</a>
+      <a href='https://www.youtube.com/watch?v=YFOg4grr_yA'>紙一重</a>
     </td>
     <td align='center'>
       <a href='https://www.youtube.com/watch?v=mN5F3l3r8QM'>
@@ -40,11 +40,11 @@
       <a href='https://www.youtube.com/watch?v=mN5F3l3r8QM'>Romanticism</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=xpMW7wJTT3c'>
-        <img src='https://i.ytimg.com/vi/xpMW7wJTT3c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApHdPftEzlfVZIqAOSvCvom_1lwQ' width='200px' alt='Matane.'>
+      <a href='https://www.youtube.com/watch?v=_wbuPAwbfQ8'>
+        <img src='https://i.ytimg.com/vi/_wbuPAwbfQ8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjRP1GKeylm1IkHC4eNNlptx1z2A' width='200px' alt='ユキトキ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=xpMW7wJTT3c'>Matane.</a>
+      <a href='https://www.youtube.com/watch?v=_wbuPAwbfQ8'>ユキトキ</a>
     </td>
   </tr>
 </table>
