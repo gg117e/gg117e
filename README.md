@@ -26,25 +26,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=YFOg4grr_yA'>
-        <img src='https://i.ytimg.com/vi/YFOg4grr_yA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA78r8IZpJxtjfrvHIwGm6oVawSAg' width='200px' alt='紙一重'>
+      <a href='https://www.youtube.com/watch?v=zuXiyCtrM2c'>
+        <img src='https://i.ytimg.com/vi/zuXiyCtrM2c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxAiQr_LrDmcdvKKiie81xFKnnzQ' width='200px' alt='ドライフラワー'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=YFOg4grr_yA'>紙一重</a>
+      <a href='https://www.youtube.com/watch?v=zuXiyCtrM2c'>ドライフラワー</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=mN5F3l3r8QM'>
-        <img src='https://i.ytimg.com/vi/mN5F3l3r8QM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoS8UnfB9Cul4GAuAc-URqS0drDw' width='200px' alt='Romanticism'>
+      <a href='https://www.youtube.com/watch?v=Oye00CX57QM'>
+        <img src='https://i.ytimg.com/vi/Oye00CX57QM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASRvN695AvvbkYsveIMDxaAzVA3g' width='200px' alt='Happiness'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=mN5F3l3r8QM'>Romanticism</a>
+      <a href='https://www.youtube.com/watch?v=Oye00CX57QM'>Happiness</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=_wbuPAwbfQ8'>
-        <img src='https://i.ytimg.com/vi/_wbuPAwbfQ8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjRP1GKeylm1IkHC4eNNlptx1z2A' width='200px' alt='ユキトキ'>
+      <a href='https://www.youtube.com/watch?v=ErqUUYWfOBo'>
+        <img src='https://i.ytimg.com/vi/ErqUUYWfOBo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOSuaDQ-44YRfAfNZSNO7AyglYcA' width='200px' alt='決戦スピリット／CHiCO with HoneyWorks'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=_wbuPAwbfQ8'>ユキトキ</a>
+      <a href='https://www.youtube.com/watch?v=ErqUUYWfOBo'>決戦スピリット／CHiCO with HoneyWorks</a>
     </td>
   </tr>
 </table>
