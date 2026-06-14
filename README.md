@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 加速する知性と激動する政情の中、自らの歩調を見失ってはならない。巨大な力さえ管理される時代だからこそ、日々の律動を整え、情報の虚実に惑わされず、手触りのある命の尊厳を自らの灯火として進みなさい。
+> 外の世界が和平を模索し、技術が個の知を拡張する今、大切なのは心の解像度を高めることです。情報の荒波に呑まれず、自らの思考を整理し、多様な休息を慈しみながら、誠実な言葉で確かな明日を紡ぎましょう。
 >
-> Amidst accelerating intelligence and turbulent politics, do not lose your own pace. In an era where even great powers are constrained, harmonize your daily rhythms and let the tangible dignity of life be your guiding light.
+> As the world seeks peace and technology expands individual intellect, the key is to enhance the resolution of your heart. Organize your thoughts without being overwhelmed by information, cherish diverse forms of rest, and weave a certain tomorrow with sincere words.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [食事の時間が不規則な人ほどうつ病の症状が現れやすいことが判明](https://gigazine.net/news/20260613-skipping-meals-irregular-eating-depression/)
-- [最大6690万画素のソニー製ミラーレス一眼カメラ「α7R VI」の外観をじっくり観察してみたよレビュー](https://gigazine.net/news/20260613-sony-alpha7r-vi-appearance/)
-- [FBIがワールドカップ関連の詐欺行為を行っている偽のFIFAウェブサイトについて警告](https://gigazine.net/news/20260613-fifa-fake-website/)
+- [「単語の見た目」が意味をイメージさせるものだと脳はその単語をより速く正確に処理できる](https://gigazine.net/news/20260614-words-look-like-meaning/)
+- [人間の睡眠はレム睡眠とノンレム睡眠の2種類だが魚は4種類もあることが判明](https://gigazine.net/news/20260614-fish-sleep-stats/)
+- [KDPで「予約注文禁止状態」になってから解除されるまでの経緯をまとめてみた](https://gigazine.net/news/20260613-kdp-pre-orders/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
