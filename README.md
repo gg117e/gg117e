@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 外の世界が和平を模索し、技術が個の知を拡張する今、大切なのは心の解像度を高めることです。情報の荒波に呑まれず、自らの思考を整理し、多様な休息を慈しみながら、誠実な言葉で確かな明日を紡ぎましょう。
+> 技術は加速し、長年の確執すら一晩で融解する。指示を与える時代から、対話の循環に身を委ねる時代へ。不透明な情勢に翻弄されず、平和の兆しを糧に、自身の内なる鼓動を信じて一歩を踏み出しなさい。
 >
-> As the world seeks peace and technology expands individual intellect, the key is to enhance the resolution of your heart. Organize your thoughts without being overwhelmed by information, cherish diverse forms of rest, and weave a certain tomorrow with sincere words.
+> Technology accelerates, and even long-standing animosities melt overnight. Move from an era of giving commands to one of surrendering to the cycles of dialogue. Do not be swayed by uncertainty; use the signs of peace as fuel and step forward, trusting the rhythm of your own heart.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [「単語の見た目」が意味をイメージさせるものだと脳はその単語をより速く正確に処理できる](https://gigazine.net/news/20260614-words-look-like-meaning/)
-- [人間の睡眠はレム睡眠とノンレム睡眠の2種類だが魚は4種類もあることが判明](https://gigazine.net/news/20260614-fish-sleep-stats/)
-- [KDPで「予約注文禁止状態」になってから解除されるまでの経緯をまとめてみた](https://gigazine.net/news/20260613-kdp-pre-orders/)
+- [NVIDIAがゲームやロボットの動作35万種類以上をリアルタイムで生成する「MotionBricks」を発表](https://gigazine.net/news/20260615-nvidia-motionbricks/)
+- [誰でも無料で高機能な予約システムが作れる「SelectType」に便利なGoogleカレンダー双方向連携＆Google MeetのURL自動発行機能が登場したので使ってみた](https://gigazine.net/news/20260615-select-type-google-calendar-gmeet/)
+- [中国製AIモデル「Kimi K2.7 Code」がオープンモデルとして公開される、Kimiシリーズ最高のコーディング性能でトークン消費も少なめ](https://gigazine.net/news/20260615-kimi-k2-7-code/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
