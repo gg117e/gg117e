@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 技術は加速し、長年の確執すら一晩で融解する。指示を与える時代から、対話の循環に身を委ねる時代へ。不透明な情勢に翻弄されず、平和の兆しを糧に、自身の内なる鼓動を信じて一歩を踏み出しなさい。
+> 額面を超える貨幣の重み、平穏を紡ぐ覚書。技術が生命を追い越そうとする今、古きを活かし、若きを騒音から守る知恵を持て。真の価値は、計算機の中ではなく、対話と沈黙の間に宿る静かなる調和にある。
 >
-> Technology accelerates, and even long-standing animosities melt overnight. Move from an era of giving commands to one of surrendering to the cycles of dialogue. Do not be swayed by uncertainty; use the signs of peace as fuel and step forward, trusting the rhythm of your own heart.
+> As coins exceed their face value and peace is forged through ink, technology seeks to outpace life. Have the wisdom to reuse the old and shield the young from digital noise. True value lies not in logic, but in the quiet harmony found between dialogue and silence.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [NVIDIAがゲームやロボットの動作35万種類以上をリアルタイムで生成する「MotionBricks」を発表](https://gigazine.net/news/20260615-nvidia-motionbricks/)
-- [誰でも無料で高機能な予約システムが作れる「SelectType」に便利なGoogleカレンダー双方向連携＆Google MeetのURL自動発行機能が登場したので使ってみた](https://gigazine.net/news/20260615-select-type-google-calendar-gmeet/)
-- [中国製AIモデル「Kimi K2.7 Code」がオープンモデルとして公開される、Kimiシリーズ最高のコーディング性能でトークン消費も少なめ](https://gigazine.net/news/20260615-kimi-k2-7-code/)
+- [FoxがテレビOSやストリーミングデバイスを展開するRokuを220億ドルで買収へ、同社史上最大の取引に](https://gigazine.net/news/20260616-fox-acquire-roku/)
+- [カプコンが「ドラゴンズドグマ 2」の物議をかもした課金アイテムを削除](https://gigazine.net/news/20260616-dragons-dogma-2-controversial-microtransactions-delete/)
+- [XBOXの幹部が退任＆傘下のゲームスタジオCompulsion Games＆Ninja Theoryが閉鎖か](https://gigazine.net/news/20260616-xbox-executives-depart-compulsion-games-shuts-down/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
