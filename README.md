@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 額面を超える貨幣の重み、平穏を紡ぐ覚書。技術が生命を追い越そうとする今、古きを活かし、若きを騒音から守る知恵を持て。真の価値は、計算機の中ではなく、対話と沈黙の間に宿る静かなる調和にある。
+> 技術が神話へと至り、国家が和平を語る今こそ、私たちは失われぬ『心の温度』を灯し続けねばなりません。高度な知能や暗号でも守り切れぬ命の尊厳と、過ちを認める誠実さこそが、混迷の時代を照らす真の光です。
 >
-> As coins exceed their face value and peace is forged through ink, technology seeks to outpace life. Have the wisdom to reuse the old and shield the young from digital noise. True value lies not in logic, but in the quiet harmony found between dialogue and silence.
+> As technology ascends to 'mythos' and nations speak of peace, we must keep the unquenchable warmth of the heart alive. The dignity of life, which no code can fully protect, and the sincerity to admit error are the true lights in this age of turmoil.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [FoxがテレビOSやストリーミングデバイスを展開するRokuを220億ドルで買収へ、同社史上最大の取引に](https://gigazine.net/news/20260616-fox-acquire-roku/)
-- [カプコンが「ドラゴンズドグマ 2」の物議をかもした課金アイテムを削除](https://gigazine.net/news/20260616-dragons-dogma-2-controversial-microtransactions-delete/)
-- [XBOXの幹部が退任＆傘下のゲームスタジオCompulsion Games＆Ninja Theoryが閉鎖か](https://gigazine.net/news/20260616-xbox-executives-depart-compulsion-games-shuts-down/)
+- [「Wear OS 7」がリリースされる、ワークアウトの進行度表示などが追加され2026年後半には「Gemini Intelligence」にも対応](https://gigazine.net/news/20260617-wear-os-7/)
+- [「Android 17」がリリースされる、「アプリバブル」「ポスト量子暗号」「スクリーンリアクション」「インタラクティブPiP」など機能盛りだくさん](https://gigazine.net/news/20260617-android-17/)
+- [SpaceXがCursorを600億ドル(約9兆6000億円)相当の株式交換で買収へ](https://gigazine.net/news/20260617-spacex-acquires-curso-anysphere/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
