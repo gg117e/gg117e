@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> 技術が神話へと至り、国家が和平を語る今こそ、私たちは失われぬ『心の温度』を灯し続けねばなりません。高度な知能や暗号でも守り切れぬ命の尊厳と、過ちを認める誠実さこそが、混迷の時代を照らす真の光です。
+> AIが知能を模し、国家が紙一重の平和を誓う今、私たちが守るべきは技術への依存ではなく、真実を見極める瞳です。移ろう情勢や価格に一喜一憂せず、自身の内側にこそ、枯れることのない価値を育てなさい。
 >
-> As technology ascends to 'mythos' and nations speak of peace, we must keep the unquenchable warmth of the heart alive. The dignity of life, which no code can fully protect, and the sincerity to admit error are the true lights in this age of turmoil.
+> As AI mimics intelligence and nations pledge a fragile peace, what we must safeguard is not our reliance on technology, but our eyes that discern the truth. Do not be swayed by shifting affairs or prices; cultivate within yourself a value that never withers.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [「Wear OS 7」がリリースされる、ワークアウトの進行度表示などが追加され2026年後半には「Gemini Intelligence」にも対応](https://gigazine.net/news/20260617-wear-os-7/)
-- [「Android 17」がリリースされる、「アプリバブル」「ポスト量子暗号」「スクリーンリアクション」「インタラクティブPiP」など機能盛りだくさん](https://gigazine.net/news/20260617-android-17/)
-- [SpaceXがCursorを600億ドル(約9兆6000億円)相当の株式交換で買収へ](https://gigazine.net/news/20260617-spacex-acquires-curso-anysphere/)
+- [BlueskyのDMに「特定のメッセージへ返信できる機能」が追加される](https://gigazine.net/news/20260618-bluesky-reply-to-specific-messages/)
+- [AIが科学者にとってどれだけ役立つかを測定できるベンチマークテスト「LifeSciBench」をOpenAIが公開](https://gigazine.net/news/20260618-openai-lifescibench/)
+- [xAIが動画生成AI「Grok Imagine Video 1.5」を一般提供開始、高速モデルの「Grok Imagine Video 1.5 Fast」も登場](https://gigazine.net/news/20260618-grok-imagine-video-1-5/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
