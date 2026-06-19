@@ -1,6 +1,6 @@
 # gg117e
 
-学んだことや作ったものを、静かに積み重ねています。
+なんやかんや耐える
 
 ## Recently Active Repositories
 
