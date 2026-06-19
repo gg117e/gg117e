@@ -1,0 +1,45 @@
+name: Public Repositories Update
+
+on:
+  schedule:
+    - cron: "20 0 * * *" # Runs daily at 09:20 JST (00:20 UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: public-repositories-update
+  cancel-in-progress: false
+
+jobs:
+  update-repositories:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Run update script
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python scripts/update_repositories.py
+
+      - name: Commit and push changes
+        run: |
+          set -euxo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "docs: update public repositories [skip ci]"
+          git push
