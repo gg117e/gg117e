@@ -6,6 +6,7 @@ import feedparser
 
 README_PATH = "README.md"
 GIGAZINE_RSS_URL = "https://gigazine.net/news/rss_2.0/"
+NEWS_COUNT = 6
 START_MARKER = "<!-- GIGAZINE-NEWS-START -->"
 END_MARKER = "<!-- GIGAZINE-NEWS-END -->"
 
@@ -16,7 +17,7 @@ def get_gigazine_news():
         return None
 
     news_items = []
-    for entry in feed.entries[:3]:
+    for entry in feed.entries[:NEWS_COUNT]:
         news_items.append(f"- [{entry.title}]({entry.link})")
 
     return "\n".join(news_items)
