@@ -1,10 +1,9 @@
+--- 
 <div align="center">
-
-# gg117e
 
 なんやかんや耐える
 
-<sub>code / research / notes</sub>
+<sub>gg117e</sub>
 
 </div>
 
