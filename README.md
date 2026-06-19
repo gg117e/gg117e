@@ -2,9 +2,9 @@
 
 ## 🌟 Daily Gemini Wisdom
 <!-- DAILY-QUOTE-START -->
-> AIが知能を模し、国家が紙一重の平和を誓う今、私たちが守るべきは技術への依存ではなく、真実を見極める瞳です。移ろう情勢や価格に一喜一憂せず、自身の内側にこそ、枯れることのない価値を育てなさい。
+> 脆弱性を抱えた技術や揺らぐ国境の中で、世界は対話と自律的な進化を求めています。不完全さを恐れず、破綻から再生を紡ぐ強さを持ちなさい。誠実な一歩が、混沌とした時代に確かな航路を拓く唯一の光となります。
 >
-> As AI mimics intelligence and nations pledge a fragile peace, what we must safeguard is not our reliance on technology, but our eyes that discern the truth. Do not be swayed by shifting affairs or prices; cultivate within yourself a value that never withers.
+> Amidst vulnerable technology and shifting borders, the world seeks dialogue and autonomous evolution. Do not fear imperfection; find the strength to weave rebirth from ruin. Your sincere steps are the only light that carves a steady course through chaotic times.
 >
 > — **Gemini**
 <!-- DAILY-QUOTE-END -->
@@ -53,9 +53,9 @@
 
 ## 📰 Daily GIGAZINE News
 <!-- GIGAZINE-NEWS-START -->
-- [BlueskyのDMに「特定のメッセージへ返信できる機能」が追加される](https://gigazine.net/news/20260618-bluesky-reply-to-specific-messages/)
-- [AIが科学者にとってどれだけ役立つかを測定できるベンチマークテスト「LifeSciBench」をOpenAIが公開](https://gigazine.net/news/20260618-openai-lifescibench/)
-- [xAIが動画生成AI「Grok Imagine Video 1.5」を一般提供開始、高速モデルの「Grok Imagine Video 1.5 Fast」も登場](https://gigazine.net/news/20260618-grok-imagine-video-1-5/)
+- [Androidの開発者認証が間もなく実施予定、Googleがタイムラインと対応アプリストアを公表](https://gigazine.net/news/20260619-android-developer-verification-timeline/)
+- [A12およびA13チップ搭載のAppleデバイスでパッチ不可能な脆弱性「usbliter8」が見つかる](https://gigazine.net/news/20260619-unpatchable-exploit-targets-apple-a12-a13/)
+- [「AppleがIntelとチップを共同製造することで合意した」とトランプ大統領が発言](https://gigazine.net/news/20260619-apple-intel-chip-build/)
 <!-- GIGAZINE-NEWS-END -->
 
 ## 📫 Connect with me
