@@ -30,11 +30,10 @@ def update_readme(songs):
     with open(README_PATH, "r", encoding="utf-8") as f:
         content = f.read()
 
-    new_content = "### 🎵 Daily Recommended Songs\n\n"
+    new_content = "## Daily Recommend Song\n\n"
     new_content += "<table>\n"
     new_content += "  <tr>\n"
 
-    # Thumbnails
     for song in songs:
         title = song.get('title', 'Unknown Title')
         video_id = song.get('id')
@@ -43,16 +42,13 @@ def update_readme(songs):
         if not url.startswith('http') and video_id:
              url = f"https://www.youtube.com/watch?v={video_id}"
 
-        # Try to find a thumbnail
         thumb_url = ""
         thumbnails = song.get('thumbnails', [])
         if thumbnails:
-             # Prefer medium quality
              thumb_url = thumbnails[-1]['url']
         elif video_id:
              thumb_url = f"https://i.ytimg.com/vi/{video_id}/mqdefault.jpg"
 
-        # Fallback if still empty (shouldn't happen with valid ID)
         if not thumb_url:
             thumb_url = "https://via.placeholder.com/200x150?text=No+Image"
 
@@ -67,7 +63,6 @@ def update_readme(songs):
     new_content += "  </tr>\n"
     new_content += "</table>\n"
 
-    # Replace content between markers
     pattern = re.compile(f"{re.escape(START_MARKER)}.*?{re.escape(END_MARKER)}", re.DOTALL)
 
     if not pattern.search(content):
