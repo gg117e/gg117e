@@ -10,38 +10,20 @@
 
 ---
 
-## Active Repositories
+## Public Repositories
 
-<p>
-  <a href="https://github.com/gg117e/CC4M"><img alt="CC4M" src="https://img.shields.io/badge/CC4M-research-334155?style=flat-square"></a>
-  <a href="https://github.com/gg117e/my-portfolio-blog"><img alt="my-portfolio-blog" src="https://img.shields.io/badge/portfolio-blog-475569?style=flat-square"></a>
-  <a href="https://github.com/gg117e/My-Digital-Paper"><img alt="My-Digital-Paper" src="https://img.shields.io/badge/digital-paper-64748b?style=flat-square"></a>
-  <a href="https://github.com/gg117e/TravelLog"><img alt="TravelLog" src="https://img.shields.io/badge/travel-log-52616b?style=flat-square"></a>
+<sub>public repositories / auto updated</sub>
+
+<!-- PUBLIC-REPOS-START -->
+<p align="center">
+  <a href="https://github.com/gg117e/gg117e"><img width="420" alt="gg117e" src="https://github-readme-stats.vercel.app/api/pin/?username=gg117e&repo=gg117e&theme=github_dark_dimmed&hide_border=true&show_owner=false"></a>
+  <a href="https://github.com/gg117e/my-portfolio-blog"><img width="420" alt="my-portfolio-blog" src="https://github-readme-stats.vercel.app/api/pin/?username=gg117e&repo=my-portfolio-blog&theme=github_dark_dimmed&hide_border=true&show_owner=false"></a>
+  <a href="https://github.com/gg117e/todoApp"><img width="420" alt="todoApp" src="https://github-readme-stats.vercel.app/api/pin/?username=gg117e&repo=todoApp&theme=github_dark_dimmed&hide_border=true&show_owner=false"></a>
+  <a href="https://github.com/gg117e/CC4M"><img width="420" alt="CC4M" src="https://github-readme-stats.vercel.app/api/pin/?username=gg117e&repo=CC4M&theme=github_dark_dimmed&hide_border=true&show_owner=false"></a>
+  <a href="https://github.com/gg117e/My-Digital-Paper"><img width="420" alt="My-Digital-Paper" src="https://github-readme-stats.vercel.app/api/pin/?username=gg117e&repo=My-Digital-Paper&theme=github_dark_dimmed&hide_border=true&show_owner=false"></a>
+  <a href="https://github.com/gg117e/TravelLog"><img width="420" alt="TravelLog" src="https://github-readme-stats.vercel.app/api/pin/?username=gg117e&repo=TravelLog&theme=github_dark_dimmed&hide_border=true&show_owner=false"></a>
 </p>
-
-<details open>
-<summary><strong>Recent focus</strong></summary>
-<br>
-
-<a href="https://github.com/gg117e/CC4M"><strong>CC4M</strong></a><br>
-<sub>Code clone and microservice research notes.</sub>
-
-<br><br>
-
-<a href="https://github.com/gg117e/my-portfolio-blog"><strong>my-portfolio-blog</strong></a><br>
-<sub>Personal portfolio and writing space.</sub>
-
-<br><br>
-
-<a href="https://github.com/gg117e/My-Digital-Paper"><strong>My-Digital-Paper</strong></a><br>
-<sub>Small digital paper experiment.</sub>
-
-<br><br>
-
-<a href="https://github.com/gg117e/TravelLog"><strong>TravelLog</strong></a><br>
-<sub>Travel logging project.</sub>
-
-</details>
+<!-- PUBLIC-REPOS-END -->
 
 ---
 
