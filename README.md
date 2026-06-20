@@ -32,25 +32,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=uhY5LztYnoQ'>
-        <img src='https://i.ytimg.com/vi/uhY5LztYnoQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCG2PLxs6Mn3iT3s5CyejxHT6v26g' width='200px' alt='ありがとうの輪'>
+      <a href='https://www.youtube.com/watch?v=zuXiyCtrM2c'>
+        <img src='https://i.ytimg.com/vi/zuXiyCtrM2c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxAiQr_LrDmcdvKKiie81xFKnnzQ' width='200px' alt='ドライフラワー'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=uhY5LztYnoQ'>ありがとうの輪</a>
+      <a href='https://www.youtube.com/watch?v=zuXiyCtrM2c'>ドライフラワー</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=go6WjvgMYjU'>
-        <img src='https://i.ytimg.com/vi/go6WjvgMYjU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNQUVsFUfDV8o-RKYab7T9eBFTxA' width='200px' alt='17才'>
+      <a href='https://www.youtube.com/watch?v=LoyA7GvfOwA'>
+        <img src='https://i.ytimg.com/vi/LoyA7GvfOwA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAuADigIMCAAQARhkIGQoZDAP&rs=AOn4CLBk6pXQ6KVrYlVuaAckuf6xf3Owbg' width='200px' alt='Sad Song'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=go6WjvgMYjU'>17才</a>
+      <a href='https://www.youtube.com/watch?v=LoyA7GvfOwA'>Sad Song</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=GOIuU0ejpzc'>
-        <img src='https://i.ytimg.com/vi/GOIuU0ejpzc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPs_NzMHy2jXKKNMWZW7ccM4HxGg' width='200px' alt='GReeeeN / アカリ 【TBS系 日曜劇場『TOKYO MER～走る緊急救命室～』主題歌】'>
+      <a href='https://www.youtube.com/watch?v=qKymy-TvdVE'>
+        <img src='https://i.ytimg.com/vi/qKymy-TvdVE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDP1yLmmRvXLT_Vim3sYALhDOyskw' width='200px' alt='Rain'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=GOIuU0ejpzc'>GReeeeN / アカリ 【TBS系 日曜劇場『TOKYO MER～走る緊急救命室～』主題歌】</a>
+      <a href='https://www.youtube.com/watch?v=qKymy-TvdVE'>Rain</a>
     </td>
   </tr>
 </table>
