@@ -32,25 +32,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=zuXiyCtrM2c'>
-        <img src='https://i.ytimg.com/vi/zuXiyCtrM2c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxAiQr_LrDmcdvKKiie81xFKnnzQ' width='200px' alt='ドライフラワー'>
+      <a href='https://www.youtube.com/watch?v=oJd3TP5kb6k'>
+        <img src='https://i.ytimg.com/vi/oJd3TP5kb6k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVr-TA9PEhiwjzoFO-DmLlBYVIAg' width='200px' alt='New My Normal'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=zuXiyCtrM2c'>ドライフラワー</a>
+      <a href='https://www.youtube.com/watch?v=oJd3TP5kb6k'>New My Normal</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=LoyA7GvfOwA'>
-        <img src='https://i.ytimg.com/vi/LoyA7GvfOwA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAuADigIMCAAQARhkIGQoZDAP&rs=AOn4CLBk6pXQ6KVrYlVuaAckuf6xf3Owbg' width='200px' alt='Sad Song'>
+      <a href='https://www.youtube.com/watch?v=XEHvZ5GrfM8'>
+        <img src='https://i.ytimg.com/vi/XEHvZ5GrfM8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIMwX4r8LPGzFEuy9nauo9407Ksw' width='200px' alt='Eine Kleine'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=LoyA7GvfOwA'>Sad Song</a>
+      <a href='https://www.youtube.com/watch?v=XEHvZ5GrfM8'>Eine Kleine</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=qKymy-TvdVE'>
-        <img src='https://i.ytimg.com/vi/qKymy-TvdVE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDP1yLmmRvXLT_Vim3sYALhDOyskw' width='200px' alt='Rain'>
+      <a href='https://www.youtube.com/watch?v=ZYZp78E4JxA'>
+        <img src='https://i.ytimg.com/vi/ZYZp78E4JxA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMVedMIPColgIHtgkhRgVgSPcQCA' width='200px' alt='スパークル'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=qKymy-TvdVE'>Rain</a>
+      <a href='https://www.youtube.com/watch?v=ZYZp78E4JxA'>スパークル</a>
     </td>
   </tr>
 </table>
