@@ -16,11 +16,11 @@
 <!-- PUBLIC-REPOS-START -->
 <p align="center">
   <a href="https://github.com/gg117e/gg117e"><img width="420" alt="gg117e" src="https://github-readme-stats.vercel.app/api/pin/?username=gg117e&repo=gg117e&theme=github_dark_dimmed&hide_border=true&show_owner=false"></a>
-  <a href="https://github.com/gg117e/my-portfolio-blog"><img width="420" alt="my-portfolio-blog" src="https://github-readme-stats.vercel.app/api/pin/?username=gg117e&repo=my-portfolio-blog&theme=github_dark_dimmed&hide_border=true&show_owner=false"></a>
-  <a href="https://github.com/gg117e/todoApp"><img width="420" alt="todoApp" src="https://github-readme-stats.vercel.app/api/pin/?username=gg117e&repo=todoApp&theme=github_dark_dimmed&hide_border=true&show_owner=false"></a>
   <a href="https://github.com/gg117e/CC4M"><img width="420" alt="CC4M" src="https://github-readme-stats.vercel.app/api/pin/?username=gg117e&repo=CC4M&theme=github_dark_dimmed&hide_border=true&show_owner=false"></a>
   <a href="https://github.com/gg117e/My-Digital-Paper"><img width="420" alt="My-Digital-Paper" src="https://github-readme-stats.vercel.app/api/pin/?username=gg117e&repo=My-Digital-Paper&theme=github_dark_dimmed&hide_border=true&show_owner=false"></a>
   <a href="https://github.com/gg117e/TravelLog"><img width="420" alt="TravelLog" src="https://github-readme-stats.vercel.app/api/pin/?username=gg117e&repo=TravelLog&theme=github_dark_dimmed&hide_border=true&show_owner=false"></a>
+  <a href="https://github.com/gg117e/my-portfolio-blog"><img width="420" alt="my-portfolio-blog" src="https://github-readme-stats.vercel.app/api/pin/?username=gg117e&repo=my-portfolio-blog&theme=github_dark_dimmed&hide_border=true&show_owner=false"></a>
+  <a href="https://github.com/gg117e/todoApp"><img width="420" alt="todoApp" src="https://github-readme-stats.vercel.app/api/pin/?username=gg117e&repo=todoApp&theme=github_dark_dimmed&hide_border=true&show_owner=false"></a>
 </p>
 <!-- PUBLIC-REPOS-END -->
 
