@@ -60,10 +60,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [愛情ホルモンが「戦闘モード」を誘発している可能性が研究で判明](https://gigazine.net/news/20260620-love-hormone-battle-mode/)
-- [メモ書き機能付きAmazon純正電子書籍リーダー「Kindle Scribe」2026年モデルに追加された新機能や初のカラーモデルのメモ書きを使ってみた](https://gigazine.net/news/20260620-kindle-scribe-writing/)
-- [その人の「名前」がAIモデルの中でどれほど強く重み付けされているのかがわかる「IN THE WEIGHTS」](https://gigazine.net/news/20260619-intheweights-llm-weights-name/)
-- [FIFAワールドカップ2026の公式ボール「トリオンダ」の空力特性を日本の研究チームが徹底検証した結果は？](https://gigazine.net/news/20260619-world-cup-ball-trionda/)
-- [アメリカのエネルギー当局がデータセンターへの電力供給を加速するよう電力会社に指示](https://gigazine.net/news/20260619-us-ferc-energy-order/)
-- [AIに「分からないことを分からないと認める力」は身につくのか？OpenAIが有益な性質を強化学習で定着させる研究結果を公開](https://gigazine.net/news/20260619-openai-beneficial-rl/)
+- [何千万もの楽曲がAIのトレーニングに利用可能なデータセットとして配布されておりAI生成楽曲の肥やしになっているとの指摘](https://gigazine.net/news/20260621-songs-mashed-into-ai-generated-music/)
+- [人類が利用した「サイコロ」の歴史](https://gigazine.net/news/20260621-dice-history/)
+- [氷の池に2時間半沈んだ8歳の子どもが体温7℃・心停止状態から生還、医師らは「人命救助の限界を大きく更新した」と報告](https://gigazine.net/news/20260621-ice-water-drowning-survival/)
+- [歩きながらブレのない安定した動画を撮影できる小型カメラ「Osmo Pocket 4」でVlogっぽい散歩動画を撮影してみたよレビュー](https://gigazine.net/news/20260620-osmo-pocket-4-example/)
+- [お酒とソフトドリンクを交互に飲むことで二日酔いを回避できるのか？](https://gigazine.net/news/20260620-zebra-striping-drink-less-hangover/)
+- [カメラが進化しデザインも刷新されたソニー「Xperia 1 VIII」で写真や動画を撮ってきたよ作例まとめ](https://gigazine.net/news/20260620-sony-xperia-1-viii-camera/)
 <!-- GIGAZINE-NEWS-END -->
