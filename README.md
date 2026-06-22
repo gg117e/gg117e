@@ -60,10 +60,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [何千万もの楽曲がAIのトレーニングに利用可能なデータセットとして配布されておりAI生成楽曲の肥やしになっているとの指摘](https://gigazine.net/news/20260621-songs-mashed-into-ai-generated-music/)
-- [人類が利用した「サイコロ」の歴史](https://gigazine.net/news/20260621-dice-history/)
-- [氷の池に2時間半沈んだ8歳の子どもが体温7℃・心停止状態から生還、医師らは「人命救助の限界を大きく更新した」と報告](https://gigazine.net/news/20260621-ice-water-drowning-survival/)
-- [歩きながらブレのない安定した動画を撮影できる小型カメラ「Osmo Pocket 4」でVlogっぽい散歩動画を撮影してみたよレビュー](https://gigazine.net/news/20260620-osmo-pocket-4-example/)
-- [お酒とソフトドリンクを交互に飲むことで二日酔いを回避できるのか？](https://gigazine.net/news/20260620-zebra-striping-drink-less-hangover/)
-- [カメラが進化しデザインも刷新されたソニー「Xperia 1 VIII」で写真や動画を撮ってきたよ作例まとめ](https://gigazine.net/news/20260620-sony-xperia-1-viii-camera/)
+- [DiscordがGoogleウォレットとクレジットカードを使った年齢確認のテストを開始](https://gigazine.net/news/20260622-discord-age-verification-google-wallet/)
+- [AMD製ローカルAI実行アプリ「Lemonade」にMCPゲートウェイ機能が追加される、MCP対応アプリからLemonadeで実行中のLLMや画像生成AIを呼び出せるように](https://gigazine.net/news/20260622-lemonade-local-ai-mcp/)
+- [Windows 11標準のメディアプレーヤーはバージョンアップを重ねてもメモリ消費量が旧版の3.5倍にもあると判明](https://gigazine.net/news/20260622-windows-media-player-more-ram/)
+- [選挙区の境界線を引いて対立候補よりも多くの議席を獲得して選挙に勝利することを目指すパズルゲーム「Gerrymandle」](https://gigazine.net/news/20260622-gerrymandle/)
+- [チップの動作や脆弱性を研究するためにMITの研究者らが独自OS「Fractal」を開発](https://gigazine.net/news/20260622-mit-built-os-fractal-study-chips/)
+- [カラー電子ペーパーを採用した13.3インチモニター「Modos Flow」、3200×2400の高解像度・60Hzのリフレッシュレートを実現](https://gigazine.net/news/20260622-modos-flow/)
 <!-- GIGAZINE-NEWS-END -->
