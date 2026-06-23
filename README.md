@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [DiscordがGoogleウォレットとクレジットカードを使った年齢確認のテストを開始](https://gigazine.net/news/20260622-discord-age-verification-google-wallet/)
-- [AMD製ローカルAI実行アプリ「Lemonade」にMCPゲートウェイ機能が追加される、MCP対応アプリからLemonadeで実行中のLLMや画像生成AIを呼び出せるように](https://gigazine.net/news/20260622-lemonade-local-ai-mcp/)
-- [Windows 11標準のメディアプレーヤーはバージョンアップを重ねてもメモリ消費量が旧版の3.5倍にもあると判明](https://gigazine.net/news/20260622-windows-media-player-more-ram/)
-- [選挙区の境界線を引いて対立候補よりも多くの議席を獲得して選挙に勝利することを目指すパズルゲーム「Gerrymandle」](https://gigazine.net/news/20260622-gerrymandle/)
-- [チップの動作や脆弱性を研究するためにMITの研究者らが独自OS「Fractal」を開発](https://gigazine.net/news/20260622-mit-built-os-fractal-study-chips/)
-- [カラー電子ペーパーを採用した13.3インチモニター「Modos Flow」、3200×2400の高解像度・60Hzのリフレッシュレートを実現](https://gigazine.net/news/20260622-modos-flow/)
+- [Googleが映画製作会社のA24に約120億円を投資、Google DeepMindとA24が「映画制作用のAIツール」を共同開発へ](https://gigazine.net/news/20260623-google-deepmind-a24/)
+- [トランプ大統領が量子コンピューター開発を加速させる2つの大統領令に署名](https://gigazine.net/news/20260623-trump-signs-quantum-computers/)
+- [Anthropicが日本でClaudeコミュニティアンバサダーの募集を開始、Claudeの利用を拡散するために無料APIクレジットを利用可能](https://gigazine.net/news/20260623-claude-community-ambassadors/)
+- [GIGAZINE読者が使っている有料サブスクTOP5を年代別でまとめてみた](https://gigazine.net/news/20260623-gigazine-user-subscription/)
+- [男性は加齢とともにY染色体を失っているがデメリットはあるのか？](https://gigazine.net/news/20260623-men-lose-y-chromosome-age-cost/)
+- [オンライン上のコンテンツでドーパミンの分泌を刺激する「ドーパミン・フラッキング」](https://gigazine.net/news/20260623-dopamine-fracking/)
 <!-- GIGAZINE-NEWS-END -->
