@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [Googleが映画製作会社のA24に約120億円を投資、Google DeepMindとA24が「映画制作用のAIツール」を共同開発へ](https://gigazine.net/news/20260623-google-deepmind-a24/)
-- [トランプ大統領が量子コンピューター開発を加速させる2つの大統領令に署名](https://gigazine.net/news/20260623-trump-signs-quantum-computers/)
-- [Anthropicが日本でClaudeコミュニティアンバサダーの募集を開始、Claudeの利用を拡散するために無料APIクレジットを利用可能](https://gigazine.net/news/20260623-claude-community-ambassadors/)
-- [GIGAZINE読者が使っている有料サブスクTOP5を年代別でまとめてみた](https://gigazine.net/news/20260623-gigazine-user-subscription/)
-- [男性は加齢とともにY染色体を失っているがデメリットはあるのか？](https://gigazine.net/news/20260623-men-lose-y-chromosome-age-cost/)
-- [オンライン上のコンテンツでドーパミンの分泌を刺激する「ドーパミン・フラッキング」](https://gigazine.net/news/20260623-dopamine-fracking/)
+- [マーク・ザッカーバーグがMetaに予測市場アプリの開発を指示](https://gigazine.net/news/20260624-meta-prediction-market-app/)
+- [オオカミが絶滅寸前から復活したヨーロッパで家畜や人間の襲撃事件が増加、果たして共生は可能なのか？](https://gigazine.net/news/20260624-wolves-reconquering-europe-limits-coexistence/)
+- [ペンタブメーカーがLinux向けオープンソースドライバーに協力しない理由とは？](https://gigazine.net/news/20260624-drawing-tablet-linux-driver/)
+- [家族で45分間運動すると親子の認知機能が短期的に改善する可能性](https://gigazine.net/news/20260624-family-exercise-cognitive-function/)
+- [世界的なメモリ不足が極まってDDR2やDDR3のような旧型製品の価格も上昇開始](https://gigazine.net/news/20260623-cascading-consumer-dram-shortage/)
+- [不動産業者がAIで加工した物件画像が賃貸探しを混乱させている](https://gigazine.net/news/20260623-generative-ai-impossible-homes/)
 <!-- GIGAZINE-NEWS-END -->
