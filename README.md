@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [マーク・ザッカーバーグがMetaに予測市場アプリの開発を指示](https://gigazine.net/news/20260624-meta-prediction-market-app/)
-- [オオカミが絶滅寸前から復活したヨーロッパで家畜や人間の襲撃事件が増加、果たして共生は可能なのか？](https://gigazine.net/news/20260624-wolves-reconquering-europe-limits-coexistence/)
-- [ペンタブメーカーがLinux向けオープンソースドライバーに協力しない理由とは？](https://gigazine.net/news/20260624-drawing-tablet-linux-driver/)
-- [家族で45分間運動すると親子の認知機能が短期的に改善する可能性](https://gigazine.net/news/20260624-family-exercise-cognitive-function/)
-- [世界的なメモリ不足が極まってDDR2やDDR3のような旧型製品の価格も上昇開始](https://gigazine.net/news/20260623-cascading-consumer-dram-shortage/)
-- [不動産業者がAIで加工した物件画像が賃貸探しを混乱させている](https://gigazine.net/news/20260623-generative-ai-impossible-homes/)
+- [富士通がAI効率を475倍にするTransformer代替アーキテクチャ「PHOTON」を開発](https://gigazine.net/news/20260625-fujitsu-photon/)
+- [QualcommがAIデータセンター向け製品「Qualcomm Dragonfly」を発表、エージェントAI向けCPU「C1000」やAIラック「AI300」など](https://gigazine.net/news/20260625-qualcomm-dragonfly/)
+- [OpenAIがBroadcomと共同開発したLLM最適推論チップ「Jalapeño」を発表](https://gigazine.net/news/20260625-openai-broadcom-jalapeno/)
+- [4000枚以上のパネルで構成された「架空の土地の地図」を1963年から描き続けている男性](https://gigazine.net/news/20260625-jerrys-map-imaginary-land/)
+- [警察署長が「Flock」のナンバープレート追跡システムを使って元恋人をストーキングしていたことが判明](https://gigazine.net/news/20260625-police-flock-stalking/)
+- [薬で「脳凍結」のような状態を作ると脳卒中後の脳損傷を抑えられる可能性](https://gigazine.net/news/20260625-drug-brain-freeze-stroke/)
 <!-- GIGAZINE-NEWS-END -->
