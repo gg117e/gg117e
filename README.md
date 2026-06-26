@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [富士通がAI効率を475倍にするTransformer代替アーキテクチャ「PHOTON」を開発](https://gigazine.net/news/20260625-fujitsu-photon/)
-- [QualcommがAIデータセンター向け製品「Qualcomm Dragonfly」を発表、エージェントAI向けCPU「C1000」やAIラック「AI300」など](https://gigazine.net/news/20260625-qualcomm-dragonfly/)
-- [OpenAIがBroadcomと共同開発したLLM最適推論チップ「Jalapeño」を発表](https://gigazine.net/news/20260625-openai-broadcom-jalapeno/)
-- [4000枚以上のパネルで構成された「架空の土地の地図」を1963年から描き続けている男性](https://gigazine.net/news/20260625-jerrys-map-imaginary-land/)
-- [警察署長が「Flock」のナンバープレート追跡システムを使って元恋人をストーキングしていたことが判明](https://gigazine.net/news/20260625-police-flock-stalking/)
-- [薬で「脳凍結」のような状態を作ると脳卒中後の脳損傷を抑えられる可能性](https://gigazine.net/news/20260625-drug-brain-freeze-stroke/)
+- [MicrosoftがWindows 10の拡張セキュリティアップデートをさらに1年間延長](https://gigazine.net/news/20260626-microsoft-windows-10-esu-extended/)
+- [YouTube・X(旧Twitter)・TikTok・Instagramなど1000超のサービスからオリジナル画質のまま動画をダウンロードできる「VideoProc Converter AI」を使ってみた](https://gigazine.net/news/20260626-videoproc-converter-ai/)
+- [OpenAI社員がAIエージェントをどれだけ使っているのかが丸わかりなレポートが公開される、非エンジニアもCodexをバリバリ活用](https://gigazine.net/news/20260626-openai-employees-codex/)
+- [AppleがMacやiPadなどを一斉値上げ、MacBook Airは4万円アップでもiPhoneとApple Watchは価格キープ](https://gigazine.net/news/20260626-apple-raise-price/)
+- [ストレージとメモリ価格上昇のためXBOXがまたも値上げ、2TBモデルは販売終了](https://gigazine.net/news/20260626-xbox-console-prices-update/)
+- [IBMが世界初とする0.7nmノードのチップ技術を発表、3D構造「nanostack」でトランジスタ密度をほぼ2倍に](https://gigazine.net/news/20260626-ibm-0-7-nm-node-nanostack/)
 <!-- GIGAZINE-NEWS-END -->
