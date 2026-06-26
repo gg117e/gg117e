@@ -33,11 +33,11 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=xpMW7wJTT3c'>
-        <img src='https://i.ytimg.com/vi/xpMW7wJTT3c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApHdPftEzlfVZIqAOSvCvom_1lwQ' width='200px' alt='Matane.'>
+      <a href='https://www.youtube.com/watch?v=KQNT6hbgf6g'>
+        <img src='https://i.ytimg.com/vi/KQNT6hbgf6g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9u_NKnOrjXZLJMcCymhOCKrr5FA' width='200px' alt='Toku Toku (2012 Remaster)'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=xpMW7wJTT3c'>Matane.</a>
+      <a href='https://www.youtube.com/watch?v=KQNT6hbgf6g'>Toku Toku (2012 Remaster)</a>
     </td>
     <td align='center'>
       <a href='https://www.youtube.com/watch?v=Pz9-XJ8SFKU'>
@@ -47,11 +47,11 @@
       <a href='https://www.youtube.com/watch?v=Pz9-XJ8SFKU'>Taketen</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=X55QEsB64O8'>
-        <img src='https://i.ytimg.com/vi/X55QEsB64O8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDazVneZ2Ic3_-LLYRyEOjtorKs0A' width='200px' alt='君の知らない物語'>
+      <a href='https://www.youtube.com/watch?v=hSdcy2_vtaQ'>
+        <img src='https://i.ytimg.com/vi/hSdcy2_vtaQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPw24hhUebfUwdjUQ9IOX0zI-_3Q' width='200px' alt='僕らまた (Us, again) - SG (Official Lyric Video)'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=X55QEsB64O8'>君の知らない物語</a>
+      <a href='https://www.youtube.com/watch?v=hSdcy2_vtaQ'>僕らまた (Us, again) - SG (Official Lyric Video)</a>
     </td>
   </tr>
 </table>
