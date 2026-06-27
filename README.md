@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [MicrosoftがWindows 10の拡張セキュリティアップデートをさらに1年間延長](https://gigazine.net/news/20260626-microsoft-windows-10-esu-extended/)
-- [YouTube・X(旧Twitter)・TikTok・Instagramなど1000超のサービスからオリジナル画質のまま動画をダウンロードできる「VideoProc Converter AI」を使ってみた](https://gigazine.net/news/20260626-videoproc-converter-ai/)
-- [OpenAI社員がAIエージェントをどれだけ使っているのかが丸わかりなレポートが公開される、非エンジニアもCodexをバリバリ活用](https://gigazine.net/news/20260626-openai-employees-codex/)
-- [AppleがMacやiPadなどを一斉値上げ、MacBook Airは4万円アップでもiPhoneとApple Watchは価格キープ](https://gigazine.net/news/20260626-apple-raise-price/)
-- [ストレージとメモリ価格上昇のためXBOXがまたも値上げ、2TBモデルは販売終了](https://gigazine.net/news/20260626-xbox-console-prices-update/)
-- [IBMが世界初とする0.7nmノードのチップ技術を発表、3D構造「nanostack」でトランジスタ密度をほぼ2倍に](https://gigazine.net/news/20260626-ibm-0-7-nm-node-nanostack/)
+- [鳥や魚の群れは「柔らかい結晶」のように動いているという研究結果](https://gigazine.net/news/20260627-flocking-birds-fish-soft-crystal/)
+- [Nintendo Switch 2が発売から1年の累計販売台数でアメリカ歴代2位に](https://gigazine.net/news/20260627-nintendo-switch-2-second-fastest-selling-console-us/)
+- [ミシシッピ州の住民がデータセンター関連施設からの「ほぼ絶え間ない騒音」を理由にxAIを提訴](https://gigazine.net/news/20260627-mississippi-residents-sue-xai/)
+- [作家や批評家が選んだ「史上最高の小説100選」・空が青い理由などAmazonで売上トップ10のGIGAZINE記事ランキング2026年5月版はコレ！](https://gigazine.net/news/20260627-gigazine-kindle-ranking-2026-05/)
+- [中国の開発者が公式価格の約10％でAnthropicのAIモデルを利用できるAPIプロキシ「中转站」が支えるグレー経済圏の実態とは？](https://gigazine.net/news/20260626-china-anthropic-api/)
+- [無料で「Half-Life 2」をブラウザでプレイできるようにした非公式移植版「web hl2」](https://gigazine.net/news/20260626-half-life-2-web-h12/)
 <!-- GIGAZINE-NEWS-END -->
