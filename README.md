@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=vAfgHtZt6gs'>
-        <img src='https://i.ytimg.com/vi/vAfgHtZt6gs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeNAV46w1eCS5FzH7yrnp2Zp2eIg' width='200px' alt='大丈夫'>
+      <a href='https://www.youtube.com/watch?v=107UoVP2fAA'>
+        <img src='https://i.ytimg.com/vi/107UoVP2fAA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1eFCwYYYAUQ0JdHKBnC37uSW5_w' width='200px' alt='Heroine'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=vAfgHtZt6gs'>大丈夫</a>
+      <a href='https://www.youtube.com/watch?v=107UoVP2fAA'>Heroine</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=mLBe332PrQ0'>
-        <img src='https://i.ytimg.com/vi/mLBe332PrQ0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCn6a1PepAWYqVhrPmg2106R8n7UQ' width='200px' alt='Magic'>
+      <a href='https://www.youtube.com/watch?v=9UL2qJtv6Fo'>
+        <img src='https://i.ytimg.com/vi/9UL2qJtv6Fo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSSeEoumn3cU-x48Qt7bcCh1WW2w' width='200px' alt='Tobira'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=mLBe332PrQ0'>Magic</a>
+      <a href='https://www.youtube.com/watch?v=9UL2qJtv6Fo'>Tobira</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=P7bVX6fJfCg'>
-        <img src='https://i.ytimg.com/vi/P7bVX6fJfCg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCibqA8MwaVWSpL2VR6z3K_i0S3Rw' width='200px' alt='Omoinotake | IKUOKUKONEN 【Official Music Video】'>
+      <a href='https://www.youtube.com/watch?v=vs-cO8XXDTc'>
+        <img src='https://i.ytimg.com/vi/vs-cO8XXDTc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0RhpW6ipEyFYy22iPoM--YLW-Ew' width='200px' alt='ファーストラヴ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=P7bVX6fJfCg'>Omoinotake | IKUOKUKONEN 【Official Music Video】</a>
+      <a href='https://www.youtube.com/watch?v=vs-cO8XXDTc'>ファーストラヴ</a>
     </td>
   </tr>
 </table>
