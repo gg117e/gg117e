@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [鳥や魚の群れは「柔らかい結晶」のように動いているという研究結果](https://gigazine.net/news/20260627-flocking-birds-fish-soft-crystal/)
-- [Nintendo Switch 2が発売から1年の累計販売台数でアメリカ歴代2位に](https://gigazine.net/news/20260627-nintendo-switch-2-second-fastest-selling-console-us/)
-- [ミシシッピ州の住民がデータセンター関連施設からの「ほぼ絶え間ない騒音」を理由にxAIを提訴](https://gigazine.net/news/20260627-mississippi-residents-sue-xai/)
-- [作家や批評家が選んだ「史上最高の小説100選」・空が青い理由などAmazonで売上トップ10のGIGAZINE記事ランキング2026年5月版はコレ！](https://gigazine.net/news/20260627-gigazine-kindle-ranking-2026-05/)
-- [中国の開発者が公式価格の約10％でAnthropicのAIモデルを利用できるAPIプロキシ「中转站」が支えるグレー経済圏の実態とは？](https://gigazine.net/news/20260626-china-anthropic-api/)
-- [無料で「Half-Life 2」をブラウザでプレイできるようにした非公式移植版「web hl2」](https://gigazine.net/news/20260626-half-life-2-web-h12/)
+- [テスラが運転支援機能「FSD」の移行に2万ドルを請求](https://gigazine.net/news/20260628-tesla-fsd-transfer-cost/)
+- [無料で創作に生かせる3Dポーズ作成ツール「SetPose」](https://gigazine.net/news/20260627-setpose-3d/)
+- [合体ロボットアニメ『獣王無神ダンデヴァイン』ティザーPV公開、グッドスマイルカンパニー創業25周年プロジェクト「合体神シリーズ」第1弾作品](https://gigazine.net/news/20260627-dandivine/)
+- [無料でChrome・Firefoxで訪問したウェブサイトを自動的にローカルに保存しインデックス化＆定期自動取得で最新状態を維持し続ける汎用検索エンジン「Hister」、セルフホスト可能でMCPサーバー化させてAIとの連携やローカルのファイル検索も実現](https://gigazine.net/news/20260627-hister/)
+- [無料でセルフホスト型のChatGPTやClaudeっぽいローカルAIワークスペースが実現できる「Odysseus」、ファイルアップロード・モデルダウンロード・ウェブ検索・メール/カレンダー連携が可能](https://gigazine.net/news/20260627-odysseus/)
+- [超音波を使ってエスプレッソを抽出すると一体どんな効果があるのか？](https://gigazine.net/news/20260627-ultrasound-espresso-machine/)
 <!-- GIGAZINE-NEWS-END -->
