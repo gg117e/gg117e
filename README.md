@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=uTt67zwzLdo'>
-        <img src='https://i.ytimg.com/vi/uTt67zwzLdo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNz1DV3wReqjvonmJoIoIbRRqIxQ' width='200px' alt='あなたがいることで'>
+      <a href='https://www.youtube.com/watch?v=ErqUUYWfOBo'>
+        <img src='https://i.ytimg.com/vi/ErqUUYWfOBo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOSuaDQ-44YRfAfNZSNO7AyglYcA' width='200px' alt='決戦スピリット／CHiCO with HoneyWorks'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=uTt67zwzLdo'>あなたがいることで</a>
+      <a href='https://www.youtube.com/watch?v=ErqUUYWfOBo'>決戦スピリット／CHiCO with HoneyWorks</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ZosT1iyOU2g'>
-        <img src='https://i.ytimg.com/vi/ZosT1iyOU2g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDiKwFTggMjRRJLDfVRhNfXfoYJw' width='200px' alt='手紙 〜拝啓　十五の君へ〜'>
+      <a href='https://www.youtube.com/watch?v=1AVErqlUdpM'>
+        <img src='https://i.ytimg.com/vi/1AVErqlUdpM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnLrfABUDxabUUOguKRh1NAcHb-A' width='200px' alt='ギャグ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ZosT1iyOU2g'>手紙 〜拝啓　十五の君へ〜</a>
+      <a href='https://www.youtube.com/watch?v=1AVErqlUdpM'>ギャグ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=1mcvbnDZFho'>
-        <img src='https://i.ytimg.com/vi/1mcvbnDZFho/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDYxeG6Q-a14U8TM3MZcWxjcmfvg' width='200px' alt='ドラマティックおいでよ'>
+      <a href='https://www.youtube.com/watch?v=sfyCG9YhaYk'>
+        <img src='https://i.ytimg.com/vi/sfyCG9YhaYk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFnHuBFomZzdsroVD7OPCv0uZP_g' width='200px' alt='Mikata'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=1mcvbnDZFho'>ドラマティックおいでよ</a>
+      <a href='https://www.youtube.com/watch?v=sfyCG9YhaYk'>Mikata</a>
     </td>
   </tr>
 </table>
