@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=BUG9r-s56II'>
-        <img src='https://i.ytimg.com/vi/BUG9r-s56II/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBvZsmOoGEgA_UCAVPi1PDbjkUDQ' width='200px' alt='舞台に立って'>
+      <a href='https://www.youtube.com/watch?v=uTt67zwzLdo'>
+        <img src='https://i.ytimg.com/vi/uTt67zwzLdo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNz1DV3wReqjvonmJoIoIbRRqIxQ' width='200px' alt='あなたがいることで'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=BUG9r-s56II'>舞台に立って</a>
+      <a href='https://www.youtube.com/watch?v=uTt67zwzLdo'>あなたがいることで</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=l-6ag1J9MJI'>
-        <img src='https://i.ytimg.com/vi/l-6ag1J9MJI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNrIYq3E1-kTLo3OvkRZDab-OqpA' width='200px' alt='Continues'>
+      <a href='https://www.youtube.com/watch?v=ZosT1iyOU2g'>
+        <img src='https://i.ytimg.com/vi/ZosT1iyOU2g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDiKwFTggMjRRJLDfVRhNfXfoYJw' width='200px' alt='手紙 〜拝啓　十五の君へ〜'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=l-6ag1J9MJI'>Continues</a>
+      <a href='https://www.youtube.com/watch?v=ZosT1iyOU2g'>手紙 〜拝啓　十五の君へ〜</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=hID1Wt1ByEQ'>
-        <img src='https://i.ytimg.com/vi/hID1Wt1ByEQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6PREFxuitmk-F_ecqRXEOsN1hNg' width='200px' alt='Same Blue'>
+      <a href='https://www.youtube.com/watch?v=1mcvbnDZFho'>
+        <img src='https://i.ytimg.com/vi/1mcvbnDZFho/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDYxeG6Q-a14U8TM3MZcWxjcmfvg' width='200px' alt='ドラマティックおいでよ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=hID1Wt1ByEQ'>Same Blue</a>
+      <a href='https://www.youtube.com/watch?v=1mcvbnDZFho'>ドラマティックおいでよ</a>
     </td>
   </tr>
 </table>
