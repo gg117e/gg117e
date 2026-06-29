@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [テスラが運転支援機能「FSD」の移行に2万ドルを請求](https://gigazine.net/news/20260628-tesla-fsd-transfer-cost/)
-- [無料で創作に生かせる3Dポーズ作成ツール「SetPose」](https://gigazine.net/news/20260627-setpose-3d/)
-- [合体ロボットアニメ『獣王無神ダンデヴァイン』ティザーPV公開、グッドスマイルカンパニー創業25周年プロジェクト「合体神シリーズ」第1弾作品](https://gigazine.net/news/20260627-dandivine/)
-- [無料でChrome・Firefoxで訪問したウェブサイトを自動的にローカルに保存しインデックス化＆定期自動取得で最新状態を維持し続ける汎用検索エンジン「Hister」、セルフホスト可能でMCPサーバー化させてAIとの連携やローカルのファイル検索も実現](https://gigazine.net/news/20260627-hister/)
-- [無料でセルフホスト型のChatGPTやClaudeっぽいローカルAIワークスペースが実現できる「Odysseus」、ファイルアップロード・モデルダウンロード・ウェブ検索・メール/カレンダー連携が可能](https://gigazine.net/news/20260627-odysseus/)
-- [超音波を使ってエスプレッソを抽出すると一体どんな効果があるのか？](https://gigazine.net/news/20260627-ultrasound-espresso-machine/)
+- [大音量のストリーミング広告を規制するカリフォルニア州法が7月1日に施行される](https://gigazine.net/news/20260629-streaming-services-obnoxiously-loud-ads-illegal/)
+- [OpenAIが「GPT-5.6」シリーズを発表、Claude Mythos 5超えだがアメリカ政府の指示で限定プレビュー公開](https://gigazine.net/news/20260629-gpt-5-6-sol-terra-luna/)
+- [労働人口が減る中国で「AI搭載の人型ロボット」を働かせる動きが加速している](https://gigazine.net/news/20260629-china-humanoid-ai-robots/)
+- [Apple Vision Proやスマートグラスを開発する幹部がOpenAIに転職するとの報道](https://gigazine.net/news/20260629-apple-vision-pro-chief-openai/)
+- [写真編集で重要になる「カラーバランス」とは何か？](https://gigazine.net/news/20260629-color-balance-white-balance/)
+- [各種パーツを交換可能なモジュール式ノートPC「Framework Laptop」の10GbEモジュールが激熱になるとの報告](https://gigazine.net/news/20260629-framework-10g-ethernet-module-hot/)
 <!-- GIGAZINE-NEWS-END -->
