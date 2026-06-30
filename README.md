@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [大音量のストリーミング広告を規制するカリフォルニア州法が7月1日に施行される](https://gigazine.net/news/20260629-streaming-services-obnoxiously-loud-ads-illegal/)
-- [OpenAIが「GPT-5.6」シリーズを発表、Claude Mythos 5超えだがアメリカ政府の指示で限定プレビュー公開](https://gigazine.net/news/20260629-gpt-5-6-sol-terra-luna/)
-- [労働人口が減る中国で「AI搭載の人型ロボット」を働かせる動きが加速している](https://gigazine.net/news/20260629-china-humanoid-ai-robots/)
-- [Apple Vision Proやスマートグラスを開発する幹部がOpenAIに転職するとの報道](https://gigazine.net/news/20260629-apple-vision-pro-chief-openai/)
-- [写真編集で重要になる「カラーバランス」とは何か？](https://gigazine.net/news/20260629-color-balance-white-balance/)
-- [各種パーツを交換可能なモジュール式ノートPC「Framework Laptop」の10GbEモジュールが激熱になるとの報告](https://gigazine.net/news/20260629-framework-10g-ethernet-module-hot/)
+- [アメリカ政府がSignalとWhatsAppのハッキングに関与したグループの情報に1000万ドルの懸賞金をかける](https://gigazine.net/news/20260630-rfj-signal-whatsapp/)
+- [「過剰な通信遮断」を引き起こした権利者に責任を求めるようISPが要求](https://gigazine.net/news/20260630-isp-rightsholder-overblocking/)
+- [Googleが「自分の好みを知っている画像生成AI」を無料提供、アメリカからスタート](https://gigazine.net/news/20260630-google-personal-intelligence-nano-banana/)
+- [手術不要で脳活動から文章を読み取るAIモデル「Brain2Qwerty v2」がMetaによって開発される](https://gigazine.net/news/20260630-brain2qwerty-v2-meta/)
+- [タスクの難易度でローカルAIとクラウドAIを自動切り替えする「Wayfinder」、切り替え判断にAIを使わずコストを削減](https://gigazine.net/news/20260630-wayfinder/)
+- [安くて長持ちする冷凍・缶詰の果物や野菜を選ぶ時の注意点とは？](https://gigazine.net/news/20260630-frozen-canned-fruit-veg-tips/)
 <!-- GIGAZINE-NEWS-END -->
