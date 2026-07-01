@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Oye00CX57QM'>
-        <img src='https://i.ytimg.com/vi/Oye00CX57QM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASRvN695AvvbkYsveIMDxaAzVA3g' width='200px' alt='Happiness'>
+      <a href='https://www.youtube.com/watch?v=OF45OXeH5VM'>
+        <img src='https://i.ytimg.com/vi/OF45OXeH5VM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0IISWvvwDLV43I2jjhFYNqIwbEA' width='200px' alt='感電'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Oye00CX57QM'>Happiness</a>
+      <a href='https://www.youtube.com/watch?v=OF45OXeH5VM'>感電</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=A1g9Ev-Ml5g'>
-        <img src='https://i.ytimg.com/vi/A1g9Ev-Ml5g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYaQo0xKzXpdDNtCRer4QMwIqPwg' width='200px' alt='虹'>
+      <a href='https://www.youtube.com/watch?v=NiwkUVkXIlU'>
+        <img src='https://i.ytimg.com/vi/NiwkUVkXIlU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDKRjNV_fHOvPi0ubAUVpNyMy8Bg' width='200px' alt='Zenryoku Syounen'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=A1g9Ev-Ml5g'>虹</a>
+      <a href='https://www.youtube.com/watch?v=NiwkUVkXIlU'>Zenryoku Syounen</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=0OZ15_9YKPc'>
-        <img src='https://i.ytimg.com/vi/0OZ15_9YKPc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDw-Z7Q01p2yef5ViEEv7j0i6ACZg' width='200px' alt='異端なスター'>
+      <a href='https://www.youtube.com/watch?v=NUFfRHk1Qcs'>
+        <img src='https://i.ytimg.com/vi/NUFfRHk1Qcs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMjNwQWGvQLii1tiFPU4ho3W8KtQ' width='200px' alt='Start'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=0OZ15_9YKPc'>異端なスター</a>
+      <a href='https://www.youtube.com/watch?v=NUFfRHk1Qcs'>Start</a>
     </td>
   </tr>
 </table>
