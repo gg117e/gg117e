@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=-Zr0mLgdAQc'>
-        <img src='https://i.ytimg.com/vi/-Zr0mLgdAQc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQRiDuA-AwAqqfWZuLJ_7rPP0Etg' width='200px' alt='ゲッタバンバン'>
+      <a href='https://www.youtube.com/watch?v=Oye00CX57QM'>
+        <img src='https://i.ytimg.com/vi/Oye00CX57QM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASRvN695AvvbkYsveIMDxaAzVA3g' width='200px' alt='Happiness'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=-Zr0mLgdAQc'>ゲッタバンバン</a>
+      <a href='https://www.youtube.com/watch?v=Oye00CX57QM'>Happiness</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=9aveQLtaK30'>
-        <img src='https://i.ytimg.com/vi/9aveQLtaK30/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHLn-eCWxffBVVG5Hi7FNb98J-PA' width='200px' alt='ひまわり'>
+      <a href='https://www.youtube.com/watch?v=A1g9Ev-Ml5g'>
+        <img src='https://i.ytimg.com/vi/A1g9Ev-Ml5g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYaQo0xKzXpdDNtCRer4QMwIqPwg' width='200px' alt='虹'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=9aveQLtaK30'>ひまわり</a>
+      <a href='https://www.youtube.com/watch?v=A1g9Ev-Ml5g'>虹</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=gd5-TdPJ3AQ'>
-        <img src='https://i.ytimg.com/vi/gd5-TdPJ3AQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNjAMJ8Kxvjdhc3SeaC0UwgqFcWg' width='200px' alt='Bokuno Koto'>
+      <a href='https://www.youtube.com/watch?v=0OZ15_9YKPc'>
+        <img src='https://i.ytimg.com/vi/0OZ15_9YKPc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDw-Z7Q01p2yef5ViEEv7j0i6ACZg' width='200px' alt='異端なスター'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=gd5-TdPJ3AQ'>Bokuno Koto</a>
+      <a href='https://www.youtube.com/watch?v=0OZ15_9YKPc'>異端なスター</a>
     </td>
   </tr>
 </table>
