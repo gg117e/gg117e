@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [アメリカ政府がSignalとWhatsAppのハッキングに関与したグループの情報に1000万ドルの懸賞金をかける](https://gigazine.net/news/20260630-rfj-signal-whatsapp/)
-- [「過剰な通信遮断」を引き起こした権利者に責任を求めるようISPが要求](https://gigazine.net/news/20260630-isp-rightsholder-overblocking/)
-- [Googleが「自分の好みを知っている画像生成AI」を無料提供、アメリカからスタート](https://gigazine.net/news/20260630-google-personal-intelligence-nano-banana/)
-- [手術不要で脳活動から文章を読み取るAIモデル「Brain2Qwerty v2」がMetaによって開発される](https://gigazine.net/news/20260630-brain2qwerty-v2-meta/)
-- [タスクの難易度でローカルAIとクラウドAIを自動切り替えする「Wayfinder」、切り替え判断にAIを使わずコストを削減](https://gigazine.net/news/20260630-wayfinder/)
-- [安くて長持ちする冷凍・缶詰の果物や野菜を選ぶ時の注意点とは？](https://gigazine.net/news/20260630-frozen-canned-fruit-veg-tips/)
+- [「Claude Sonnet 5」が登場、Opus 4.8に近い性能で安価＆無料プランでも使用可能](https://gigazine.net/news/20260701-claude-sonnet-5/)
+- [ミクシィが動画生成AIのRunwayと戦略的パートナーシップを締結、すでにモンストの映像制作などでRunwayのAIを使用](https://gigazine.net/news/20260701-mixi-runway-strategic-partnership/)
+- [アメリカ政府がClaude Fable 5とClaude Mythos 5の規制を解除](https://gigazine.net/news/20260701-claude-fable-mythos-5/)
+- [CPU・グラボ・マザボ・RAM・ストレージなどGIGAZINE読者のPCスペックを徹底調査、GIGAZINE読者に愛されるメーカーは？](https://gigazine.net/news/20260701-gigazine-user-pc-spec/)
+- [お金を扱うソフトウェアで「1円のズレ」も起こさないための設計原則をまとめた「Fintech Engineering Handbook」とは？](https://gigazine.net/news/20260701-fintech-engineering-handbook/)
+- [中国のオープンウェイトモデル「GLM-5.2」が脆弱性検出ベンチマークでClaude Codeを上回る](https://gigazine.net/news/20260630-glm-5-2-beats-claude-cyber-benchmarks/)
 <!-- GIGAZINE-NEWS-END -->
