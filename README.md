@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [「Claude Sonnet 5」が登場、Opus 4.8に近い性能で安価＆無料プランでも使用可能](https://gigazine.net/news/20260701-claude-sonnet-5/)
-- [ミクシィが動画生成AIのRunwayと戦略的パートナーシップを締結、すでにモンストの映像制作などでRunwayのAIを使用](https://gigazine.net/news/20260701-mixi-runway-strategic-partnership/)
-- [アメリカ政府がClaude Fable 5とClaude Mythos 5の規制を解除](https://gigazine.net/news/20260701-claude-fable-mythos-5/)
-- [CPU・グラボ・マザボ・RAM・ストレージなどGIGAZINE読者のPCスペックを徹底調査、GIGAZINE読者に愛されるメーカーは？](https://gigazine.net/news/20260701-gigazine-user-pc-spec/)
-- [お金を扱うソフトウェアで「1円のズレ」も起こさないための設計原則をまとめた「Fintech Engineering Handbook」とは？](https://gigazine.net/news/20260701-fintech-engineering-handbook/)
-- [中国のオープンウェイトモデル「GLM-5.2」が脆弱性検出ベンチマークでClaude Codeを上回る](https://gigazine.net/news/20260630-glm-5-2-beats-claude-cyber-benchmarks/)
+- [Playstationがコンソール向け新作ゲームのディスク生産を2028年1月で終了すると発表、2028年1月以降はダウンロード版のみに](https://gigazine.net/news/20260702-playstation-stop-making-game-discs-2028/)
+- [BlackBerryのような物理キーボードを搭載したスマートフォン「Communicator」](https://gigazine.net/news/20260702-clicks-communicator/)
+- [xAIが「人間の声をクローンしたAIコールセンター」をノーコードで作成できる「Voice Agent Builder」をリリース](https://gigazine.net/news/20260702-xai-voice-agent-builder/)
+- [EUが推進するデジタル身分証明システム「デジタルIDウォレット」はGoogleやAppleの独占を強化するとの指摘](https://gigazine.net/news/20260702-european-digital-id-wallets-google-apple/)
+- [セルフホストを支援するために設計された新しいトップレベルドメイン「.self」、1名につき1つの無料ドメイン](https://gigazine.net/news/20260702-self-tld/)
+- [自分の家の中でも迷子になってしまう「発達性地誌的見当識障害」とは？](https://gigazine.net/news/20260702-what-is-dtd-atopia/)
 <!-- GIGAZINE-NEWS-END -->
