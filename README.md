@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=kJEPeKPtZyw'>
-        <img src='https://i.ytimg.com/vi/kJEPeKPtZyw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHEQRF57cU-KWllU8xOBlwgrk83Q' width='200px' alt='花占い'>
+      <a href='https://www.youtube.com/watch?v=-_PKhPMXMDY'>
+        <img src='https://i.ytimg.com/vi/-_PKhPMXMDY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA96C28QeG6Y8XikTP7sXlae0UcmA' width='200px' alt='Tokimeki / Vaundy：MUSIC VIDEO'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=kJEPeKPtZyw'>花占い</a>
+      <a href='https://www.youtube.com/watch?v=-_PKhPMXMDY'>Tokimeki / Vaundy：MUSIC VIDEO</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=bm6t1rGL5P8'>
-        <img src='https://i.ytimg.com/vi/bm6t1rGL5P8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRWK87dNyNRlMIJFzg-gT49hTHrQ' width='200px' alt='Tobira'>
+      <a href='https://www.youtube.com/watch?v=EwpKUV0ECvQ'>
+        <img src='https://i.ytimg.com/vi/EwpKUV0ECvQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASAJRwUxiqbsHUgZsmBLyT0x7lsw' width='200px' alt='春を告げる'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=bm6t1rGL5P8'>Tobira</a>
+      <a href='https://www.youtube.com/watch?v=EwpKUV0ECvQ'>春を告げる</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=qzK1_zMo1kI'>
-        <img src='https://i.ytimg.com/vi/qzK1_zMo1kI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClQqDW9hqroIxRd5zGwAnrB1I6vg' width='200px' alt='Life'>
+      <a href='https://www.youtube.com/watch?v=_bH_0NIi_Vc'>
+        <img src='https://i.ytimg.com/vi/_bH_0NIi_Vc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsceiLz7G_AJQoMUqKRGRR0QUfJA' width='200px' alt='日曜日のラブレター'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=qzK1_zMo1kI'>Life</a>
+      <a href='https://www.youtube.com/watch?v=_bH_0NIi_Vc'>日曜日のラブレター</a>
     </td>
   </tr>
 </table>
