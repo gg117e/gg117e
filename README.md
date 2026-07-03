@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [Playstationがコンソール向け新作ゲームのディスク生産を2028年1月で終了すると発表、2028年1月以降はダウンロード版のみに](https://gigazine.net/news/20260702-playstation-stop-making-game-discs-2028/)
-- [BlackBerryのような物理キーボードを搭載したスマートフォン「Communicator」](https://gigazine.net/news/20260702-clicks-communicator/)
-- [xAIが「人間の声をクローンしたAIコールセンター」をノーコードで作成できる「Voice Agent Builder」をリリース](https://gigazine.net/news/20260702-xai-voice-agent-builder/)
-- [EUが推進するデジタル身分証明システム「デジタルIDウォレット」はGoogleやAppleの独占を強化するとの指摘](https://gigazine.net/news/20260702-european-digital-id-wallets-google-apple/)
-- [セルフホストを支援するために設計された新しいトップレベルドメイン「.self」、1名につき1つの無料ドメイン](https://gigazine.net/news/20260702-self-tld/)
-- [自分の家の中でも迷子になってしまう「発達性地誌的見当識障害」とは？](https://gigazine.net/news/20260702-what-is-dtd-atopia/)
+- [GitHubがコードリポジトリをCD-ROMに焼いて自宅に送ってくれるキャンペーンを発表、ただし先着1000名限定](https://gigazine.net/news/20260703-github-cd-rom-burning/)
+- [「バネ仕掛けのわな」を作ってアリを捕獲するクモが発見される](https://gigazine.net/news/20260703-spider-catch-spring-loaded-snare-ant/)
+- [Qualcomm製IoT機器向けLinuxが2.0に進化、AIカメラから産業用PCまで1つの基盤で開発可能に](https://gigazine.net/news/20260703-qualcomm-linux-2-0/)
+- [国際宇宙ステーションの空気漏れで宇宙飛行士5人が一時退避、老朽化が進む中でいつまで使い続けられるのか？](https://gigazine.net/news/20260703-iss-air-leak-habitable/)
+- [GLM-5.2の開発元による中国製AIエージェントアプリ「ZCode」、AnthropicやOpenAIのAIモデルも活用可能](https://gigazine.net/news/20260702-zcode-ai-agent/)
+- [オープンソースのゲームエンジン「Godot」がAI製コードを今後受け付けないことを決定、AIを多用するユーザーが自分のコードを十分に理解して修正できるとは限らないため](https://gigazine.net/news/20260702-godot-ban-ai/)
 <!-- GIGAZINE-NEWS-END -->
