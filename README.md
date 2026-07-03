@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Mr2EWEPFtwk'>
-        <img src='https://i.ytimg.com/vi/Mr2EWEPFtwk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB40b7gpdm4JT-YxCurTEsFUH324g' width='200px' alt='花になって - Be a flower'>
+      <a href='https://www.youtube.com/watch?v=qKymy-TvdVE'>
+        <img src='https://i.ytimg.com/vi/qKymy-TvdVE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDP1yLmmRvXLT_Vim3sYALhDOyskw' width='200px' alt='Rain'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Mr2EWEPFtwk'>花になって - Be a flower</a>
+      <a href='https://www.youtube.com/watch?v=qKymy-TvdVE'>Rain</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=DO_aopUeFnw'>
-        <img src='https://i.ytimg.com/vi/DO_aopUeFnw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKWBCw1miJEhYdmMNyNruwf_BWDA' width='200px' alt='Lilac'>
+      <a href='https://www.youtube.com/watch?v=nwKt2dWGm2E'>
+        <img src='https://i.ytimg.com/vi/nwKt2dWGm2E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcY7vD2oYljg6A-h8qMezj0KmhpA' width='200px' alt='プロローグ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=DO_aopUeFnw'>Lilac</a>
+      <a href='https://www.youtube.com/watch?v=nwKt2dWGm2E'>プロローグ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=PLNtwcIjgJE'>
-        <img src='https://i.ytimg.com/vi/PLNtwcIjgJE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRAewsfJBCUN9YE1jmdT2Zsd9E0A' width='200px' alt='Misenainamidawa Kittoitsuka'>
+      <a href='https://www.youtube.com/watch?v=RuSNeIcPamk'>
+        <img src='https://i.ytimg.com/vi/RuSNeIcPamk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACQElNN-4SFIx_aT1F-ScHtTlzJA' width='200px' alt='【Official】Uru 『Love Song』  フジテレビ系 木曜劇場「推しの王子様」主題歌'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=PLNtwcIjgJE'>Misenainamidawa Kittoitsuka</a>
+      <a href='https://www.youtube.com/watch?v=RuSNeIcPamk'>【Official】Uru 『Love Song』  フジテレビ系 木曜劇場「推しの王子様」主題歌</a>
     </td>
   </tr>
 </table>
