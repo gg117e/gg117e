@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [GitHubがコードリポジトリをCD-ROMに焼いて自宅に送ってくれるキャンペーンを発表、ただし先着1000名限定](https://gigazine.net/news/20260703-github-cd-rom-burning/)
-- [「バネ仕掛けのわな」を作ってアリを捕獲するクモが発見される](https://gigazine.net/news/20260703-spider-catch-spring-loaded-snare-ant/)
-- [Qualcomm製IoT機器向けLinuxが2.0に進化、AIカメラから産業用PCまで1つの基盤で開発可能に](https://gigazine.net/news/20260703-qualcomm-linux-2-0/)
-- [国際宇宙ステーションの空気漏れで宇宙飛行士5人が一時退避、老朽化が進む中でいつまで使い続けられるのか？](https://gigazine.net/news/20260703-iss-air-leak-habitable/)
-- [GLM-5.2の開発元による中国製AIエージェントアプリ「ZCode」、AnthropicやOpenAIのAIモデルも活用可能](https://gigazine.net/news/20260702-zcode-ai-agent/)
-- [オープンソースのゲームエンジン「Godot」がAI製コードを今後受け付けないことを決定、AIを多用するユーザーが自分のコードを十分に理解して修正できるとは限らないため](https://gigazine.net/news/20260702-godot-ban-ai/)
+- [空を埋め尽くす配送ドローンや空飛ぶタクシーが故障したらどうなるのか？](https://gigazine.net/news/20260704-flying-taxis-drones-crowd-fail/)
+- [エベレストの有名遺体「グリーンブーツ」の身元がDNA鑑定により判明、回収ミッションも実施へ](https://gigazine.net/news/20260703-everest-green-boots/)
+- [「国家安全保障にまつわる機密情報が悪用される懸念」からスペイン政府がデータ分析大手のPalantir Technologiesをブラックリストに登録](https://gigazine.net/news/20260703-spain-orders-blacklist-us-tech-giant-palantir/)
+- [独立した複数のサーバーで動画を管理する分散型動画配信プラットフォーム「PeerTube」、ActivityPub対応＆サーバーを介さずP2Pで動画配信も可能](https://gigazine.net/news/20260703-peertube/)
+- [Android開発者認証は「保護を装った脅威」だとF-Droidが主張](https://gigazine.net/news/20260703-android-developer-verification-malware-f-droid/)
+- [Steam公式ゲーミングPC「Steam Machine」を買って届いたので開封の儀、大きさや搭載ポートを詳しくチェックしてみたよレビュー](https://gigazine.net/news/20260703-steam-machine-appearance/)
 <!-- GIGAZINE-NEWS-END -->
