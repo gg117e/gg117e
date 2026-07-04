@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=TGz8AXN3gLA'>
-        <img src='https://i.ytimg.com/vi/TGz8AXN3gLA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWS1qZN5VGY_ZeMcSCBwCxLE3fIg' width='200px' alt='さよーならまたいつか！- Sayonara'>
+      <a href='https://www.youtube.com/watch?v=Mr2EWEPFtwk'>
+        <img src='https://i.ytimg.com/vi/Mr2EWEPFtwk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB40b7gpdm4JT-YxCurTEsFUH324g' width='200px' alt='花になって - Be a flower'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=TGz8AXN3gLA'>さよーならまたいつか！- Sayonara</a>
+      <a href='https://www.youtube.com/watch?v=Mr2EWEPFtwk'>花になって - Be a flower</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=olsv91gZylw'>
-        <img src='https://i.ytimg.com/vi/olsv91gZylw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMk1mraa6RG1rdZqFj9hliTNqJwg' width='200px' alt='悲しみなんて笑い飛ばせ'>
+      <a href='https://www.youtube.com/watch?v=Uv_m-vcPlsw'>
+        <img src='https://i.ytimg.com/vi/Uv_m-vcPlsw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdJGOfDvDRGCIz8C7eoa0E5MEmtA' width='200px' alt='Koi'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=olsv91gZylw'>悲しみなんて笑い飛ばせ</a>
+      <a href='https://www.youtube.com/watch?v=Uv_m-vcPlsw'>Koi</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=lFGguUWgrkc'>
-        <img src='https://i.ytimg.com/vi/lFGguUWgrkc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDztK_FjWUbCrRad7BEkd3LL4YhTg' width='200px' alt='虹'>
+      <a href='https://www.youtube.com/watch?v=HBqH4uJS0PU'>
+        <img src='https://i.ytimg.com/vi/HBqH4uJS0PU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGkaM2ZcnyB8o3mbXgfhwYnNF3NQ' width='200px' alt='Magnetic'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=lFGguUWgrkc'>虹</a>
+      <a href='https://www.youtube.com/watch?v=HBqH4uJS0PU'>Magnetic</a>
     </td>
   </tr>
 </table>
