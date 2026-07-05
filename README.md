@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [空を埋め尽くす配送ドローンや空飛ぶタクシーが故障したらどうなるのか？](https://gigazine.net/news/20260704-flying-taxis-drones-crowd-fail/)
-- [エベレストの有名遺体「グリーンブーツ」の身元がDNA鑑定により判明、回収ミッションも実施へ](https://gigazine.net/news/20260703-everest-green-boots/)
-- [「国家安全保障にまつわる機密情報が悪用される懸念」からスペイン政府がデータ分析大手のPalantir Technologiesをブラックリストに登録](https://gigazine.net/news/20260703-spain-orders-blacklist-us-tech-giant-palantir/)
-- [独立した複数のサーバーで動画を管理する分散型動画配信プラットフォーム「PeerTube」、ActivityPub対応＆サーバーを介さずP2Pで動画配信も可能](https://gigazine.net/news/20260703-peertube/)
-- [Android開発者認証は「保護を装った脅威」だとF-Droidが主張](https://gigazine.net/news/20260703-android-developer-verification-malware-f-droid/)
-- [Steam公式ゲーミングPC「Steam Machine」を買って届いたので開封の儀、大きさや搭載ポートを詳しくチェックしてみたよレビュー](https://gigazine.net/news/20260703-steam-machine-appearance/)
+- [知能の高い人はより良いアイデアのために古いやり方を捨て去ることができるとの研究結果](https://gigazine.net/news/20260705-highly-intelligent-switch-novel-solutions/)
+- [長年ADHDと関連付けられてきた脳の発達の遅れが単なる性差である可能性が示される](https://gigazine.net/news/20260705-adhd-sex-differences/)
+- [「真珠ボタン」がアメリカ中西部のボタン産業を築いた一方で地元の二枚貝を絶滅寸前まで追い込んだ歴史](https://gigazine.net/news/20260705-button-maker-searche-shell/)
+- [アリババが従業員のClaude Code使用を禁止、セキュリティリスクの懸念のため](https://gigazine.net/news/20260704-alibaba-bans-claude-code/)
+- [ディズニーが削除した政治・経済・スポーツ等の情報サイト「FiveThirtyEight」の約4万件の過去記事を探せる「fivethirtyeightindex」](https://gigazine.net/news/20260704-fivethirtyeightindex-archive/)
+- [色空間について知っておくべきXYZ・RGB・ICC・xyY・TRCの概要まとめ](https://gigazine.net/news/20260704-color-space-xyz-rgb-icc-xyy-trc/)
 <!-- GIGAZINE-NEWS-END -->
