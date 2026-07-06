@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [知能の高い人はより良いアイデアのために古いやり方を捨て去ることができるとの研究結果](https://gigazine.net/news/20260705-highly-intelligent-switch-novel-solutions/)
-- [長年ADHDと関連付けられてきた脳の発達の遅れが単なる性差である可能性が示される](https://gigazine.net/news/20260705-adhd-sex-differences/)
-- [「真珠ボタン」がアメリカ中西部のボタン産業を築いた一方で地元の二枚貝を絶滅寸前まで追い込んだ歴史](https://gigazine.net/news/20260705-button-maker-searche-shell/)
-- [アリババが従業員のClaude Code使用を禁止、セキュリティリスクの懸念のため](https://gigazine.net/news/20260704-alibaba-bans-claude-code/)
-- [ディズニーが削除した政治・経済・スポーツ等の情報サイト「FiveThirtyEight」の約4万件の過去記事を探せる「fivethirtyeightindex」](https://gigazine.net/news/20260704-fivethirtyeightindex-archive/)
-- [色空間について知っておくべきXYZ・RGB・ICC・xyY・TRCの概要まとめ](https://gigazine.net/news/20260704-color-space-xyz-rgb-icc-xyy-trc/)
+- [画像生成AIを開発するMidjourneyが係争中のハリウッドの映画スタジオに対してAIの利用状況の詳細を明らかにするよう要求](https://gigazine.net/news/20260706-midjourney-hollywood-studios-ai-usage/)
+- [6万本のゲームを保存する大規模プロジェクトが公的資金の打ち切りを受けて頓挫](https://gigazine.net/news/20260706-germany-video-game-archive-shut-down/)
+- [折りたたみiPhoneは発売当初入手困難で出荷も若干遅れる可能性があるとの報道](https://gigazine.net/news/20260706-iphone-fold-incredibly-limited-availability-launch/)
+- [あなたが「OS」となってプロセス・メモリ・入出力イベントを管理しなければならないゲーム「You’re the OS!」](https://gigazine.net/news/20260706-youre-the-os/)
+- [AI時代に大学のコンピューターサイエンス学科はどうやって学生を教育すればいいのか？](https://gigazine.net/news/20260706-university-in-the-ai-era/)
+- [銀行の窓口係を減らしたのはATMではなくiPhoneだったという指摘](https://gigazine.net/news/20260705-atm-iphone-bank-tellers/)
 <!-- GIGAZINE-NEWS-END -->
