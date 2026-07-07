@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [画像生成AIを開発するMidjourneyが係争中のハリウッドの映画スタジオに対してAIの利用状況の詳細を明らかにするよう要求](https://gigazine.net/news/20260706-midjourney-hollywood-studios-ai-usage/)
-- [6万本のゲームを保存する大規模プロジェクトが公的資金の打ち切りを受けて頓挫](https://gigazine.net/news/20260706-germany-video-game-archive-shut-down/)
-- [折りたたみiPhoneは発売当初入手困難で出荷も若干遅れる可能性があるとの報道](https://gigazine.net/news/20260706-iphone-fold-incredibly-limited-availability-launch/)
-- [あなたが「OS」となってプロセス・メモリ・入出力イベントを管理しなければならないゲーム「You’re the OS!」](https://gigazine.net/news/20260706-youre-the-os/)
-- [AI時代に大学のコンピューターサイエンス学科はどうやって学生を教育すればいいのか？](https://gigazine.net/news/20260706-university-in-the-ai-era/)
-- [銀行の窓口係を減らしたのはATMではなくiPhoneだったという指摘](https://gigazine.net/news/20260705-atm-iphone-bank-tellers/)
+- [任天堂が交換可能バッテリー搭載のNintendo Switch 2などを欧州で順次投入、初代Nintendo Switchシリーズは2027年2月に販売終了](https://gigazine.net/news/20260707-nintendo-switch-2-exchangable-battery/)
+- [コードレスで家中どこでも使え連続70時間運転＆スマホで遠隔操作＆静音で夜でも気にならない「SwitchBot スマートサーキュレーター2 Pro」を使ってみた](https://gigazine.net/news/20260707-switchbot-smart-circulator-2-pro/)
+- [テンセントがAIモデル「Hy3」をオープンモデルとして公開、295BでGLM-5.2やDeepSeek-V4に匹敵＆科学タスクではGPT-5.5を上回る](https://gigazine.net/news/20260707-tencent-ai-hy3/)
+- [長々と会議しているのになかなか物事を決められないのは「部屋の二酸化炭素濃度」のせいかもしれない](https://gigazine.net/news/20260707-co2-decision-making-bottleneck/)
+- [中国がEVで成功してもジェットエンジンで苦戦する理由とは？](https://gigazine.net/news/20260707-china-jet-engine-industrial-policy/)
+- [動画ダウンローダー「yt-dlp」のインストール手順まとめ、wingetコマンドでサクッとインストール可能](https://gigazine.net/news/20260707-yt-dlp-python/)
 <!-- GIGAZINE-NEWS-END -->
