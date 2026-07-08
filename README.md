@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [任天堂が交換可能バッテリー搭載のNintendo Switch 2などを欧州で順次投入、初代Nintendo Switchシリーズは2027年2月に販売終了](https://gigazine.net/news/20260707-nintendo-switch-2-exchangable-battery/)
-- [コードレスで家中どこでも使え連続70時間運転＆スマホで遠隔操作＆静音で夜でも気にならない「SwitchBot スマートサーキュレーター2 Pro」を使ってみた](https://gigazine.net/news/20260707-switchbot-smart-circulator-2-pro/)
-- [テンセントがAIモデル「Hy3」をオープンモデルとして公開、295BでGLM-5.2やDeepSeek-V4に匹敵＆科学タスクではGPT-5.5を上回る](https://gigazine.net/news/20260707-tencent-ai-hy3/)
-- [長々と会議しているのになかなか物事を決められないのは「部屋の二酸化炭素濃度」のせいかもしれない](https://gigazine.net/news/20260707-co2-decision-making-bottleneck/)
-- [中国がEVで成功してもジェットエンジンで苦戦する理由とは？](https://gigazine.net/news/20260707-china-jet-engine-industrial-policy/)
-- [動画ダウンローダー「yt-dlp」のインストール手順まとめ、wingetコマンドでサクッとインストール可能](https://gigazine.net/news/20260707-yt-dlp-python/)
+- [MetaがGIFアニメも作れる画像生成AI「Muse Image」をリリース＆音声付き動画を生成できる「Muse Video」も発表される](https://gigazine.net/news/20260708-muse-image-video-generation-ai/)
+- [GIGAZINE読者は何オタクなのか？ガジェットやアニメだけではないオタク事情を分析してみた](https://gigazine.net/news/20260708-gigazine-user-otaku/)
+- [「小型AIモデル」が世界中の人々を救う可能性を秘めている理由とは？](https://gigazine.net/news/20260708-small-language-models-ai-pharmaceuticals/)
+- [AI導入で利益率が上がるまでには市場の想定よりも長期間かかる可能性がある](https://gigazine.net/news/20260708-ai-roi-runway-long/)
+- [無料でWord・Excel・PowerPointをあらゆるAIエージェントに完全制御させることができる「OfficeCLI」](https://gigazine.net/news/20260708-officecli/)
+- [わずか5MBのAIモデルをウェブサイトに組み込んでユーザーにローカル操作させられる「ternlight」が登場、ウェブサイトにAIを活用した検索機能などを追加可能](https://gigazine.net/news/20260707-ternlight-webassembly-embeddings/)
 <!-- GIGAZINE-NEWS-END -->
