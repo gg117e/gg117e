@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [MetaがGIFアニメも作れる画像生成AI「Muse Image」をリリース＆音声付き動画を生成できる「Muse Video」も発表される](https://gigazine.net/news/20260708-muse-image-video-generation-ai/)
-- [GIGAZINE読者は何オタクなのか？ガジェットやアニメだけではないオタク事情を分析してみた](https://gigazine.net/news/20260708-gigazine-user-otaku/)
-- [「小型AIモデル」が世界中の人々を救う可能性を秘めている理由とは？](https://gigazine.net/news/20260708-small-language-models-ai-pharmaceuticals/)
-- [AI導入で利益率が上がるまでには市場の想定よりも長期間かかる可能性がある](https://gigazine.net/news/20260708-ai-roi-runway-long/)
-- [無料でWord・Excel・PowerPointをあらゆるAIエージェントに完全制御させることができる「OfficeCLI」](https://gigazine.net/news/20260708-officecli/)
-- [わずか5MBのAIモデルをウェブサイトに組み込んでユーザーにローカル操作させられる「ternlight」が登場、ウェブサイトにAIを活用した検索機能などを追加可能](https://gigazine.net/news/20260707-ternlight-webassembly-embeddings/)
+- [ChatGPTの音声モードでより自然な会話を可能にする「GPT-Live」が登場、話を聞きながら相づちや割り込みに対応](https://gigazine.net/news/20260709-openai-gpt-live/)
+- [Metaが常時録画機能を備えたAIグラスを開発中との報道](https://gigazine.net/news/20260709-meta-develope-smart-glasses-recording-all-time/)
+- [YouTube Premium値上げの1カ月後にDuckDuckGoが「YouTube広告ブロック機能」を追加し「無料ブラウザで広告ブロックは可能」とアピール](https://gigazine.net/news/20260709-duckduckgo-youtube-ad-free/)
+- [トレーニング用パンツのヒモのほどけにくくて調整しやすい結び方とは？](https://gigazine.net/news/20260709-better-way-tie-gym-horts/)
+- [EU内で販売される車への顔認証カメラの搭載が義務づけ開始](https://gigazine.net/news/20260709-eu-car-camera-systems/)
+- [AI時代において「CAPTCHA」に意味はあるのか？](https://gigazine.net/news/20260709-ai-captcha-obsolete/)
 <!-- GIGAZINE-NEWS-END -->
