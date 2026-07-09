@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=bVqeqvwu7NU'>
-        <img src='https://i.ytimg.com/vi/bVqeqvwu7NU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDe4lxrobQ3H1YHOPDK-W1dYWjsPA' width='200px' alt='Shining One'>
+      <a href='https://www.youtube.com/watch?v=ZI6kQh30aLs'>
+        <img src='https://i.ytimg.com/vi/ZI6kQh30aLs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOt-OJxA0AVDoneSRZp4glsrs0QQ' width='200px' alt='Be Free'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=bVqeqvwu7NU'>Shining One</a>
+      <a href='https://www.youtube.com/watch?v=ZI6kQh30aLs'>Be Free</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=FJOUiX0uuYM'>
-        <img src='https://i.ytimg.com/vi/FJOUiX0uuYM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCRluchGpZf-uIfzjnVnCzRAENzg' width='200px' alt='さよならエレジー'>
+      <a href='https://www.youtube.com/watch?v=GcXurBc6vao'>
+        <img src='https://i.ytimg.com/vi/GcXurBc6vao/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1h2cOKqsHtyYt1ytLA3FK8W9TZA' width='200px' alt='カタオモイ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=FJOUiX0uuYM'>さよならエレジー</a>
+      <a href='https://www.youtube.com/watch?v=GcXurBc6vao'>カタオモイ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=sssoboSVd6A'>
-        <img src='https://i.ytimg.com/vi/sssoboSVd6A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABqS6M3D5Tk6on9fa68IULKZQALA' width='200px' alt='Ayumi'>
+      <a href='https://www.youtube.com/watch?v=OF45OXeH5VM'>
+        <img src='https://i.ytimg.com/vi/OF45OXeH5VM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0IISWvvwDLV43I2jjhFYNqIwbEA' width='200px' alt='感電'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=sssoboSVd6A'>Ayumi</a>
+      <a href='https://www.youtube.com/watch?v=OF45OXeH5VM'>感電</a>
     </td>
   </tr>
 </table>
