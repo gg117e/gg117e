@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [ChatGPTの音声モードでより自然な会話を可能にする「GPT-Live」が登場、話を聞きながら相づちや割り込みに対応](https://gigazine.net/news/20260709-openai-gpt-live/)
-- [Metaが常時録画機能を備えたAIグラスを開発中との報道](https://gigazine.net/news/20260709-meta-develope-smart-glasses-recording-all-time/)
-- [YouTube Premium値上げの1カ月後にDuckDuckGoが「YouTube広告ブロック機能」を追加し「無料ブラウザで広告ブロックは可能」とアピール](https://gigazine.net/news/20260709-duckduckgo-youtube-ad-free/)
-- [トレーニング用パンツのヒモのほどけにくくて調整しやすい結び方とは？](https://gigazine.net/news/20260709-better-way-tie-gym-horts/)
-- [EU内で販売される車への顔認証カメラの搭載が義務づけ開始](https://gigazine.net/news/20260709-eu-car-camera-systems/)
-- [AI時代において「CAPTCHA」に意味はあるのか？](https://gigazine.net/news/20260709-ai-captcha-obsolete/)
+- [Netflixが特定の番組や映画をライブ配信するチャンネルの追加を検討しているとの報道](https://gigazine.net/news/20260710-netflix-considers-add-always-on-channels/)
+- [衝撃展開でスタートしたTVアニメ『サンダー３』ノンクレジットOP＆ED映像公開に合わせて第1話情報おさらい](https://gigazine.net/news/20260710-thunder-3/)
+- [Metaが独自開発AI「Muse Spark 1.1」を発表、Claude Opus 4.8と同等のベンチマークスコア](https://gigazine.net/news/20260710-meta-muse-spark-1-1/)
+- [ネアンデルタール人とホモ・サピエンスが狩猟や石器についての知識や文化を共有していた可能性](https://gigazine.net/news/20260710-modern-humans-neanderthals-shared-culture/)
+- [無料でYouTubeの動画やチャンネルが消えたときのために保存しておける「PreserveTube」](https://gigazine.net/news/20260710-preservetube-youtube/)
+- [FBIとGoogleがスマートテレビなど200万台超を乗っ取ったボットネット「NetNut」を摘発](https://gigazine.net/news/20260710-fbi-google-netnut-botnet-smart-tv/)
 <!-- GIGAZINE-NEWS-END -->
