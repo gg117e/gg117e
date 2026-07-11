@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=3KWjq6V4YNo'>
-        <img src='https://i.ytimg.com/vi/3KWjq6V4YNo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2Upf8C4rqx-nY8WnLCnwFgGEynQ' width='200px' alt='ピーターパン'>
+      <a href='https://www.youtube.com/watch?v=EwpKUV0ECvQ'>
+        <img src='https://i.ytimg.com/vi/EwpKUV0ECvQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASAJRwUxiqbsHUgZsmBLyT0x7lsw' width='200px' alt='春を告げる'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=3KWjq6V4YNo'>ピーターパン</a>
+      <a href='https://www.youtube.com/watch?v=EwpKUV0ECvQ'>春を告げる</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=bFG7vT99Y_Q'>
-        <img src='https://i.ytimg.com/vi/bFG7vT99Y_Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWStkU-qU8U77B0aJaq_3E7tu_NA' width='200px' alt='Namidazora'>
+      <a href='https://www.youtube.com/watch?v=s4ZThuWQdhA'>
+        <img src='https://i.ytimg.com/vi/s4ZThuWQdhA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBL2544KnUtG-gjg-ro3N-gIAIgbw' width='200px' alt='Que Sera Sera'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=bFG7vT99Y_Q'>Namidazora</a>
+      <a href='https://www.youtube.com/watch?v=s4ZThuWQdhA'>Que Sera Sera</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=qzK1_zMo1kI'>
-        <img src='https://i.ytimg.com/vi/qzK1_zMo1kI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClQqDW9hqroIxRd5zGwAnrB1I6vg' width='200px' alt='Life'>
+      <a href='https://www.youtube.com/watch?v=I8fxhn_l08g'>
+        <img src='https://i.ytimg.com/vi/I8fxhn_l08g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDSBeXOzTWFpJfP7MAMG5QX5MRHA' width='200px' alt='OFFICIAL HIGE DANDISM  - Choral A [Official Video]'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=qzK1_zMo1kI'>Life</a>
+      <a href='https://www.youtube.com/watch?v=I8fxhn_l08g'>OFFICIAL HIGE DANDISM  - Choral A [Official Video]</a>
     </td>
   </tr>
 </table>
