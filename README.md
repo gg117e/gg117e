@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=3qvMBFAPgD8'>
-        <img src='https://i.ytimg.com/vi/3qvMBFAPgD8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeKQJOW3hP4i6nsR5UUMv4-USrxw' width='200px' alt='ベテルギウス'>
+      <a href='https://www.youtube.com/watch?v=Ih2eEKTJXRg'>
+        <img src='https://i.ytimg.com/vi/Ih2eEKTJXRg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQmV1_CEd8Wt2-BmONx_nowgTjJg' width='200px' alt='タイムパラドックス'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=3qvMBFAPgD8'>ベテルギウス</a>
+      <a href='https://www.youtube.com/watch?v=Ih2eEKTJXRg'>タイムパラドックス</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=l2nqfPAMrSo'>
-        <img src='https://i.ytimg.com/vi/l2nqfPAMrSo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0nDqcmoaPuUfFdBbIX_7HAyJA8w' width='200px' alt='Chessboard'>
+      <a href='https://www.youtube.com/watch?v=ZI6kQh30aLs'>
+        <img src='https://i.ytimg.com/vi/ZI6kQh30aLs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOt-OJxA0AVDoneSRZp4glsrs0QQ' width='200px' alt='Be Free'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=l2nqfPAMrSo'>Chessboard</a>
+      <a href='https://www.youtube.com/watch?v=ZI6kQh30aLs'>Be Free</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=sKYvPBCoe2o'>
-        <img src='https://i.ytimg.com/vi/sKYvPBCoe2o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeFoQhk4ynA8iVDTickXeYyAivcg' width='200px' alt='LADY'>
+      <a href='https://www.youtube.com/watch?v=QlyW9kYHTDo'>
+        <img src='https://i.ytimg.com/vi/QlyW9kYHTDo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQFnLrxul-P672hEh7Ctcb3KYlmw' width='200px' alt='Time Machine'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=sKYvPBCoe2o'>LADY</a>
+      <a href='https://www.youtube.com/watch?v=QlyW9kYHTDo'>Time Machine</a>
     </td>
   </tr>
 </table>
