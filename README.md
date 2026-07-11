@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [Netflixが特定の番組や映画をライブ配信するチャンネルの追加を検討しているとの報道](https://gigazine.net/news/20260710-netflix-considers-add-always-on-channels/)
-- [衝撃展開でスタートしたTVアニメ『サンダー３』ノンクレジットOP＆ED映像公開に合わせて第1話情報おさらい](https://gigazine.net/news/20260710-thunder-3/)
-- [Metaが独自開発AI「Muse Spark 1.1」を発表、Claude Opus 4.8と同等のベンチマークスコア](https://gigazine.net/news/20260710-meta-muse-spark-1-1/)
-- [ネアンデルタール人とホモ・サピエンスが狩猟や石器についての知識や文化を共有していた可能性](https://gigazine.net/news/20260710-modern-humans-neanderthals-shared-culture/)
-- [無料でYouTubeの動画やチャンネルが消えたときのために保存しておける「PreserveTube」](https://gigazine.net/news/20260710-preservetube-youtube/)
-- [FBIとGoogleがスマートテレビなど200万台超を乗っ取ったボットネット「NetNut」を摘発](https://gigazine.net/news/20260710-fbi-google-netnut-botnet-smart-tv/)
+- [ネアンデルタール人は「近親交配によって絶滅したわけではない」かもしれない](https://gigazine.net/news/20260711-genetic-diversity-last-surviving-neanderthals/)
+- [3つの自己免疫疾患を抱える女性が免疫系の「リセット」治療で寛解状態に](https://gigazine.net/news/20260711-car-t-therapy-remission/)
+- [無料で使えるCloudflare Accessで安全にローカルのAIを外部から使えるように設定してみた](https://gigazine.net/news/20260710-cloudflare-tunnel-access/)
+- [「うるう秒」は2026年12月末も挿入されず、最後の「うるう秒」から10年](https://gigazine.net/news/20260710-no-leap-second-at-2026/)
+- [34万台超のHDDを運用するBackblazeが2026年第1四半期HDD故障率レポートを公開、壊れやすいHDDはどれ？](https://gigazine.net/news/20260710-backblaze-drive-stats-for-q1-2026/)
+- [トランプモバイルのスマホ「T1」実機テストでベンチマーク・バッテリー・画面輝度などの計測結果が明らかに](https://gigazine.net/news/20260710-t1-test/)
 <!-- GIGAZINE-NEWS-END -->
