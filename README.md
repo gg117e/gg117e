@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Q-y3TtiKxsU'>
-        <img src='https://i.ytimg.com/vi/Q-y3TtiKxsU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJYbnkxTXam_a4M0GF97NMTrAoHg' width='200px' alt='チャンカパーナ'>
+      <a href='https://www.youtube.com/watch?v=zRBcYVY5A2Y'>
+        <img src='https://i.ytimg.com/vi/zRBcYVY5A2Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlLQ_iSmc_4l96GUYylm0lVUsknQ' width='200px' alt='ノーダウト'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Q-y3TtiKxsU'>チャンカパーナ</a>
+      <a href='https://www.youtube.com/watch?v=zRBcYVY5A2Y'>ノーダウト</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=vs-cO8XXDTc'>
-        <img src='https://i.ytimg.com/vi/vs-cO8XXDTc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0RhpW6ipEyFYy22iPoM--YLW-Ew' width='200px' alt='ファーストラヴ'>
+      <a href='https://www.youtube.com/watch?v=pQpX71tiDNg'>
+        <img src='https://i.ytimg.com/vi/pQpX71tiDNg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXxwAnvmSxHdesXChIfeSv9_oNUg' width='200px' alt='Aiuta'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=vs-cO8XXDTc'>ファーストラヴ</a>
+      <a href='https://www.youtube.com/watch?v=pQpX71tiDNg'>Aiuta</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=LoyA7GvfOwA'>
-        <img src='https://i.ytimg.com/vi/LoyA7GvfOwA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAuADigIMCAAQARhkIGQoZDAP&rs=AOn4CLBk6pXQ6KVrYlVuaAckuf6xf3Owbg' width='200px' alt='Sad Song'>
+      <a href='https://www.youtube.com/watch?v=SVkGRoLicuA'>
+        <img src='https://i.ytimg.com/vi/SVkGRoLicuA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEGWRcMYMGbnY-HOcgFSINA1NRIA' width='200px' alt='Sukidakara'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=LoyA7GvfOwA'>Sad Song</a>
+      <a href='https://www.youtube.com/watch?v=SVkGRoLicuA'>Sukidakara</a>
     </td>
   </tr>
 </table>
