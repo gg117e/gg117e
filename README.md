@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [ネアンデルタール人は「近親交配によって絶滅したわけではない」かもしれない](https://gigazine.net/news/20260711-genetic-diversity-last-surviving-neanderthals/)
-- [3つの自己免疫疾患を抱える女性が免疫系の「リセット」治療で寛解状態に](https://gigazine.net/news/20260711-car-t-therapy-remission/)
-- [無料で使えるCloudflare Accessで安全にローカルのAIを外部から使えるように設定してみた](https://gigazine.net/news/20260710-cloudflare-tunnel-access/)
-- [「うるう秒」は2026年12月末も挿入されず、最後の「うるう秒」から10年](https://gigazine.net/news/20260710-no-leap-second-at-2026/)
-- [34万台超のHDDを運用するBackblazeが2026年第1四半期HDD故障率レポートを公開、壊れやすいHDDはどれ？](https://gigazine.net/news/20260710-backblaze-drive-stats-for-q1-2026/)
-- [トランプモバイルのスマホ「T1」実機テストでベンチマーク・バッテリー・画面輝度などの計測結果が明らかに](https://gigazine.net/news/20260710-t1-test/)
+- [量子論の父として著名な物理学者マックス・プランクが80年以上前に発表した論文がなぜか撤回されていたと判明](https://gigazine.net/news/20260712-max-planck-paper-retracted/)
+- [フルカラーコミック「作らせて！絵島さん」の紙書籍版をリリースしました](https://gigazine.net/news/20260712-eshima-san-paperback/)
+- [「GTA6」のVIP早期アクセスを提供するとうたう詐欺サイトが既に出現している](https://gigazine.net/news/20260712-gta6-scam/)
+- [暑い季節にぐっすり眠るための8つの方法](https://gigazine.net/news/20260711-how-to-sleep-in-hot-weather/)
+- [ニコンが顕微鏡で撮影されたミクロ世界の美麗写真を展示する「ミクロの世界 －生命(いのち)の未来を照らす－」を東京で開催](https://gigazine.net/news/20260711-nikon-small-world-exhibition/)
+- [「Steam Machine」をセットアップしてゲームをプレイしてみたよレビュー](https://gigazine.net/news/20260711-steam-machine-game-play/)
 <!-- GIGAZINE-NEWS-END -->
