@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [量子論の父として著名な物理学者マックス・プランクが80年以上前に発表した論文がなぜか撤回されていたと判明](https://gigazine.net/news/20260712-max-planck-paper-retracted/)
-- [フルカラーコミック「作らせて！絵島さん」の紙書籍版をリリースしました](https://gigazine.net/news/20260712-eshima-san-paperback/)
-- [「GTA6」のVIP早期アクセスを提供するとうたう詐欺サイトが既に出現している](https://gigazine.net/news/20260712-gta6-scam/)
-- [暑い季節にぐっすり眠るための8つの方法](https://gigazine.net/news/20260711-how-to-sleep-in-hot-weather/)
-- [ニコンが顕微鏡で撮影されたミクロ世界の美麗写真を展示する「ミクロの世界 －生命(いのち)の未来を照らす－」を東京で開催](https://gigazine.net/news/20260711-nikon-small-world-exhibition/)
-- [「Steam Machine」をセットアップしてゲームをプレイしてみたよレビュー](https://gigazine.net/news/20260711-steam-machine-game-play/)
+- [車にひかれても乗車拒否するほど高額なアメリカの救急車料金の謎に迫る](https://gigazine.net/news/20260713-why-american-ambulance-expensive/)
+- [次の戦争では陸軍の「兵站」が崩壊する危険性があり早急な方針転換が必要だとアメリカ軍参謀本部の少佐が主張](https://gigazine.net/news/20260713-armys-logistics-break-next-war/)
+- [幼少期に施設で暮らした子どもは質の高い里親養育を受けたかどうかで16年後の生活スキルに差が出るという研究結果](https://gigazine.net/news/20260713-early-deprivation-life-skills/)
+- [友人や知人の陰口をたたいたり評判を落とそうとしたりする傾向が強い人は子どもが多いとの研究結果](https://gigazine.net/news/20260712-covert-hostility-higher-fertility/)
+- [人気モデルが軽量化＆ノイキャン性能も大幅に強化されたAnkerの完全ワイヤレスイヤホン「Soundcore P42i」レビュー](https://gigazine.net/news/20260712-anker-soundcore-p42i/)
+- [AIの思考っぽい「J空間」を可視化できる「Jレンズ」を触ってみた](https://gigazine.net/news/20260712-ai-j-space-jacobian-lens/)
 <!-- GIGAZINE-NEWS-END -->
