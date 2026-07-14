@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [車にひかれても乗車拒否するほど高額なアメリカの救急車料金の謎に迫る](https://gigazine.net/news/20260713-why-american-ambulance-expensive/)
-- [次の戦争では陸軍の「兵站」が崩壊する危険性があり早急な方針転換が必要だとアメリカ軍参謀本部の少佐が主張](https://gigazine.net/news/20260713-armys-logistics-break-next-war/)
-- [幼少期に施設で暮らした子どもは質の高い里親養育を受けたかどうかで16年後の生活スキルに差が出るという研究結果](https://gigazine.net/news/20260713-early-deprivation-life-skills/)
-- [友人や知人の陰口をたたいたり評判を落とそうとしたりする傾向が強い人は子どもが多いとの研究結果](https://gigazine.net/news/20260712-covert-hostility-higher-fertility/)
-- [人気モデルが軽量化＆ノイキャン性能も大幅に強化されたAnkerの完全ワイヤレスイヤホン「Soundcore P42i」レビュー](https://gigazine.net/news/20260712-anker-soundcore-p42i/)
-- [AIの思考っぽい「J空間」を可視化できる「Jレンズ」を触ってみた](https://gigazine.net/news/20260712-ai-j-space-jacobian-lens/)
+- [大量に存在するAIのうちGIGAZINE読者に人気なAIは一体何なのか調査してみた](https://gigazine.net/news/20260714-gigazine-user-ai-report/)
+- [第一子が娘の父親は男女平等に肯定的な傾向が強いことが日本の研究で判明](https://gigazine.net/news/20260714-first-daughter-effect-japan/)
+- [中学校でのスマホ禁止ルールは生徒の生活の質や健康状態を大幅に改善することはないとの研究結果](https://gigazine.net/news/20260713-school-smartphone-bans-mental-health/)
+- [超音波を使って声を発することなく会話ができるシステムが開発される](https://gigazine.net/news/20260713-silent-speech-with-ultrasound/)
+- [脳に電気刺激を与える治療法がわずか10日間でうつ病治療に著しい効果をもたらしたとの研究結果](https://gigazine.net/news/20260713-brain-zapping-improves-depression-10-days/)
+- [イスラム過激派組織ボコ・ハラムがAIを使って爆発物の設計や武器の修理を行っていたことが判明](https://gigazine.net/news/20260713-terrorist-group-use-ai/)
 <!-- GIGAZINE-NEWS-END -->
