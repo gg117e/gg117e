@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=bVqeqvwu7NU'>
-        <img src='https://i.ytimg.com/vi/bVqeqvwu7NU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDe4lxrobQ3H1YHOPDK-W1dYWjsPA' width='200px' alt='Shining One'>
+      <a href='https://www.youtube.com/watch?v=Qsz6WoK5GWk'>
+        <img src='https://i.ytimg.com/vi/Qsz6WoK5GWk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-06hgBny-IdAYM450HQ-rlDr2wA' width='200px' alt='風に吹かれて'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=bVqeqvwu7NU'>Shining One</a>
+      <a href='https://www.youtube.com/watch?v=Qsz6WoK5GWk'>風に吹かれて</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=zRBcYVY5A2Y'>
-        <img src='https://i.ytimg.com/vi/zRBcYVY5A2Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlLQ_iSmc_4l96GUYylm0lVUsknQ' width='200px' alt='ノーダウト'>
+      <a href='https://www.youtube.com/watch?v=Ih2eEKTJXRg'>
+        <img src='https://i.ytimg.com/vi/Ih2eEKTJXRg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQmV1_CEd8Wt2-BmONx_nowgTjJg' width='200px' alt='タイムパラドックス'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=zRBcYVY5A2Y'>ノーダウト</a>
+      <a href='https://www.youtube.com/watch?v=Ih2eEKTJXRg'>タイムパラドックス</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=l-6ag1J9MJI'>
-        <img src='https://i.ytimg.com/vi/l-6ag1J9MJI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNrIYq3E1-kTLo3OvkRZDab-OqpA' width='200px' alt='Continues'>
+      <a href='https://www.youtube.com/watch?v=qRGRcUTends'>
+        <img src='https://i.ytimg.com/vi/qRGRcUTends/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9u1I-jgie0vVX6scwyb0Qj0AHfA' width='200px' alt='Suiheisen'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=l-6ag1J9MJI'>Continues</a>
+      <a href='https://www.youtube.com/watch?v=qRGRcUTends'>Suiheisen</a>
     </td>
   </tr>
 </table>
