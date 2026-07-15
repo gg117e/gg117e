@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [大量に存在するAIのうちGIGAZINE読者に人気なAIは一体何なのか調査してみた](https://gigazine.net/news/20260714-gigazine-user-ai-report/)
-- [第一子が娘の父親は男女平等に肯定的な傾向が強いことが日本の研究で判明](https://gigazine.net/news/20260714-first-daughter-effect-japan/)
-- [中学校でのスマホ禁止ルールは生徒の生活の質や健康状態を大幅に改善することはないとの研究結果](https://gigazine.net/news/20260713-school-smartphone-bans-mental-health/)
-- [超音波を使って声を発することなく会話ができるシステムが開発される](https://gigazine.net/news/20260713-silent-speech-with-ultrasound/)
-- [脳に電気刺激を与える治療法がわずか10日間でうつ病治療に著しい効果をもたらしたとの研究結果](https://gigazine.net/news/20260713-brain-zapping-improves-depression-10-days/)
-- [イスラム過激派組織ボコ・ハラムがAIを使って爆発物の設計や武器の修理を行っていたことが判明](https://gigazine.net/news/20260713-terrorist-group-use-ai/)
+- [古代ローマ時代に遊ばれていた可能性があるボードゲーム「Ludus Coriovalli」を実際に遊んでみた](https://gigazine.net/news/20260715-ludus-coriovalli/)
+- [Samsung Healthアプリが「AIの学習に健康データを使用するか健康データを削除するか」を迫る](https://gigazine.net/news/20260715-samsung-health-ai-training/)
+- [ロシア政府の支援を受けたハッカーが設定不備のあるルーターを狙っていると13カ国19機関が警告](https://gigazine.net/news/20260715-russian-state-hackers-target-routers/)
+- [サイバー攻撃により6週間にわたり生産停止の影響を受けた繊維企業ZEGOが破産申請](https://gigazine.net/news/20260714-zego-insolvency/)
+- [廃墟化した元IBMオフィスへの不法侵入で4カ月間に48人逮捕、火事になった事例も](https://gigazine.net/news/20260714-ibm-somers-office-sneak/)
+- [SpaceXのエンジニアたちが超大型ロケットStarshipの打ち上げに奔走する姿を捉えたドキュメンタリー「Critical Path」がYouTubeで公開中](https://gigazine.net/news/20260714-starship-critical-path/)
 <!-- GIGAZINE-NEWS-END -->
