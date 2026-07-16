@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [古代ローマ時代に遊ばれていた可能性があるボードゲーム「Ludus Coriovalli」を実際に遊んでみた](https://gigazine.net/news/20260715-ludus-coriovalli/)
-- [Samsung Healthアプリが「AIの学習に健康データを使用するか健康データを削除するか」を迫る](https://gigazine.net/news/20260715-samsung-health-ai-training/)
-- [ロシア政府の支援を受けたハッカーが設定不備のあるルーターを狙っていると13カ国19機関が警告](https://gigazine.net/news/20260715-russian-state-hackers-target-routers/)
-- [サイバー攻撃により6週間にわたり生産停止の影響を受けた繊維企業ZEGOが破産申請](https://gigazine.net/news/20260714-zego-insolvency/)
-- [廃墟化した元IBMオフィスへの不法侵入で4カ月間に48人逮捕、火事になった事例も](https://gigazine.net/news/20260714-ibm-somers-office-sneak/)
-- [SpaceXのエンジニアたちが超大型ロケットStarshipの打ち上げに奔走する姿を捉えたドキュメンタリー「Critical Path」がYouTubeで公開中](https://gigazine.net/news/20260714-starship-critical-path/)
+- [イーロン・マスクがX(旧Twitter)のソースコード全公開を告知](https://gigazine.net/news/20260716-x-open-source/)
+- [トランプ大統領が無理矢理閉鎖した政府運営の気候変動対策サイトを元NOAA職員が再構築](https://gigazine.net/news/20260716-trump-dismantled-noaa-rebuilt/)
+- [『アンナ・カレーニナ』『白鯨』『グレート・ギャツビー』など有名な小説の冒頭部分がランダムで表示される「Verba Prima」](https://gigazine.net/news/20260716-verba-prima-famous-literary-works-opening/)
+- [所得格差が大きい地域ほど劇場や博物館などに出かける人が少ないとの研究結果](https://gigazine.net/news/20260716-income-inequality-cultural-participation/)
+- [ロジクールの無線マウスやキーボードに付属する「Logi Bolt」ドングルは単なるUSBドングルではない](https://gigazine.net/news/20260715-logitech-logi-bolt-spec/)
+- [Starlinkなどを含む合計3万基以上の人工衛星の現在位置がわかるライブマップ「Satellite Tracker」](https://gigazine.net/news/20260715-satellite-tracker-live-map/)
 <!-- GIGAZINE-NEWS-END -->
