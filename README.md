@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [イーロン・マスクがX(旧Twitter)のソースコード全公開を告知](https://gigazine.net/news/20260716-x-open-source/)
-- [トランプ大統領が無理矢理閉鎖した政府運営の気候変動対策サイトを元NOAA職員が再構築](https://gigazine.net/news/20260716-trump-dismantled-noaa-rebuilt/)
-- [『アンナ・カレーニナ』『白鯨』『グレート・ギャツビー』など有名な小説の冒頭部分がランダムで表示される「Verba Prima」](https://gigazine.net/news/20260716-verba-prima-famous-literary-works-opening/)
-- [所得格差が大きい地域ほど劇場や博物館などに出かける人が少ないとの研究結果](https://gigazine.net/news/20260716-income-inequality-cultural-participation/)
-- [ロジクールの無線マウスやキーボードに付属する「Logi Bolt」ドングルは単なるUSBドングルではない](https://gigazine.net/news/20260715-logitech-logi-bolt-spec/)
-- [Starlinkなどを含む合計3万基以上の人工衛星の現在位置がわかるライブマップ「Satellite Tracker」](https://gigazine.net/news/20260715-satellite-tracker-live-map/)
+- [スマホアプリ不要で気温と湿度の変化をその場で確認できる電子ペーパー式データロガー「Weathergotchi」をエンジニアが自作](https://gigazine.net/news/20260717-weathergotchi/)
+- [文学賞はどのような仕組みで決まるのか？ピューリッツァー賞審査員が文学賞の裏側を語る](https://gigazine.net/news/20260717-book-prizes/)
+- [年を取ると人の顔が見分けられなくなるのは「目の動かし方が不安定になるから」かもしれない](https://gigazine.net/news/20260717-aging-face-recognition-eye-movement/)
+- [Google Playとサードパーティー製アプリストアが接続可能に、GoogleがEpic Gamesとの訴訟で判決への異議申し立て取り下げを表明](https://gigazine.net/news/20260716-android-third-party-app-stores/)
+- [「睡眠時間」より「睡眠の規則性」の方が寿命に影響するという研究結果](https://gigazine.net/news/20260716-sleep-regularity/)
+- [「金属有機構造体(MOF)」の開発でノーベル化学賞を受賞した科学者がアメリカを離れ中国の研究所所長に就任](https://gigazine.net/news/20260716-nobel-winning-chemist-leaves-us-china/)
 <!-- GIGAZINE-NEWS-END -->
