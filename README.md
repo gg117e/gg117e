@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [スマホアプリ不要で気温と湿度の変化をその場で確認できる電子ペーパー式データロガー「Weathergotchi」をエンジニアが自作](https://gigazine.net/news/20260717-weathergotchi/)
-- [文学賞はどのような仕組みで決まるのか？ピューリッツァー賞審査員が文学賞の裏側を語る](https://gigazine.net/news/20260717-book-prizes/)
-- [年を取ると人の顔が見分けられなくなるのは「目の動かし方が不安定になるから」かもしれない](https://gigazine.net/news/20260717-aging-face-recognition-eye-movement/)
-- [Google Playとサードパーティー製アプリストアが接続可能に、GoogleがEpic Gamesとの訴訟で判決への異議申し立て取り下げを表明](https://gigazine.net/news/20260716-android-third-party-app-stores/)
-- [「睡眠時間」より「睡眠の規則性」の方が寿命に影響するという研究結果](https://gigazine.net/news/20260716-sleep-regularity/)
-- [「金属有機構造体(MOF)」の開発でノーベル化学賞を受賞した科学者がアメリカを離れ中国の研究所所長に就任](https://gigazine.net/news/20260716-nobel-winning-chemist-leaves-us-china/)
+- [3アイテム同時にワイヤレス充電可能＆折りたたんでコンパクトに持ち運びもできるAnkerの「Prime Wireless Charging Station(3-in-1, MagGo,AirCool,Foldable)」レビュー](https://gigazine.net/news/20260718-anker-b25n1n12/)
+- [夏の気温上昇が若者の自殺率上昇と関連しているという研究結果](https://gigazine.net/news/20260718-summer-heat-kinked-suicide-rates/)
+- [メジャーリーグで「ベンチ内でiPadを使って生成AIにアクセスする行為」が禁止に](https://gigazine.net/news/20260718-mlb-dugout-ipad-ai/)
+- [X/旧Twitterの自動投稿のスタイル変更でどれぐらい増えたかレポート＆2026年度6月分のGIGAZINEのアクセス解析結果はコレ！](https://gigazine.net/news/20260718-access/)
+- [AI音楽生成サービス「Suno」がYouTubeやDeezerから数百万曲をスクレイピングしていたことが流出したソースコードから判明](https://gigazine.net/news/20260717-suno-scraping-from-youtube-deezer/)
+- [人型ロボット教師＆AIアシスタントを教育現場に試験導入する学区が登場](https://gigazine.net/news/20260717-humanoid-robot-teacher/)
 <!-- GIGAZINE-NEWS-END -->
