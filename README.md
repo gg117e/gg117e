@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=BUG9r-s56II'>
-        <img src='https://i.ytimg.com/vi/BUG9r-s56II/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBvZsmOoGEgA_UCAVPi1PDbjkUDQ' width='200px' alt='舞台に立って'>
+      <a href='https://www.youtube.com/watch?v=dhgaMyKT-l0'>
+        <img src='https://i.ytimg.com/vi/dhgaMyKT-l0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0RNrPMVRqJn3jAsnvDMXYtlKm9A' width='200px' alt='Kuchibue'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=BUG9r-s56II'>舞台に立って</a>
+      <a href='https://www.youtube.com/watch?v=dhgaMyKT-l0'>Kuchibue</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=EaC8Dgtvrb0'>
-        <img src='https://i.ytimg.com/vi/EaC8Dgtvrb0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDen1M2a_gSpOzmWdpa2e2nUIB8mg' width='200px' alt='そんなbitterな話'>
+      <a href='https://www.youtube.com/watch?v=Tj9fTEK-BA8'>
+        <img src='https://i.ytimg.com/vi/Tj9fTEK-BA8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxwEeFTF7jC9sl2oBjTENeVgTkQg' width='200px' alt='まちがいさがし'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=EaC8Dgtvrb0'>そんなbitterな話</a>
+      <a href='https://www.youtube.com/watch?v=Tj9fTEK-BA8'>まちがいさがし</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=taMwG5lOq80'>
-        <img src='https://i.ytimg.com/vi/taMwG5lOq80/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtRHtD3sc1odeK-K8ONv0uYxv0hw' width='200px' alt='SWEET TWEET'>
+      <a href='https://www.youtube.com/watch?v=Myj9iHDsOrk'>
+        <img src='https://i.ytimg.com/vi/Myj9iHDsOrk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9TTpA-QB9jo-DQV9VtuzgJxDJlQ' width='200px' alt='花束のかわりにメロディーを'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=taMwG5lOq80'>SWEET TWEET</a>
+      <a href='https://www.youtube.com/watch?v=Myj9iHDsOrk'>花束のかわりにメロディーを</a>
     </td>
   </tr>
 </table>
