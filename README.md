@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=dhgaMyKT-l0'>
-        <img src='https://i.ytimg.com/vi/dhgaMyKT-l0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0RNrPMVRqJn3jAsnvDMXYtlKm9A' width='200px' alt='Kuchibue'>
+      <a href='https://www.youtube.com/watch?v=P6UsnAkgN4U'>
+        <img src='https://i.ytimg.com/vi/P6UsnAkgN4U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDN99wUcqZRQMOUoYD12Wj-269sdQ' width='200px' alt='Setsuna'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=dhgaMyKT-l0'>Kuchibue</a>
+      <a href='https://www.youtube.com/watch?v=P6UsnAkgN4U'>Setsuna</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Tj9fTEK-BA8'>
-        <img src='https://i.ytimg.com/vi/Tj9fTEK-BA8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxwEeFTF7jC9sl2oBjTENeVgTkQg' width='200px' alt='まちがいさがし'>
+      <a href='https://www.youtube.com/watch?v=mUSVav9pKO4'>
+        <img src='https://i.ytimg.com/vi/mUSVav9pKO4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhv2LigyWBJWYAak96zB6Pocg1cQ' width='200px' alt='Sunny'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Tj9fTEK-BA8'>まちがいさがし</a>
+      <a href='https://www.youtube.com/watch?v=mUSVav9pKO4'>Sunny</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Myj9iHDsOrk'>
-        <img src='https://i.ytimg.com/vi/Myj9iHDsOrk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9TTpA-QB9jo-DQV9VtuzgJxDJlQ' width='200px' alt='花束のかわりにメロディーを'>
+      <a href='https://www.youtube.com/watch?v=-521tYMXtyU'>
+        <img src='https://i.ytimg.com/vi/-521tYMXtyU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADlt7wGkC8moPxQ8on9gYz2n8dbg' width='200px' alt='For Decades'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Myj9iHDsOrk'>花束のかわりにメロディーを</a>
+      <a href='https://www.youtube.com/watch?v=-521tYMXtyU'>For Decades</a>
     </td>
   </tr>
 </table>
