@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [3アイテム同時にワイヤレス充電可能＆折りたたんでコンパクトに持ち運びもできるAnkerの「Prime Wireless Charging Station(3-in-1, MagGo,AirCool,Foldable)」レビュー](https://gigazine.net/news/20260718-anker-b25n1n12/)
-- [夏の気温上昇が若者の自殺率上昇と関連しているという研究結果](https://gigazine.net/news/20260718-summer-heat-kinked-suicide-rates/)
-- [メジャーリーグで「ベンチ内でiPadを使って生成AIにアクセスする行為」が禁止に](https://gigazine.net/news/20260718-mlb-dugout-ipad-ai/)
-- [X/旧Twitterの自動投稿のスタイル変更でどれぐらい増えたかレポート＆2026年度6月分のGIGAZINEのアクセス解析結果はコレ！](https://gigazine.net/news/20260718-access/)
-- [AI音楽生成サービス「Suno」がYouTubeやDeezerから数百万曲をスクレイピングしていたことが流出したソースコードから判明](https://gigazine.net/news/20260717-suno-scraping-from-youtube-deezer/)
-- [人型ロボット教師＆AIアシスタントを教育現場に試験導入する学区が登場](https://gigazine.net/news/20260717-humanoid-robot-teacher/)
+- [鋼鉄の2倍・アルミニウムの3倍の強度を持つ「耐火ハイエントロピー合金」を新手法で作製、今後の金属の作り方を変える可能性](https://gigazine.net/news/20260719-super-alloy-metal-manufacturing/)
+- [圧迫された腫瘍の成長がなぜ遅くなるのかをAIが解明](https://gigazine.net/news/20260719-physical-pressure-tumors-grow-slower/)
+- [Appleが日本でiPhone・Apple Music・Apple Oneに続きiCloud＋も値上げ](https://gigazine.net/news/20260719-apple-raises-icloud-plus-subscription-prices/)
+- [知能が高い人ほどエコな車に乗るという研究結果](https://gigazine.net/news/20260718-intelligence-voting-charitable-giving-prosocial/)
+- [郷土料理「すこ」の味わいをサイダーにした越前大野の「すこサイダー」を飲んでみた](https://gigazine.net/news/20260718-suko-cider/)
+- [データセンターは本当に一般市民の電気料金値上げの原因なのか？](https://gigazine.net/news/20260718-data-centers-electricity-bills/)
 <!-- GIGAZINE-NEWS-END -->
