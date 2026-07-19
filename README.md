@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=0Ac1TwKuwCQ'>
-        <img src='https://i.ytimg.com/vi/0Ac1TwKuwCQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqufMDYaRonIKh0kldxsPueBAd9g' width='200px' alt='ラストソング'>
+      <a href='https://www.youtube.com/watch?v=2eNEQ0cQtkI'>
+        <img src='https://i.ytimg.com/vi/2eNEQ0cQtkI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBk-4STXcvhTwS2m7ypDHdnsF_xyg' width='200px' alt='祝福'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=0Ac1TwKuwCQ'>ラストソング</a>
+      <a href='https://www.youtube.com/watch?v=2eNEQ0cQtkI'>祝福</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=8DPaNJjI-8Y'>
-        <img src='https://i.ytimg.com/vi/8DPaNJjI-8Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqhZF3yGmxLSsRRDBPDCEm_IBuYw' width='200px' alt='Stand by me, Stand by you.'>
+      <a href='https://www.youtube.com/watch?v=bVqeqvwu7NU'>
+        <img src='https://i.ytimg.com/vi/bVqeqvwu7NU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDe4lxrobQ3H1YHOPDK-W1dYWjsPA' width='200px' alt='Shining One'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=8DPaNJjI-8Y'>Stand by me, Stand by you.</a>
+      <a href='https://www.youtube.com/watch?v=bVqeqvwu7NU'>Shining One</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=P6UsnAkgN4U'>
-        <img src='https://i.ytimg.com/vi/P6UsnAkgN4U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDN99wUcqZRQMOUoYD12Wj-269sdQ' width='200px' alt='Setsuna'>
+      <a href='https://www.youtube.com/watch?v=olsv91gZylw'>
+        <img src='https://i.ytimg.com/vi/olsv91gZylw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMk1mraa6RG1rdZqFj9hliTNqJwg' width='200px' alt='悲しみなんて笑い飛ばせ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=P6UsnAkgN4U'>Setsuna</a>
+      <a href='https://www.youtube.com/watch?v=olsv91gZylw'>悲しみなんて笑い飛ばせ</a>
     </td>
   </tr>
 </table>
