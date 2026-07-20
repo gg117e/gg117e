@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=-QZAivfOiaM'>
-        <img src='https://i.ytimg.com/vi/-QZAivfOiaM/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLCi6Sw6_toVzS1nhE1Ms7UDB4MrLA' width='200px' alt='P.S.'>
+      <a href='https://www.youtube.com/watch?v=mvGHElGp4dE'>
+        <img src='https://i.ytimg.com/vi/mvGHElGp4dE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZFvJf_4jpwfRfSNlea6vUs4Bm0g' width='200px' alt='Skip'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=-QZAivfOiaM'>P.S.</a>
+      <a href='https://www.youtube.com/watch?v=mvGHElGp4dE'>Skip</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=oisKs2G_zcg'>
-        <img src='https://i.ytimg.com/vi/oisKs2G_zcg/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDETXLd5LkD4_AVfTzqSJVFzKBMtQ' width='200px' alt='心絵'>
+      <a href='https://www.youtube.com/watch?v=QlyW9kYHTDo'>
+        <img src='https://i.ytimg.com/vi/QlyW9kYHTDo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQFnLrxul-P672hEh7Ctcb3KYlmw' width='200px' alt='Time Machine'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=oisKs2G_zcg'>心絵</a>
+      <a href='https://www.youtube.com/watch?v=QlyW9kYHTDo'>Time Machine</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=xFL1OO6siJI'>
-        <img src='https://i.ytimg.com/vi/xFL1OO6siJI/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBmjXXYcxYRHjMsFkwGTRFyLLeZCg' width='200px' alt='Dokokade Hi Wa Noboru'>
+      <a href='https://www.youtube.com/watch?v=W25pTZ5Gmew'>
+        <img src='https://i.ytimg.com/vi/W25pTZ5Gmew/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZ1ZnvcCrWBxZ8Yxd_9b9jXBe7jQ' width='200px' alt='決心'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=xFL1OO6siJI'>Dokokade Hi Wa Noboru</a>
+      <a href='https://www.youtube.com/watch?v=W25pTZ5Gmew'>決心</a>
     </td>
   </tr>
 </table>
