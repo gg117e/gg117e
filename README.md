@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [鋼鉄の2倍・アルミニウムの3倍の強度を持つ「耐火ハイエントロピー合金」を新手法で作製、今後の金属の作り方を変える可能性](https://gigazine.net/news/20260719-super-alloy-metal-manufacturing/)
-- [圧迫された腫瘍の成長がなぜ遅くなるのかをAIが解明](https://gigazine.net/news/20260719-physical-pressure-tumors-grow-slower/)
-- [Appleが日本でiPhone・Apple Music・Apple Oneに続きiCloud＋も値上げ](https://gigazine.net/news/20260719-apple-raises-icloud-plus-subscription-prices/)
-- [知能が高い人ほどエコな車に乗るという研究結果](https://gigazine.net/news/20260718-intelligence-voting-charitable-giving-prosocial/)
-- [郷土料理「すこ」の味わいをサイダーにした越前大野の「すこサイダー」を飲んでみた](https://gigazine.net/news/20260718-suko-cider/)
-- [データセンターは本当に一般市民の電気料金値上げの原因なのか？](https://gigazine.net/news/20260718-data-centers-electricity-bills/)
+- [Netflixが950億円でベン・アフレックのAI映画制作スタートアップ「InterPositive」を買収したことが明らかに](https://gigazine.net/news/20260720-netflix-paid-587-million-ben-affleck-ai-startup-interpositive/)
+- [WordPressで「左利きのユーザーほど遭遇しやすいバグ」が7年越しに修正へ](https://gigazine.net/news/20260720-bug-left-handed-users/)
+- [AI疑惑のホラー小説出版停止騒動・昔は良かった企業が変貌する理由などAmazonで売上トップ10のGIGAZINE記事ランキング2026年6月版はコレ！](https://gigazine.net/news/20260720-gigazine-kindle-ranking-2026-06/)
+- [筋力トレーニングをする人は長生きするとの研究結果](https://gigazine.net/news/20260719-resistance-training-live-longer/)
+- [Claude Fable 5が一部のサブスクプランで使用可能に](https://gigazine.net/news/20260719-claude-fable-5-plan/)
+- [バンクーバー警察のウェブサイトには閲覧していたのがバレないようにすぐ離脱できる「クイックエスケープボタン」が搭載されている](https://gigazine.net/news/20260719-quick-escape/)
 <!-- GIGAZINE-NEWS-END -->
