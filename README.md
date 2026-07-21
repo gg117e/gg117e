@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=GcXurBc6vao'>
-        <img src='https://i.ytimg.com/vi/GcXurBc6vao/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1h2cOKqsHtyYt1ytLA3FK8W9TZA' width='200px' alt='カタオモイ'>
+      <a href='https://www.youtube.com/watch?v=_bH_0NIi_Vc'>
+        <img src='https://i.ytimg.com/vi/_bH_0NIi_Vc/hqdefault.jpg?sqp=-oaymwEfCNACELwBSFXyq4qpAxEIARUAAIhCGAFwAcABBrgCFw==&rs=AOn4CLCkkD5NlxaVR51FosYMpxKBCv-ARA&usqp=CBc' width='200px' alt='日曜日のラブレター'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=GcXurBc6vao'>カタオモイ</a>
+      <a href='https://www.youtube.com/watch?v=_bH_0NIi_Vc'>日曜日のラブレター</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=-_PKhPMXMDY'>
-        <img src='https://i.ytimg.com/vi/-_PKhPMXMDY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA96C28QeG6Y8XikTP7sXlae0UcmA' width='200px' alt='Tokimeki / Vaundy：MUSIC VIDEO'>
+      <a href='https://www.youtube.com/watch?v=CjaM8qWzssk'>
+        <img src='https://i.ytimg.com/vi/CjaM8qWzssk/hqdefault.jpg?sqp=-oaymwEfCNACELwBSFXyq4qpAxEIARUAAIhCGAFwAcABBrgCFw==&rs=AOn4CLBt4WQH8zgkL2VWZQaXcGVX8tlzow&usqp=CBc' width='200px' alt='晩餐歌 - Bansanka'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=-_PKhPMXMDY'>Tokimeki / Vaundy：MUSIC VIDEO</a>
+      <a href='https://www.youtube.com/watch?v=CjaM8qWzssk'>晩餐歌 - Bansanka</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=XEHvZ5GrfM8'>
-        <img src='https://i.ytimg.com/vi/XEHvZ5GrfM8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIMwX4r8LPGzFEuy9nauo9407Ksw' width='200px' alt='Eine Kleine'>
+      <a href='https://www.youtube.com/watch?v=8E2VN7GO5eM'>
+        <img src='https://i.ytimg.com/vi/8E2VN7GO5eM/hqdefault.jpg?sqp=-oaymwEfCNACELwBSFXyq4qpAxEIARUAAIhCGAFwAcABBrgCFw==&rs=AOn4CLBzkrVD5zQQk5VlOKQzhFCddg6fOA&usqp=CBc' width='200px' alt='気まぐれロマンティック'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=XEHvZ5GrfM8'>Eine Kleine</a>
+      <a href='https://www.youtube.com/watch?v=8E2VN7GO5eM'>気まぐれロマンティック</a>
     </td>
   </tr>
 </table>
