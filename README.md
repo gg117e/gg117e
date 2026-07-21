@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [Netflixが950億円でベン・アフレックのAI映画制作スタートアップ「InterPositive」を買収したことが明らかに](https://gigazine.net/news/20260720-netflix-paid-587-million-ben-affleck-ai-startup-interpositive/)
-- [WordPressで「左利きのユーザーほど遭遇しやすいバグ」が7年越しに修正へ](https://gigazine.net/news/20260720-bug-left-handed-users/)
-- [AI疑惑のホラー小説出版停止騒動・昔は良かった企業が変貌する理由などAmazonで売上トップ10のGIGAZINE記事ランキング2026年6月版はコレ！](https://gigazine.net/news/20260720-gigazine-kindle-ranking-2026-06/)
-- [筋力トレーニングをする人は長生きするとの研究結果](https://gigazine.net/news/20260719-resistance-training-live-longer/)
-- [Claude Fable 5が一部のサブスクプランで使用可能に](https://gigazine.net/news/20260719-claude-fable-5-plan/)
-- [バンクーバー警察のウェブサイトには閲覧していたのがバレないようにすぐ離脱できる「クイックエスケープボタン」が搭載されている](https://gigazine.net/news/20260719-quick-escape/)
+- [ブランド鶏＆特製醤油だれ使用のCoCo壱番屋店舗限定カレー「恵那どりチキンカツカレー」を食べてみた](https://gigazine.net/news/20260721-coco-ichibanya-ena-dori/)
+- [ビル・ゲイツが「エイズ(AIDS)終息に役立つ革新的な技術」について紹介](https://gigazine.net/news/20260721-bill-gates-end-of-aids/)
+- [音楽ストリーミングサービスが普及した時代に「音楽海賊版の失われた喜び」をアーティストが語る](https://gigazine.net/news/20260721-music-piracy/)
+- [フランス賭博規制庁が予測市場・Polymarketへのアクセスを遮断](https://gigazine.net/news/20260720-france-block-polymarket/)
+- [仕事のスケジュールが不確実な労働者は幸福度が低い傾向にあるという研究結果](https://gigazine.net/news/20260720-unstable-work-schedule-happiness/)
+- [単語を並び替えて簡単な英単語を作る無料ゲーム「18 Words」](https://gigazine.net/news/20260720-18-words/)
 <!-- GIGAZINE-NEWS-END -->
