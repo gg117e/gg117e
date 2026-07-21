@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Q6MCyXi7ygA'>
-        <img src='https://i.ytimg.com/vi/Q6MCyXi7ygA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyF8uAZ8LWVRze3HuSHjbzwarW9A' width='200px' alt='Grand Escape'>
+      <a href='https://www.youtube.com/watch?v=WjIsq1-ZBaw'>
+        <img src='https://i.ytimg.com/vi/WjIsq1-ZBaw/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBW-HpoZxds_CHixQxiCgbs-kSWsw' width='200px' alt='平井 大 / 栄光の扉（Music Video）'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Q6MCyXi7ygA'>Grand Escape</a>
+      <a href='https://www.youtube.com/watch?v=WjIsq1-ZBaw'>平井 大 / 栄光の扉（Music Video）</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=NSTnKXkUoA8'>
-        <img src='https://i.ytimg.com/vi/NSTnKXkUoA8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBWVMg_nG1Bb15CwFZjpgPDD4t6g' width='200px' alt='フィルム'>
+      <a href='https://www.youtube.com/watch?v=eIftMq4xQKI'>
+        <img src='https://i.ytimg.com/vi/eIftMq4xQKI/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBEKRDd8nwb83mz11_LylADU2dIsA' width='200px' alt='Anohino Orange'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=NSTnKXkUoA8'>フィルム</a>
+      <a href='https://www.youtube.com/watch?v=eIftMq4xQKI'>Anohino Orange</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=HUEoF7ntswo'>
-        <img src='https://i.ytimg.com/vi/HUEoF7ntswo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIjbJtv5eJ_d1UP7Ty9mQ5ADAXyQ' width='200px' alt='Love Song'>
+      <a href='https://www.youtube.com/watch?v=1tk1pqwrOys'>
+        <img src='https://i.ytimg.com/vi/1tk1pqwrOys/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDabvWxaq-2sxeyeUg1lDNwg3nGng' width='200px' alt='廻廻奇譚 - Eve MV'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=HUEoF7ntswo'>Love Song</a>
+      <a href='https://www.youtube.com/watch?v=1tk1pqwrOys'>廻廻奇譚 - Eve MV</a>
     </td>
   </tr>
 </table>
