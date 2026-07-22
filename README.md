@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=W25pTZ5Gmew'>
-        <img src='https://i.ytimg.com/vi/W25pTZ5Gmew/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDE4WNQ03LUbRSAL8Am2MlD7KJokA' width='200px' alt='決心'>
+      <a href='https://www.youtube.com/watch?v=-xFtbSnu7R8'>
+        <img src='https://i.ytimg.com/vi/-xFtbSnu7R8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3SlWDyHFeatTYP7tLv700w_aWhg' width='200px' alt='Okuru Kotoba'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=W25pTZ5Gmew'>決心</a>
+      <a href='https://www.youtube.com/watch?v=-xFtbSnu7R8'>Okuru Kotoba</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=nwKt2dWGm2E'>
-        <img src='https://i.ytimg.com/vi/nwKt2dWGm2E/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBXUAyRCy8AIWD5r3VfutRoiW0-Cw' width='200px' alt='プロローグ'>
+      <a href='https://www.youtube.com/watch?v=KJBoof4rjrg'>
+        <img src='https://i.ytimg.com/vi/KJBoof4rjrg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYlPGVYfBk7q9cXddAm78dnu8oAQ' width='200px' alt='Tatta'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=nwKt2dWGm2E'>プロローグ</a>
+      <a href='https://www.youtube.com/watch?v=KJBoof4rjrg'>Tatta</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=W8-P1WQalQw'>
-        <img src='https://i.ytimg.com/vi/W8-P1WQalQw/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCX2p4KnJ4yk8UoW1UnRWoTwghQvg' width='200px' alt='Seikai (18Fes Version)'>
+      <a href='https://www.youtube.com/watch?v=p1qM75a9FeE'>
+        <img src='https://i.ytimg.com/vi/p1qM75a9FeE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClYikOff8dhkp27FSkVQFXZWivEA' width='200px' alt='OFFICIAL HIGE DANDISM - HELLO［Official Video］'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=W8-P1WQalQw'>Seikai (18Fes Version)</a>
+      <a href='https://www.youtube.com/watch?v=p1qM75a9FeE'>OFFICIAL HIGE DANDISM - HELLO［Official Video］</a>
     </td>
   </tr>
 </table>
