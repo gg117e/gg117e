@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=bt2j17P7XVE'>
-        <img src='https://i.ytimg.com/vi/bt2j17P7XVE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfLPyZRgXU9JFZzFkCBW1iTiq4QA' width='200px' alt='Pride'>
+      <a href='https://www.youtube.com/watch?v=Q-y3TtiKxsU'>
+        <img src='https://i.ytimg.com/vi/Q-y3TtiKxsU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJYbnkxTXam_a4M0GF97NMTrAoHg' width='200px' alt='チャンカパーナ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=bt2j17P7XVE'>Pride</a>
+      <a href='https://www.youtube.com/watch?v=Q-y3TtiKxsU'>チャンカパーナ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=dMLNw_yzaFM'>
-        <img src='https://i.ytimg.com/vi/dMLNw_yzaFM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCE91zJ1MOoudAPxg0QkwkpSrNFxw' width='200px' alt='シルエット'>
+      <a href='https://www.youtube.com/watch?v=nhfIpEUU9tc'>
+        <img src='https://i.ytimg.com/vi/nhfIpEUU9tc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgBpk2hSaERwDjiPaFIRz-Tc45rA' width='200px' alt='光るなら'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=dMLNw_yzaFM'>シルエット</a>
+      <a href='https://www.youtube.com/watch?v=nhfIpEUU9tc'>光るなら</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=yFRNB8Jji4Y'>
-        <img src='https://i.ytimg.com/vi/yFRNB8Jji4Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAa-LXQ-EF_QYmSvbdUJF-CyB5nwA' width='200px' alt='燈'>
+      <a href='https://www.youtube.com/watch?v=n2m9ebS3tEo'>
+        <img src='https://i.ytimg.com/vi/n2m9ebS3tEo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXzDib6DqcUgUEmhX8e254Si2mQw' width='200px' alt='Beautiful Fin'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=yFRNB8Jji4Y'>燈</a>
+      <a href='https://www.youtube.com/watch?v=n2m9ebS3tEo'>Beautiful Fin</a>
     </td>
   </tr>
 </table>
