@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [ブランド鶏＆特製醤油だれ使用のCoCo壱番屋店舗限定カレー「恵那どりチキンカツカレー」を食べてみた](https://gigazine.net/news/20260721-coco-ichibanya-ena-dori/)
-- [ビル・ゲイツが「エイズ(AIDS)終息に役立つ革新的な技術」について紹介](https://gigazine.net/news/20260721-bill-gates-end-of-aids/)
-- [音楽ストリーミングサービスが普及した時代に「音楽海賊版の失われた喜び」をアーティストが語る](https://gigazine.net/news/20260721-music-piracy/)
-- [フランス賭博規制庁が予測市場・Polymarketへのアクセスを遮断](https://gigazine.net/news/20260720-france-block-polymarket/)
-- [仕事のスケジュールが不確実な労働者は幸福度が低い傾向にあるという研究結果](https://gigazine.net/news/20260720-unstable-work-schedule-happiness/)
-- [単語を並び替えて簡単な英単語を作る無料ゲーム「18 Words」](https://gigazine.net/news/20260720-18-words/)
+- [3つのアナログ時計をできるだけ速く正確に読み取る無料ゲーム「analog.watch」](https://gigazine.net/news/20260722-analog-watch-game/)
+- [GIGAZINE読者が加入している保険は何？株・証券・仮想通貨への興味も調べてみた](https://gigazine.net/news/20260722-gigazine-user-insurance/)
+- [GoogleのAIモードで「Google検索」の自己引用が8.4倍に急増](https://gigazine.net/news/20260722-google-ai-mode-shift-to-citing/)
+- [AnthropicがAIモデル「Claude」のトレーニングに海賊版書籍を使った件で作家グループと和解するも一部の著者は和解を拒否](https://gigazine.net/news/20260722-anthropics-settlement-book-piracy-ai/)
+- [無料で使えるCloudflare Accessの「サービス認証」を設定して外出先のアプリから自宅のローカルAIにアクセスしてみた](https://gigazine.net/news/20260721-cloudflare-service-token/)
+- [大規模AIプロジェクトで「高性能な計画役＋安価な実行役」を使うとコストが約8分の1になったとCursorが報告](https://gigazine.net/news/20260721-agent-swarm-model-economics/)
 <!-- GIGAZINE-NEWS-END -->
