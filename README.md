@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=KehpqLWwy4g'>
-        <img src='https://i.ytimg.com/vi/KehpqLWwy4g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwRwKHNWODESeECqonWaQJ9FmtFA' width='200px' alt='Message'>
+      <a href='https://www.youtube.com/watch?v=bt2j17P7XVE'>
+        <img src='https://i.ytimg.com/vi/bt2j17P7XVE/hqdefault.jpg?sqp=-oaymwEfCNACELwBSFXyq4qpAxEIARUAAIhCGAFwAcABBrgCGaLzl_8DDgiazInnBRjg6gQg4KgB&rs=AOn4CLAIdo-1xKcuDluZIbYNNssFIIfspQ&usqp=CBk' width='200px' alt='Pride'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=KehpqLWwy4g'>Message</a>
+      <a href='https://www.youtube.com/watch?v=bt2j17P7XVE'>Pride</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=JX8UNk5bAK8'>
-        <img src='https://i.ytimg.com/vi/JX8UNk5bAK8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8_mjwoEimkQONjmS2J0waFkwd9Q' width='200px' alt='のびしろ'>
+      <a href='https://www.youtube.com/watch?v=W8Q9Hs7Tgzg'>
+        <img src='https://i.ytimg.com/vi/W8Q9Hs7Tgzg/hqdefault.jpg?sqp=-oaymwEfCNACELwBSFXyq4qpAxEIARUAAIhCGAFwAcABBrgCGaLzl_8DDgjZ9tPrBRjg6gQg4KgB&rs=AOn4CLDDDdl6quw4U3Nt6DTI0Yxu94Lwkw&usqp=CBk' width='200px' alt='Wanted! Wanted!'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=JX8UNk5bAK8'>のびしろ</a>
+      <a href='https://www.youtube.com/watch?v=W8Q9Hs7Tgzg'>Wanted! Wanted!</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ckq-dOv48sQ'>
-        <img src='https://i.ytimg.com/vi/ckq-dOv48sQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuE0UE4wSOKloWugH8wzdgDoG_PQ' width='200px' alt='猫 〜THE FIRST TAKE ver.〜'>
+      <a href='https://www.youtube.com/watch?v=go6WjvgMYjU'>
+        <img src='https://i.ytimg.com/vi/go6WjvgMYjU/hqdefault.jpg?sqp=-oaymwEfCNACELwBSFXyq4qpAxEIARUAAIhCGAFwAcABBrgCGaLzl_8DDgjz_aHeBRjg6gQg4KgB&rs=AOn4CLACSDUWi6gV37lWGW2vFM09xMOcUQ&usqp=CBk' width='200px' alt='17才'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ckq-dOv48sQ'>猫 〜THE FIRST TAKE ver.〜</a>
+      <a href='https://www.youtube.com/watch?v=go6WjvgMYjU'>17才</a>
     </td>
   </tr>
 </table>
