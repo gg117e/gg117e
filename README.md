@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=hmTKQf7khaE'>
-        <img src='https://i.ytimg.com/vi/hmTKQf7khaE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUCEZYFa01YzKxYxchVAFSzHm3hg' width='200px' alt='Automatic'>
+      <a href='https://www.youtube.com/watch?v=vAfgHtZt6gs'>
+        <img src='https://i.ytimg.com/vi/vAfgHtZt6gs/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLCIQtBrfWYtvZf2_ZctJ4FF6JDCFg' width='200px' alt='大丈夫'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=hmTKQf7khaE'>Automatic</a>
+      <a href='https://www.youtube.com/watch?v=vAfgHtZt6gs'>大丈夫</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=kNDbaYEp0tU'>
-        <img src='https://i.ytimg.com/vi/kNDbaYEp0tU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvX1Ba1QNm2i-8CkQ93gpnsd2H7g' width='200px' alt='怪獣の花唄'>
+      <a href='https://www.youtube.com/watch?v=Tj9fTEK-BA8'>
+        <img src='https://i.ytimg.com/vi/Tj9fTEK-BA8/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAx20fORuCRhbpOTK40xdk6fo-l_w' width='200px' alt='まちがいさがし'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=kNDbaYEp0tU'>怪獣の花唄</a>
+      <a href='https://www.youtube.com/watch?v=Tj9fTEK-BA8'>まちがいさがし</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=8PbGeKwEnK0'>
-        <img src='https://i.ytimg.com/vi/8PbGeKwEnK0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWYv4vO1ta-DKEtdPaeTh9ifxA0g' width='200px' alt='Pop Virus'>
+      <a href='https://www.youtube.com/watch?v=fdnoxPq_Is8'>
+        <img src='https://i.ytimg.com/vi/fdnoxPq_Is8/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLASwjahGahGkoo8mIoHig9PSEm3eQ' width='200px' alt='Ola!!'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=8PbGeKwEnK0'>Pop Virus</a>
+      <a href='https://www.youtube.com/watch?v=fdnoxPq_Is8'>Ola!!</a>
     </td>
   </tr>
 </table>
