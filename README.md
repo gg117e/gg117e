@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [3つのアナログ時計をできるだけ速く正確に読み取る無料ゲーム「analog.watch」](https://gigazine.net/news/20260722-analog-watch-game/)
-- [GIGAZINE読者が加入している保険は何？株・証券・仮想通貨への興味も調べてみた](https://gigazine.net/news/20260722-gigazine-user-insurance/)
-- [GoogleのAIモードで「Google検索」の自己引用が8.4倍に急増](https://gigazine.net/news/20260722-google-ai-mode-shift-to-citing/)
-- [AnthropicがAIモデル「Claude」のトレーニングに海賊版書籍を使った件で作家グループと和解するも一部の著者は和解を拒否](https://gigazine.net/news/20260722-anthropics-settlement-book-piracy-ai/)
-- [無料で使えるCloudflare Accessの「サービス認証」を設定して外出先のアプリから自宅のローカルAIにアクセスしてみた](https://gigazine.net/news/20260721-cloudflare-service-token/)
-- [大規模AIプロジェクトで「高性能な計画役＋安価な実行役」を使うとコストが約8分の1になったとCursorが報告](https://gigazine.net/news/20260721-agent-swarm-model-economics/)
+- [コケはニューロンに似た驚くほど複雑な電気活動を示すとの研究結果](https://gigazine.net/news/20260723-moss-generating-electrical-waves/)
+- [モナリザなどをAIに描かせて完成物やコスパを比較、特にGrokだけが飛び抜けて奇妙な結果に](https://gigazine.net/news/20260723-drawing-mona-lisa-gpt-5.6-claude-gemini-grok/)
+- [メモリ価格が約8倍に高騰したのはなぜなのか？Samsung・SK hynix・Micronの価格操作疑惑を巡る訴訟が始まる](https://gigazine.net/news/20260723-dram-price-fixing-lawsuit/)
+- [USB早見表、規格ごとの速度・配線・給電能力がひと目でわかる](https://gigazine.net/news/20260722-usb-cheat-sheet/)
+- [TSMCがチップの受託製造価格を最大10％引き上げへ、HPCチップの場合はさらに10％～15％の追加料金](https://gigazine.net/news/20260722-tsmc-price-hike/)
+- [OpenAIの「次世代AIモデル」についてサム・アルトマンCEOが直々にトランプ政権とアメリカの議員へ説明予定](https://gigazine.net/news/20260722-openai-brief-us-officials/)
 <!-- GIGAZINE-NEWS-END -->
