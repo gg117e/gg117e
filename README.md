@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=6qcELHEilnQ'>
-        <img src='https://i.ytimg.com/vi/6qcELHEilnQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBd6ScUlxU0bLM9fk6y64sP8k6oRw' width='200px' alt='Shiori'>
+      <a href='https://www.youtube.com/watch?v=FJOUiX0uuYM'>
+        <img src='https://i.ytimg.com/vi/FJOUiX0uuYM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCRluchGpZf-uIfzjnVnCzRAENzg' width='200px' alt='さよならエレジー'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=6qcELHEilnQ'>Shiori</a>
+      <a href='https://www.youtube.com/watch?v=FJOUiX0uuYM'>さよならエレジー</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=GcXurBc6vao'>
-        <img src='https://i.ytimg.com/vi/GcXurBc6vao/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1h2cOKqsHtyYt1ytLA3FK8W9TZA' width='200px' alt='カタオモイ'>
+      <a href='https://www.youtube.com/watch?v=yFRNB8Jji4Y'>
+        <img src='https://i.ytimg.com/vi/yFRNB8Jji4Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAa-LXQ-EF_QYmSvbdUJF-CyB5nwA' width='200px' alt='燈'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=GcXurBc6vao'>カタオモイ</a>
+      <a href='https://www.youtube.com/watch?v=yFRNB8Jji4Y'>燈</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=P6UsnAkgN4U'>
-        <img src='https://i.ytimg.com/vi/P6UsnAkgN4U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDN99wUcqZRQMOUoYD12Wj-269sdQ' width='200px' alt='Setsuna'>
+      <a href='https://www.youtube.com/watch?v=mUSVav9pKO4'>
+        <img src='https://i.ytimg.com/vi/mUSVav9pKO4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhv2LigyWBJWYAak96zB6Pocg1cQ' width='200px' alt='Sunny'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=P6UsnAkgN4U'>Setsuna</a>
+      <a href='https://www.youtube.com/watch?v=mUSVav9pKO4'>Sunny</a>
     </td>
   </tr>
 </table>
