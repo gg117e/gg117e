@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [コケはニューロンに似た驚くほど複雑な電気活動を示すとの研究結果](https://gigazine.net/news/20260723-moss-generating-electrical-waves/)
-- [モナリザなどをAIに描かせて完成物やコスパを比較、特にGrokだけが飛び抜けて奇妙な結果に](https://gigazine.net/news/20260723-drawing-mona-lisa-gpt-5.6-claude-gemini-grok/)
-- [メモリ価格が約8倍に高騰したのはなぜなのか？Samsung・SK hynix・Micronの価格操作疑惑を巡る訴訟が始まる](https://gigazine.net/news/20260723-dram-price-fixing-lawsuit/)
-- [USB早見表、規格ごとの速度・配線・給電能力がひと目でわかる](https://gigazine.net/news/20260722-usb-cheat-sheet/)
-- [TSMCがチップの受託製造価格を最大10％引き上げへ、HPCチップの場合はさらに10％～15％の追加料金](https://gigazine.net/news/20260722-tsmc-price-hike/)
-- [OpenAIの「次世代AIモデル」についてサム・アルトマンCEOが直々にトランプ政権とアメリカの議員へ説明予定](https://gigazine.net/news/20260722-openai-brief-us-officials/)
+- [「Geekbench 7」が登場、「CUDAでのGPU演算」「AV1での動画エンコード」「文字起こしAIで字幕生成」など現代的ワークフローのテストが追加される](https://gigazine.net/news/20260724-geekbench-7/)
+- [世界中の城や要塞をまとめて1枚の地図で確認できる「Castle Map」、131カ国・3700カ所以上を網羅](https://gigazine.net/news/20260724-castle-map/)
+- [AIで従業員ではなくCEOを解雇すればどれほど多くのメリットがあるのか？](https://gigazine.net/news/20260724-overpaid-fire-ceo-ai/)
+- [単一HTMLファイルでローカル動作するスライド作成ウェブアプリ「Bento/Slides」が登場、共同編集可能＆AIエージェントでの自動操作もスムーズ](https://gigazine.net/news/20260724-bento-slides-powerpoint-alternative/)
+- [Kimi K3はAIエージェントのベンチマーク「AA-Briefcase」でFable 5に次ぐ2位の成績を達成、しかし実行コストはOpus 4.8よりも高くタスクあたり平均1時間近くかかる](https://gigazine.net/news/20260723-kimi-k3-artifical-analysis/)
+- [電子書籍リーダーのためのオープンエコシステム「Free Ink」、ソフトウェア・ファームウェア・ハードウェアを開発するオープンソースプロジェクト群](https://gigazine.net/news/20260723-free-ink-e-readers/)
 <!-- GIGAZINE-NEWS-END -->
