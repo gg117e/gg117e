@@ -33,11 +33,11 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=GOIuU0ejpzc'>
-        <img src='https://i.ytimg.com/vi/GOIuU0ejpzc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPs_NzMHy2jXKKNMWZW7ccM4HxGg' width='200px' alt='GReeeeN / アカリ 【TBS系 日曜劇場『TOKYO MER～走る緊急救命室～』主題歌】'>
+      <a href='https://www.youtube.com/watch?v=Ih2eEKTJXRg'>
+        <img src='https://i.ytimg.com/vi/Ih2eEKTJXRg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQmV1_CEd8Wt2-BmONx_nowgTjJg' width='200px' alt='タイムパラドックス'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=GOIuU0ejpzc'>GReeeeN / アカリ 【TBS系 日曜劇場『TOKYO MER～走る緊急救命室～』主題歌】</a>
+      <a href='https://www.youtube.com/watch?v=Ih2eEKTJXRg'>タイムパラドックス</a>
     </td>
     <td align='center'>
       <a href='https://www.youtube.com/watch?v=WjIsq1-ZBaw'>
@@ -47,11 +47,11 @@
       <a href='https://www.youtube.com/watch?v=WjIsq1-ZBaw'>平井 大 / 栄光の扉（Music Video）</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=-Zr0mLgdAQc'>
-        <img src='https://i.ytimg.com/vi/-Zr0mLgdAQc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQRiDuA-AwAqqfWZuLJ_7rPP0Etg' width='200px' alt='ゲッタバンバン'>
+      <a href='https://www.youtube.com/watch?v=jBILfisAXXs'>
+        <img src='https://i.ytimg.com/vi/jBILfisAXXs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6To1bSVwvvhDTNXjGY7ajk9CU7w' width='200px' alt='夢の外へ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=-Zr0mLgdAQc'>ゲッタバンバン</a>
+      <a href='https://www.youtube.com/watch?v=jBILfisAXXs'>夢の外へ</a>
     </td>
   </tr>
 </table>
