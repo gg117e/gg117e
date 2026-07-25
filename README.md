@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [「Geekbench 7」が登場、「CUDAでのGPU演算」「AV1での動画エンコード」「文字起こしAIで字幕生成」など現代的ワークフローのテストが追加される](https://gigazine.net/news/20260724-geekbench-7/)
-- [世界中の城や要塞をまとめて1枚の地図で確認できる「Castle Map」、131カ国・3700カ所以上を網羅](https://gigazine.net/news/20260724-castle-map/)
-- [AIで従業員ではなくCEOを解雇すればどれほど多くのメリットがあるのか？](https://gigazine.net/news/20260724-overpaid-fire-ceo-ai/)
-- [単一HTMLファイルでローカル動作するスライド作成ウェブアプリ「Bento/Slides」が登場、共同編集可能＆AIエージェントでの自動操作もスムーズ](https://gigazine.net/news/20260724-bento-slides-powerpoint-alternative/)
-- [Kimi K3はAIエージェントのベンチマーク「AA-Briefcase」でFable 5に次ぐ2位の成績を達成、しかし実行コストはOpus 4.8よりも高くタスクあたり平均1時間近くかかる](https://gigazine.net/news/20260723-kimi-k3-artifical-analysis/)
-- [電子書籍リーダーのためのオープンエコシステム「Free Ink」、ソフトウェア・ファームウェア・ハードウェアを開発するオープンソースプロジェクト群](https://gigazine.net/news/20260723-free-ink-e-readers/)
+- [中国の副首相が「中国産AIチップを採用を拒むものは裏切り者である」と発言したことが報じられる](https://gigazine.net/news/20260725-china-ai-chip/)
+- [GIGAZINE夏のプレゼント大放出企画「アンケートに答えて全部持っていってください！」、全部で60品目以上あり！](https://gigazine.net/news/20260724-present-summer-2026/)
+- [友達の読書を手伝うことが子どもたちの学力向上につながるとの研究結果](https://gigazine.net/news/20260725-helping-read-boost/)
+- [「Claude Opus 5」が登場、Claude Fable 5の半額で同等性能を発揮し制限緩め](https://gigazine.net/news/20260725-claude-opus-5/)
+- [作家や批評家が選ぶ「史上最高の小説100選」・アニメ監督や作家インタビューなどAmazonで売上トップ100のGIGAZINE記事ランキング2026年第2四半期版まとめ](https://gigazine.net/news/20260725-gigazine-kindle-ranking-2026-q2/)
+- [重力反転を駆使してトラップだらけのステージを攻略する高難度アクションゲーム「LOVE ETERNAL」プレイレビュー](https://gigazine.net/news/20260724-love-eternal/)
 <!-- GIGAZINE-NEWS-END -->
