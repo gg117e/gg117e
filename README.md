@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [中国の副首相が「中国産AIチップを採用を拒むものは裏切り者である」と発言したことが報じられる](https://gigazine.net/news/20260725-china-ai-chip/)
-- [GIGAZINE夏のプレゼント大放出企画「アンケートに答えて全部持っていってください！」、全部で60品目以上あり！](https://gigazine.net/news/20260724-present-summer-2026/)
-- [友達の読書を手伝うことが子どもたちの学力向上につながるとの研究結果](https://gigazine.net/news/20260725-helping-read-boost/)
-- [「Claude Opus 5」が登場、Claude Fable 5の半額で同等性能を発揮し制限緩め](https://gigazine.net/news/20260725-claude-opus-5/)
-- [作家や批評家が選ぶ「史上最高の小説100選」・アニメ監督や作家インタビューなどAmazonで売上トップ100のGIGAZINE記事ランキング2026年第2四半期版まとめ](https://gigazine.net/news/20260725-gigazine-kindle-ranking-2026-q2/)
-- [重力反転を駆使してトラップだらけのステージを攻略する高難度アクションゲーム「LOVE ETERNAL」プレイレビュー](https://gigazine.net/news/20260724-love-eternal/)
+- [動いてしゃべる55cmドール「CutieroidDoll FAガール 轟雷」をワンフェス2026[夏]の会場で見てきました](https://gigazine.net/news/20260726-cutieroiddoll-gfagirl-gourai/)
+- [本物の着物生地を着用したアスカ＆アヤナミの日本人形フィギュア](https://gigazine.net/news/20260726-evangelion-wafuku-wf2026s/)
+- [「メタバース」という言葉を生み出したSF作家が勧める「手書きで疲れない方法」とは？](https://gigazine.net/news/20260726-handwriting-avoid-fatigue/)
+- [ワンダーフェスティバル 2026[夏]全記事一覧まとめ](https://gigazine.net/news/20260726-summary-wf2026s/)
+- [フリーランスライターが解雇された後もAI生成の記事に自分の名前が使われていたことに憤慨](https://gigazine.net/news/20260726-ai-take-over-journalist/)
+- [ロボタクシー関連法案を巡り関係悪化中のWaymoがUberとの提携解消を検討](https://gigazine.net/news/20260725-waymo-uber-tie-up-to-end/)
 <!-- GIGAZINE-NEWS-END -->
