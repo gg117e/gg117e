@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Qsz6WoK5GWk'>
-        <img src='https://i.ytimg.com/vi/Qsz6WoK5GWk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-06hgBny-IdAYM450HQ-rlDr2wA' width='200px' alt='風に吹かれて'>
+      <a href='https://www.youtube.com/watch?v=Ta6GW3kQ8UU'>
+        <img src='https://i.ytimg.com/vi/Ta6GW3kQ8UU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRMclMpIOvmCPeKMcFS80SNCONJw' width='200px' alt='ひたむき'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Qsz6WoK5GWk'>風に吹かれて</a>
+      <a href='https://www.youtube.com/watch?v=Ta6GW3kQ8UU'>ひたむき</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=NUFfRHk1Qcs'>
-        <img src='https://i.ytimg.com/vi/NUFfRHk1Qcs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMjNwQWGvQLii1tiFPU4ho3W8KtQ' width='200px' alt='Start'>
+      <a href='https://www.youtube.com/watch?v=wPsr3_UVA0U'>
+        <img src='https://i.ytimg.com/vi/wPsr3_UVA0U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEcVsySSnNqV47RppVnh7XTlEAQQ' width='200px' alt='Wonderful'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=NUFfRHk1Qcs'>Start</a>
+      <a href='https://www.youtube.com/watch?v=wPsr3_UVA0U'>Wonderful</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=hID1Wt1ByEQ'>
-        <img src='https://i.ytimg.com/vi/hID1Wt1ByEQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6PREFxuitmk-F_ecqRXEOsN1hNg' width='200px' alt='Same Blue'>
+      <a href='https://www.youtube.com/watch?v=hmTKQf7khaE'>
+        <img src='https://i.ytimg.com/vi/hmTKQf7khaE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUCEZYFa01YzKxYxchVAFSzHm3hg' width='200px' alt='Automatic'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=hID1Wt1ByEQ'>Same Blue</a>
+      <a href='https://www.youtube.com/watch?v=hmTKQf7khaE'>Automatic</a>
     </td>
   </tr>
 </table>
