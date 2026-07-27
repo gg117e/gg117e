@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [動いてしゃべる55cmドール「CutieroidDoll FAガール 轟雷」をワンフェス2026[夏]の会場で見てきました](https://gigazine.net/news/20260726-cutieroiddoll-gfagirl-gourai/)
-- [本物の着物生地を着用したアスカ＆アヤナミの日本人形フィギュア](https://gigazine.net/news/20260726-evangelion-wafuku-wf2026s/)
-- [「メタバース」という言葉を生み出したSF作家が勧める「手書きで疲れない方法」とは？](https://gigazine.net/news/20260726-handwriting-avoid-fatigue/)
-- [ワンダーフェスティバル 2026[夏]全記事一覧まとめ](https://gigazine.net/news/20260726-summary-wf2026s/)
-- [フリーランスライターが解雇された後もAI生成の記事に自分の名前が使われていたことに憤慨](https://gigazine.net/news/20260726-ai-take-over-journalist/)
-- [ロボタクシー関連法案を巡り関係悪化中のWaymoがUberとの提携解消を検討](https://gigazine.net/news/20260725-waymo-uber-tie-up-to-end/)
+- [Facebookが「BOTではなく人間」を証明する認証システム「Facebook Verified」を開始、自撮りで認証可能で費用はゼロ](https://gigazine.net/news/20260727-facebook-verified/)
+- [Appleのワイヤレスイヤホン「AirPods」をフリスビーに搭載してモーショントラッカーにする猛者が登場](https://gigazine.net/news/20260727-airpod-powered-frisbee-tracker/)
+- [DivXやXvidで知られる動画圧縮規格「MPEG-4 Visual」でViaが管理する最後の特許が失効](https://gigazine.net/news/20260727-mpeg-4-visual-last-patent-expired/)
+- [30年以上前の「使徒、襲来」から人気が衰えない「エヴァンゲリオン」シリーズの作品をワンフェス2026[夏]会場でピックアップ](https://gigazine.net/news/20260726-evangelion-wf2026s/)
+- [氷点下で植物を枯らさずに「氷で守る」技術とは？](https://gigazine.net/news/20260726-freezing-plants/)
+- [人型抱き枕とはひと味違う「骨格入り抱き枕」は心音も聞こえてぐっすり快眠できそう](https://gigazine.net/news/20260726-bone-supported-body-pillow-wf2026s/)
 <!-- GIGAZINE-NEWS-END -->
