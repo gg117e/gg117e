@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=-521tYMXtyU'>
-        <img src='https://i.ytimg.com/vi/-521tYMXtyU/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCg9unYme0k8jztMtIaplmi-7-g4g' width='200px' alt='For Decades'>
+      <a href='https://www.youtube.com/watch?v=0OZ15_9YKPc'>
+        <img src='https://i.ytimg.com/vi/0OZ15_9YKPc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDw-Z7Q01p2yef5ViEEv7j0i6ACZg' width='200px' alt='異端なスター'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=-521tYMXtyU'>For Decades</a>
+      <a href='https://www.youtube.com/watch?v=0OZ15_9YKPc'>異端なスター</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=EqaDNpV5FvI'>
-        <img src='https://i.ytimg.com/vi/EqaDNpV5FvI/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCeBEEAD0HqeDUevEH3sJnNFknWhA' width='200px' alt='Blissful'>
+      <a href='https://www.youtube.com/watch?v=Oa-Vc2amuA0'>
+        <img src='https://i.ytimg.com/vi/Oa-Vc2amuA0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdGtBnt7TKIjouSR0Y-waJjc32_A' width='200px' alt='Universe'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=EqaDNpV5FvI'>Blissful</a>
+      <a href='https://www.youtube.com/watch?v=Oa-Vc2amuA0'>Universe</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=qRGRcUTends'>
-        <img src='https://i.ytimg.com/vi/qRGRcUTends/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLB34tModVmQ2Ropg7kXZmVBqj4O6w' width='200px' alt='Suiheisen'>
+      <a href='https://www.youtube.com/watch?v=1Zj84ajLO0E'>
+        <img src='https://i.ytimg.com/vi/1Zj84ajLO0E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzCzHeBm0IcTaqcvSVnADwwMndqw' width='200px' alt='Sasanqua'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=qRGRcUTends'>Suiheisen</a>
+      <a href='https://www.youtube.com/watch?v=1Zj84ajLO0E'>Sasanqua</a>
     </td>
   </tr>
 </table>
