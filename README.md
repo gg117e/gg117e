@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Ih2eEKTJXRg'>
-        <img src='https://i.ytimg.com/vi/Ih2eEKTJXRg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQmV1_CEd8Wt2-BmONx_nowgTjJg' width='200px' alt='タイムパラドックス'>
+      <a href='https://www.youtube.com/watch?v=uhY5LztYnoQ'>
+        <img src='https://i.ytimg.com/vi/uhY5LztYnoQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCG2PLxs6Mn3iT3s5CyejxHT6v26g' width='200px' alt='ありがとうの輪'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Ih2eEKTJXRg'>タイムパラドックス</a>
+      <a href='https://www.youtube.com/watch?v=uhY5LztYnoQ'>ありがとうの輪</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=oJd3TP5kb6k'>
-        <img src='https://i.ytimg.com/vi/oJd3TP5kb6k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVr-TA9PEhiwjzoFO-DmLlBYVIAg' width='200px' alt='New My Normal'>
+      <a href='https://www.youtube.com/watch?v=uTt67zwzLdo'>
+        <img src='https://i.ytimg.com/vi/uTt67zwzLdo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNz1DV3wReqjvonmJoIoIbRRqIxQ' width='200px' alt='あなたがいることで'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=oJd3TP5kb6k'>New My Normal</a>
+      <a href='https://www.youtube.com/watch?v=uTt67zwzLdo'>あなたがいることで</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=nwKt2dWGm2E'>
-        <img src='https://i.ytimg.com/vi/nwKt2dWGm2E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcY7vD2oYljg6A-h8qMezj0KmhpA' width='200px' alt='プロローグ'>
+      <a href='https://www.youtube.com/watch?v=3eQJUAXy_kU'>
+        <img src='https://i.ytimg.com/vi/3eQJUAXy_kU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHbfg4lj9LHnyG5hF1-qvNr2NFuw' width='200px' alt='恋の前ならえ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=nwKt2dWGm2E'>プロローグ</a>
+      <a href='https://www.youtube.com/watch?v=3eQJUAXy_kU'>恋の前ならえ</a>
     </td>
   </tr>
 </table>
