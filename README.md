@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=hmTKQf7khaE'>
-        <img src='https://i.ytimg.com/vi/hmTKQf7khaE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUCEZYFa01YzKxYxchVAFSzHm3hg' width='200px' alt='Automatic'>
+      <a href='https://www.youtube.com/watch?v=-521tYMXtyU'>
+        <img src='https://i.ytimg.com/vi/-521tYMXtyU/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCg9unYme0k8jztMtIaplmi-7-g4g' width='200px' alt='For Decades'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=hmTKQf7khaE'>Automatic</a>
+      <a href='https://www.youtube.com/watch?v=-521tYMXtyU'>For Decades</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=QlyW9kYHTDo'>
-        <img src='https://i.ytimg.com/vi/QlyW9kYHTDo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQFnLrxul-P672hEh7Ctcb3KYlmw' width='200px' alt='Time Machine'>
+      <a href='https://www.youtube.com/watch?v=EqaDNpV5FvI'>
+        <img src='https://i.ytimg.com/vi/EqaDNpV5FvI/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCeBEEAD0HqeDUevEH3sJnNFknWhA' width='200px' alt='Blissful'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=QlyW9kYHTDo'>Time Machine</a>
+      <a href='https://www.youtube.com/watch?v=EqaDNpV5FvI'>Blissful</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=U6iReNSghS4'>
-        <img src='https://i.ytimg.com/vi/U6iReNSghS4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAL7XssFoF2SkL5wNau6M8VbXLtjQ' width='200px' alt='Kiseki'>
+      <a href='https://www.youtube.com/watch?v=qRGRcUTends'>
+        <img src='https://i.ytimg.com/vi/qRGRcUTends/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLB34tModVmQ2Ropg7kXZmVBqj4O6w' width='200px' alt='Suiheisen'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=U6iReNSghS4'>Kiseki</a>
+      <a href='https://www.youtube.com/watch?v=qRGRcUTends'>Suiheisen</a>
     </td>
   </tr>
 </table>
