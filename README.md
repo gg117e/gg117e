@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [Facebookが「BOTではなく人間」を証明する認証システム「Facebook Verified」を開始、自撮りで認証可能で費用はゼロ](https://gigazine.net/news/20260727-facebook-verified/)
-- [Appleのワイヤレスイヤホン「AirPods」をフリスビーに搭載してモーショントラッカーにする猛者が登場](https://gigazine.net/news/20260727-airpod-powered-frisbee-tracker/)
-- [DivXやXvidで知られる動画圧縮規格「MPEG-4 Visual」でViaが管理する最後の特許が失効](https://gigazine.net/news/20260727-mpeg-4-visual-last-patent-expired/)
-- [30年以上前の「使徒、襲来」から人気が衰えない「エヴァンゲリオン」シリーズの作品をワンフェス2026[夏]会場でピックアップ](https://gigazine.net/news/20260726-evangelion-wf2026s/)
-- [氷点下で植物を枯らさずに「氷で守る」技術とは？](https://gigazine.net/news/20260726-freezing-plants/)
-- [人型抱き枕とはひと味違う「骨格入り抱き枕」は心音も聞こえてぐっすり快眠できそう](https://gigazine.net/news/20260726-bone-supported-body-pillow-wf2026s/)
+- [古代ローマのコンクリートが驚異的な耐久性を誇る理由の一端が「1900年前のトイレ」から明らかに](https://gigazine.net/news/20260728-roman-concrete-keeps-stronger-toilet/)
+- [高齢者を狙ったAI音声詐欺が急増中、たった3秒の音声データでAI音声クローンが作られてしまう](https://gigazine.net/news/20260728-why-ai-voice-fraud-outruns-defence/)
+- [夏の日差しだけではビタミンD不足を解消できない可能性がある](https://gigazine.net/news/20260728-summer-sun-vitamin-d-insufficiency/)
+- [Firefoxがリリースサイクルを4週間から2週間に短縮、準備の整った機能をユーザーに頻繁に届けられるように](https://gigazine.net/news/20260727-firefox-release-cadence/)
+- [AIのトークン価格を10分の1にできる「プロンプトキャッシュ」の仕組みとは？](https://gigazine.net/news/20260727-prompt-caching/)
+- [NVIDIAの革ジャンCEOと同じメニューを東京の居酒屋で食べてきたよレポート、時価総額世界一のCEOは一体何を食べたのか？](https://gigazine.net/news/20260727-nvidia-jensen-huang-izakaya/)
 <!-- GIGAZINE-NEWS-END -->
