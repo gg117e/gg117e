@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=CjaM8qWzssk'>
-        <img src='https://i.ytimg.com/vi/CjaM8qWzssk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBP1ncZkqRaXEFX5KEzP-6JF15fBw' width='200px' alt='晩餐歌 - Bansanka'>
+      <a href='https://www.youtube.com/watch?v=kJEPeKPtZyw'>
+        <img src='https://i.ytimg.com/vi/kJEPeKPtZyw/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCVdNiWSZhOxHjk7V5LbjB2cGInWw' width='200px' alt='花占い'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=CjaM8qWzssk'>晩餐歌 - Bansanka</a>
+      <a href='https://www.youtube.com/watch?v=kJEPeKPtZyw'>花占い</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=8C-ZXUFud4g'>
-        <img src='https://i.ytimg.com/vi/8C-ZXUFud4g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAntZZBsMwxcogbwOA7SvwO1-bquA' width='200px' alt='誰よりも'>
+      <a href='https://www.youtube.com/watch?v=EaC8Dgtvrb0'>
+        <img src='https://i.ytimg.com/vi/EaC8Dgtvrb0/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBnVScOLYpZbTa1Jqt0SMLx-Jslmg' width='200px' alt='そんなbitterな話'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=8C-ZXUFud4g'>誰よりも</a>
+      <a href='https://www.youtube.com/watch?v=EaC8Dgtvrb0'>そんなbitterな話</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Fay3ZhHS1rU'>
-        <img src='https://i.ytimg.com/vi/Fay3ZhHS1rU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjDVfcid0spA__YFixGLdGLPV6kA' width='200px' alt='桑田佳祐 – 100万年の幸せ!!（Full ver.）'>
+      <a href='https://www.youtube.com/watch?v=ZODK5o0PCbk'>
+        <img src='https://i.ytimg.com/vi/ZODK5o0PCbk/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLA4UcSYb40pX9nmCt4J7nv12nfeSA' width='200px' alt='Imato Anokorono Bokura'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Fay3ZhHS1rU'>桑田佳祐 – 100万年の幸せ!!（Full ver.）</a>
+      <a href='https://www.youtube.com/watch?v=ZODK5o0PCbk'>Imato Anokorono Bokura</a>
     </td>
   </tr>
 </table>
