@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [OpenAIが文字起こしAI「GPT Transcribe」と「GPT Live Transcribe」をリリース](https://gigazine.net/news/20260729-gpt-live-transcribe/)
-- [トランプ政権はアメリカのAI開発を守るため中国製の新型人型ロボットやインバーターの輸入を禁止](https://gigazine.net/news/20260729-trump-administration-bans-chinese-humanoid-robots/)
-- [「Google Chrome 151」安定版リリース、テキストを手軽にストリーム処理可能なWeb APIが追加](https://gigazine.net/news/20260729-google-chrome-151/)
-- [NVIDIAはVera CPUで次世代チップ開発を加速中、すでに最大1.5倍の性能向上を確認](https://gigazine.net/news/20260729-nvidia-vera-cpu-to-speed-up-next-generation/)
-- [PC内に秘密のデータ保存領域を作れる「Shufflecake」、保存ボリュームの存在すら秘匿し緊急事態用の「おとりボリューム」も作成可能](https://gigazine.net/news/20260729-shufflecake-hidden-volumes/)
-- [オープンソースソフトウェアのためのホスティングサービス「Codeberg」が生成AI主体のプロジェクトを投票で禁止](https://gigazine.net/news/20260729-codeberg-bans-ai-contributions/)
+- [業務監視ツールや評価AIが病院に導入されたせいで患者へのケアが悪化していると看護師らが主張](https://gigazine.net/news/20260730-nurses-ai-workplace-surveillance-care-worse/)
+- [ゴキブリには社会的ネットワークから生まれる一種の「集団的記憶」が存在する](https://gigazine.net/news/20260730-cockroach-collective-memory/)
+- [GPT-5.6やClaude Opusの性能を「MCPサーバーを構築できるか？」という観点で測定したベンチマークテスト「mcpbench」](https://gigazine.net/news/20260729-mcpbench/)
+- [「元に戻せない」と考えられていた老化由来のタンパク質損傷を酵素で修復](https://gigazine.net/news/20260729-reversal-of-protein/)
+- [「パートナーがスマホに夢中だ」と感じている女性は性生活にストレスを覚えやすいとの研究結果](https://gigazine.net/news/20260729-partner-smartphone-distractions-sexual-distress/)
+- [GrapheneOSの緊急コードでデータを抹消し警察を困らせたユーザーのインタビューが公開される](https://gigazine.net/news/20260729-interview-grapheneos-data-reset-man/)
 <!-- GIGAZINE-NEWS-END -->
