@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [業務監視ツールや評価AIが病院に導入されたせいで患者へのケアが悪化していると看護師らが主張](https://gigazine.net/news/20260730-nurses-ai-workplace-surveillance-care-worse/)
-- [ゴキブリには社会的ネットワークから生まれる一種の「集団的記憶」が存在する](https://gigazine.net/news/20260730-cockroach-collective-memory/)
-- [GPT-5.6やClaude Opusの性能を「MCPサーバーを構築できるか？」という観点で測定したベンチマークテスト「mcpbench」](https://gigazine.net/news/20260729-mcpbench/)
-- [「元に戻せない」と考えられていた老化由来のタンパク質損傷を酵素で修復](https://gigazine.net/news/20260729-reversal-of-protein/)
-- [「パートナーがスマホに夢中だ」と感じている女性は性生活にストレスを覚えやすいとの研究結果](https://gigazine.net/news/20260729-partner-smartphone-distractions-sexual-distress/)
-- [GrapheneOSの緊急コードでデータを抹消し警察を困らせたユーザーのインタビューが公開される](https://gigazine.net/news/20260729-interview-grapheneos-data-reset-man/)
+- [Google DeepMindがロボット向けAIモデル「Gemini Robotics 2」を発表、歩行から両手の細かな作業まで全身を制御可能に](https://gigazine.net/news/20260731-google-deepmind-gemini-robotics-2/)
+- [OpenAIがGPT-5.6を最大80％値下げ](https://gigazine.net/news/20260731-openai-gpt-5-6-reducing-prices/)
+- [MicrosoftのWord用Copilotを標的にした文書ベースで自己増殖するAIワームが初めて実証される](https://gigazine.net/news/20260731-microsoft-copilot-word-documents-ai-worm/)
+- [脳は「真のマルチタスク」を実現するために再配線できるとの研究結果](https://gigazine.net/news/20260731-brain-rewire-true-multitasking/)
+- [オープンソースのRadeonドライバーをWindowsに移植する試みが進行中](https://gigazine.net/news/20260730-radv-windows/)
+- [7000年前の狩猟採集民が食糧源として山の湖に魚を放流して木製のわなで捕獲していたことが判明](https://gigazine.net/news/20260730-hunter-gatherers-introduced-fish-mountain-lake/)
 <!-- GIGAZINE-NEWS-END -->
