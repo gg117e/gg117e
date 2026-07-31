@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=_4sc3Q8tsoQ'>
-        <img src='https://i.ytimg.com/vi/_4sc3Q8tsoQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDS6H9Sws06amZv6LJCWYaX5lIZ3Q' width='200px' alt='Koe'>
+      <a href='https://www.youtube.com/watch?v=Tt__9q0JEOI'>
+        <img src='https://i.ytimg.com/vi/Tt__9q0JEOI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4QvFidAb2oKxtlArfQGs68apPGQ' width='200px' alt='Wasurenagusa'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=_4sc3Q8tsoQ'>Koe</a>
+      <a href='https://www.youtube.com/watch?v=Tt__9q0JEOI'>Wasurenagusa</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=cMLTX2FClxw'>
-        <img src='https://i.ytimg.com/vi/cMLTX2FClxw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdhytK3vnYCrOsTlHB2LeYE2Kp5g' width='200px' alt='OFFICIAL HIGE DANDISM - Vintage［Official Video］'>
+      <a href='https://www.youtube.com/watch?v=oPdIjsctolE'>
+        <img src='https://i.ytimg.com/vi/oPdIjsctolE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1T1itQlYqc1WOopgeaDxc2jiiHQ' width='200px' alt='milet「Ordinary days」MUSIC VIDEO'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=cMLTX2FClxw'>OFFICIAL HIGE DANDISM - Vintage［Official Video］</a>
+      <a href='https://www.youtube.com/watch?v=oPdIjsctolE'>milet「Ordinary days」MUSIC VIDEO</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=_bH_0NIi_Vc'>
-        <img src='https://i.ytimg.com/vi/_bH_0NIi_Vc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsceiLz7G_AJQoMUqKRGRR0QUfJA' width='200px' alt='日曜日のラブレター'>
+      <a href='https://www.youtube.com/watch?v=P6UsnAkgN4U'>
+        <img src='https://i.ytimg.com/vi/P6UsnAkgN4U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDN99wUcqZRQMOUoYD12Wj-269sdQ' width='200px' alt='Setsuna'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=_bH_0NIi_Vc'>日曜日のラブレター</a>
+      <a href='https://www.youtube.com/watch?v=P6UsnAkgN4U'>Setsuna</a>
     </td>
   </tr>
 </table>
