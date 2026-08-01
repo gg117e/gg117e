@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [Google DeepMindがロボット向けAIモデル「Gemini Robotics 2」を発表、歩行から両手の細かな作業まで全身を制御可能に](https://gigazine.net/news/20260731-google-deepmind-gemini-robotics-2/)
-- [OpenAIがGPT-5.6を最大80％値下げ](https://gigazine.net/news/20260731-openai-gpt-5-6-reducing-prices/)
-- [MicrosoftのWord用Copilotを標的にした文書ベースで自己増殖するAIワームが初めて実証される](https://gigazine.net/news/20260731-microsoft-copilot-word-documents-ai-worm/)
-- [脳は「真のマルチタスク」を実現するために再配線できるとの研究結果](https://gigazine.net/news/20260731-brain-rewire-true-multitasking/)
-- [オープンソースのRadeonドライバーをWindowsに移植する試みが進行中](https://gigazine.net/news/20260730-radv-windows/)
-- [7000年前の狩猟採集民が食糧源として山の湖に魚を放流して木製のわなで捕獲していたことが判明](https://gigazine.net/news/20260730-hunter-gatherers-introduced-fish-mountain-lake/)
+- [無料で読める東日本大震災の実体験に基づく「災害初動期指揮心得」、発災後1時間・1日・1週間に指揮官が取るべき行動とは？](https://gigazine.net/news/20260801-disaster-initial-response-command-guide/)
+- [メンフクロウが自分の体色によって狩りの方法を使い分けていることが判明](https://gigazine.net/news/20260801-barn-owl-color-hunt-differently/)
+- [メトロポリタン美術館に所蔵される歴史的遺物がどこでいつ作られたかを推測して地図をクリックするゲーム「Anthropeum」](https://gigazine.net/news/20260731-anthropeum/)
+- [コンパイラ「GCC」の開発チームがAI生成コードの受け入れポリシーを公開、15行以上のAI生成コードは受け入れ拒否](https://gigazine.net/news/20260731-gcc-ai-policy/)
+- [TSMCが「準EMIB」と社内で呼ぶ高度なAI半導体パッケージング技術を開発中、IntelのEmbedded Multi-die Interconnect Bridge技術に類似か](https://gigazine.net/news/20260731-tsmc-quasi-emib/)
+- [ウクライナのゼレンスキー大統領が「ロシア国内のドローン攻撃にStarlinkを利用させてほしい」とトランプ大統領に要求](https://gigazine.net/news/20260731-zelensky-trump-starlink-drone-strikes-russia/)
 <!-- GIGAZINE-NEWS-END -->
