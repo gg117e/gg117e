@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [無料で読める東日本大震災の実体験に基づく「災害初動期指揮心得」、発災後1時間・1日・1週間に指揮官が取るべき行動とは？](https://gigazine.net/news/20260801-disaster-initial-response-command-guide/)
-- [メンフクロウが自分の体色によって狩りの方法を使い分けていることが判明](https://gigazine.net/news/20260801-barn-owl-color-hunt-differently/)
-- [メトロポリタン美術館に所蔵される歴史的遺物がどこでいつ作られたかを推測して地図をクリックするゲーム「Anthropeum」](https://gigazine.net/news/20260731-anthropeum/)
-- [コンパイラ「GCC」の開発チームがAI生成コードの受け入れポリシーを公開、15行以上のAI生成コードは受け入れ拒否](https://gigazine.net/news/20260731-gcc-ai-policy/)
-- [TSMCが「準EMIB」と社内で呼ぶ高度なAI半導体パッケージング技術を開発中、IntelのEmbedded Multi-die Interconnect Bridge技術に類似か](https://gigazine.net/news/20260731-tsmc-quasi-emib/)
-- [ウクライナのゼレンスキー大統領が「ロシア国内のドローン攻撃にStarlinkを利用させてほしい」とトランプ大統領に要求](https://gigazine.net/news/20260731-zelensky-trump-starlink-drone-strikes-russia/)
+- [植物は地球上であとどれくらい生き残れるのか？](https://gigazine.net/news/20260802-plant-maximum-lifetime/)
+- [薬局チェーンが業務効率化のためにAIを導入したところ遅延・誤った情報提供・プライバシー問題などが発生](https://gigazine.net/news/20260802-pharmacy-chain-ai/)
+- [「研究論文がSNSで著名な学者に紹介されること」が研究者の求職活動にメリットをもたらすとの研究結果](https://gigazine.net/news/20260801-sns-promotion-paper-academic-hiring/)
+- [バトロワ系人気ゲームが「新次元能力覚醒バトルアクションアニメ」に、アニメ『Free Fire Daybreak』PV公開](https://gigazine.net/news/20260801-free-fire-daybreak-anime-pv/)
+- [ポケモンのイーブイをベージュ＆ブラウンカラーで表現したイヤーカフ型イヤホン「Soundcore C50i イーブイモデル」フォトレビュー](https://gigazine.net/news/20260801-soundcore-c50i-eevee/)
+- [eo光の回線を解約、光ケーブルの切断作業を実際にやってみた](https://gigazine.net/news/20260801-cancel-fiber-optic-service/)
 <!-- GIGAZINE-NEWS-END -->
