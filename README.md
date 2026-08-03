@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [植物は地球上であとどれくらい生き残れるのか？](https://gigazine.net/news/20260802-plant-maximum-lifetime/)
-- [薬局チェーンが業務効率化のためにAIを導入したところ遅延・誤った情報提供・プライバシー問題などが発生](https://gigazine.net/news/20260802-pharmacy-chain-ai/)
-- [「研究論文がSNSで著名な学者に紹介されること」が研究者の求職活動にメリットをもたらすとの研究結果](https://gigazine.net/news/20260801-sns-promotion-paper-academic-hiring/)
-- [バトロワ系人気ゲームが「新次元能力覚醒バトルアクションアニメ」に、アニメ『Free Fire Daybreak』PV公開](https://gigazine.net/news/20260801-free-fire-daybreak-anime-pv/)
-- [ポケモンのイーブイをベージュ＆ブラウンカラーで表現したイヤーカフ型イヤホン「Soundcore C50i イーブイモデル」フォトレビュー](https://gigazine.net/news/20260801-soundcore-c50i-eevee/)
-- [eo光の回線を解約、光ケーブルの切断作業を実際にやってみた](https://gigazine.net/news/20260801-cancel-fiber-optic-service/)
+- [Google Earthに追加された「架空の衛星画像を生成するAI機能」がわずか1日で撤回、偽の災害・軍事画像を作成可能だったため](https://gigazine.net/news/20260803-google-earth-nano-banana-2-removed/)
+- [AI分野の「ユニコーン企業」の半数以上は査読付き論文やプレプリントを一度も発表したことがない](https://gigazine.net/news/20260803-ai-top-startups-barely-publishing-research/)
+- [潜水艦が初めて地球一周を達成した「サンドブラスト作戦」とは？](https://gigazine.net/news/20260803-operation-sandblast/)
+- [世界で最も高価なスパイス「サフラン」が数千年たっても安くならない理由](https://gigazine.net/news/20260803-saffron-stays-expensive/)
+- [Python・HTMLなどをブラウザ上で直接実行でき教室向けに作られたブラウザベースのコーディングプラットフォーム「Trinket」、閉鎖予定だったがオープンソースで無料化されて継続](https://gigazine.net/news/20260802-trinket/)
+- [無料で毎日の予定やルーチンを視覚的なブロック配置で把握しNextCloud・WebDAV・Obsidianなどで同期＆AI連携・歩数記録・専用Androidアプリ・StreamDeckの双方向完全連携も可能な「dayGLANCE」、アカウント登録不要でセルフホストも可能](https://gigazine.net/news/20260802-dayglance/)
 <!-- GIGAZINE-NEWS-END -->
