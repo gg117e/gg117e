@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [Google Earthに追加された「架空の衛星画像を生成するAI機能」がわずか1日で撤回、偽の災害・軍事画像を作成可能だったため](https://gigazine.net/news/20260803-google-earth-nano-banana-2-removed/)
-- [AI分野の「ユニコーン企業」の半数以上は査読付き論文やプレプリントを一度も発表したことがない](https://gigazine.net/news/20260803-ai-top-startups-barely-publishing-research/)
-- [潜水艦が初めて地球一周を達成した「サンドブラスト作戦」とは？](https://gigazine.net/news/20260803-operation-sandblast/)
-- [世界で最も高価なスパイス「サフラン」が数千年たっても安くならない理由](https://gigazine.net/news/20260803-saffron-stays-expensive/)
-- [Python・HTMLなどをブラウザ上で直接実行でき教室向けに作られたブラウザベースのコーディングプラットフォーム「Trinket」、閉鎖予定だったがオープンソースで無料化されて継続](https://gigazine.net/news/20260802-trinket/)
-- [無料で毎日の予定やルーチンを視覚的なブロック配置で把握しNextCloud・WebDAV・Obsidianなどで同期＆AI連携・歩数記録・専用Androidアプリ・StreamDeckの双方向完全連携も可能な「dayGLANCE」、アカウント登録不要でセルフホストも可能](https://gigazine.net/news/20260802-dayglance/)
+- [「最も使用されているプログラミング言語は？」GIGAZINE読者にアンケート調査してみた、将来習得したいプログラミング言語ランキングも](https://gigazine.net/news/20260804-programming-gigazine-user/)
+- [Gmail・Yahoo!メール・Outlook・ThunderbirdなどのうちGIGAZINE読者が使っているメールクライアントはどれなのか？](https://gigazine.net/news/20260804-gigazine-user-mail-client-input-software/)
+- [ホラー映画のBGMを聴くと普通の笑顔でさえ不気味で恐ろしいと感じやすいとの研究結果](https://gigazine.net/news/20260804-horror-soundtracks-smiles-feel-eerie/)
+- [「完全に公平な選挙」は数学的に不可能、地域代表・得票比例・議席数の3条件を同時に満たせないことが判明](https://gigazine.net/news/20260804-election-system/)
+- [ワールドカップの違法配信を取り締まる「オペレーション・オフサイド」は成功を収めたがドメイン押収の限界を浮き彫りにしたと映画協会が指摘](https://gigazine.net/news/20260803-operation-offsides-domain/)
+- [農村地域や農場で育った子どもがアレルギーやぜん息になりにくい「農場効果」を引き起こす細菌が判明](https://gigazine.net/news/20260803-farm-effect-asthma-allergies-protection-bacteria/)
 <!-- GIGAZINE-NEWS-END -->
