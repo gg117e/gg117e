@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=8PbGeKwEnK0'>
-        <img src='https://i.ytimg.com/vi/8PbGeKwEnK0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWYv4vO1ta-DKEtdPaeTh9ifxA0g' width='200px' alt='Pop Virus'>
+      <a href='https://www.youtube.com/watch?v=jJzw1h5CR-I'>
+        <img src='https://i.ytimg.com/vi/jJzw1h5CR-I/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLADGnRyOHtopD0Qm9XHRDtRrHHPYQ' width='200px' alt='Dramaturgy - Eve MV'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=8PbGeKwEnK0'>Pop Virus</a>
+      <a href='https://www.youtube.com/watch?v=jJzw1h5CR-I'>Dramaturgy - Eve MV</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=wggigwtz4dQ'>
-        <img src='https://i.ytimg.com/vi/wggigwtz4dQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDx8lLV4A1ksdgMSl8ktaqa75bzKw' width='200px' alt='IRIS OUT'>
+      <a href='https://www.youtube.com/watch?v=ErqUUYWfOBo'>
+        <img src='https://i.ytimg.com/vi/ErqUUYWfOBo/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBB7tcTIc5uCUY9hhQAoyGHsG3j8A' width='200px' alt='決戦スピリット／CHiCO with HoneyWorks'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=wggigwtz4dQ'>IRIS OUT</a>
+      <a href='https://www.youtube.com/watch?v=ErqUUYWfOBo'>決戦スピリット／CHiCO with HoneyWorks</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=MgNzn7TGuAU'>
-        <img src='https://i.ytimg.com/vi/MgNzn7TGuAU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDe4ondBSw5TVArzEvNpw7SNixRRw' width='200px' alt='儚くない'>
+      <a href='https://www.youtube.com/watch?v=mS7iQKWy9HU'>
+        <img src='https://i.ytimg.com/vi/mS7iQKWy9HU/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBa_nZlGByZUidjuR-90fZbM8IVUA' width='200px' alt='未完成なままで'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=MgNzn7TGuAU'>儚くない</a>
+      <a href='https://www.youtube.com/watch?v=mS7iQKWy9HU'>未完成なままで</a>
     </td>
   </tr>
 </table>
