@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [「最も使用されているプログラミング言語は？」GIGAZINE読者にアンケート調査してみた、将来習得したいプログラミング言語ランキングも](https://gigazine.net/news/20260804-programming-gigazine-user/)
-- [Gmail・Yahoo!メール・Outlook・ThunderbirdなどのうちGIGAZINE読者が使っているメールクライアントはどれなのか？](https://gigazine.net/news/20260804-gigazine-user-mail-client-input-software/)
-- [ホラー映画のBGMを聴くと普通の笑顔でさえ不気味で恐ろしいと感じやすいとの研究結果](https://gigazine.net/news/20260804-horror-soundtracks-smiles-feel-eerie/)
-- [「完全に公平な選挙」は数学的に不可能、地域代表・得票比例・議席数の3条件を同時に満たせないことが判明](https://gigazine.net/news/20260804-election-system/)
-- [ワールドカップの違法配信を取り締まる「オペレーション・オフサイド」は成功を収めたがドメイン押収の限界を浮き彫りにしたと映画協会が指摘](https://gigazine.net/news/20260803-operation-offsides-domain/)
-- [農村地域や農場で育った子どもがアレルギーやぜん息になりにくい「農場効果」を引き起こす細菌が判明](https://gigazine.net/news/20260803-farm-effect-asthma-allergies-protection-bacteria/)
+- [動画生成AI「FLUX 3 Video」が一般公開される、1080p・20秒の動画を生成可能で近日中にオープンモデルも公開予定](https://gigazine.net/news/20260805-flux-3-video/)
+- [夜型男性は後天性早漏になりやすい](https://gigazine.net/news/20260805-night-owls-higher-risk-premature-ejaculation/)
+- [人間はAIが協力すると予想していても裏切りやすいことが実験で判明](https://gigazine.net/news/20260805-human-with-ai-agents/)
+- [運動は週1回にまとめても週3回とほぼ同じように体脂肪を減らせるとの研究結果](https://gigazine.net/news/20260805-once-weekly-exercise-fat-loss/)
+- [「権限の低いエージェントをハックして上位権限でコードを実行する」というGoogle ADKのハッキング手法が発見される](https://gigazine.net/news/20260804-agent-development-kit-attack/)
+- [60年前に「死んだサンゴ礁」と判断された海域で豊かなサンゴ生態系が発見される](https://gigazine.net/news/20260804-benin-coral-reefs/)
 <!-- GIGAZINE-NEWS-END -->
