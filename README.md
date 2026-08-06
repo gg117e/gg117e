@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [動画生成AI「FLUX 3 Video」が一般公開される、1080p・20秒の動画を生成可能で近日中にオープンモデルも公開予定](https://gigazine.net/news/20260805-flux-3-video/)
-- [夜型男性は後天性早漏になりやすい](https://gigazine.net/news/20260805-night-owls-higher-risk-premature-ejaculation/)
-- [人間はAIが協力すると予想していても裏切りやすいことが実験で判明](https://gigazine.net/news/20260805-human-with-ai-agents/)
-- [運動は週1回にまとめても週3回とほぼ同じように体脂肪を減らせるとの研究結果](https://gigazine.net/news/20260805-once-weekly-exercise-fat-loss/)
-- [「権限の低いエージェントをハックして上位権限でコードを実行する」というGoogle ADKのハッキング手法が発見される](https://gigazine.net/news/20260804-agent-development-kit-attack/)
-- [60年前に「死んだサンゴ礁」と判断された海域で豊かなサンゴ生態系が発見される](https://gigazine.net/news/20260804-benin-coral-reefs/)
+- [VRAM 4GBのノートPC向けGPUでも8Bモデルをファインチューニングできるオープンソースツール「Soup」](https://gigazine.net/news/20260806-soup-fine-tune-llm/)
+- [芝生を効率よく刈れる人とそうでない人の違いはどこにあるのか？](https://gigazine.net/news/20260806-mow-a-lawn-better/)
+- [男性ホルモンのテストステロン値は高すぎても低すぎてもうつ病のリスクが高いとの研究結果](https://gigazine.net/news/20260806-high-low-testosterone-depression/)
+- [iPhoneで動作しBonsai 27Bと同等性能で13倍高速なAI「Maple-Preview」が登場、ローカルAIがまた1歩前進](https://gigazine.net/news/20260805-maple-preview/)
+- [アフリカのサイバー犯罪の50％以上にAIが悪用されており欧米諸国にも被害が及んでいるとインターポールが発表](https://gigazine.net/news/20260805-ai-fuels-half-cybercrime-africa-interpol/)
+- [「私たちはどんな色なのか？」を手作業でデータ分析して人間の肌の色を表現する新しい色空間を構築した「Inclusive Color Space」](https://gigazine.net/news/20260805-inclusive-color-space/)
 <!-- GIGAZINE-NEWS-END -->
