@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [VRAM 4GBのノートPC向けGPUでも8Bモデルをファインチューニングできるオープンソースツール「Soup」](https://gigazine.net/news/20260806-soup-fine-tune-llm/)
-- [芝生を効率よく刈れる人とそうでない人の違いはどこにあるのか？](https://gigazine.net/news/20260806-mow-a-lawn-better/)
-- [男性ホルモンのテストステロン値は高すぎても低すぎてもうつ病のリスクが高いとの研究結果](https://gigazine.net/news/20260806-high-low-testosterone-depression/)
-- [iPhoneで動作しBonsai 27Bと同等性能で13倍高速なAI「Maple-Preview」が登場、ローカルAIがまた1歩前進](https://gigazine.net/news/20260805-maple-preview/)
-- [アフリカのサイバー犯罪の50％以上にAIが悪用されており欧米諸国にも被害が及んでいるとインターポールが発表](https://gigazine.net/news/20260805-ai-fuels-half-cybercrime-africa-interpol/)
-- [「私たちはどんな色なのか？」を手作業でデータ分析して人間の肌の色を表現する新しい色空間を構築した「Inclusive Color Space」](https://gigazine.net/news/20260805-inclusive-color-space/)
+- [AMDがAIモデルの「重み」を直接半導体に組み込むTaalasを買収へ、AI推論の高速化を狙う](https://gigazine.net/news/20260807-amd-acquire-taalas/)
+- [Netflixが有料で「GTA6」の長尺映像を先行公開することにファンが憤慨](https://gigazine.net/news/20260807-gta6-extended-trailer-netflix-paywall/)
+- [ChatGPTの無料ユーザーもGPT-5.6 Lunaを使用可能に、使用量無制限](https://gigazine.net/news/20260807-chatgpt-default-luna/)
+- [Googleがオフライン翻訳デバイス「Gemma Translator」を発表、Gemma 4 E2B搭載でローカル翻訳可能](https://gigazine.net/news/20260807-google-gemma-translator/)
+- [美徳・知識・幸福に関するアリストテレスの名言25選](https://gigazine.net/news/20260807-top-25-aristotle-quotes/)
+- [広島の原爆によってこれまで知られていなかった多成分合金が生成されていたことが判明](https://gigazine.net/news/20260807-hiroshima-metal-alloy/)
 <!-- GIGAZINE-NEWS-END -->
