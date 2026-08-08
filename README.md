@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [AMDがAIモデルの「重み」を直接半導体に組み込むTaalasを買収へ、AI推論の高速化を狙う](https://gigazine.net/news/20260807-amd-acquire-taalas/)
-- [Netflixが有料で「GTA6」の長尺映像を先行公開することにファンが憤慨](https://gigazine.net/news/20260807-gta6-extended-trailer-netflix-paywall/)
-- [ChatGPTの無料ユーザーもGPT-5.6 Lunaを使用可能に、使用量無制限](https://gigazine.net/news/20260807-chatgpt-default-luna/)
-- [Googleがオフライン翻訳デバイス「Gemma Translator」を発表、Gemma 4 E2B搭載でローカル翻訳可能](https://gigazine.net/news/20260807-google-gemma-translator/)
-- [美徳・知識・幸福に関するアリストテレスの名言25選](https://gigazine.net/news/20260807-top-25-aristotle-quotes/)
-- [広島の原爆によってこれまで知られていなかった多成分合金が生成されていたことが判明](https://gigazine.net/news/20260807-hiroshima-metal-alloy/)
+- [AI音楽生成サービス「Suno」がAI生成楽曲に音声透かしを導入すると発表](https://gigazine.net/news/20260808-suno-start-watermarking-songs/)
+- [1台で10ポートを備えたクランプ固定式電源タップ「Anker Nano Power Strip (10-in-1, 70W, クランプ式)」レビュー](https://gigazine.net/news/20260808-anker-nano-power-strip-10-in-1/)
+- [Nintendo Switch 2のプレイ動画をリニアPCMサラウンドで録画する方法、Blackmagic Designのキャプチャーボード「UltraStudio Express Recorder 3G」を使ってみた](https://gigazine.net/news/20260808-blackmagic-design-ultrastudio-express-recorder-3g/)
+- [「Grokipedia」は2026年4月24日に12件の修正提案を処理したあと一切の更新が停止している](https://gigazine.net/news/20260807-grokipedia/)
+- [面白い要素を全部乗せ、ローグライク×デッキ構築×パーティ制RPGの「Chrono Ark」を遊んでみた](https://gigazine.net/news/20260807-chrono-ark/)
+- [初音ミクが計算してくれる電卓アプリ「電卓 - Desktop Mate Widgets」を使ってみた、数字を読み上げて計算に悩む姿も見せてくれる](https://gigazine.net/news/20260807-desktop-mate-widgets-calc/)
 <!-- GIGAZINE-NEWS-END -->
