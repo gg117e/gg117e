@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=_HGPxXTIrvg'>
-        <img src='https://i.ytimg.com/vi/_HGPxXTIrvg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCntFc3OMMdrjs0ZHthaVaWH5snw' width='200px' alt='サマータイムシンデレラ'>
+      <a href='https://www.youtube.com/watch?v=U6iReNSghS4'>
+        <img src='https://i.ytimg.com/vi/U6iReNSghS4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAL7XssFoF2SkL5wNau6M8VbXLtjQ' width='200px' alt='Kiseki'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=_HGPxXTIrvg'>サマータイムシンデレラ</a>
+      <a href='https://www.youtube.com/watch?v=U6iReNSghS4'>Kiseki</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=YFOg4grr_yA'>
-        <img src='https://i.ytimg.com/vi/YFOg4grr_yA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA78r8IZpJxtjfrvHIwGm6oVawSAg' width='200px' alt='紙一重'>
+      <a href='https://www.youtube.com/watch?v=uhY5LztYnoQ'>
+        <img src='https://i.ytimg.com/vi/uhY5LztYnoQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCG2PLxs6Mn3iT3s5CyejxHT6v26g' width='200px' alt='ありがとうの輪'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=YFOg4grr_yA'>紙一重</a>
+      <a href='https://www.youtube.com/watch?v=uhY5LztYnoQ'>ありがとうの輪</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=CjaM8qWzssk'>
-        <img src='https://i.ytimg.com/vi/CjaM8qWzssk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBP1ncZkqRaXEFX5KEzP-6JF15fBw' width='200px' alt='晩餐歌 - Bansanka'>
+      <a href='https://www.youtube.com/watch?v=wykx9MzjL-8'>
+        <img src='https://i.ytimg.com/vi/wykx9MzjL-8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaoH4EOxmPn7by1akUA2OC7YMMhg' width='200px' alt='AAA / "Wake up!"Music Video'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=CjaM8qWzssk'>晩餐歌 - Bansanka</a>
+      <a href='https://www.youtube.com/watch?v=wykx9MzjL-8'>AAA / "Wake up!"Music Video</a>
     </td>
   </tr>
 </table>
