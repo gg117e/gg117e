@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=s4ZThuWQdhA'>
-        <img src='https://i.ytimg.com/vi/s4ZThuWQdhA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBL2544KnUtG-gjg-ro3N-gIAIgbw' width='200px' alt='Que Sera Sera'>
+      <a href='https://www.youtube.com/watch?v=WHKlMwYHb34'>
+        <img src='https://i.ytimg.com/vi/WHKlMwYHb34/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJt9CGgZ8JoQ_HT18Wl7xKSjJ9fw' width='200px' alt='The Peak'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=s4ZThuWQdhA'>Que Sera Sera</a>
+      <a href='https://www.youtube.com/watch?v=WHKlMwYHb34'>The Peak</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=n2m9ebS3tEo'>
-        <img src='https://i.ytimg.com/vi/n2m9ebS3tEo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXzDib6DqcUgUEmhX8e254Si2mQw' width='200px' alt='Beautiful Fin'>
+      <a href='https://www.youtube.com/watch?v=ckq-dOv48sQ'>
+        <img src='https://i.ytimg.com/vi/ckq-dOv48sQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuE0UE4wSOKloWugH8wzdgDoG_PQ' width='200px' alt='猫 〜THE FIRST TAKE ver.〜'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=n2m9ebS3tEo'>Beautiful Fin</a>
+      <a href='https://www.youtube.com/watch?v=ckq-dOv48sQ'>猫 〜THE FIRST TAKE ver.〜</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=3KWjq6V4YNo'>
-        <img src='https://i.ytimg.com/vi/3KWjq6V4YNo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2Upf8C4rqx-nY8WnLCnwFgGEynQ' width='200px' alt='ピーターパン'>
+      <a href='https://www.youtube.com/watch?v=mN5F3l3r8QM'>
+        <img src='https://i.ytimg.com/vi/mN5F3l3r8QM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoS8UnfB9Cul4GAuAc-URqS0drDw' width='200px' alt='Romanticism'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=3KWjq6V4YNo'>ピーターパン</a>
+      <a href='https://www.youtube.com/watch?v=mN5F3l3r8QM'>Romanticism</a>
     </td>
   </tr>
 </table>
