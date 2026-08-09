@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=cMLTX2FClxw'>
-        <img src='https://i.ytimg.com/vi/cMLTX2FClxw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdhytK3vnYCrOsTlHB2LeYE2Kp5g' width='200px' alt='OFFICIAL HIGE DANDISM - Vintage［Official Video］'>
+      <a href='https://www.youtube.com/watch?v=OEsV1iQNQFw'>
+        <img src='https://i.ytimg.com/vi/OEsV1iQNQFw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnGdeEWZl4JUUFduoF9VdWrDnQOw' width='200px' alt='相思相愛'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=cMLTX2FClxw'>OFFICIAL HIGE DANDISM - Vintage［Official Video］</a>
+      <a href='https://www.youtube.com/watch?v=OEsV1iQNQFw'>相思相愛</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=n2m9ebS3tEo'>
-        <img src='https://i.ytimg.com/vi/n2m9ebS3tEo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXzDib6DqcUgUEmhX8e254Si2mQw' width='200px' alt='Beautiful Fin'>
+      <a href='https://www.youtube.com/watch?v=FuxtXqD19lI'>
+        <img src='https://i.ytimg.com/vi/FuxtXqD19lI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5MThWoojMGPW0Kep9FJAmSFIcaw' width='200px' alt='50%'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=n2m9ebS3tEo'>Beautiful Fin</a>
+      <a href='https://www.youtube.com/watch?v=FuxtXqD19lI'>50%</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=mLBe332PrQ0'>
-        <img src='https://i.ytimg.com/vi/mLBe332PrQ0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCn6a1PepAWYqVhrPmg2106R8n7UQ' width='200px' alt='Magic'>
+      <a href='https://www.youtube.com/watch?v=TDpJAuxpfMs'>
+        <img src='https://i.ytimg.com/vi/TDpJAuxpfMs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9Cz2hEIi2OAbI-OqYwpBuvb91ZQ' width='200px' alt='愛に出会い恋は続く／HoneyWorks feat.Kotoha'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=mLBe332PrQ0'>Magic</a>
+      <a href='https://www.youtube.com/watch?v=TDpJAuxpfMs'>愛に出会い恋は続く／HoneyWorks feat.Kotoha</a>
     </td>
   </tr>
 </table>
