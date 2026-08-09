@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [AI音楽生成サービス「Suno」がAI生成楽曲に音声透かしを導入すると発表](https://gigazine.net/news/20260808-suno-start-watermarking-songs/)
-- [1台で10ポートを備えたクランプ固定式電源タップ「Anker Nano Power Strip (10-in-1, 70W, クランプ式)」レビュー](https://gigazine.net/news/20260808-anker-nano-power-strip-10-in-1/)
-- [Nintendo Switch 2のプレイ動画をリニアPCMサラウンドで録画する方法、Blackmagic Designのキャプチャーボード「UltraStudio Express Recorder 3G」を使ってみた](https://gigazine.net/news/20260808-blackmagic-design-ultrastudio-express-recorder-3g/)
-- [「Grokipedia」は2026年4月24日に12件の修正提案を処理したあと一切の更新が停止している](https://gigazine.net/news/20260807-grokipedia/)
-- [面白い要素を全部乗せ、ローグライク×デッキ構築×パーティ制RPGの「Chrono Ark」を遊んでみた](https://gigazine.net/news/20260807-chrono-ark/)
-- [初音ミクが計算してくれる電卓アプリ「電卓 - Desktop Mate Widgets」を使ってみた、数字を読み上げて計算に悩む姿も見せてくれる](https://gigazine.net/news/20260807-desktop-mate-widgets-calc/)
+- [「ユーザー名に含まれるアンダースコア1つ」を警察が見落とし無実の男性が18カ月服役、控訴審で無罪に](https://gigazine.net/news/20260809-missing-underscore/)
+- [本や雑誌を開いたままキープできるキングジムのブッククリップ「ツイップ」レビュー、 伸縮してA6～B5判に対応](https://gigazine.net/news/20260809-kingjim-twip/)
+- [最大35日間駆動で睡眠時間や血中酸素濃度も測定してくれるアナログ時計風スマートウォッチ「ScanWatch Vitals」を使ってみた](https://gigazine.net/news/20260808-scanwatch-vitals/)
+- [低所得のアーティストが「毎月約16万円のベーシックインカム」を無条件で受け取る実験で起きた変化とは？](https://gigazine.net/news/20260808-artists-free-money-make-more-art/)
+- [日本の万歩計から生まれた「1日1万歩」という目標には科学的な根拠があるのか？](https://gigazine.net/news/20260808-10000-steps-health-goal/)
+- [紙を挟んで富士山を拝める「富士山クリップ」](https://gigazine.net/news/20260808-fujisan-clip/)
 <!-- GIGAZINE-NEWS-END -->
