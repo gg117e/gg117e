@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [「ユーザー名に含まれるアンダースコア1つ」を警察が見落とし無実の男性が18カ月服役、控訴審で無罪に](https://gigazine.net/news/20260809-missing-underscore/)
-- [本や雑誌を開いたままキープできるキングジムのブッククリップ「ツイップ」レビュー、 伸縮してA6～B5判に対応](https://gigazine.net/news/20260809-kingjim-twip/)
-- [最大35日間駆動で睡眠時間や血中酸素濃度も測定してくれるアナログ時計風スマートウォッチ「ScanWatch Vitals」を使ってみた](https://gigazine.net/news/20260808-scanwatch-vitals/)
-- [低所得のアーティストが「毎月約16万円のベーシックインカム」を無条件で受け取る実験で起きた変化とは？](https://gigazine.net/news/20260808-artists-free-money-make-more-art/)
-- [日本の万歩計から生まれた「1日1万歩」という目標には科学的な根拠があるのか？](https://gigazine.net/news/20260808-10000-steps-health-goal/)
-- [紙を挟んで富士山を拝める「富士山クリップ」](https://gigazine.net/news/20260808-fujisan-clip/)
+- [どんなゲーム機を持ってる？欲しいゲーム機は？好きなゲームのジャンルは？などGIGAZINE読者のゲーム事情を徹底調査してみた](https://gigazine.net/news/20260810-gigazine-user-game/)
+- [半導体がどうやって作られるかがゲーム風のビジュアルと説明で簡単にすぐわかる「ChipTycoon」](https://gigazine.net/news/20260810-chip-tycoon/)
+- [生まれた順番と病気のリスクに関連はあるのか？](https://gigazine.net/news/20260810-birth-order-disease-risk/)
+- [18歳以下入場禁止なワンダーフェスティバル 2026[夏]の成人向けエリアのアイテムいろいろ](https://gigazine.net/news/20260809-over19-wf2026s/)
+- [宗教的な集まりに参加することに直接的なメンタルヘルス改善効果はないとの研究結果](https://gigazine.net/news/20260809-going-religious-services-mental-health/)
+- [がん関連ウイルスを大幅に減少させるチューインガムが開発される](https://gigazine.net/news/20260809-cancer-fighting-chewing-gum/)
 <!-- GIGAZINE-NEWS-END -->
