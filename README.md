@@ -33,11 +33,11 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=rqJgOLXsr3M'>
-        <img src='https://i.ytimg.com/vi/rqJgOLXsr3M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCec-aruTMcKZDIMW7DHuBnHIVUnA' width='200px' alt='おもかげ (produced by Vaundy)'>
+      <a href='https://www.youtube.com/watch?v=HZFQbyb39lU'>
+        <img src='https://i.ytimg.com/vi/HZFQbyb39lU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAb_miPNN8kFLEVyEwuBij_-Pqiyw' width='200px' alt='I Want You Back'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=rqJgOLXsr3M'>おもかげ (produced by Vaundy)</a>
+      <a href='https://www.youtube.com/watch?v=HZFQbyb39lU'>I Want You Back</a>
     </td>
     <td align='center'>
       <a href='https://www.youtube.com/watch?v=pyDCubgU57g'>
@@ -47,11 +47,11 @@
       <a href='https://www.youtube.com/watch?v=pyDCubgU57g'>蒼のワルツ - Eve MV</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=hSdcy2_vtaQ'>
-        <img src='https://i.ytimg.com/vi/hSdcy2_vtaQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPw24hhUebfUwdjUQ9IOX0zI-_3Q' width='200px' alt='僕らまた (Us, again) - SG (Official Lyric Video)'>
+      <a href='https://www.youtube.com/watch?v=9UL2qJtv6Fo'>
+        <img src='https://i.ytimg.com/vi/9UL2qJtv6Fo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSSeEoumn3cU-x48Qt7bcCh1WW2w' width='200px' alt='Tobira'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=hSdcy2_vtaQ'>僕らまた (Us, again) - SG (Official Lyric Video)</a>
+      <a href='https://www.youtube.com/watch?v=9UL2qJtv6Fo'>Tobira</a>
     </td>
   </tr>
 </table>
