@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=1GQ07JcqH48'>
-        <img src='https://i.ytimg.com/vi/1GQ07JcqH48/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSPACmTI9ygMCW0JC14xxWjsnbSA' width='200px' alt='Family Song'>
+      <a href='https://www.youtube.com/watch?v=69yZ00BJCgM'>
+        <img src='https://i.ytimg.com/vi/69yZ00BJCgM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKJVbc2I-1y38yhjMYtYuwPhN2qA' width='200px' alt='Tokimeki'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=1GQ07JcqH48'>Family Song</a>
+      <a href='https://www.youtube.com/watch?v=69yZ00BJCgM'>Tokimeki</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=vms87P01vRU'>
-        <img src='https://i.ytimg.com/vi/vms87P01vRU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzZnQp_bBT2p2b05faDDdNT1ytRg' width='200px' alt='ファンファーレ'>
+      <a href='https://www.youtube.com/watch?v=mN5F3l3r8QM'>
+        <img src='https://i.ytimg.com/vi/mN5F3l3r8QM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoS8UnfB9Cul4GAuAc-URqS0drDw' width='200px' alt='Romanticism'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=vms87P01vRU'>ファンファーレ</a>
+      <a href='https://www.youtube.com/watch?v=mN5F3l3r8QM'>Romanticism</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=-_PKhPMXMDY'>
-        <img src='https://i.ytimg.com/vi/-_PKhPMXMDY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA96C28QeG6Y8XikTP7sXlae0UcmA' width='200px' alt='Tokimeki / Vaundy：MUSIC VIDEO'>
+      <a href='https://www.youtube.com/watch?v=rqJgOLXsr3M'>
+        <img src='https://i.ytimg.com/vi/rqJgOLXsr3M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCec-aruTMcKZDIMW7DHuBnHIVUnA' width='200px' alt='おもかげ (produced by Vaundy)'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=-_PKhPMXMDY'>Tokimeki / Vaundy：MUSIC VIDEO</a>
+      <a href='https://www.youtube.com/watch?v=rqJgOLXsr3M'>おもかげ (produced by Vaundy)</a>
     </td>
   </tr>
 </table>
