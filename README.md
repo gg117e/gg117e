@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [どんなゲーム機を持ってる？欲しいゲーム機は？好きなゲームのジャンルは？などGIGAZINE読者のゲーム事情を徹底調査してみた](https://gigazine.net/news/20260810-gigazine-user-game/)
-- [半導体がどうやって作られるかがゲーム風のビジュアルと説明で簡単にすぐわかる「ChipTycoon」](https://gigazine.net/news/20260810-chip-tycoon/)
-- [生まれた順番と病気のリスクに関連はあるのか？](https://gigazine.net/news/20260810-birth-order-disease-risk/)
-- [18歳以下入場禁止なワンダーフェスティバル 2026[夏]の成人向けエリアのアイテムいろいろ](https://gigazine.net/news/20260809-over19-wf2026s/)
-- [宗教的な集まりに参加することに直接的なメンタルヘルス改善効果はないとの研究結果](https://gigazine.net/news/20260809-going-religious-services-mental-health/)
-- [がん関連ウイルスを大幅に減少させるチューインガムが開発される](https://gigazine.net/news/20260809-cancer-fighting-chewing-gum/)
+- [【電子書籍セール50％オフ】Kindle本をまるっと半額にしたサマーセールを開催！【2026年8月16日(日)まで】](https://gigazine.net/news/20260811-ebook-summer-sale/)
+- [香港の研究者らが脳卒中治療のための点鼻スプレーを開発](https://gigazine.net/news/20260811-nasal-spray-stroke/)
+- [Steam公式ゲーミングPC「Steam Machine」をLinuxデスクトップマシンとして使ってみたよレビュー、GIMPやFirefoxなどのLinuxアプリを実行可能](https://gigazine.net/news/20260810-steam-machine-pc/)
+- [Chromeに続いてEdgeもManifest V2拡張機能の段階的な無効化を開始、uBlock Originなど従来型広告ブロッカーにも影響](https://gigazine.net/news/20260810-microsoft-edge-manifest-v3/)
+- [SK Hynixが韓国で約6兆円を投じて半導体製造施設を拡張する計画、龍仁に約4兆円のDRAM工場、清州に約2兆円のNAND製造工場を建設へ](https://gigazine.net/news/20260810-sk-hynix-38b/)
+- [Claude Fable 5で生物学の質問が過剰に制限される問題を改善、誤検出を減らして「フォールバック」を約85％削減](https://gigazine.net/news/20260810-claude-fable-5-biology-safeguard/)
 <!-- GIGAZINE-NEWS-END -->
