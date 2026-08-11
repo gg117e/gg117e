@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=kNDbaYEp0tU'>
-        <img src='https://i.ytimg.com/vi/kNDbaYEp0tU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvX1Ba1QNm2i-8CkQ93gpnsd2H7g' width='200px' alt='怪獣の花唄'>
+      <a href='https://www.youtube.com/watch?v=bt2j17P7XVE'>
+        <img src='https://i.ytimg.com/vi/bt2j17P7XVE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfLPyZRgXU9JFZzFkCBW1iTiq4QA' width='200px' alt='Pride'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=kNDbaYEp0tU'>怪獣の花唄</a>
+      <a href='https://www.youtube.com/watch?v=bt2j17P7XVE'>Pride</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=12IZ8oyF6X4'>
-        <img src='https://i.ytimg.com/vi/12IZ8oyF6X4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTHYqp8jlD6v-pEq1V60UnghEk6Q' width='200px' alt='Shuhasu'>
+      <a href='https://www.youtube.com/watch?v=5W2LCOjgA2w'>
+        <img src='https://i.ytimg.com/vi/5W2LCOjgA2w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJVEmSPKowr8dFsCJBt-6t_A-uTA' width='200px' alt='好き、お願い'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=12IZ8oyF6X4'>Shuhasu</a>
+      <a href='https://www.youtube.com/watch?v=5W2LCOjgA2w'>好き、お願い</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=37W7Y2RRyiM'>
-        <img src='https://i.ytimg.com/vi/37W7Y2RRyiM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDm5Sq8W3leIBeRoIRalhEJDqGniQ' width='200px' alt='Pretender'>
+      <a href='https://www.youtube.com/watch?v=SaVLctSLnh8'>
+        <img src='https://i.ytimg.com/vi/SaVLctSLnh8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAo2EVknq2t_RyeExV89JobTcXiVw' width='200px' alt='ピースサイン - Peace Sign'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=37W7Y2RRyiM'>Pretender</a>
+      <a href='https://www.youtube.com/watch?v=SaVLctSLnh8'>ピースサイン - Peace Sign</a>
     </td>
   </tr>
 </table>
