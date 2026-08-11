@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=KKi7KXynBwA'>
-        <img src='https://i.ytimg.com/vi/KKi7KXynBwA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFTKwBCcvNjWzxputKmC9GKipoZQ' width='200px' alt='名前を呼ぶよ'>
+      <a href='https://www.youtube.com/watch?v=X55QEsB64O8'>
+        <img src='https://i.ytimg.com/vi/X55QEsB64O8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDazVneZ2Ic3_-LLYRyEOjtorKs0A' width='200px' alt='君の知らない物語'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=KKi7KXynBwA'>名前を呼ぶよ</a>
+      <a href='https://www.youtube.com/watch?v=X55QEsB64O8'>君の知らない物語</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=RJ_bw-jlkDc'>
-        <img src='https://i.ytimg.com/vi/RJ_bw-jlkDc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvgIqU4A9mLYreu5JiPxegrdtchg' width='200px' alt='Green Boys'>
+      <a href='https://www.youtube.com/watch?v=Tj9fTEK-BA8'>
+        <img src='https://i.ytimg.com/vi/Tj9fTEK-BA8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxwEeFTF7jC9sl2oBjTENeVgTkQg' width='200px' alt='まちがいさがし'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=RJ_bw-jlkDc'>Green Boys</a>
+      <a href='https://www.youtube.com/watch?v=Tj9fTEK-BA8'>まちがいさがし</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=1mcvbnDZFho'>
-        <img src='https://i.ytimg.com/vi/1mcvbnDZFho/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDYxeG6Q-a14U8TM3MZcWxjcmfvg' width='200px' alt='ドラマティックおいでよ'>
+      <a href='https://www.youtube.com/watch?v=37W7Y2RRyiM'>
+        <img src='https://i.ytimg.com/vi/37W7Y2RRyiM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDm5Sq8W3leIBeRoIRalhEJDqGniQ' width='200px' alt='Pretender'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=1mcvbnDZFho'>ドラマティックおいでよ</a>
+      <a href='https://www.youtube.com/watch?v=37W7Y2RRyiM'>Pretender</a>
     </td>
   </tr>
 </table>
