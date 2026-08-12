@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
+- [AIモデル「Qwen3.8-Max」の大口商用ユーザーにアリババが収益の一部共有を義務づけへ](https://gigazine.net/news/20260812-alibaba-charge-qwen/)
 - [【電子書籍セール50％オフ】Kindle本をまるっと半額にしたサマーセールを開催！【2026年8月16日(日)まで】](https://gigazine.net/news/20260811-ebook-summer-sale/)
-- [香港の研究者らが脳卒中治療のための点鼻スプレーを開発](https://gigazine.net/news/20260811-nasal-spray-stroke/)
-- [Steam公式ゲーミングPC「Steam Machine」をLinuxデスクトップマシンとして使ってみたよレビュー、GIMPやFirefoxなどのLinuxアプリを実行可能](https://gigazine.net/news/20260810-steam-machine-pc/)
-- [Chromeに続いてEdgeもManifest V2拡張機能の段階的な無効化を開始、uBlock Originなど従来型広告ブロッカーにも影響](https://gigazine.net/news/20260810-microsoft-edge-manifest-v3/)
-- [SK Hynixが韓国で約6兆円を投じて半導体製造施設を拡張する計画、龍仁に約4兆円のDRAM工場、清州に約2兆円のNAND製造工場を建設へ](https://gigazine.net/news/20260810-sk-hynix-38b/)
-- [Claude Fable 5で生物学の質問が過剰に制限される問題を改善、誤検出を減らして「フォールバック」を約85％削減](https://gigazine.net/news/20260810-claude-fable-5-biology-safeguard/)
+- [AIによる学業不正撲滅のため「提出した筆記課題についての口頭試問」がデンマークの高校生に義務づけられる](https://gigazine.net/news/20260812-denmark-requires-oral-defenses-students-ai/)
+- [「野菜の多様性の低下」が現代人の食生活を破壊するかもしれない](https://gigazine.net/news/20260812-vegetable-biodiversity-diets/)
+- [人気店の1日10食限定メニューを再現したハウス食品の「地球のカレー ＜タイ風マッサマンカレー＞」を食べてみた](https://gigazine.net/news/20260811-housefoods-chikyuu-no-curry-massaman/)
+- [マンジャロやオゼンピックなどダイエットに使われるGLP-1受容体作動薬は「ハゲ」のリスクを高める可能性](https://gigazine.net/news/20260811-weight-loss-drugs-hair-loss-risk/)
 <!-- GIGAZINE-NEWS-END -->
