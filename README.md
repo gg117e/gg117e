@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=I8fxhn_l08g'>
-        <img src='https://i.ytimg.com/vi/I8fxhn_l08g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDSBeXOzTWFpJfP7MAMG5QX5MRHA' width='200px' alt='OFFICIAL HIGE DANDISM  - Choral A [Official Video]'>
+      <a href='https://www.youtube.com/watch?v=aaAxYOuqstw'>
+        <img src='https://i.ytimg.com/vi/aaAxYOuqstw/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAI6_4fR2w62mIe8OevQ-Tk2i_hOA' width='200px' alt='Slow & Easy'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=I8fxhn_l08g'>OFFICIAL HIGE DANDISM  - Choral A [Official Video]</a>
+      <a href='https://www.youtube.com/watch?v=aaAxYOuqstw'>Slow & Easy</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=pQpX71tiDNg'>
-        <img src='https://i.ytimg.com/vi/pQpX71tiDNg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXxwAnvmSxHdesXChIfeSv9_oNUg' width='200px' alt='Aiuta'>
+      <a href='https://www.youtube.com/watch?v=hN5MBlGv2Ac'>
+        <img src='https://i.ytimg.com/vi/hN5MBlGv2Ac/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDQiuqqduQ7j_hLRiZ3Ry4hp4fe8w' width='200px' alt='OFFICIAL HIGE DANDISM - Subtitle [Official Video]'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=pQpX71tiDNg'>Aiuta</a>
+      <a href='https://www.youtube.com/watch?v=hN5MBlGv2Ac'>OFFICIAL HIGE DANDISM - Subtitle [Official Video]</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=1tk1pqwrOys'>
-        <img src='https://i.ytimg.com/vi/1tk1pqwrOys/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAa4d548fZz_6zUv6-AdAxqR1CW8A' width='200px' alt='廻廻奇譚 - Eve MV'>
+      <a href='https://www.youtube.com/watch?v=NUFfRHk1Qcs'>
+        <img src='https://i.ytimg.com/vi/NUFfRHk1Qcs/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDpCJS2Rt3kaMOmBVCmnpUHJuo3yA' width='200px' alt='Start'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=1tk1pqwrOys'>廻廻奇譚 - Eve MV</a>
+      <a href='https://www.youtube.com/watch?v=NUFfRHk1Qcs'>Start</a>
     </td>
   </tr>
 </table>
