@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=pjepmiuuH-A'>
-        <img src='https://i.ytimg.com/vi/pjepmiuuH-A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGCPr1dhG8TgZYOg5-RB6sHh5hGA' width='200px' alt='Glorious'>
+      <a href='https://www.youtube.com/watch?v=FuxtXqD19lI'>
+        <img src='https://i.ytimg.com/vi/FuxtXqD19lI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5MThWoojMGPW0Kep9FJAmSFIcaw' width='200px' alt='50%'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=pjepmiuuH-A'>Glorious</a>
+      <a href='https://www.youtube.com/watch?v=FuxtXqD19lI'>50%</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Uwhbouk64K4'>
-        <img src='https://i.ytimg.com/vi/Uwhbouk64K4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKHPfVfHTzdk0VxCwn9_cdeQqAbw' width='200px' alt='Smile Again'>
+      <a href='https://www.youtube.com/watch?v=-QZAivfOiaM'>
+        <img src='https://i.ytimg.com/vi/-QZAivfOiaM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDGdiV4fp1JM9qu3MuJ9uY6z5BXA' width='200px' alt='P.S.'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Uwhbouk64K4'>Smile Again</a>
+      <a href='https://www.youtube.com/watch?v=-QZAivfOiaM'>P.S.</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ArN80_ahos0'>
-        <img src='https://i.ytimg.com/vi/ArN80_ahos0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0St2Q4-pGDvfGebZ98ijNN0K2qQ' width='200px' alt='Anatani'>
+      <a href='https://www.youtube.com/watch?v=0Ac1TwKuwCQ'>
+        <img src='https://i.ytimg.com/vi/0Ac1TwKuwCQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqufMDYaRonIKh0kldxsPueBAd9g' width='200px' alt='ラストソング'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ArN80_ahos0'>Anatani</a>
+      <a href='https://www.youtube.com/watch?v=0Ac1TwKuwCQ'>ラストソング</a>
     </td>
   </tr>
 </table>
