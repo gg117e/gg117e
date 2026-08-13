@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [AIモデル「Qwen3.8-Max」の大口商用ユーザーにアリババが収益の一部共有を義務づけへ](https://gigazine.net/news/20260812-alibaba-charge-qwen/)
+- [Microsoftは次世代AIチップ「Maia 300」を早ければ2026年9月にも発表予定、2027年中に30万個以上の製造を目指しTSMCと交渉中](https://gigazine.net/news/20260813-microsoft-maia-300-ai-chip-fall/)
 - [【電子書籍セール50％オフ】Kindle本をまるっと半額にしたサマーセールを開催！【2026年8月16日(日)まで】](https://gigazine.net/news/20260811-ebook-summer-sale/)
-- [AIによる学業不正撲滅のため「提出した筆記課題についての口頭試問」がデンマークの高校生に義務づけられる](https://gigazine.net/news/20260812-denmark-requires-oral-defenses-students-ai/)
-- [「野菜の多様性の低下」が現代人の食生活を破壊するかもしれない](https://gigazine.net/news/20260812-vegetable-biodiversity-diets/)
-- [人気店の1日10食限定メニューを再現したハウス食品の「地球のカレー ＜タイ風マッサマンカレー＞」を食べてみた](https://gigazine.net/news/20260811-housefoods-chikyuu-no-curry-massaman/)
-- [マンジャロやオゼンピックなどダイエットに使われるGLP-1受容体作動薬は「ハゲ」のリスクを高める可能性](https://gigazine.net/news/20260811-weight-loss-drugs-hair-loss-risk/)
+- [AIの5大サボりパターンを自動的に解決し無理矢理限界突破させて働かせまくるAIエージェント向けプラグイン「pua」](https://gigazine.net/news/20260813-pua/)
+- [無気力感や抑うつ症状を伴うロングCOVID患者は健康な人よりもドーパミンを放出する神経終末が約18％少ない可能性](https://gigazine.net/news/20260813-long-covid-dopamine-pet/)
+- [AIエージェントの「不正なファイル操作」「危険なコード生成」といった問題をReddit投稿から抽出した研究結果](https://gigazine.net/news/20260812-ai-agent-issue/)
+- [ドローンのカメラが中国のIPアドレスに信号を送信していることが判明、イギリス海軍がカメラのインターネット接続機能を無効化しなければいけない事態に](https://gigazine.net/news/20260812-spy-cameras-navy-drones-secretly-sent-data-china/)
 <!-- GIGAZINE-NEWS-END -->
