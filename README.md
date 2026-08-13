@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=-Zr0mLgdAQc'>
-        <img src='https://i.ytimg.com/vi/-Zr0mLgdAQc/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDMvOggbIGdjizZkz4GPs27_Ir-zQ' width='200px' alt='ゲッタバンバン'>
+      <a href='https://www.youtube.com/watch?v=PLNtwcIjgJE'>
+        <img src='https://i.ytimg.com/vi/PLNtwcIjgJE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRAewsfJBCUN9YE1jmdT2Zsd9E0A' width='200px' alt='Misenainamidawa Kittoitsuka'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=-Zr0mLgdAQc'>ゲッタバンバン</a>
+      <a href='https://www.youtube.com/watch?v=PLNtwcIjgJE'>Misenainamidawa Kittoitsuka</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Ih2eEKTJXRg'>
-        <img src='https://i.ytimg.com/vi/Ih2eEKTJXRg/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDl1vHfKaaSDutX6pbEN65xYbG6GQ' width='200px' alt='タイムパラドックス'>
+      <a href='https://www.youtube.com/watch?v=a1AhJHqB6Sw'>
+        <img src='https://i.ytimg.com/vi/a1AhJHqB6Sw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-ychpIWP6288wouYECnGIj9mP1Q' width='200px' alt='ありがとう'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Ih2eEKTJXRg'>タイムパラドックス</a>
+      <a href='https://www.youtube.com/watch?v=a1AhJHqB6Sw'>ありがとう</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=oisKs2G_zcg'>
-        <img src='https://i.ytimg.com/vi/oisKs2G_zcg/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDETXLd5LkD4_AVfTzqSJVFzKBMtQ' width='200px' alt='心絵'>
+      <a href='https://www.youtube.com/watch?v=IwQGnXpskoY'>
+        <img src='https://i.ytimg.com/vi/IwQGnXpskoY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDiHwirjE0LDcogv4uTcLmilOrQCQ' width='200px' alt='One Voice'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=oisKs2G_zcg'>心絵</a>
+      <a href='https://www.youtube.com/watch?v=IwQGnXpskoY'>One Voice</a>
     </td>
   </tr>
 </table>
