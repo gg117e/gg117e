@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=f8mKfvnsYM4'>
-        <img src='https://i.ytimg.com/vi/f8mKfvnsYM4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSJK00pNJEU7KwJmfmg7L74zQO7Q' width='200px' alt='ばかまじめ'>
+      <a href='https://www.youtube.com/watch?v=0OZ15_9YKPc'>
+        <img src='https://i.ytimg.com/vi/0OZ15_9YKPc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDw-Z7Q01p2yef5ViEEv7j0i6ACZg' width='200px' alt='異端なスター'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=f8mKfvnsYM4'>ばかまじめ</a>
+      <a href='https://www.youtube.com/watch?v=0OZ15_9YKPc'>異端なスター</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=9uboB9bJ024'>
-        <img src='https://i.ytimg.com/vi/9uboB9bJ024/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3yXYsuTYSyIBZ3vROj3kSQLBJeg' width='200px' alt='にじいろ'>
+      <a href='https://www.youtube.com/watch?v=Hp9Z5TP1WfA'>
+        <img src='https://i.ytimg.com/vi/Hp9Z5TP1WfA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbKtFxlAWC69VyMDcx9N78dfe_Dw' width='200px' alt='115万キロのフィルム'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=9uboB9bJ024'>にじいろ</a>
+      <a href='https://www.youtube.com/watch?v=Hp9Z5TP1WfA'>115万キロのフィルム</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=TGz8AXN3gLA'>
-        <img src='https://i.ytimg.com/vi/TGz8AXN3gLA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWS1qZN5VGY_ZeMcSCBwCxLE3fIg' width='200px' alt='さよーならまたいつか！- Sayonara'>
+      <a href='https://www.youtube.com/watch?v=H_oxAmLvufM'>
+        <img src='https://i.ytimg.com/vi/H_oxAmLvufM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdaJT8v26IBiINKiuNPqHQR_5vAQ' width='200px' alt='BE:FIRST / I Want You Back -Official Audio-'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=TGz8AXN3gLA'>さよーならまたいつか！- Sayonara</a>
+      <a href='https://www.youtube.com/watch?v=H_oxAmLvufM'>BE:FIRST / I Want You Back -Official Audio-</a>
     </td>
   </tr>
 </table>
