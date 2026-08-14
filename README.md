@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [Microsoftは次世代AIチップ「Maia 300」を早ければ2026年9月にも発表予定、2027年中に30万個以上の製造を目指しTSMCと交渉中](https://gigazine.net/news/20260813-microsoft-maia-300-ai-chip-fall/)
-- [【電子書籍セール50％オフ】Kindle本をまるっと半額にしたサマーセールを開催！【2026年8月16日(日)まで】](https://gigazine.net/news/20260811-ebook-summer-sale/)
-- [AIの5大サボりパターンを自動的に解決し無理矢理限界突破させて働かせまくるAIエージェント向けプラグイン「pua」](https://gigazine.net/news/20260813-pua/)
-- [無気力感や抑うつ症状を伴うロングCOVID患者は健康な人よりもドーパミンを放出する神経終末が約18％少ない可能性](https://gigazine.net/news/20260813-long-covid-dopamine-pet/)
-- [AIエージェントの「不正なファイル操作」「危険なコード生成」といった問題をReddit投稿から抽出した研究結果](https://gigazine.net/news/20260812-ai-agent-issue/)
-- [ドローンのカメラが中国のIPアドレスに信号を送信していることが判明、イギリス海軍がカメラのインターネット接続機能を無効化しなければいけない事態に](https://gigazine.net/news/20260812-spy-cameras-navy-drones-secretly-sent-data-china/)
+- [クリストファー・ノーランの映画『オデュッセイア』で使われたIMAXの新型70mmフィルムカメラ「Keighley」とは？](https://gigazine.net/news/20260814-imax-keighley-film-camera-the-odyssey/)
+- [Amazonに配送業務の下請けを是正させる「配送保護法案」をニューヨーク市長が支持、Amazonが下請け配送員に対する責任を逃れているとの指摘](https://gigazine.net/news/20260814-delivery-protection-act-ny/)
+- [ニンニクはなぜ複数の「かけら」に分かれているのか？](https://gigazine.net/news/20260814-why-garlic-has-cloves/)
+- [ウェブサイトへのアクセスの99％超がボットに、人間1回に対して214回もページを読み込むAIスクレイパーとの攻防](https://gigazine.net/news/20260813-traffic-bot-percent/)
+- [Pixel 11は新機能「カメラスタイル」で何を実現したかったのかカメラチームリーダーが解説](https://gigazine.net/news/20260813-pixel-11-camera-look/)
+- [AI会議録サービス「tl;dv」で18万件超の会議メタデータにアクセス可能だったと研究者が報告、会社側は「別々の2つの脆弱性」と説明](https://gigazine.net/news/20260813-tldv-data-hack/)
 <!-- GIGAZINE-NEWS-END -->
