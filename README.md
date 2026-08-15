@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [クリストファー・ノーランの映画『オデュッセイア』で使われたIMAXの新型70mmフィルムカメラ「Keighley」とは？](https://gigazine.net/news/20260814-imax-keighley-film-camera-the-odyssey/)
-- [Amazonに配送業務の下請けを是正させる「配送保護法案」をニューヨーク市長が支持、Amazonが下請け配送員に対する責任を逃れているとの指摘](https://gigazine.net/news/20260814-delivery-protection-act-ny/)
-- [ニンニクはなぜ複数の「かけら」に分かれているのか？](https://gigazine.net/news/20260814-why-garlic-has-cloves/)
-- [ウェブサイトへのアクセスの99％超がボットに、人間1回に対して214回もページを読み込むAIスクレイパーとの攻防](https://gigazine.net/news/20260813-traffic-bot-percent/)
-- [Pixel 11は新機能「カメラスタイル」で何を実現したかったのかカメラチームリーダーが解説](https://gigazine.net/news/20260813-pixel-11-camera-look/)
-- [AI会議録サービス「tl;dv」で18万件超の会議メタデータにアクセス可能だったと研究者が報告、会社側は「別々の2つの脆弱性」と説明](https://gigazine.net/news/20260813-tldv-data-hack/)
+- [マンガ「作らせて！絵島さん」作者にインタビューしてこだわりのポイントや会社員をしながらマンガを描く「二足のわらじ」を実現する方法について聞いてみた](https://gigazine.net/news/20260815-eshima-san-interview/)
+- [AIの「分かったふり」を見続けていると人間も「分からない」と言えなくなるという研究結果](https://gigazine.net/news/20260815-ai-advice-suppresses-people-willingness-idk/)
+- [白地図の都道府県をはがしてぶつけて連鎖させる「白地図ストライク47」を遊んでみた](https://gigazine.net/news/20260814-white-map-strike-47/)
+- [タトゥーやアートメイク用の「滅菌済み」インクの約3分の1が細菌に汚染されている、感染症を引き起こす病原菌も](https://gigazine.net/news/20260814-tattoo-ink-microbial-contamination/)
+- [Linuxのデスクトップ利用が1日のうちに22％まで急増したことがCloudflareのデータで明らかに](https://gigazine.net/news/20260814-linux-desktop-cloudflare/)
+- [OpenAIにはサム・アルトマンCEOや経営陣に直接苦情を送ることができる専用のメールアドレスがある](https://gigazine.net/news/20260814-openai-special-address/)
 <!-- GIGAZINE-NEWS-END -->
