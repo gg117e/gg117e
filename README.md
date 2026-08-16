@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [マンガ「作らせて！絵島さん」作者にインタビューしてこだわりのポイントや会社員をしながらマンガを描く「二足のわらじ」を実現する方法について聞いてみた](https://gigazine.net/news/20260815-eshima-san-interview/)
-- [AIの「分かったふり」を見続けていると人間も「分からない」と言えなくなるという研究結果](https://gigazine.net/news/20260815-ai-advice-suppresses-people-willingness-idk/)
-- [白地図の都道府県をはがしてぶつけて連鎖させる「白地図ストライク47」を遊んでみた](https://gigazine.net/news/20260814-white-map-strike-47/)
-- [タトゥーやアートメイク用の「滅菌済み」インクの約3分の1が細菌に汚染されている、感染症を引き起こす病原菌も](https://gigazine.net/news/20260814-tattoo-ink-microbial-contamination/)
-- [Linuxのデスクトップ利用が1日のうちに22％まで急増したことがCloudflareのデータで明らかに](https://gigazine.net/news/20260814-linux-desktop-cloudflare/)
-- [OpenAIにはサム・アルトマンCEOや経営陣に直接苦情を送ることができる専用のメールアドレスがある](https://gigazine.net/news/20260814-openai-special-address/)
+- [テクノロジー企業がデータセンターのエネルギーコストを負担しなければならないとする法案が進行中](https://gigazine.net/news/20260816-tech-company-pay-data-center-cost/)
+- [無料でMySQL・PostgreSQL・SQL Server・MongoDB・SQLiteなどのデータベースを操作できる「DbGate」、ブラウザ経由だけでなくWindows・Linux・Macアプリもあり](https://gigazine.net/news/20260815-dbgate/)
+- [キオクシア製SSD「EXCERIA G3」の4TBモデルを使ってみたよレビュー、PCIe 5.0対応で読込10GB/s・書込9.6GB/sの高速SSD](https://gigazine.net/news/20260815-kioxia-exceria-g3-4tb/)
+- [コンピューターの敵だった「熱雑音」を逆に利用して省電力を狙う「熱力学コンピューティング」とは？](https://gigazine.net/news/20260815-thermodynamic-computing/)
+- [アメリカにおけるがん手術の待ち時間はますます長くなっている](https://gigazine.net/news/20260815-us-wait-times-cancer-surgeries-longer/)
+- [E-Inkディスプレイ・3マイクアレイ・32bitフロート録音に対応した「Insta360 Mic Pro」外観レビュー](https://gigazine.net/news/20260815-insta360-mic-pro-appearance/)
 <!-- GIGAZINE-NEWS-END -->
