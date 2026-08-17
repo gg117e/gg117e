@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ArN80_ahos0'>
-        <img src='https://i.ytimg.com/vi/ArN80_ahos0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0St2Q4-pGDvfGebZ98ijNN0K2qQ' width='200px' alt='Anatani'>
+      <a href='https://www.youtube.com/watch?v=HBqH4uJS0PU'>
+        <img src='https://i.ytimg.com/vi/HBqH4uJS0PU/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLC50leU9nsYwd78avXGc9XMJDF2uw' width='200px' alt='Magnetic'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ArN80_ahos0'>Anatani</a>
+      <a href='https://www.youtube.com/watch?v=HBqH4uJS0PU'>Magnetic</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=KehpqLWwy4g'>
-        <img src='https://i.ytimg.com/vi/KehpqLWwy4g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwRwKHNWODESeECqonWaQJ9FmtFA' width='200px' alt='Message'>
+      <a href='https://www.youtube.com/watch?v=vGoMNejaSy0'>
+        <img src='https://i.ytimg.com/vi/vGoMNejaSy0/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLApqPZyArKJMbKGdqp9S_I4u1K2mg' width='200px' alt='Robinson'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=KehpqLWwy4g'>Message</a>
+      <a href='https://www.youtube.com/watch?v=vGoMNejaSy0'>Robinson</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=i7Jy4GC3l6U'>
-        <img src='https://i.ytimg.com/vi/i7Jy4GC3l6U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCejND-9KtsWSEPV3xhsot3dcMUYQ' width='200px' alt='Nachtmusik'>
+      <a href='https://www.youtube.com/watch?v=92pdJyzIGbw'>
+        <img src='https://i.ytimg.com/vi/92pdJyzIGbw/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAiRRc-RYeF7D4JFoXJYB5QbSOWfQ' width='200px' alt='Week End'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=i7Jy4GC3l6U'>Nachtmusik</a>
+      <a href='https://www.youtube.com/watch?v=92pdJyzIGbw'>Week End</a>
     </td>
   </tr>
 </table>
