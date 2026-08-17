@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [テクノロジー企業がデータセンターのエネルギーコストを負担しなければならないとする法案が進行中](https://gigazine.net/news/20260816-tech-company-pay-data-center-cost/)
-- [無料でMySQL・PostgreSQL・SQL Server・MongoDB・SQLiteなどのデータベースを操作できる「DbGate」、ブラウザ経由だけでなくWindows・Linux・Macアプリもあり](https://gigazine.net/news/20260815-dbgate/)
-- [キオクシア製SSD「EXCERIA G3」の4TBモデルを使ってみたよレビュー、PCIe 5.0対応で読込10GB/s・書込9.6GB/sの高速SSD](https://gigazine.net/news/20260815-kioxia-exceria-g3-4tb/)
-- [コンピューターの敵だった「熱雑音」を逆に利用して省電力を狙う「熱力学コンピューティング」とは？](https://gigazine.net/news/20260815-thermodynamic-computing/)
-- [アメリカにおけるがん手術の待ち時間はますます長くなっている](https://gigazine.net/news/20260815-us-wait-times-cancer-surgeries-longer/)
-- [E-Inkディスプレイ・3マイクアレイ・32bitフロート録音に対応した「Insta360 Mic Pro」外観レビュー](https://gigazine.net/news/20260815-insta360-mic-pro-appearance/)
+- [自家製ロケットを打ち上げて雷を誘導することはできるのか？](https://gigazine.net/news/20260817-trigger-lightning-homemade-rocket/)
+- [女性創業者のスタートアップが株式上場や大企業による買収を達成しにくいのはなぜか？](https://gigazine.net/news/20260816-women-founders-start-ups-exit-less/)
+- [AI生成テキストの「透かし」が埋め込まれる仕組み](https://gigazine.net/news/20260816-ai-text-watermarking/)
+- [アメリカの航空局が「ゲーマーを航空管制官として採用する」というキャンペーンで2000人以上の採用に成功し目標人数の94％を達成](https://gigazine.net/news/20260816-gamer-air-traffic-controller/)
+- [無料でオープンソースの写真撮影ワークフローアプリ「darktable」、RAW現像も可能](https://gigazine.net/news/20260816-darktable/)
+- [アリババのAI「Qwen」が6カ月間に30億回ダウンロードされる世界1位のAIモデルに](https://gigazine.net/news/20260816-alibaba-qwen-3-billion-downloads/)
 <!-- GIGAZINE-NEWS-END -->
