@@ -40,18 +40,18 @@
       <a href='https://www.youtube.com/watch?v=wykx9MzjL-8'>AAA / "Wake up!"Music Video</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=xiuOSWPsIyM'>
-        <img src='https://i.ytimg.com/vi/xiuOSWPsIyM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUqeLjQDC9_yiYclIOAIztbPNPtA' width='200px' alt='Subtitle'>
+      <a href='https://www.youtube.com/watch?v=wPCO-7xW9WI'>
+        <img src='https://i.ytimg.com/vi/wPCO-7xW9WI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9tWioBHokmqNRNhQNPvsbay361g' width='200px' alt='Shizuku'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=xiuOSWPsIyM'>Subtitle</a>
+      <a href='https://www.youtube.com/watch?v=wPCO-7xW9WI'>Shizuku</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=go6WjvgMYjU'>
-        <img src='https://i.ytimg.com/vi/go6WjvgMYjU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNQUVsFUfDV8o-RKYab7T9eBFTxA' width='200px' alt='17才'>
+      <a href='https://www.youtube.com/watch?v=KJBoof4rjrg'>
+        <img src='https://i.ytimg.com/vi/KJBoof4rjrg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYlPGVYfBk7q9cXddAm78dnu8oAQ' width='200px' alt='Tatta'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=go6WjvgMYjU'>17才</a>
+      <a href='https://www.youtube.com/watch?v=KJBoof4rjrg'>Tatta</a>
     </td>
   </tr>
 </table>
