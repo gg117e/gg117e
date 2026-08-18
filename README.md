@@ -33,18 +33,11 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=-QZAivfOiaM'>
-        <img src='https://i.ytimg.com/vi/-QZAivfOiaM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDGdiV4fp1JM9qu3MuJ9uY6z5BXA' width='200px' alt='P.S.'>
+      <a href='https://www.youtube.com/watch?v=hID1Wt1ByEQ'>
+        <img src='https://i.ytimg.com/vi/hID1Wt1ByEQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6PREFxuitmk-F_ecqRXEOsN1hNg' width='200px' alt='Same Blue'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=-QZAivfOiaM'>P.S.</a>
-    </td>
-    <td align='center'>
-      <a href='https://www.youtube.com/watch?v=LoyA7GvfOwA'>
-        <img src='https://i.ytimg.com/vi/LoyA7GvfOwA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAuADigIMCAAQARhkIGQoZDAP&rs=AOn4CLBk6pXQ6KVrYlVuaAckuf6xf3Owbg' width='200px' alt='Sad Song'>
-      </a>
-      <br />
-      <a href='https://www.youtube.com/watch?v=LoyA7GvfOwA'>Sad Song</a>
+      <a href='https://www.youtube.com/watch?v=hID1Wt1ByEQ'>Same Blue</a>
     </td>
     <td align='center'>
       <a href='https://www.youtube.com/watch?v=sKYvPBCoe2o'>
@@ -52,6 +45,13 @@
       </a>
       <br />
       <a href='https://www.youtube.com/watch?v=sKYvPBCoe2o'>LADY</a>
+    </td>
+    <td align='center'>
+      <a href='https://www.youtube.com/watch?v=75g7GdgbkRU'>
+        <img src='https://i.ytimg.com/vi/75g7GdgbkRU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbtZAr86NRsUKq8o35sM1vEY6y_g' width='200px' alt='Bling-Bang-Bang-Born'>
+      </a>
+      <br />
+      <a href='https://www.youtube.com/watch?v=75g7GdgbkRU'>Bling-Bang-Bang-Born</a>
     </td>
   </tr>
 </table>
