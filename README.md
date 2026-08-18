@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [自家製ロケットを打ち上げて雷を誘導することはできるのか？](https://gigazine.net/news/20260817-trigger-lightning-homemade-rocket/)
-- [女性創業者のスタートアップが株式上場や大企業による買収を達成しにくいのはなぜか？](https://gigazine.net/news/20260816-women-founders-start-ups-exit-less/)
-- [AI生成テキストの「透かし」が埋め込まれる仕組み](https://gigazine.net/news/20260816-ai-text-watermarking/)
-- [アメリカの航空局が「ゲーマーを航空管制官として採用する」というキャンペーンで2000人以上の採用に成功し目標人数の94％を達成](https://gigazine.net/news/20260816-gamer-air-traffic-controller/)
-- [無料でオープンソースの写真撮影ワークフローアプリ「darktable」、RAW現像も可能](https://gigazine.net/news/20260816-darktable/)
-- [アリババのAI「Qwen」が6カ月間に30億回ダウンロードされる世界1位のAIモデルに](https://gigazine.net/news/20260816-alibaba-qwen-3-billion-downloads/)
+- [Appleがアリババの支援を受けて中国専用のAIモデルを作成中、中国で独自のAIモデルを提供する最初の外国企業となる可能性大](https://gigazine.net/news/20260818-apple-alibaba-model/)
+- [エルニーニョ現象は発達を続けており2026年後半には歴史的な強さになるとの予測](https://gigazine.net/news/20260818-super-el-nino-growth/)
+- [絶滅前のサーベルタイガーは近親交配が進み「病気だらけ」だった可能性](https://gigazine.net/news/20260818-saber-toothed-cat-inbreeding-disease/)
+- [ナンバープレート情報検索について「裁判官署名の令状を取得するのが常識」と電子フロンティア財団が改めて非難](https://gigazine.net/news/20260817-police-need-to-get-a-warrant-to-search-alpr/)
+- [「PoE」好きが1人で作った自由すぎるビルド構築が魅力のローグライトARPG「響き、夢境に(Dream Echo)」をプレイしてみた](https://gigazine.net/news/20260817-dream-echo/)
+- [山火事による大気汚染とPM2.5発生は人為的な大気汚染の減少幅を相殺するほどひどく胎児に悪影響](https://gigazine.net/news/20260817-wildfire-air-pollution/)
 <!-- GIGAZINE-NEWS-END -->
