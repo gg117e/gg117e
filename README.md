@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=wykx9MzjL-8'>
-        <img src='https://i.ytimg.com/vi/wykx9MzjL-8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaoH4EOxmPn7by1akUA2OC7YMMhg' width='200px' alt='AAA / "Wake up!"Music Video'>
+      <a href='https://www.youtube.com/watch?v=oJd3TP5kb6k'>
+        <img src='https://i.ytimg.com/vi/oJd3TP5kb6k/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAwB2qq2J6_hlikYWdqGTHafsfzQg' width='200px' alt='New My Normal'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=wykx9MzjL-8'>AAA / "Wake up!"Music Video</a>
+      <a href='https://www.youtube.com/watch?v=oJd3TP5kb6k'>New My Normal</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=MS94B8_eiII'>
-        <img src='https://i.ytimg.com/vi/MS94B8_eiII/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6buPo_SDBHZdDQiY5s8m2GCntVA' width='200px' alt='ハミング'>
+      <a href='https://www.youtube.com/watch?v=0OZ15_9YKPc'>
+        <img src='https://i.ytimg.com/vi/0OZ15_9YKPc/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLApOEfqX3L6tpSlMEjajIPsli4sHg' width='200px' alt='異端なスター'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=MS94B8_eiII'>ハミング</a>
+      <a href='https://www.youtube.com/watch?v=0OZ15_9YKPc'>異端なスター</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=l-6ag1J9MJI'>
-        <img src='https://i.ytimg.com/vi/l-6ag1J9MJI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNrIYq3E1-kTLo3OvkRZDab-OqpA' width='200px' alt='Continues'>
+      <a href='https://www.youtube.com/watch?v=HBqH4uJS0PU'>
+        <img src='https://i.ytimg.com/vi/HBqH4uJS0PU/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCEwk-1aRcc2VGwJ3BgMZcVlt4Dcg' width='200px' alt='Magnetic'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=l-6ag1J9MJI'>Continues</a>
+      <a href='https://www.youtube.com/watch?v=HBqH4uJS0PU'>Magnetic</a>
     </td>
   </tr>
 </table>
