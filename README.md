@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=qzK1_zMo1kI'>
-        <img src='https://i.ytimg.com/vi/qzK1_zMo1kI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClQqDW9hqroIxRd5zGwAnrB1I6vg' width='200px' alt='Life'>
+      <a href='https://www.youtube.com/watch?v=kNDbaYEp0tU'>
+        <img src='https://i.ytimg.com/vi/kNDbaYEp0tU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvX1Ba1QNm2i-8CkQ93gpnsd2H7g' width='200px' alt='怪獣の花唄'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=qzK1_zMo1kI'>Life</a>
+      <a href='https://www.youtube.com/watch?v=kNDbaYEp0tU'>怪獣の花唄</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=29vX07Sz3kw'>
-        <img src='https://i.ytimg.com/vi/29vX07Sz3kw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKaU55q7u0HPNBVdmcF1-ZubeeJA' width='200px' alt='Believe'>
+      <a href='https://www.youtube.com/watch?v=gzHTMjMS-wI'>
+        <img src='https://i.ytimg.com/vi/gzHTMjMS-wI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCp8jNtX5jo9nTTY8FExjOfsoG9ZQ' width='200px' alt='Aino Katachi'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=29vX07Sz3kw'>Believe</a>
+      <a href='https://www.youtube.com/watch?v=gzHTMjMS-wI'>Aino Katachi</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=MS94B8_eiII'>
-        <img src='https://i.ytimg.com/vi/MS94B8_eiII/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6buPo_SDBHZdDQiY5s8m2GCntVA' width='200px' alt='ハミング'>
+      <a href='https://www.youtube.com/watch?v=ME_ZU0ME4vQ'>
+        <img src='https://i.ytimg.com/vi/ME_ZU0ME4vQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcg2wcDNON6jYjuxGICte2SY1Adg' width='200px' alt='ゼロのままでいられたら'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=MS94B8_eiII'>ハミング</a>
+      <a href='https://www.youtube.com/watch?v=ME_ZU0ME4vQ'>ゼロのままでいられたら</a>
     </td>
   </tr>
 </table>
