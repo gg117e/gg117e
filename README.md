@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=o3YbBDqEiGc'>
-        <img src='https://i.ytimg.com/vi/o3YbBDqEiGc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjtlb-SGx4WKb15NYeGHMqmMOuEg' width='200px' alt='春擬き'>
+      <a href='https://www.youtube.com/watch?v=_zVFYb5jzr8'>
+        <img src='https://i.ytimg.com/vi/_zVFYb5jzr8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCN42WTnWBBGIgKGCcTgP1-bACk1w' width='200px' alt='Love Letter'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=o3YbBDqEiGc'>春擬き</a>
+      <a href='https://www.youtube.com/watch?v=_zVFYb5jzr8'>Love Letter</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=M5R9z0vFjOs'>
-        <img src='https://i.ytimg.com/vi/M5R9z0vFjOs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUoxXdI7QdD2MULr-UX0i6XYXdSA' width='200px' alt='ビリミリオン'>
+      <a href='https://www.youtube.com/watch?v=ArN80_ahos0'>
+        <img src='https://i.ytimg.com/vi/ArN80_ahos0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0St2Q4-pGDvfGebZ98ijNN0K2qQ' width='200px' alt='Anatani'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=M5R9z0vFjOs'>ビリミリオン</a>
+      <a href='https://www.youtube.com/watch?v=ArN80_ahos0'>Anatani</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=mS7iQKWy9HU'>
-        <img src='https://i.ytimg.com/vi/mS7iQKWy9HU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtJV-grxMKT9h26f-DU1NjRvTCBw' width='200px' alt='未完成なままで'>
+      <a href='https://www.youtube.com/watch?v=kJEPeKPtZyw'>
+        <img src='https://i.ytimg.com/vi/kJEPeKPtZyw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHEQRF57cU-KWllU8xOBlwgrk83Q' width='200px' alt='花占い'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=mS7iQKWy9HU'>未完成なままで</a>
+      <a href='https://www.youtube.com/watch?v=kJEPeKPtZyw'>花占い</a>
     </td>
   </tr>
 </table>
