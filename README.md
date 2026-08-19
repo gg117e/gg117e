@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [Appleがアリババの支援を受けて中国専用のAIモデルを作成中、中国で独自のAIモデルを提供する最初の外国企業となる可能性大](https://gigazine.net/news/20260818-apple-alibaba-model/)
-- [エルニーニョ現象は発達を続けており2026年後半には歴史的な強さになるとの予測](https://gigazine.net/news/20260818-super-el-nino-growth/)
-- [絶滅前のサーベルタイガーは近親交配が進み「病気だらけ」だった可能性](https://gigazine.net/news/20260818-saber-toothed-cat-inbreeding-disease/)
-- [ナンバープレート情報検索について「裁判官署名の令状を取得するのが常識」と電子フロンティア財団が改めて非難](https://gigazine.net/news/20260817-police-need-to-get-a-warrant-to-search-alpr/)
-- [「PoE」好きが1人で作った自由すぎるビルド構築が魅力のローグライトARPG「響き、夢境に(Dream Echo)」をプレイしてみた](https://gigazine.net/news/20260817-dream-echo/)
-- [山火事による大気汚染とPM2.5発生は人為的な大気汚染の減少幅を相殺するほどひどく胎児に悪影響](https://gigazine.net/news/20260817-wildfire-air-pollution/)
+- [macOSの画面共有関連の脆弱性を悪用した深刻度の高い攻撃が頻発している](https://gigazine.net/news/20260819-macos-screen-sharing-vulnerability/)
+- [車に運転支援機能を追加できるデバイスをGPUで強化するためのeGPUドック「Chestnut」をComma.aiがリリース](https://gigazine.net/news/20260819-egpu-dock-chestnut/)
+- [光合成プロセスを応用して「ドライアイ」を治療](https://gigazine.net/news/20260819-dry-eye-disease-tip-plants/)
+- [Appleの「カメラ搭載AirPods」がリリース間近らしいことがmacOSリリース候補版内のファイルから判明](https://gigazine.net/news/20260818-camera-equipped-airpods/)
+- [「Steam Machine」を分解してSSDにアクセスするまでの手順を実際にやってみた](https://gigazine.net/news/20260818-steam-machine-teardown/)
+- [勃起不全治療薬を心血管系や脳に効果がある「万能長寿薬」としてインフルエンサーやオンラインクリニックが宣伝している](https://gigazine.net/news/20260818-cialis-erectile-dysfunction-drug-longevity/)
 <!-- GIGAZINE-NEWS-END -->
