@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=75g7GdgbkRU'>
-        <img src='https://i.ytimg.com/vi/75g7GdgbkRU/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDyHBLtZ1MsKi9knMGZr8vrVfkNYw' width='200px' alt='Bling-Bang-Bang-Born'>
+      <a href='https://www.youtube.com/watch?v=IwQGnXpskoY'>
+        <img src='https://i.ytimg.com/vi/IwQGnXpskoY/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLALpFy1j7WRAzkLB2yYay1mDIR8MA' width='200px' alt='One Voice'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=75g7GdgbkRU'>Bling-Bang-Bang-Born</a>
+      <a href='https://www.youtube.com/watch?v=IwQGnXpskoY'>One Voice</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=vAfgHtZt6gs'>
-        <img src='https://i.ytimg.com/vi/vAfgHtZt6gs/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBt35q2mbyohL2GY0sAOTjxDc917w' width='200px' alt='大丈夫'>
+      <a href='https://www.youtube.com/watch?v=H2r25lVcIHw'>
+        <img src='https://i.ytimg.com/vi/H2r25lVcIHw/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAYAUk81xfms4rcRAvxYWf0vcKLjA' width='200px' alt='花の塔'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=vAfgHtZt6gs'>大丈夫</a>
+      <a href='https://www.youtube.com/watch?v=H2r25lVcIHw'>花の塔</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=dMLNw_yzaFM'>
-        <img src='https://i.ytimg.com/vi/dMLNw_yzaFM/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAhg7Cfwwqk3JQZuemz-WvGRaO1Hw' width='200px' alt='シルエット'>
+      <a href='https://www.youtube.com/watch?v=Hp9Z5TP1WfA'>
+        <img src='https://i.ytimg.com/vi/Hp9Z5TP1WfA/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBp2keYqxAVGvs4k_CcfEoIDhUi_A' width='200px' alt='115万キロのフィルム'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=dMLNw_yzaFM'>シルエット</a>
+      <a href='https://www.youtube.com/watch?v=Hp9Z5TP1WfA'>115万キロのフィルム</a>
     </td>
   </tr>
 </table>
