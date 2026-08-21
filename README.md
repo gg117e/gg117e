@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=mLBe332PrQ0'>
-        <img src='https://i.ytimg.com/vi/mLBe332PrQ0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCn6a1PepAWYqVhrPmg2106R8n7UQ' width='200px' alt='Magic'>
+      <a href='https://www.youtube.com/watch?v=0OZ15_9YKPc'>
+        <img src='https://i.ytimg.com/vi/0OZ15_9YKPc/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLCxttecNXx4rV7eMkHNeUTrij6Mag' width='200px' alt='異端なスター'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=mLBe332PrQ0'>Magic</a>
+      <a href='https://www.youtube.com/watch?v=0OZ15_9YKPc'>異端なスター</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=-QZAivfOiaM'>
-        <img src='https://i.ytimg.com/vi/-QZAivfOiaM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDGdiV4fp1JM9qu3MuJ9uY6z5BXA' width='200px' alt='P.S.'>
+      <a href='https://www.youtube.com/watch?v=MgNzn7TGuAU'>
+        <img src='https://i.ytimg.com/vi/MgNzn7TGuAU/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAOuDJ7BilbsxZuDIB1O09g0jyJsw' width='200px' alt='儚くない'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=-QZAivfOiaM'>P.S.</a>
+      <a href='https://www.youtube.com/watch?v=MgNzn7TGuAU'>儚くない</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Ta6GW3kQ8UU'>
-        <img src='https://i.ytimg.com/vi/Ta6GW3kQ8UU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRMclMpIOvmCPeKMcFS80SNCONJw' width='200px' alt='ひたむき'>
+      <a href='https://www.youtube.com/watch?v=zlJSYqcO2-4'>
+        <img src='https://i.ytimg.com/vi/zlJSYqcO2-4/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAzgvNIpHBbfnTD8rxwK_AQiYMu3A' width='200px' alt='Clap Clap'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Ta6GW3kQ8UU'>ひたむき</a>
+      <a href='https://www.youtube.com/watch?v=zlJSYqcO2-4'>Clap Clap</a>
     </td>
   </tr>
 </table>
