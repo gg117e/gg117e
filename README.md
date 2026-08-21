@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [音声録音＆AI分析で知識をため込んでタスク管理も可能な装着型デバイス「SwitchBot AIマインドクリップ」を使ってみたよレビュー](https://gigazine.net/news/20260820-switchbot-ai-mindclip/)
-- [暗黒時代を経験したスーパーマーケットによる「経営コンサルタントには注意せよ」という提言](https://gigazine.net/news/20260820-beware-management-consultants/)
-- [AIによるディープフェイクがミステリー小説にも影響を与えていると推理小説家が解説](https://gigazine.net/news/20260820-ai-deepfakes-changing-rules-crime-fiction/)
-- [EVで乱暴な運転をするとバッテリーの消耗が約2.5倍になる可能性](https://gigazine.net/news/20260820-ev-aggressive-driving-battery-aging/)
-- [広告ブロッカー「uBlock Origin」がFacebook広告のブロックを断念](https://gigazine.net/news/20260819-ublock-origin-facebook-ads/)
-- [Claudeエージェント同士が「縄張り争い」で互いを妨害したり価格について共謀したりする事例がAnthropicの実験で発生](https://gigazine.net/news/20260819-anthropic-claude-multiagent-turf-war/)
+- [GIGAZINE読者が使っているPCは「自作」が20.5％で最多、CPU・グラボ・マザーボード・メモリ・ストレージについても徹底調査してみた](https://gigazine.net/news/20260821-gigazine-user-pc-spec/)
+- [映画『バックルームズ』の劇場限定16分映像『Everything Must Go』がYouTubeで公開、ケイン・パーソンズのシリーズ最新作として視聴可能に](https://gigazine.net/news/20260821-backrooms-everything-must-go/)
+- [裁判の提出書類に「原告有利の出力を生成するようAIに指示するテキスト」が隠されていたことが発覚](https://gigazine.net/news/20260821-hides-prompt-injection-legal-filing-ai/)
+- [プログラマーはどの言語からどの言語へ移住しているのか？JetBrainsが8837人分の回答を分析](https://gigazine.net/news/20260820-jetbrains-programming-language-migration/)
+- [AIエージェントを「マウスの動き」で見抜く検知手法が研究されている](https://gigazine.net/news/20260820-akamai-identify-agent/)
+- [スマホで動く小型AIモデル「LFM2.5」に省メモリ化を施しつつ性能低下を抑えたQAD版が登場](https://gigazine.net/news/20260820-lfm2-5-qad/)
 <!-- GIGAZINE-NEWS-END -->
