@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=aaAxYOuqstw'>
-        <img src='https://i.ytimg.com/vi/aaAxYOuqstw/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBA7QKLSQW2UWIOYTatIH7pwgpqvw' width='200px' alt='Slow & Easy'>
+      <a href='https://www.youtube.com/watch?v=oisKs2G_zcg'>
+        <img src='https://i.ytimg.com/vi/oisKs2G_zcg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArVt4enRACWU-rfRjub596ca-ZfA' width='200px' alt='心絵'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=aaAxYOuqstw'>Slow & Easy</a>
+      <a href='https://www.youtube.com/watch?v=oisKs2G_zcg'>心絵</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=W8-P1WQalQw'>
-        <img src='https://i.ytimg.com/vi/W8-P1WQalQw/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCX2p4KnJ4yk8UoW1UnRWoTwghQvg' width='200px' alt='Seikai (18Fes Version)'>
+      <a href='https://www.youtube.com/watch?v=o3YbBDqEiGc'>
+        <img src='https://i.ytimg.com/vi/o3YbBDqEiGc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjtlb-SGx4WKb15NYeGHMqmMOuEg' width='200px' alt='春擬き'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=W8-P1WQalQw'>Seikai (18Fes Version)</a>
+      <a href='https://www.youtube.com/watch?v=o3YbBDqEiGc'>春擬き</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=aRtoPwe4ado'>
-        <img src='https://i.ytimg.com/vi/aRtoPwe4ado/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDr_da0vWFQ6iyQfr1fre8y9qD3nQ' width='200px' alt='Sanitizer'>
+      <a href='https://www.youtube.com/watch?v=xpMW7wJTT3c'>
+        <img src='https://i.ytimg.com/vi/xpMW7wJTT3c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApHdPftEzlfVZIqAOSvCvom_1lwQ' width='200px' alt='Matane.'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=aRtoPwe4ado'>Sanitizer</a>
+      <a href='https://www.youtube.com/watch?v=xpMW7wJTT3c'>Matane.</a>
     </td>
   </tr>
 </table>
