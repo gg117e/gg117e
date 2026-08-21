@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=pQpX71tiDNg'>
-        <img src='https://i.ytimg.com/vi/pQpX71tiDNg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXxwAnvmSxHdesXChIfeSv9_oNUg' width='200px' alt='Aiuta'>
+      <a href='https://www.youtube.com/watch?v=bVqeqvwu7NU'>
+        <img src='https://i.ytimg.com/vi/bVqeqvwu7NU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDe4lxrobQ3H1YHOPDK-W1dYWjsPA' width='200px' alt='Shining One'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=pQpX71tiDNg'>Aiuta</a>
+      <a href='https://www.youtube.com/watch?v=bVqeqvwu7NU'>Shining One</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=x9v8aNl6Aps'>
-        <img src='https://i.ytimg.com/vi/x9v8aNl6Aps/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVvWYRclYEKfr0HcfVA2vAvYjv6g' width='200px' alt='ONE OK ROCK - Heartache [Studio Jam Session]'>
+      <a href='https://www.youtube.com/watch?v=WjIsq1-ZBaw'>
+        <img src='https://i.ytimg.com/vi/WjIsq1-ZBaw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCh9rmrKCmdRlaAejuSaWKVb-hTg' width='200px' alt='平井 大 / 栄光の扉（Music Video）'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=x9v8aNl6Aps'>ONE OK ROCK - Heartache [Studio Jam Session]</a>
+      <a href='https://www.youtube.com/watch?v=WjIsq1-ZBaw'>平井 大 / 栄光の扉（Music Video）</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=mj4Pa0ldUp8'>
-        <img src='https://i.ytimg.com/vi/mj4Pa0ldUp8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD14lODcjMhcKlqfeZWoy1pyMFyqg' width='200px' alt='地獄でなぜ悪い'>
+      <a href='https://www.youtube.com/watch?v=Pz9-XJ8SFKU'>
+        <img src='https://i.ytimg.com/vi/Pz9-XJ8SFKU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBq-Etp03Dzv0fNmneyfOmTHqbeTQ' width='200px' alt='Taketen'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=mj4Pa0ldUp8'>地獄でなぜ悪い</a>
+      <a href='https://www.youtube.com/watch?v=Pz9-XJ8SFKU'>Taketen</a>
     </td>
   </tr>
 </table>
