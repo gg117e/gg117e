@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [GIGAZINE読者が使っているPCは「自作」が20.5％で最多、CPU・グラボ・マザーボード・メモリ・ストレージについても徹底調査してみた](https://gigazine.net/news/20260821-gigazine-user-pc-spec/)
-- [映画『バックルームズ』の劇場限定16分映像『Everything Must Go』がYouTubeで公開、ケイン・パーソンズのシリーズ最新作として視聴可能に](https://gigazine.net/news/20260821-backrooms-everything-must-go/)
-- [裁判の提出書類に「原告有利の出力を生成するようAIに指示するテキスト」が隠されていたことが発覚](https://gigazine.net/news/20260821-hides-prompt-injection-legal-filing-ai/)
-- [プログラマーはどの言語からどの言語へ移住しているのか？JetBrainsが8837人分の回答を分析](https://gigazine.net/news/20260820-jetbrains-programming-language-migration/)
-- [AIエージェントを「マウスの動き」で見抜く検知手法が研究されている](https://gigazine.net/news/20260820-akamai-identify-agent/)
-- [スマホで動く小型AIモデル「LFM2.5」に省メモリ化を施しつつ性能低下を抑えたQAD版が登場](https://gigazine.net/news/20260820-lfm2-5-qad/)
+- [ゲームボーイアドバンスっぽいAndroid搭載ゲーム機「Konkr Pocket Advance」がAYANEOから登場](https://gigazine.net/news/20260822-ayaneo-konkr-pocket-advance/)
+- [使い込むほど成長するAIエージェント「Hermes Agent」で実際に行った作業をスキル化して再利用してみた](https://gigazine.net/news/20260821-hermes-agent-skill/)
+- [AIの回答をコピペしないでくれと頼む運動「Don’t paste the AI, please.(AIが書いたものをコピペしないでください)」](https://gigazine.net/news/20260821-dont-paste-the-ai-please/)
+- [インターネット年齢確認の強化により悪質なアダルトサイトが増加したとPornhubが調査結果を公表、「無料ポルノ」の検索結果上位10件のうち7件が規制に準拠していないサイトだった](https://gigazine.net/news/20260821-internet-age-checks-boosted-rogue-adult-sites/)
+- [大量のmicroSDカードを3年間耐久テストしてわかった優秀なメーカーと期待外れのメーカーは？](https://gigazine.net/news/20260821-microsd-card-test-3-years/)
+- [2026年8月21日のヘッドラインニュース](https://gigazine.net/news/20260821-headline/)
 <!-- GIGAZINE-NEWS-END -->
