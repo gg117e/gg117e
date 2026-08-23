@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [ゲームボーイアドバンスっぽいAndroid搭載ゲーム機「Konkr Pocket Advance」がAYANEOから登場](https://gigazine.net/news/20260822-ayaneo-konkr-pocket-advance/)
-- [使い込むほど成長するAIエージェント「Hermes Agent」で実際に行った作業をスキル化して再利用してみた](https://gigazine.net/news/20260821-hermes-agent-skill/)
-- [AIの回答をコピペしないでくれと頼む運動「Don’t paste the AI, please.(AIが書いたものをコピペしないでください)」](https://gigazine.net/news/20260821-dont-paste-the-ai-please/)
-- [インターネット年齢確認の強化により悪質なアダルトサイトが増加したとPornhubが調査結果を公表、「無料ポルノ」の検索結果上位10件のうち7件が規制に準拠していないサイトだった](https://gigazine.net/news/20260821-internet-age-checks-boosted-rogue-adult-sites/)
-- [大量のmicroSDカードを3年間耐久テストしてわかった優秀なメーカーと期待外れのメーカーは？](https://gigazine.net/news/20260821-microsd-card-test-3-years/)
-- [2026年8月21日のヘッドラインニュース](https://gigazine.net/news/20260821-headline/)
+- [640億円の支払いでTikTokがアメリカ司法省との児童オンラインプライバシー保護法違反に関する訴訟に和解](https://gigazine.net/news/20260823-doj-tiktok-settle-400-million-coppa/)
+- [ChatGPTが危険な医療アドバイスをしたとしてOpenAIが提訴される、病気の牧師に「神はあなたの体が永遠に壊れ続けるようには設計していない」と助言](https://gigazine.net/news/20260823-openai-lawsuit-chatgpt-medical-advice/)
+- [Waymoがロボタクシーの性能向上のためカスタムASICチップを開発](https://gigazine.net/news/20260822-waymo-brain/)
+- [Raspberry Pi向け純正タッチパネル「Raspberry Pi Touch Display 2」の10インチモデルをフォトレビュー、サイズ大幅アップで解像度向上](https://gigazine.net/news/20260822-raspberry-pi-touch-display-2-10-inch/)
+- [無料でAIエージェントに最適化されたオープンソースのメモ帳アプリ「Hubble.md」、MarkdownとHTMLをベースにして保存・編集・操作が可能](https://gigazine.net/news/20260822-hubble-md/)
+- [AIモデルを選ぶ時に「実際に何をしているのか？」という内部構造や処理フローをアニメーションで視覚化して確認できる「modelmap」](https://gigazine.net/news/20260822-modelmap/)
 <!-- GIGAZINE-NEWS-END -->
