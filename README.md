@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=SQcq990N5NY'>
-        <img src='https://i.ytimg.com/vi/SQcq990N5NY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWlOgX0s6Lzh8Clxs5rWiyYXwfUg' width='200px' alt='また逢う日まで'>
+      <a href='https://www.youtube.com/watch?v=A1g9Ev-Ml5g'>
+        <img src='https://i.ytimg.com/vi/A1g9Ev-Ml5g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYaQo0xKzXpdDNtCRer4QMwIqPwg' width='200px' alt='虹'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=SQcq990N5NY'>また逢う日まで</a>
+      <a href='https://www.youtube.com/watch?v=A1g9Ev-Ml5g'>虹</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=SVkGRoLicuA'>
-        <img src='https://i.ytimg.com/vi/SVkGRoLicuA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEGWRcMYMGbnY-HOcgFSINA1NRIA' width='200px' alt='Sukidakara'>
+      <a href='https://www.youtube.com/watch?v=kMUactfS2I0'>
+        <img src='https://i.ytimg.com/vi/kMUactfS2I0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANaL1Tf8C3rAmnchXq84s59BYn5w' width='200px' alt='Love Me, Love You'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=SVkGRoLicuA'>Sukidakara</a>
+      <a href='https://www.youtube.com/watch?v=kMUactfS2I0'>Love Me, Love You</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=HrZX4KFfniU'>
-        <img src='https://i.ytimg.com/vi/HrZX4KFfniU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCj4NYNo6f32MhY3ua3KFVZQcplOw' width='200px' alt='Earthchild'>
+      <a href='https://www.youtube.com/watch?v=FuxtXqD19lI'>
+        <img src='https://i.ytimg.com/vi/FuxtXqD19lI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5MThWoojMGPW0Kep9FJAmSFIcaw' width='200px' alt='50%'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=HrZX4KFfniU'>Earthchild</a>
+      <a href='https://www.youtube.com/watch?v=FuxtXqD19lI'>50%</a>
     </td>
   </tr>
 </table>
