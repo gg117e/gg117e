@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=XtBUrzpLjGQ'>
-        <img src='https://i.ytimg.com/vi/XtBUrzpLjGQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChrRq5NxAovVcUY4eqeydpNsNh_w' width='200px' alt='Aiuta'>
+      <a href='https://www.youtube.com/watch?v=SQcq990N5NY'>
+        <img src='https://i.ytimg.com/vi/SQcq990N5NY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWlOgX0s6Lzh8Clxs5rWiyYXwfUg' width='200px' alt='また逢う日まで'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=XtBUrzpLjGQ'>Aiuta</a>
+      <a href='https://www.youtube.com/watch?v=SQcq990N5NY'>また逢う日まで</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=KWuBFuc2hX8'>
-        <img src='https://i.ytimg.com/vi/KWuBFuc2hX8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDbE9jqoMoGos1fTtw12yaYrw6NQ' width='200px' alt='YELL'>
+      <a href='https://www.youtube.com/watch?v=SVkGRoLicuA'>
+        <img src='https://i.ytimg.com/vi/SVkGRoLicuA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEGWRcMYMGbnY-HOcgFSINA1NRIA' width='200px' alt='Sukidakara'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=KWuBFuc2hX8'>YELL</a>
+      <a href='https://www.youtube.com/watch?v=SVkGRoLicuA'>Sukidakara</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=FYhxYcXfhYA'>
-        <img src='https://i.ytimg.com/vi/FYhxYcXfhYA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGKmItDhQEHziI9Jxd7IHeNxFxeg' width='200px' alt='Mrs. GREEN APPLE「familie」Official Music Video'>
+      <a href='https://www.youtube.com/watch?v=HrZX4KFfniU'>
+        <img src='https://i.ytimg.com/vi/HrZX4KFfniU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCj4NYNo6f32MhY3ua3KFVZQcplOw' width='200px' alt='Earthchild'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=FYhxYcXfhYA'>Mrs. GREEN APPLE「familie」Official Music Video</a>
+      <a href='https://www.youtube.com/watch?v=HrZX4KFfniU'>Earthchild</a>
     </td>
   </tr>
 </table>
