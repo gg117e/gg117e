@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [640億円の支払いでTikTokがアメリカ司法省との児童オンラインプライバシー保護法違反に関する訴訟に和解](https://gigazine.net/news/20260823-doj-tiktok-settle-400-million-coppa/)
-- [ChatGPTが危険な医療アドバイスをしたとしてOpenAIが提訴される、病気の牧師に「神はあなたの体が永遠に壊れ続けるようには設計していない」と助言](https://gigazine.net/news/20260823-openai-lawsuit-chatgpt-medical-advice/)
-- [Waymoがロボタクシーの性能向上のためカスタムASICチップを開発](https://gigazine.net/news/20260822-waymo-brain/)
-- [Raspberry Pi向け純正タッチパネル「Raspberry Pi Touch Display 2」の10インチモデルをフォトレビュー、サイズ大幅アップで解像度向上](https://gigazine.net/news/20260822-raspberry-pi-touch-display-2-10-inch/)
-- [無料でAIエージェントに最適化されたオープンソースのメモ帳アプリ「Hubble.md」、MarkdownとHTMLをベースにして保存・編集・操作が可能](https://gigazine.net/news/20260822-hubble-md/)
-- [AIモデルを選ぶ時に「実際に何をしているのか？」という内部構造や処理フローをアニメーションで視覚化して確認できる「modelmap」](https://gigazine.net/news/20260822-modelmap/)
+- [画像がAI生成かどうかを判別して出どころを調べるGoogleのAIツール「Backstory」はメディアのファクトチェックを迅速化している](https://gigazine.net/news/20260824-googles-backstory-ai-generated-detection/)
+- [経済的に苦しい人は「国としては景気が良い」と考えているとより強い無力感を覚えるとの研究結果](https://gigazine.net/news/20260824-good-economy-financial-strain-powerlessness/)
+- [文学賞受賞作が決まる仕組み・アニメ映画『花緑青が明ける日に』監督インタビューなどAmazonで売上トップ10のGIGAZINE記事ランキング2026年7月版はコレ！](https://gigazine.net/news/20260824-gigazine-kindle-ranking-2026-07/)
+- [リンゴの味と香りが特濃な「三ツ矢特濃アップルスカッシュ」試飲レビュー](https://gigazine.net/news/20260823-mitsuya-apple-squash/)
+- [AIエージェントが実際にどのように動いてトークンを使っているかが後から見てわかるようにできる「Langfuse」、オープンソースでセルフホスト可能](https://gigazine.net/news/20260823-langfuse/)
+- [ピアノ演奏の続きをAIで自動生成できるアプリ「RollTab」が登場](https://gigazine.net/news/20260823-transformer-piano/)
 <!-- GIGAZINE-NEWS-END -->
