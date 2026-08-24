@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ZI6kQh30aLs'>
-        <img src='https://i.ytimg.com/vi/ZI6kQh30aLs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOt-OJxA0AVDoneSRZp4glsrs0QQ' width='200px' alt='Be Free'>
+      <a href='https://www.youtube.com/watch?v=LkCEumWZfF4'>
+        <img src='https://i.ytimg.com/vi/LkCEumWZfF4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyaPQcgdwfRFGuZtUyRhWWfBnpUg' width='200px' alt='平井 大 / もしも、僕がいなくても。（Music Video）'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ZI6kQh30aLs'>Be Free</a>
+      <a href='https://www.youtube.com/watch?v=LkCEumWZfF4'>平井 大 / もしも、僕がいなくても。（Music Video）</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Pz9-XJ8SFKU'>
-        <img src='https://i.ytimg.com/vi/Pz9-XJ8SFKU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBq-Etp03Dzv0fNmneyfOmTHqbeTQ' width='200px' alt='Taketen'>
+      <a href='https://www.youtube.com/watch?v=Nn3LD3C4Q-0'>
+        <img src='https://i.ytimg.com/vi/Nn3LD3C4Q-0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgR8BhgWkP37YPy3vimvza0g4onw' width='200px' alt='ナイスアイディア！'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Pz9-XJ8SFKU'>Taketen</a>
+      <a href='https://www.youtube.com/watch?v=Nn3LD3C4Q-0'>ナイスアイディア！</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=MqHfdqK5VvI'>
-        <img src='https://i.ytimg.com/vi/MqHfdqK5VvI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXZdvpkjf-wPoMr7QxLRsrjPYRqg' width='200px' alt='Michi Teyu Ku (Overflowing)'>
+      <a href='https://www.youtube.com/watch?v=FJOUiX0uuYM'>
+        <img src='https://i.ytimg.com/vi/FJOUiX0uuYM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCRluchGpZf-uIfzjnVnCzRAENzg' width='200px' alt='さよならエレジー'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=MqHfdqK5VvI'>Michi Teyu Ku (Overflowing)</a>
+      <a href='https://www.youtube.com/watch?v=FJOUiX0uuYM'>さよならエレジー</a>
     </td>
   </tr>
 </table>
