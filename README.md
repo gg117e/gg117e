@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [画像がAI生成かどうかを判別して出どころを調べるGoogleのAIツール「Backstory」はメディアのファクトチェックを迅速化している](https://gigazine.net/news/20260824-googles-backstory-ai-generated-detection/)
-- [経済的に苦しい人は「国としては景気が良い」と考えているとより強い無力感を覚えるとの研究結果](https://gigazine.net/news/20260824-good-economy-financial-strain-powerlessness/)
-- [文学賞受賞作が決まる仕組み・アニメ映画『花緑青が明ける日に』監督インタビューなどAmazonで売上トップ10のGIGAZINE記事ランキング2026年7月版はコレ！](https://gigazine.net/news/20260824-gigazine-kindle-ranking-2026-07/)
-- [リンゴの味と香りが特濃な「三ツ矢特濃アップルスカッシュ」試飲レビュー](https://gigazine.net/news/20260823-mitsuya-apple-squash/)
-- [AIエージェントが実際にどのように動いてトークンを使っているかが後から見てわかるようにできる「Langfuse」、オープンソースでセルフホスト可能](https://gigazine.net/news/20260823-langfuse/)
-- [ピアノ演奏の続きをAIで自動生成できるアプリ「RollTab」が登場](https://gigazine.net/news/20260823-transformer-piano/)
+- [NVIDIAのAIエージェント「AVO」がARC-AGI-3で100％を達成、同じベースモデルの別条件での評価は約30％で「実行基盤(ハーネス)」の重要性が示される](https://gigazine.net/news/20260825-nvidia-avo/)
+- [Omarchy Linuxを支援する非営利団体Omacom Foundation設立にジャック・ドーシーらIT業界重鎮から10億円超の寄付が集まる](https://gigazine.net/news/20260825-omacom-foundation/)
+- [AI分野では「オープンモデルがクローズドモデルに追いつく時間」が飛躍的に縮まっているとの指摘](https://gigazine.net/news/20260824-open-ai-models-catching-up/)
+- [謎のAI「Ox Alpha」が出現し無料テスト中、コンテキストウィンドウは100万トークンで1日数兆トークンを処理できる匿名ラボがAPIを提供](https://gigazine.net/news/20260824-ox-alpha/)
+- [半導体関連の予備校が韓国で大盛況、SamsungとSK Hynixの記録的な業績と魅力的な従業員ボーナスが後押し](https://gigazine.net/news/20260824-chipmaking-cram-schools/)
+- [折りたたみ式iPhoneのウワサ「耐久性あり」「ポケットに収まりやすい」「iPadのような便利なアプリレイアウト」「望遠レンズとFace IDなし」](https://gigazine.net/news/20260824-foldable-iphone-detail/)
 <!-- GIGAZINE-NEWS-END -->
