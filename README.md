@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=-_PKhPMXMDY'>
-        <img src='https://i.ytimg.com/vi/-_PKhPMXMDY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA96C28QeG6Y8XikTP7sXlae0UcmA' width='200px' alt='Tokimeki / Vaundy：MUSIC VIDEO'>
+      <a href='https://www.youtube.com/watch?v=W25pTZ5Gmew'>
+        <img src='https://i.ytimg.com/vi/W25pTZ5Gmew/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZ1ZnvcCrWBxZ8Yxd_9b9jXBe7jQ' width='200px' alt='決心'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=-_PKhPMXMDY'>Tokimeki / Vaundy：MUSIC VIDEO</a>
+      <a href='https://www.youtube.com/watch?v=W25pTZ5Gmew'>決心</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=A0plb7gdzW4'>
-        <img src='https://i.ytimg.com/vi/A0plb7gdzW4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhPB6jEwaOqitRIOiPhQQSfsOuDw' width='200px' alt='Attitude'>
+      <a href='https://www.youtube.com/watch?v=aaAxYOuqstw'>
+        <img src='https://i.ytimg.com/vi/aaAxYOuqstw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjpF41n5dcKHxz2qhWJuwBqizncg' width='200px' alt='Slow & Easy'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=A0plb7gdzW4'>Attitude</a>
+      <a href='https://www.youtube.com/watch?v=aaAxYOuqstw'>Slow & Easy</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ldJJO0nJc_A'>
-        <img src='https://i.ytimg.com/vi/ldJJO0nJc_A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAt3Zfw447sqXwKA96duHdwFqzwA' width='200px' alt='Itsumademo'>
+      <a href='https://www.youtube.com/watch?v=mctEybOqY6s'>
+        <img src='https://i.ytimg.com/vi/mctEybOqY6s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB97mzRbYaNpDzDeEqCkFLBMUFafQ' width='200px' alt='勇者'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ldJJO0nJc_A'>Itsumademo</a>
+      <a href='https://www.youtube.com/watch?v=mctEybOqY6s'>勇者</a>
     </td>
   </tr>
 </table>
