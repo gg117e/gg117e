@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=W25pTZ5Gmew'>
-        <img src='https://i.ytimg.com/vi/W25pTZ5Gmew/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZ1ZnvcCrWBxZ8Yxd_9b9jXBe7jQ' width='200px' alt='決心'>
+      <a href='https://www.youtube.com/watch?v=5W2LCOjgA2w'>
+        <img src='https://i.ytimg.com/vi/5W2LCOjgA2w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJVEmSPKowr8dFsCJBt-6t_A-uTA' width='200px' alt='好き、お願い'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=W25pTZ5Gmew'>決心</a>
+      <a href='https://www.youtube.com/watch?v=5W2LCOjgA2w'>好き、お願い</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=aaAxYOuqstw'>
-        <img src='https://i.ytimg.com/vi/aaAxYOuqstw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjpF41n5dcKHxz2qhWJuwBqizncg' width='200px' alt='Slow & Easy'>
+      <a href='https://www.youtube.com/watch?v=zlJSYqcO2-4'>
+        <img src='https://i.ytimg.com/vi/zlJSYqcO2-4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2T_Y869Rqoi9MFA8BqnrVmiJlyQ' width='200px' alt='Clap Clap'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=aaAxYOuqstw'>Slow & Easy</a>
+      <a href='https://www.youtube.com/watch?v=zlJSYqcO2-4'>Clap Clap</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=mctEybOqY6s'>
-        <img src='https://i.ytimg.com/vi/mctEybOqY6s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB97mzRbYaNpDzDeEqCkFLBMUFafQ' width='200px' alt='勇者'>
+      <a href='https://www.youtube.com/watch?v=W8Q9Hs7Tgzg'>
+        <img src='https://i.ytimg.com/vi/W8Q9Hs7Tgzg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCF1Qy_4gJ79JnrDpU1uHuW0YOKUg' width='200px' alt='Wanted! Wanted!'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=mctEybOqY6s'>勇者</a>
+      <a href='https://www.youtube.com/watch?v=W8Q9Hs7Tgzg'>Wanted! Wanted!</a>
     </td>
   </tr>
 </table>
