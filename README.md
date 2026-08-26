@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [NVIDIAのAIエージェント「AVO」がARC-AGI-3で100％を達成、同じベースモデルの別条件での評価は約30％で「実行基盤(ハーネス)」の重要性が示される](https://gigazine.net/news/20260825-nvidia-avo/)
-- [Omarchy Linuxを支援する非営利団体Omacom Foundation設立にジャック・ドーシーらIT業界重鎮から10億円超の寄付が集まる](https://gigazine.net/news/20260825-omacom-foundation/)
-- [AI分野では「オープンモデルがクローズドモデルに追いつく時間」が飛躍的に縮まっているとの指摘](https://gigazine.net/news/20260824-open-ai-models-catching-up/)
-- [謎のAI「Ox Alpha」が出現し無料テスト中、コンテキストウィンドウは100万トークンで1日数兆トークンを処理できる匿名ラボがAPIを提供](https://gigazine.net/news/20260824-ox-alpha/)
-- [半導体関連の予備校が韓国で大盛況、SamsungとSK Hynixの記録的な業績と魅力的な従業員ボーナスが後押し](https://gigazine.net/news/20260824-chipmaking-cram-schools/)
-- [折りたたみ式iPhoneのウワサ「耐久性あり」「ポケットに収まりやすい」「iPadのような便利なアプリレイアウト」「望遠レンズとFace IDなし」](https://gigazine.net/news/20260824-foldable-iphone-detail/)
+- [GIGAZINE読者のAI利用率がついに80％を突破、最も使われているAIや勢いのあるAIは？](https://gigazine.net/news/20260826-gigazine-user-ai-usage/)
+- [UnslothがAIの性能をなるべく維持しつつ省メモリ化する次世代量子化手法「Unsloth Dynamic 3.0 GGUF」を開発](https://gigazine.net/news/20260826-dynamic-3.0-ggufs/)
+- [心臓は発作を起こした後に毛細血管から独自の「バイパス」を作るとの研究結果](https://gigazine.net/news/20260826-heart-builds-own-bypass-after-attack/)
+- [WindowsのペイントやMicrosoftフォトのAI生成画像に電子透かしが埋め込まれていることが判明](https://gigazine.net/news/20260825-microsoft-embed-invisible-watermarks/)
+- [AIエージェントの「ハーネス」とは？AIモデルを実際に働かせる4つの仕組み](https://gigazine.net/news/20260825-what-is-harness/)
+- [Anthropicの最上位AIモデル「Claude Fable 5」は企業需要が伸びず苦戦、AI企業のビジネスモデルが覆される可能性も](https://gigazine.net/news/20260825-anthropic-best-ai-model-struggles/)
 <!-- GIGAZINE-NEWS-END -->
