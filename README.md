@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=sFd0qdA32d8'>
-        <img src='https://i.ytimg.com/vi/sFd0qdA32d8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsbiKsqGRozBBhXS18xarw4KRGhw' width='200px' alt='Turquoise'>
+      <a href='https://www.youtube.com/watch?v=rpIsjz-oLOQ'>
+        <img src='https://i.ytimg.com/vi/rpIsjz-oLOQ/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLCmUjbPQWz3mj5xcJ2HXpNFJV6rvg' width='200px' alt='ヒロイン育成計画 feat. 涼海ひより（CV：水瀬いのり）／ HoneyWorks'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=sFd0qdA32d8'>Turquoise</a>
+      <a href='https://www.youtube.com/watch?v=rpIsjz-oLOQ'>ヒロイン育成計画 feat. 涼海ひより（CV：水瀬いのり）／ HoneyWorks</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Jm2jOK45btw'>
-        <img src='https://i.ytimg.com/vi/Jm2jOK45btw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPMCDVE0qm5SI2owO0-6JB-sPNYw' width='200px' alt='Aiueongaku'>
+      <a href='https://www.youtube.com/watch?v=WHKlMwYHb34'>
+        <img src='https://i.ytimg.com/vi/WHKlMwYHb34/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBGzTYZk8EHB4PvyTSPO0ynZTj5eA' width='200px' alt='The Peak'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Jm2jOK45btw'>Aiueongaku</a>
+      <a href='https://www.youtube.com/watch?v=WHKlMwYHb34'>The Peak</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Mr2EWEPFtwk'>
-        <img src='https://i.ytimg.com/vi/Mr2EWEPFtwk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB40b7gpdm4JT-YxCurTEsFUH324g' width='200px' alt='花になって - Be a flower'>
+      <a href='https://www.youtube.com/watch?v=vs-cO8XXDTc'>
+        <img src='https://i.ytimg.com/vi/vs-cO8XXDTc/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDF1uVvpCEhHx1YCY_-M_jH0hCCJw' width='200px' alt='ファーストラヴ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Mr2EWEPFtwk'>花になって - Be a flower</a>
+      <a href='https://www.youtube.com/watch?v=vs-cO8XXDTc'>ファーストラヴ</a>
     </td>
   </tr>
 </table>
