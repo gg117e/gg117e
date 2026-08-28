@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [OpenAIがHugging Faceを誤ってハッキングしてしまった件で分析結果を報告、隔離された複数のエージェントがお互いの存在を発見するところから壮大な協力作戦が始まる](https://gigazine.net/news/20260827-openai-hugging-face-incident-report/)
-- [「あー」「えー」などを自動削除しつつリアルタイムで文字起こししできる音声認識モデル「Gemini 3.5 Transcribe」をGoogleが発表](https://gigazine.net/news/20260827-gemini-3-5-transcribe/)
-- [Claudeの公式Chrome拡張機能「Claude in Chrome」が一般提供開始](https://gigazine.net/news/20260827-claude-chrome-available/)
-- [「NVIDIAがHugging Faceを2兆円超えで買収する契約に合意」との報道](https://gigazine.net/news/20260827-nvidia-hugging-face/)
-- [「Qwen3.8-Flash-Next」がオープンモデルとして公開される、Qwen4の次世代アーキテクチャを使用](https://gigazine.net/news/20260827-qwen3-8-flash-next/)
-- [たった2回の注射で神経細胞を回復させてアルツハイマー病マウスの認知機能を改善することに成功](https://gigazine.net/news/20260827-alzheimer-mice-neuroregeneration-reverse-injections/)
+- [Android 17で通信のプライバシーが強化、「アクセス先」を隠すECHや2G詐欺対策に対応](https://gigazine.net/news/20260828-android-17-encrypted-client-hello/)
+- [Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約](https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/)
+- [AIや企業によるカンニングを防ぎつつ最先端モデルをテストする方法をGoogleが考案](https://gigazine.net/news/20260828-google-ai-evaluations-secure-environments/)
+- [アニメ雑誌主要3誌の表紙を創刊号から確認できる「Anime Magazine Covers」](https://gigazine.net/news/20260828-anime-magazine-covers/)
+- [購入した電子書籍をGeminiに読ませて質問できる「Expert Intelligence」が登場、10万冊超に対応](https://gigazine.net/news/20260828-expert-intelligence-gemini/)
+- [歌って滑れるアヒル型ロボット「Microduck」をHugging Face傘下のスタートアップ・Pollen Roboticsが発表](https://gigazine.net/news/20260828-pollen-robotics-microduck/)
 <!-- GIGAZINE-NEWS-END -->
