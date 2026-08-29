@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=A0plb7gdzW4'>
-        <img src='https://i.ytimg.com/vi/A0plb7gdzW4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhPB6jEwaOqitRIOiPhQQSfsOuDw' width='200px' alt='Attitude'>
+      <a href='https://www.youtube.com/watch?v=NiwkUVkXIlU'>
+        <img src='https://i.ytimg.com/vi/NiwkUVkXIlU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDKRjNV_fHOvPi0ubAUVpNyMy8Bg' width='200px' alt='Zenryoku Syounen'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=A0plb7gdzW4'>Attitude</a>
+      <a href='https://www.youtube.com/watch?v=NiwkUVkXIlU'>Zenryoku Syounen</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=V6TEcoNUmc8'>
-        <img src='https://i.ytimg.com/vi/V6TEcoNUmc8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSLIKEiQCOt42rwL4jDoKMEret8g' width='200px' alt='Ditto'>
+      <a href='https://www.youtube.com/watch?v=FXsGCieXm1E'>
+        <img src='https://i.ytimg.com/vi/FXsGCieXm1E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1rYgKc_4VlK6EQPnl6f2NeSjsuw' width='200px' alt='Renai Circulation「恋愛サーキュレーション」Kana Hanazawa'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=V6TEcoNUmc8'>Ditto</a>
+      <a href='https://www.youtube.com/watch?v=FXsGCieXm1E'>Renai Circulation「恋愛サーキュレーション」Kana Hanazawa</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Oye00CX57QM'>
-        <img src='https://i.ytimg.com/vi/Oye00CX57QM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASRvN695AvvbkYsveIMDxaAzVA3g' width='200px' alt='Happiness'>
+      <a href='https://www.youtube.com/watch?v=zlJSYqcO2-4'>
+        <img src='https://i.ytimg.com/vi/zlJSYqcO2-4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2T_Y869Rqoi9MFA8BqnrVmiJlyQ' width='200px' alt='Clap Clap'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Oye00CX57QM'>Happiness</a>
+      <a href='https://www.youtube.com/watch?v=zlJSYqcO2-4'>Clap Clap</a>
     </td>
   </tr>
 </table>
