@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [Android 17で通信のプライバシーが強化、「アクセス先」を隠すECHや2G詐欺対策に対応](https://gigazine.net/news/20260828-android-17-encrypted-client-hello/)
-- [Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約](https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/)
-- [AIや企業によるカンニングを防ぎつつ最先端モデルをテストする方法をGoogleが考案](https://gigazine.net/news/20260828-google-ai-evaluations-secure-environments/)
-- [アニメ雑誌主要3誌の表紙を創刊号から確認できる「Anime Magazine Covers」](https://gigazine.net/news/20260828-anime-magazine-covers/)
-- [購入した電子書籍をGeminiに読ませて質問できる「Expert Intelligence」が登場、10万冊超に対応](https://gigazine.net/news/20260828-expert-intelligence-gemini/)
-- [歌って滑れるアヒル型ロボット「Microduck」をHugging Face傘下のスタートアップ・Pollen Roboticsが発表](https://gigazine.net/news/20260828-pollen-robotics-microduck/)
+- [自宅に庭があったり近所に公園があったりする人は糖尿病リスクが低いという研究結果](https://gigazine.net/news/20260829-garden-park-access-relation-diabetes/)
+- [間もなくの発表が予想されるApple Watch Ultra 4のウワサまとめ](https://gigazine.net/news/20260829-apple-watch-ultra-4-rumor/)
+- [「写ルンです」で白黒のモノクロ写真を誰でも簡単に撮れる「写ルンです Black and White」で撮影＆現像してみたよレビュー](https://gigazine.net/news/20260829-fujifilm-utsurundesu-black-and-white/)
+- [150万年前からセックスをしていない昆虫に有性生殖の仕組みが残っていることが判明](https://gigazine.net/news/20260829-million-years-without-sexual-reproduction-stick-insects/)
+- [中国製AIモデル「GLM-5.3」が約束通りオープンモデルとして無償公開される、Claude Fable 5やGPT-5.6 Solに匹敵する高性能モデル](https://gigazine.net/news/20260829-glm-5-3-open/)
+- [AIに同じミスを繰り返させない「ハーネスエンジニアリング」とは？](https://gigazine.net/news/20260828-harness-engineering/)
 <!-- GIGAZINE-NEWS-END -->
