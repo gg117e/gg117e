@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [自宅に庭があったり近所に公園があったりする人は糖尿病リスクが低いという研究結果](https://gigazine.net/news/20260829-garden-park-access-relation-diabetes/)
-- [間もなくの発表が予想されるApple Watch Ultra 4のウワサまとめ](https://gigazine.net/news/20260829-apple-watch-ultra-4-rumor/)
-- [「写ルンです」で白黒のモノクロ写真を誰でも簡単に撮れる「写ルンです Black and White」で撮影＆現像してみたよレビュー](https://gigazine.net/news/20260829-fujifilm-utsurundesu-black-and-white/)
-- [150万年前からセックスをしていない昆虫に有性生殖の仕組みが残っていることが判明](https://gigazine.net/news/20260829-million-years-without-sexual-reproduction-stick-insects/)
-- [中国製AIモデル「GLM-5.3」が約束通りオープンモデルとして無償公開される、Claude Fable 5やGPT-5.6 Solに匹敵する高性能モデル](https://gigazine.net/news/20260829-glm-5-3-open/)
-- [AIに同じミスを繰り返させない「ハーネスエンジニアリング」とは？](https://gigazine.net/news/20260828-harness-engineering/)
+- [ドードーは歴史家が考えていたほど愚かではなかったかもしれない](https://gigazine.net/news/20260830-dodo-probably-not-stupid/)
+- [無料でDiscordのようなチャットサーバーをセルフホストできる「Chatto」、消費リソースが極めて少なく軽快な動作でチャットデータは暗号化されているのが特徴](https://gigazine.net/news/20260829-chatto/)
+- [セックスフレンドのメリットとデメリットとは？](https://gigazine.net/news/20260829-friends-with-benefits-tradeoffs/)
+- [「赤いリンゴを心の中で思い浮かべて」と言われても何も視覚化できない「アファンタジア」入門ガイド](https://gigazine.net/news/20260829-aphantasia-guide/)
+- [Chromeで小さなJPEG画像が違うように見える理由](https://gigazine.net/news/20260829-jpg-scaling-chrome/)
+- [OpenAIがCursorとの提携・モデル提供の終了を通達、「SpaceXがOpenAIの利用規約に従って技術を使うという確信が持てないため」](https://gigazine.net/news/20260829-openai-decided-to-end-partnership-with-cursor/)
 <!-- GIGAZINE-NEWS-END -->
