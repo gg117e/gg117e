@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=1jS94sWWokk'>
-        <img src='https://i.ytimg.com/vi/1jS94sWWokk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxqYiCxzeXYaMH_2cNJD-UWssuIQ' width='200px' alt='MIRROR MIRROR'>
+      <a href='https://www.youtube.com/watch?v=EpM37GEGhDc'>
+        <img src='https://i.ytimg.com/vi/EpM37GEGhDc/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLD8Ld0A_V8YNf5_h_0-e8B6_34CnQ' width='200px' alt='Itoshi Kimie (Essential Ver.)'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=1jS94sWWokk'>MIRROR MIRROR</a>
+      <a href='https://www.youtube.com/watch?v=EpM37GEGhDc'>Itoshi Kimie (Essential Ver.)</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=n2m9ebS3tEo'>
-        <img src='https://i.ytimg.com/vi/n2m9ebS3tEo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXzDib6DqcUgUEmhX8e254Si2mQw' width='200px' alt='Beautiful Fin'>
+      <a href='https://www.youtube.com/watch?v=mUSVav9pKO4'>
+        <img src='https://i.ytimg.com/vi/mUSVav9pKO4/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBZuGioul0EgU1yVdkFmacQrJAcsA' width='200px' alt='Sunny'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=n2m9ebS3tEo'>Beautiful Fin</a>
+      <a href='https://www.youtube.com/watch?v=mUSVav9pKO4'>Sunny</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=FJOUiX0uuYM'>
-        <img src='https://i.ytimg.com/vi/FJOUiX0uuYM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCRluchGpZf-uIfzjnVnCzRAENzg' width='200px' alt='さよならエレジー'>
+      <a href='https://www.youtube.com/watch?v=dMLNw_yzaFM'>
+        <img src='https://i.ytimg.com/vi/dMLNw_yzaFM/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLD-z_QT9T9VICFKZWAW-7NqzvDD3A' width='200px' alt='シルエット'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=FJOUiX0uuYM'>さよならエレジー</a>
+      <a href='https://www.youtube.com/watch?v=dMLNw_yzaFM'>シルエット</a>
     </td>
   </tr>
 </table>
