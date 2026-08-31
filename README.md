@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=EpM37GEGhDc'>
-        <img src='https://i.ytimg.com/vi/EpM37GEGhDc/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLD8Ld0A_V8YNf5_h_0-e8B6_34CnQ' width='200px' alt='Itoshi Kimie (Essential Ver.)'>
+      <a href='https://www.youtube.com/watch?v=gzHTMjMS-wI'>
+        <img src='https://i.ytimg.com/vi/gzHTMjMS-wI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCp8jNtX5jo9nTTY8FExjOfsoG9ZQ' width='200px' alt='Aino Katachi'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=EpM37GEGhDc'>Itoshi Kimie (Essential Ver.)</a>
+      <a href='https://www.youtube.com/watch?v=gzHTMjMS-wI'>Aino Katachi</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=mUSVav9pKO4'>
-        <img src='https://i.ytimg.com/vi/mUSVav9pKO4/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBZuGioul0EgU1yVdkFmacQrJAcsA' width='200px' alt='Sunny'>
+      <a href='https://www.youtube.com/watch?v=olsv91gZylw'>
+        <img src='https://i.ytimg.com/vi/olsv91gZylw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMk1mraa6RG1rdZqFj9hliTNqJwg' width='200px' alt='悲しみなんて笑い飛ばせ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=mUSVav9pKO4'>Sunny</a>
+      <a href='https://www.youtube.com/watch?v=olsv91gZylw'>悲しみなんて笑い飛ばせ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=dMLNw_yzaFM'>
-        <img src='https://i.ytimg.com/vi/dMLNw_yzaFM/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLD-z_QT9T9VICFKZWAW-7NqzvDD3A' width='200px' alt='シルエット'>
+      <a href='https://www.youtube.com/watch?v=AUfGA37dg6E'>
+        <img src='https://i.ytimg.com/vi/AUfGA37dg6E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAD1Jn2t3Eq-XP_1uAIeJC8GV26MA' width='200px' alt='いつかこの涙が'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=dMLNw_yzaFM'>シルエット</a>
+      <a href='https://www.youtube.com/watch?v=AUfGA37dg6E'>いつかこの涙が</a>
     </td>
   </tr>
 </table>
