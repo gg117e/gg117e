@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [ドードーは歴史家が考えていたほど愚かではなかったかもしれない](https://gigazine.net/news/20260830-dodo-probably-not-stupid/)
-- [無料でDiscordのようなチャットサーバーをセルフホストできる「Chatto」、消費リソースが極めて少なく軽快な動作でチャットデータは暗号化されているのが特徴](https://gigazine.net/news/20260829-chatto/)
-- [セックスフレンドのメリットとデメリットとは？](https://gigazine.net/news/20260829-friends-with-benefits-tradeoffs/)
-- [「赤いリンゴを心の中で思い浮かべて」と言われても何も視覚化できない「アファンタジア」入門ガイド](https://gigazine.net/news/20260829-aphantasia-guide/)
-- [Chromeで小さなJPEG画像が違うように見える理由](https://gigazine.net/news/20260829-jpg-scaling-chrome/)
-- [OpenAIがCursorとの提携・モデル提供の終了を通達、「SpaceXがOpenAIの利用規約に従って技術を使うという確信が持てないため」](https://gigazine.net/news/20260829-openai-decided-to-end-partnership-with-cursor/)
+- [TencentがAIモデル「Hy4 preview」を公開、一部テストでGPT-5.6 Solを上回る＆213GBまで軽量化した1bit量子化版も公開される](https://gigazine.net/news/20260831-hy4-preview-tencent/)
+- [トランプ大統領による「オンタリオ湖からアメリカ湖への改名宣言」を受けてGoogleマップが対応を発表、アメリカとカナダとそれ以外の国で異なる表記を採用](https://gigazine.net/news/20260831-google-map-lake-ontario/)
+- [GitHubで使われる言葉がAIの影響で変化している可能性を示す「The load-bearing vocabulary of Claude」](https://gigazine.net/news/20260831-load-bearing-ai-vocabulary-github/)
+- [人間のCFO・COO・人事・法務・マーケティング責任者・広報担当などをAI幹部で置き換える「Open Executive」](https://gigazine.net/news/20260831-ai-virtual-executive-team/)
+- [「世帯収入が低い人ほど独身」の傾向は個人主義的な国で強いとの研究結果](https://gigazine.net/news/20260831-income-individualism-singlehood/)
+- [AIエージェントが人間にとって理解しやすいシンプルなチャート仕様記述から表現力豊かで見栄えの良いグラフを確実に生成できる可視化中間言語「Flint」、50種類のチャートタイプをサポートしVega-Lite・ECharts・Chart.jsなどでレンダリング可能＆MCPサーバーあり](https://gigazine.net/news/20260830-flint/)
 <!-- GIGAZINE-NEWS-END -->
