@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [TencentがAIモデル「Hy4 preview」を公開、一部テストでGPT-5.6 Solを上回る＆213GBまで軽量化した1bit量子化版も公開される](https://gigazine.net/news/20260831-hy4-preview-tencent/)
-- [トランプ大統領による「オンタリオ湖からアメリカ湖への改名宣言」を受けてGoogleマップが対応を発表、アメリカとカナダとそれ以外の国で異なる表記を採用](https://gigazine.net/news/20260831-google-map-lake-ontario/)
-- [GitHubで使われる言葉がAIの影響で変化している可能性を示す「The load-bearing vocabulary of Claude」](https://gigazine.net/news/20260831-load-bearing-ai-vocabulary-github/)
-- [人間のCFO・COO・人事・法務・マーケティング責任者・広報担当などをAI幹部で置き換える「Open Executive」](https://gigazine.net/news/20260831-ai-virtual-executive-team/)
-- [「世帯収入が低い人ほど独身」の傾向は個人主義的な国で強いとの研究結果](https://gigazine.net/news/20260831-income-individualism-singlehood/)
-- [AIエージェントが人間にとって理解しやすいシンプルなチャート仕様記述から表現力豊かで見栄えの良いグラフを確実に生成できる可視化中間言語「Flint」、50種類のチャートタイプをサポートしVega-Lite・ECharts・Chart.jsなどでレンダリング可能＆MCPサーバーあり](https://gigazine.net/news/20260830-flint/)
+- [ChatGPTの広告事業が開始200日足らずで年換算約1600億円に](https://gigazine.net/news/20260901-openai-chatgpt/)
+- [「OpenClaw 2.0」が登場、インストール簡略化や複数人共同作業などを含む大規模アップデート](https://gigazine.net/news/20260901-openclaw-2/)
+- [地図アプリ「MapQuest」がオンタリオ湖の名称変更を拒否したことでナビゲーション部門で1位に急上昇](https://gigazine.net/news/20260901-mapquest-download-soared/)
+- [AppleがOpenAIとの企業秘密侵害訴訟で元従業員のMacBookから衝撃的な証拠を発見](https://gigazine.net/news/20260901-apple-reveals-shocking-evidence-openai-suit/)
+- [Appleのティム・クックがCEOとしての最終日を迎える](https://gigazine.net/news/20260901-apple-tim-cook/)
+- [iPhoneがAndroidを上回った唯一の年代は？GIGAZINE読者のスマホ利用率を調べてみた](https://gigazine.net/news/20260901-gigazine-user-smartphone-android-maker/)
 <!-- GIGAZINE-NEWS-END -->
