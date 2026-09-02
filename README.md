@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [ChatGPTの広告事業が開始200日足らずで年換算約1600億円に](https://gigazine.net/news/20260901-openai-chatgpt/)
-- [「OpenClaw 2.0」が登場、インストール簡略化や複数人共同作業などを含む大規模アップデート](https://gigazine.net/news/20260901-openclaw-2/)
-- [地図アプリ「MapQuest」がオンタリオ湖の名称変更を拒否したことでナビゲーション部門で1位に急上昇](https://gigazine.net/news/20260901-mapquest-download-soared/)
-- [AppleがOpenAIとの企業秘密侵害訴訟で元従業員のMacBookから衝撃的な証拠を発見](https://gigazine.net/news/20260901-apple-reveals-shocking-evidence-openai-suit/)
-- [Appleのティム・クックがCEOとしての最終日を迎える](https://gigazine.net/news/20260901-apple-tim-cook/)
-- [iPhoneがAndroidを上回った唯一の年代は？GIGAZINE読者のスマホ利用率を調べてみた](https://gigazine.net/news/20260901-gigazine-user-smartphone-android-maker/)
+- [「Claude Fable 5.1」と「Claude Mythos 5.1」が登場、Fable 5より最大45％安くて高性能](https://gigazine.net/news/20260902-claude-fable-mythos-5-1/)
+- [「Firefox 155」正式版リリース、ブロックしたトラッカー数をアドレスバーに表示＆AI機能「Smart Window」の提供範囲を拡大](https://gigazine.net/news/20260902-firefox-155/)
+- [Appleマップも「オンタリオ湖」を「アメリカ湖」に改名、ただしアメリカ向けのみ](https://gigazine.net/news/20260902-apple-map-adopting-trump-lake-america-name/)
+- [江戸時代の街道の経路と所要日数がわかる「江戸時代の経路検索」](https://gigazine.net/news/20260902-edo-routing/)
+- [無料で5分間ほぼ世界中のどこにでも電話できる「Playa Phone」](https://gigazine.net/news/20260902-playaphone/)
+- [Omarchyで任意のユーザープロセスがルート権限に昇格可能の脆弱性、4.0.1へのアップデートで回避可能](https://gigazine.net/news/20260902-omarchy-root-creds/)
 <!-- GIGAZINE-NEWS-END -->
