@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [「Claude Fable 5.1」と「Claude Mythos 5.1」が登場、Fable 5より最大45％安くて高性能](https://gigazine.net/news/20260902-claude-fable-mythos-5-1/)
-- [「Firefox 155」正式版リリース、ブロックしたトラッカー数をアドレスバーに表示＆AI機能「Smart Window」の提供範囲を拡大](https://gigazine.net/news/20260902-firefox-155/)
-- [Appleマップも「オンタリオ湖」を「アメリカ湖」に改名、ただしアメリカ向けのみ](https://gigazine.net/news/20260902-apple-map-adopting-trump-lake-america-name/)
-- [江戸時代の街道の経路と所要日数がわかる「江戸時代の経路検索」](https://gigazine.net/news/20260902-edo-routing/)
-- [無料で5分間ほぼ世界中のどこにでも電話できる「Playa Phone」](https://gigazine.net/news/20260902-playaphone/)
-- [Omarchyで任意のユーザープロセスがルート権限に昇格可能の脆弱性、4.0.1へのアップデートで回避可能](https://gigazine.net/news/20260902-omarchy-root-creds/)
+- [CloudflareがCDNキャッシュを平均3分の1に圧縮、数PB級の容量を生み出す「Cache Transcoding」を試作](https://gigazine.net/news/20260903-cloudflare-cache-transcoding/)
+- [無料でいろいろなLinuxディストリビューションをブラウザ上でインストールせずに試せる「DistroSea」](https://gigazine.net/news/20260903-distrosea/)
+- [史上最も残虐な17世紀ドイツの刑務所「魔女の家」とは？](https://gigazine.net/news/20260903-bamberg-witch-prison/)
+- [イベントやBBQなどで役立つコールマンの「インスタントバイザーシェードⅣ/L DR」を簡単に設営できるか実際にやってみたよレビュー](https://gigazine.net/news/20260902-coleman-instant-shade/)
+- [1万3000本以上の映画・ゲーム・アニメ・漫画の「聖地」を地図上に表示する「Movie Scene Map」](https://gigazine.net/news/20260902-movie-scene-map/)
+- [2026年9月2日のヘッドラインニュース](https://gigazine.net/news/20260902-headline/)
 <!-- GIGAZINE-NEWS-END -->
