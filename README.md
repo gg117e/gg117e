@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=0izDjaaBa-A'>
-        <img src='https://i.ytimg.com/vi/0izDjaaBa-A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcNhcK-msy0yxQQnDdt5sDKgKU3w' width='200px' alt='光の跡'>
+      <a href='https://www.youtube.com/watch?v=n2m9ebS3tEo'>
+        <img src='https://i.ytimg.com/vi/n2m9ebS3tEo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXzDib6DqcUgUEmhX8e254Si2mQw' width='200px' alt='Beautiful Fin'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=0izDjaaBa-A'>光の跡</a>
+      <a href='https://www.youtube.com/watch?v=n2m9ebS3tEo'>Beautiful Fin</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=wPsr3_UVA0U'>
-        <img src='https://i.ytimg.com/vi/wPsr3_UVA0U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEcVsySSnNqV47RppVnh7XTlEAQQ' width='200px' alt='Wonderful'>
+      <a href='https://www.youtube.com/watch?v=8PbGeKwEnK0'>
+        <img src='https://i.ytimg.com/vi/8PbGeKwEnK0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWYv4vO1ta-DKEtdPaeTh9ifxA0g' width='200px' alt='Pop Virus'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=wPsr3_UVA0U'>Wonderful</a>
+      <a href='https://www.youtube.com/watch?v=8PbGeKwEnK0'>Pop Virus</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=KQNT6hbgf6g'>
-        <img src='https://i.ytimg.com/vi/KQNT6hbgf6g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9u_NKnOrjXZLJMcCymhOCKrr5FA' width='200px' alt='Toku Toku (2012 Remaster)'>
+      <a href='https://www.youtube.com/watch?v=KWuBFuc2hX8'>
+        <img src='https://i.ytimg.com/vi/KWuBFuc2hX8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDbE9jqoMoGos1fTtw12yaYrw6NQ' width='200px' alt='YELL'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=KQNT6hbgf6g'>Toku Toku (2012 Remaster)</a>
+      <a href='https://www.youtube.com/watch?v=KWuBFuc2hX8'>YELL</a>
     </td>
   </tr>
 </table>
