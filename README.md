@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [CloudflareがCDNキャッシュを平均3分の1に圧縮、数PB級の容量を生み出す「Cache Transcoding」を試作](https://gigazine.net/news/20260903-cloudflare-cache-transcoding/)
-- [無料でいろいろなLinuxディストリビューションをブラウザ上でインストールせずに試せる「DistroSea」](https://gigazine.net/news/20260903-distrosea/)
-- [史上最も残虐な17世紀ドイツの刑務所「魔女の家」とは？](https://gigazine.net/news/20260903-bamberg-witch-prison/)
-- [イベントやBBQなどで役立つコールマンの「インスタントバイザーシェードⅣ/L DR」を簡単に設営できるか実際にやってみたよレビュー](https://gigazine.net/news/20260902-coleman-instant-shade/)
-- [1万3000本以上の映画・ゲーム・アニメ・漫画の「聖地」を地図上に表示する「Movie Scene Map」](https://gigazine.net/news/20260902-movie-scene-map/)
-- [2026年9月2日のヘッドラインニュース](https://gigazine.net/news/20260902-headline/)
+- [NVIDIAがHugging Faceを2兆円超えで買収したことを正式発表](https://gigazine.net/news/20260904-nvidia-acquire-hugging-face/)
+- [「くすっと笑えるけど考えさせられる研究」に贈られる2026年度イグ・ノーベル賞全10部門の研究内容まとめ、日本人は20年連続受賞](https://gigazine.net/news/20260904-ig-nobel-prizes-2026/)
+- [AIの検索を強化する「RAG」をシンプルに始めて高度化する6つの方法](https://gigazine.net/news/20260904-rag-is-simple/)
+- [ダイヤル式黒電話をスマホと同じようにどこでも通話可能にする試み](https://gigazine.net/news/20260904-rotarycell/)
+- [AI懐疑論者の予測はどれぐらい正確だったか？](https://gigazine.net/news/20260903-ai-skeptic-predictions/)
+- [BraveがChrome・Edge・Firefoxを速度と性能の両方で上回っているというベンチマーク結果を公開](https://gigazine.net/news/20260903-brave-performance/)
 <!-- GIGAZINE-NEWS-END -->
