@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [NVIDIAがHugging Faceを2兆円超えで買収したことを正式発表](https://gigazine.net/news/20260904-nvidia-acquire-hugging-face/)
-- [「くすっと笑えるけど考えさせられる研究」に贈られる2026年度イグ・ノーベル賞全10部門の研究内容まとめ、日本人は20年連続受賞](https://gigazine.net/news/20260904-ig-nobel-prizes-2026/)
-- [AIの検索を強化する「RAG」をシンプルに始めて高度化する6つの方法](https://gigazine.net/news/20260904-rag-is-simple/)
-- [ダイヤル式黒電話をスマホと同じようにどこでも通話可能にする試み](https://gigazine.net/news/20260904-rotarycell/)
-- [AI懐疑論者の予測はどれぐらい正確だったか？](https://gigazine.net/news/20260903-ai-skeptic-predictions/)
-- [BraveがChrome・Edge・Firefoxを速度と性能の両方で上回っているというベンチマーク結果を公開](https://gigazine.net/news/20260903-brave-performance/)
+- [自閉症の原因となる遺伝子変異が脳の発達を乱す仕組みが判明](https://gigazine.net/news/20260905-autism-mutations-protein-networks/)
+- [イギリスの映画館が著作権侵害の懸念からスマートグラスの着用禁止を検討](https://gigazine.net/news/20260905-cinema-ban-smartglass/)
+- [使い込むほど成長するAIエージェント「Hermes Agent」の実行結果をメールで受け取ってみた](https://gigazine.net/news/20260905-hermes-agent-mail/)
+- [超音速で弾を撃ち出せるトレビュシェット(投石機)をDIYした記録](https://gigazine.net/news/20260904-supersonic-trebuchet/)
+- [「人工のビーバーダム」を建設したおかげでギンザケの稚魚の生存率が8％から60％に改善](https://gigazine.net/news/20260904-artificial-beaver-dams-salmon-populations/)
+- [テスラがハンドルもペダルもない専用車両「Cybercab」をロボタクシーサービスに投入](https://gigazine.net/news/20260904-tesla-cybercab/)
 <!-- GIGAZINE-NEWS-END -->
