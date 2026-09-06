@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [自閉症の原因となる遺伝子変異が脳の発達を乱す仕組みが判明](https://gigazine.net/news/20260905-autism-mutations-protein-networks/)
-- [イギリスの映画館が著作権侵害の懸念からスマートグラスの着用禁止を検討](https://gigazine.net/news/20260905-cinema-ban-smartglass/)
-- [使い込むほど成長するAIエージェント「Hermes Agent」の実行結果をメールで受け取ってみた](https://gigazine.net/news/20260905-hermes-agent-mail/)
-- [超音速で弾を撃ち出せるトレビュシェット(投石機)をDIYした記録](https://gigazine.net/news/20260904-supersonic-trebuchet/)
-- [「人工のビーバーダム」を建設したおかげでギンザケの稚魚の生存率が8％から60％に改善](https://gigazine.net/news/20260904-artificial-beaver-dams-salmon-populations/)
-- [テスラがハンドルもペダルもない専用車両「Cybercab」をロボタクシーサービスに投入](https://gigazine.net/news/20260904-tesla-cybercab/)
+- [トランプ政権が公開したテトリスライクなゲームにテトリス公式が反応](https://gigazine.net/news/20260906-tetris-responds-trump-build-the-wall/)
+- [ChatGPT登場以降に公開されたウェブサイトの3分の1に「AI」の痕跡が見られることが研究で判明](https://gigazine.net/news/20260906-web-ai-signs/)
+- [CERNがRedHat系OSからDebianへの移行作戦を実施中](https://gigazine.net/news/20260905-cern-rhel-debian/)
+- [人型ロボットがさまざまな競技に挑む「ヒューマノイドロボット競技大会」は技術的にどのような意味があるのか？](https://gigazine.net/news/20260905-robot-olympics/)
+- [リモートワークの従業員を「月に1日」だけ出社させるとどうなるのか？](https://gigazine.net/news/20260905-remote-work-one-office-day/)
+- [無料でPDF・電子書籍・Word文書・テキストファイルなどからローカルAIを使って検索＆要約ができる「DocuBrowser」、個人情報の認識も可能](https://gigazine.net/news/20260905-docubrowser/)
 <!-- GIGAZINE-NEWS-END -->
