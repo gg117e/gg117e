@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=RJ_bw-jlkDc'>
-        <img src='https://i.ytimg.com/vi/RJ_bw-jlkDc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvgIqU4A9mLYreu5JiPxegrdtchg' width='200px' alt='Green Boys'>
+      <a href='https://www.youtube.com/watch?v=lkBsQjXthT8'>
+        <img src='https://i.ytimg.com/vi/lkBsQjXthT8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClS4XjBBpC-70uJ1h1-WbGfyPDOg' width='200px' alt='HEART BEAT'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=RJ_bw-jlkDc'>Green Boys</a>
+      <a href='https://www.youtube.com/watch?v=lkBsQjXthT8'>HEART BEAT</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=AUfGA37dg6E'>
-        <img src='https://i.ytimg.com/vi/AUfGA37dg6E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAD1Jn2t3Eq-XP_1uAIeJC8GV26MA' width='200px' alt='いつかこの涙が'>
+      <a href='https://www.youtube.com/watch?v=jjuSkbNCSsI'>
+        <img src='https://i.ytimg.com/vi/jjuSkbNCSsI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwX3eSlo1anK2mtqQrvHd9gyGJzg' width='200px' alt='夢中'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=AUfGA37dg6E'>いつかこの涙が</a>
+      <a href='https://www.youtube.com/watch?v=jjuSkbNCSsI'>夢中</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=SvtSWhyw7vs'>
-        <img src='https://i.ytimg.com/vi/SvtSWhyw7vs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtAy96XVYaLQyKcD0j4-yFSZRqrQ' width='200px' alt='TATTOO'>
+      <a href='https://www.youtube.com/watch?v=-_PKhPMXMDY'>
+        <img src='https://i.ytimg.com/vi/-_PKhPMXMDY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA96C28QeG6Y8XikTP7sXlae0UcmA' width='200px' alt='Tokimeki / Vaundy：MUSIC VIDEO'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=SvtSWhyw7vs'>TATTOO</a>
+      <a href='https://www.youtube.com/watch?v=-_PKhPMXMDY'>Tokimeki / Vaundy：MUSIC VIDEO</a>
     </td>
   </tr>
 </table>
