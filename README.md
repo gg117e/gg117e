@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [トランプ政権が公開したテトリスライクなゲームにテトリス公式が反応](https://gigazine.net/news/20260906-tetris-responds-trump-build-the-wall/)
-- [ChatGPT登場以降に公開されたウェブサイトの3分の1に「AI」の痕跡が見られることが研究で判明](https://gigazine.net/news/20260906-web-ai-signs/)
-- [CERNがRedHat系OSからDebianへの移行作戦を実施中](https://gigazine.net/news/20260905-cern-rhel-debian/)
-- [人型ロボットがさまざまな競技に挑む「ヒューマノイドロボット競技大会」は技術的にどのような意味があるのか？](https://gigazine.net/news/20260905-robot-olympics/)
-- [リモートワークの従業員を「月に1日」だけ出社させるとどうなるのか？](https://gigazine.net/news/20260905-remote-work-one-office-day/)
-- [無料でPDF・電子書籍・Word文書・テキストファイルなどからローカルAIを使って検索＆要約ができる「DocuBrowser」、個人情報の認識も可能](https://gigazine.net/news/20260905-docubrowser/)
+- [コスト削減のためにAIエージェントの出力を短くすると逆にコストがかさむ事例をGitHubが公開、うまくコスト効率を向上するにはどうすればいいのか](https://gigazine.net/news/20260907-ai-coding-cost-efficient/)
+- [毒にも薬にもなる樹液を持つ「ボトルツリー」とは？](https://gigazine.net/news/20260907-bottle-tree-poison-medicine/)
+- [男女の性欲格差を縮めるには女性の性欲を高めようとするのではなく「快楽格差」を縮めるべきだとの指摘](https://gigazine.net/news/20260906-women-libido-pleasure-gap/)
+- [ゲームのプレイ順を引き分けなしで確実に決定できるサイコロ「Go First Dice(先攻ダイス)」とは？](https://gigazine.net/news/20260906-go-first-dice/)
+- [豚から腎臓を移植され9カ月生存した事例が登場](https://gigazine.net/news/20260906-pig-kidney/)
+- [放射線によるがんの死亡リスクが最も高い職業とは？](https://gigazine.net/news/20260906-job-highest-risk-radiation-cancer/)
 <!-- GIGAZINE-NEWS-END -->
