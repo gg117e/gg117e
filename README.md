@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [コスト削減のためにAIエージェントの出力を短くすると逆にコストがかさむ事例をGitHubが公開、うまくコスト効率を向上するにはどうすればいいのか](https://gigazine.net/news/20260907-ai-coding-cost-efficient/)
-- [毒にも薬にもなる樹液を持つ「ボトルツリー」とは？](https://gigazine.net/news/20260907-bottle-tree-poison-medicine/)
-- [男女の性欲格差を縮めるには女性の性欲を高めようとするのではなく「快楽格差」を縮めるべきだとの指摘](https://gigazine.net/news/20260906-women-libido-pleasure-gap/)
-- [ゲームのプレイ順を引き分けなしで確実に決定できるサイコロ「Go First Dice(先攻ダイス)」とは？](https://gigazine.net/news/20260906-go-first-dice/)
-- [豚から腎臓を移植され9カ月生存した事例が登場](https://gigazine.net/news/20260906-pig-kidney/)
-- [放射線によるがんの死亡リスクが最も高い職業とは？](https://gigazine.net/news/20260906-job-highest-risk-radiation-cancer/)
+- [GPT-6 AstraがパズルFPS『Portal』を人間の助けなしにクリア、コストは約9万円](https://gigazine.net/news/20260908-gpt-6-astra-plays-portal/)
+- [小型かつ高性能で日本語応答も可能な中国製AIモデル「MiniCPM5-2B」が登場、2BモデルなのにGemma 4 12Bと同等のベンチマークスコア](https://gigazine.net/news/20260908-openbmb-minicpm5-2b/)
+- [LG製スマートテレビが画面オフ時に音声を録音しローカルデバイスをスキャンしていたことが判明](https://gigazine.net/news/20260908-lg-smat-tv-spy/)
+- [読者が使っているプログラミング言語トップ10はコレ！オンライン講座ユーザーの間でもプログラミングの学習が圧倒的人気](https://gigazine.net/news/20260908-gigazine-user-programming/)
+- [デジタルインフラ提供元のA/I Collectiveをアメリカ政府がテロリストに指定、どんな影響が出たのか？](https://gigazine.net/news/20260908-autistici-inventati-case/)
+- [AIによる創薬は実際どこまで進んでいるのか？](https://gigazine.net/news/20260908-ai-drug-discovery-reality/)
 <!-- GIGAZINE-NEWS-END -->
