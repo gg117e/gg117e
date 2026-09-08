@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=A1g9Ev-Ml5g'>
-        <img src='https://i.ytimg.com/vi/A1g9Ev-Ml5g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYaQo0xKzXpdDNtCRer4QMwIqPwg' width='200px' alt='虹'>
+      <a href='https://www.youtube.com/watch?v=SCRS1GAIiWw'>
+        <img src='https://i.ytimg.com/vi/SCRS1GAIiWw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfxYBNMAcUPbXvd6iovLYBMlViiQ' width='200px' alt='サイレントマジョリティー'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=A1g9Ev-Ml5g'>虹</a>
+      <a href='https://www.youtube.com/watch?v=SCRS1GAIiWw'>サイレントマジョリティー</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=pQpX71tiDNg'>
-        <img src='https://i.ytimg.com/vi/pQpX71tiDNg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXxwAnvmSxHdesXChIfeSv9_oNUg' width='200px' alt='Aiuta'>
+      <a href='https://www.youtube.com/watch?v=HUEoF7ntswo'>
+        <img src='https://i.ytimg.com/vi/HUEoF7ntswo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIjbJtv5eJ_d1UP7Ty9mQ5ADAXyQ' width='200px' alt='Love Song'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=pQpX71tiDNg'>Aiuta</a>
+      <a href='https://www.youtube.com/watch?v=HUEoF7ntswo'>Love Song</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=jJzw1h5CR-I'>
-        <img src='https://i.ytimg.com/vi/jJzw1h5CR-I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgZft81TKDb1zhEWMWErRz1zAAAQ' width='200px' alt='Dramaturgy - Eve MV'>
+      <a href='https://www.youtube.com/watch?v=Mr2EWEPFtwk'>
+        <img src='https://i.ytimg.com/vi/Mr2EWEPFtwk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB40b7gpdm4JT-YxCurTEsFUH324g' width='200px' alt='花になって - Be a flower'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=jJzw1h5CR-I'>Dramaturgy - Eve MV</a>
+      <a href='https://www.youtube.com/watch?v=Mr2EWEPFtwk'>花になって - Be a flower</a>
     </td>
   </tr>
 </table>
