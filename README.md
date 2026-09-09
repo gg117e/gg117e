@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [GPT-6 AstraがパズルFPS『Portal』を人間の助けなしにクリア、コストは約9万円](https://gigazine.net/news/20260908-gpt-6-astra-plays-portal/)
-- [小型かつ高性能で日本語応答も可能な中国製AIモデル「MiniCPM5-2B」が登場、2BモデルなのにGemma 4 12Bと同等のベンチマークスコア](https://gigazine.net/news/20260908-openbmb-minicpm5-2b/)
-- [LG製スマートテレビが画面オフ時に音声を録音しローカルデバイスをスキャンしていたことが判明](https://gigazine.net/news/20260908-lg-smat-tv-spy/)
-- [読者が使っているプログラミング言語トップ10はコレ！オンライン講座ユーザーの間でもプログラミングの学習が圧倒的人気](https://gigazine.net/news/20260908-gigazine-user-programming/)
-- [デジタルインフラ提供元のA/I Collectiveをアメリカ政府がテロリストに指定、どんな影響が出たのか？](https://gigazine.net/news/20260908-autistici-inventati-case/)
-- [AIによる創薬は実際どこまで進んでいるのか？](https://gigazine.net/news/20260908-ai-drug-discovery-reality/)
+- [「Google Chrome 153」安定版リリース、「カメラ・マイク専用HTML要素」「Iterator.zip()追加」「一部XML解析をRust化」など](https://gigazine.net/news/20260909-google-chrome-153/)
+- [テスラ車の一時停止標識無視により発生した交通事故で対向車のドライバーが死亡、自動運転システムは動作](https://gigazine.net/news/20260909-tesla-stop-sign/)
+- [アーキテクチャ図を念頭に置いて設計された斬新な自動レイアウトアルゴリズム「TALA」がオープンソース化](https://gigazine.net/news/20260909-tala-is-open-source/)
+- [カフェイン入り飲料をたくさん飲む人は睡眠時間が短い一方で眠りは深いとの研究結果](https://gigazine.net/news/20260909-caffeine-shorter-deeper-sleep/)
+- [「ゼルダの伝説40周年 Direct 2026.9.8」まとめ、Nintendo Switch 2版ゼルダの伝説 時のオカリナの発売日や実写映画の公開日なども明らかに](https://gigazine.net/news/20260908-legend-of-zelda-40th-anniversary-direct/)
+- [最初は退屈だった物語がいきなり面白くなる転換点「ヴォルタ」とは？](https://gigazine.net/news/20260908-novel-becomes-interesting-point-volta/)
 <!-- GIGAZINE-NEWS-END -->
