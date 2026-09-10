@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=uTt67zwzLdo'>
-        <img src='https://i.ytimg.com/vi/uTt67zwzLdo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNz1DV3wReqjvonmJoIoIbRRqIxQ' width='200px' alt='あなたがいることで'>
+      <a href='https://www.youtube.com/watch?v=3jwzfhaIf3U'>
+        <img src='https://i.ytimg.com/vi/3jwzfhaIf3U/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCy9K0rJ72mMeGCfk5oWVJa2FmnLQ' width='200px' alt='Eikouno Kakehashi'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=uTt67zwzLdo'>あなたがいることで</a>
+      <a href='https://www.youtube.com/watch?v=3jwzfhaIf3U'>Eikouno Kakehashi</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=H2r25lVcIHw'>
-        <img src='https://i.ytimg.com/vi/H2r25lVcIHw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgiffVYvt42FuGzVoZ1W9jo3MUFQ' width='200px' alt='花の塔'>
+      <a href='https://www.youtube.com/watch?v=WHKlMwYHb34'>
+        <img src='https://i.ytimg.com/vi/WHKlMwYHb34/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLD7vHIXkxGYnzWXXw5y7o2g_maifQ' width='200px' alt='The Peak'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=H2r25lVcIHw'>花の塔</a>
+      <a href='https://www.youtube.com/watch?v=WHKlMwYHb34'>The Peak</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=_HGPxXTIrvg'>
-        <img src='https://i.ytimg.com/vi/_HGPxXTIrvg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCntFc3OMMdrjs0ZHthaVaWH5snw' width='200px' alt='サマータイムシンデレラ'>
+      <a href='https://www.youtube.com/watch?v=yFRNB8Jji4Y'>
+        <img src='https://i.ytimg.com/vi/yFRNB8Jji4Y/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDmwCQA3Hi5CVOKNhMzw_K-cpnJhA' width='200px' alt='燈'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=_HGPxXTIrvg'>サマータイムシンデレラ</a>
+      <a href='https://www.youtube.com/watch?v=yFRNB8Jji4Y'>燈</a>
     </td>
   </tr>
 </table>
