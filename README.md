@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [「Google Chrome 153」安定版リリース、「カメラ・マイク専用HTML要素」「Iterator.zip()追加」「一部XML解析をRust化」など](https://gigazine.net/news/20260909-google-chrome-153/)
-- [テスラ車の一時停止標識無視により発生した交通事故で対向車のドライバーが死亡、自動運転システムは動作](https://gigazine.net/news/20260909-tesla-stop-sign/)
-- [アーキテクチャ図を念頭に置いて設計された斬新な自動レイアウトアルゴリズム「TALA」がオープンソース化](https://gigazine.net/news/20260909-tala-is-open-source/)
-- [カフェイン入り飲料をたくさん飲む人は睡眠時間が短い一方で眠りは深いとの研究結果](https://gigazine.net/news/20260909-caffeine-shorter-deeper-sleep/)
-- [「ゼルダの伝説40周年 Direct 2026.9.8」まとめ、Nintendo Switch 2版ゼルダの伝説 時のオカリナの発売日や実写映画の公開日なども明らかに](https://gigazine.net/news/20260908-legend-of-zelda-40th-anniversary-direct/)
-- [最初は退屈だった物語がいきなり面白くなる転換点「ヴォルタ」とは？](https://gigazine.net/news/20260908-novel-becomes-interesting-point-volta/)
+- [無料で動画・音楽・電子書籍などを自宅でも出先でもストリーミングできる「Jellyfin 12.0」がリリース、ついに書籍と漫画のサポートが改善](https://gigazine.net/news/20260910-jellyfin-release-12/)
+- [料理や加工食品に広く使われる「大豆油」が肥満につながる仕組みの一端が判明](https://gigazine.net/news/20260910-soybean-oil-obesity-metabolism/)
+- [Apple初の折りたたみスマホ「iPhone Duo」の実機写真まとめ、折り目＆インナーカメラの目立ち具合や展開時の薄さなどが分かる](https://gigazine.net/news/20260910-iphone-duo-appearance/)
+- [Asahi LinuxがM3シリーズSoCを搭載したMacを正式にサポート](https://gigazine.net/news/20260910-asahi-linux-official-m3/)
+- [Apple初の折りたたみ型iPhoneの名前は「iPhone Duo」、iPhone史上最大の7.6インチディスプレイがポケットに収まる新モデルの価格は36万4800円から](https://gigazine.net/news/20260910-apple-iphone-duo/)
+- [センサー刷新でヘルスケア機能強化＆周囲の音声からAIで文字起こしや通知が可能な「Apple Watch Series 12」「Apple Watch Ultra 4」が登場](https://gigazine.net/news/20260910-apple-watch/)
 <!-- GIGAZINE-NEWS-END -->
