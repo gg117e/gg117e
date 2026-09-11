@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=p1qM75a9FeE'>
-        <img src='https://i.ytimg.com/vi/p1qM75a9FeE/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDNkrEmWXNxx4oSZBs0QtRpRTEanQ' width='200px' alt='OFFICIAL HIGE DANDISM - HELLO［Official Video］'>
+      <a href='https://www.youtube.com/watch?v=wPsr3_UVA0U'>
+        <img src='https://i.ytimg.com/vi/wPsr3_UVA0U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEcVsySSnNqV47RppVnh7XTlEAQQ' width='200px' alt='Wonderful'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=p1qM75a9FeE'>OFFICIAL HIGE DANDISM - HELLO［Official Video］</a>
+      <a href='https://www.youtube.com/watch?v=wPsr3_UVA0U'>Wonderful</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=0OZ15_9YKPc'>
-        <img src='https://i.ytimg.com/vi/0OZ15_9YKPc/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLApOEfqX3L6tpSlMEjajIPsli4sHg' width='200px' alt='異端なスター'>
+      <a href='https://www.youtube.com/watch?v=s4ZThuWQdhA'>
+        <img src='https://i.ytimg.com/vi/s4ZThuWQdhA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBL2544KnUtG-gjg-ro3N-gIAIgbw' width='200px' alt='Que Sera Sera'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=0OZ15_9YKPc'>異端なスター</a>
+      <a href='https://www.youtube.com/watch?v=s4ZThuWQdhA'>Que Sera Sera</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=3qvMBFAPgD8'>
-        <img src='https://i.ytimg.com/vi/3qvMBFAPgD8/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCHLmF3Z7JtFmF0Vj97qMQ84nO6cw' width='200px' alt='ベテルギウス'>
+      <a href='https://www.youtube.com/watch?v=NytDYFWc--s'>
+        <img src='https://i.ytimg.com/vi/NytDYFWc--s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAam1nXolU_zNGmcEIM13wXQ3X_wQ' width='200px' alt='虹色の戦争'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=3qvMBFAPgD8'>ベテルギウス</a>
+      <a href='https://www.youtube.com/watch?v=NytDYFWc--s'>虹色の戦争</a>
     </td>
   </tr>
 </table>
