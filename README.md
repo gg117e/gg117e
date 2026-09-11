@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=rxR1mBt__fo'>
-        <img src='https://i.ytimg.com/vi/rxR1mBt__fo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsWaFFvm2u38Jdjm5d7AcaKwvMMg' width='200px' alt='Natsuiro'>
+      <a href='https://www.youtube.com/watch?v=p1qM75a9FeE'>
+        <img src='https://i.ytimg.com/vi/p1qM75a9FeE/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDNkrEmWXNxx4oSZBs0QtRpRTEanQ' width='200px' alt='OFFICIAL HIGE DANDISM - HELLO［Official Video］'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=rxR1mBt__fo'>Natsuiro</a>
+      <a href='https://www.youtube.com/watch?v=p1qM75a9FeE'>OFFICIAL HIGE DANDISM - HELLO［Official Video］</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=5X_wSeKhPAU'>
-        <img src='https://i.ytimg.com/vi/5X_wSeKhPAU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBq3r0bpKi6IiOhtkcgzu-FS_beg' width='200px' alt='Orange'>
+      <a href='https://www.youtube.com/watch?v=0OZ15_9YKPc'>
+        <img src='https://i.ytimg.com/vi/0OZ15_9YKPc/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLApOEfqX3L6tpSlMEjajIPsli4sHg' width='200px' alt='異端なスター'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=5X_wSeKhPAU'>Orange</a>
+      <a href='https://www.youtube.com/watch?v=0OZ15_9YKPc'>異端なスター</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=sFd0qdA32d8'>
-        <img src='https://i.ytimg.com/vi/sFd0qdA32d8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsbiKsqGRozBBhXS18xarw4KRGhw' width='200px' alt='Turquoise'>
+      <a href='https://www.youtube.com/watch?v=3qvMBFAPgD8'>
+        <img src='https://i.ytimg.com/vi/3qvMBFAPgD8/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCHLmF3Z7JtFmF0Vj97qMQ84nO6cw' width='200px' alt='ベテルギウス'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=sFd0qdA32d8'>Turquoise</a>
+      <a href='https://www.youtube.com/watch?v=3qvMBFAPgD8'>ベテルギウス</a>
     </td>
   </tr>
 </table>
