@@ -33,6 +33,13 @@
 <table>
   <tr>
     <td align='center'>
+      <a href='https://www.youtube.com/watch?v=HrZX4KFfniU'>
+        <img src='https://i.ytimg.com/vi/HrZX4KFfniU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCj4NYNo6f32MhY3ua3KFVZQcplOw' width='200px' alt='Earthchild'>
+      </a>
+      <br />
+      <a href='https://www.youtube.com/watch?v=HrZX4KFfniU'>Earthchild</a>
+    </td>
+    <td align='center'>
       <a href='https://www.youtube.com/watch?v=0OZ15_9YKPc'>
         <img src='https://i.ytimg.com/vi/0OZ15_9YKPc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDw-Z7Q01p2yef5ViEEv7j0i6ACZg' width='200px' alt='異端なスター'>
       </a>
@@ -40,18 +47,11 @@
       <a href='https://www.youtube.com/watch?v=0OZ15_9YKPc'>異端なスター</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=v87I8nzcek4'>
-        <img src='https://i.ytimg.com/vi/v87I8nzcek4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDh_mgv0ssvYLbXwKji5DAd0FexqA' width='200px' alt='Floriginal'>
+      <a href='https://www.youtube.com/watch?v=mctEybOqY6s'>
+        <img src='https://i.ytimg.com/vi/mctEybOqY6s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB97mzRbYaNpDzDeEqCkFLBMUFafQ' width='200px' alt='勇者'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=v87I8nzcek4'>Floriginal</a>
-    </td>
-    <td align='center'>
-      <a href='https://www.youtube.com/watch?v=W25pTZ5Gmew'>
-        <img src='https://i.ytimg.com/vi/W25pTZ5Gmew/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZ1ZnvcCrWBxZ8Yxd_9b9jXBe7jQ' width='200px' alt='決心'>
-      </a>
-      <br />
-      <a href='https://www.youtube.com/watch?v=W25pTZ5Gmew'>決心</a>
+      <a href='https://www.youtube.com/watch?v=mctEybOqY6s'>勇者</a>
     </td>
   </tr>
 </table>
