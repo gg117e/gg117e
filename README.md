@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [iPhone 18 Proに搭載されるA20 Proチップのベンチマーク結果が流出、CPUは前世代よりも約25％高速化でGPUスコアも約40％向上](https://gigazine.net/news/20260911-apple-m20-pro-benchmark/)
-- [簡単に画面録画し不要部分カット＆AI音声ノイズ除去＆ファイルサイズ削減まで全部1本で完結する「VideoProc Converter AI」を使ってみた](https://gigazine.net/news/20260911-videoproc-converter-ai/)
-- [Prime VideoがAIを使って吹き替えと俳​​優の口の動きを合わせる技術を導入](https://gigazine.net/news/20260911-prime-video-ai-lip-sync/)
-- [Tailwind CSSの開発元をShopifyが買収](https://gigazine.net/news/20260911-tailwind-is-joining-shopify/)
-- [「卵の殻」をまねて宇宙ゴミから宇宙船を守るシールドが考案される](https://gigazine.net/news/20260911-eggshell-spacecraft-shield/)
-- [チャットAIのClaudeに「カートに追加するボタンを青色にして」とウェブデザインの変更を依頼すると堂々巡りで全く完成しない様子を再現した「Opusfived」](https://gigazine.net/news/20260910-opusfived/)
+- [AppleがiPhoneの衛星通信機能の無料アクセス期間をさらに1年間延長](https://gigazine.net/news/20260912-apple-extends-free-iphone-satellite-access/)
+- [「救急隊員の靴は脱いだ形そのままに」という日本の救急隊員の呼びかけが海外で報道され「緊急時でも靴を脱ぐべきか？」という大激論に](https://gigazine.net/news/20260912-paramedics-shoes-japan-etiquette/)
+- [野生のサルが木の実を割るときに「過去に使われた石」を好むことが判明](https://gigazine.net/news/20260912-wild-monkeys-track-tool-record/)
+- [無停電電源装置(UPS)を選ぶ際の「正弦波」「出力波形」で知っておくと役立つことまとめ](https://gigazine.net/news/20260911-ups-output-waveform/)
+- [Appleの新CEOジョン・ターナスとグレッグ・ジョスウィアックがiPhone Duoの開発秘話や魅力に欠けるAndroid折りたたみスマホについて語る](https://gigazine.net/news/20260911-apple-ceo-john-ternus-iphone-duo/)
+- [Macをフリーズさせるウェブページ「The Deathray」](https://gigazine.net/news/20260911-the-deathray/)
 <!-- GIGAZINE-NEWS-END -->
