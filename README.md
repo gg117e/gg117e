@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=bwqurkN3vhE'>
-        <img src='https://i.ytimg.com/vi/bwqurkN3vhE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0WOCmULFS7X-iN9B9vHmdTG94Sw' width='200px' alt='アイデア'>
+      <a href='https://www.youtube.com/watch?v=_8XkaEkv8ew'>
+        <img src='https://i.ytimg.com/vi/_8XkaEkv8ew/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDzcKgwTchsPTkIJJXCzJLehKpZJQ' width='200px' alt='キャラクター'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=bwqurkN3vhE'>アイデア</a>
+      <a href='https://www.youtube.com/watch?v=_8XkaEkv8ew'>キャラクター</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=1GQ07JcqH48'>
-        <img src='https://i.ytimg.com/vi/1GQ07JcqH48/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSPACmTI9ygMCW0JC14xxWjsnbSA' width='200px' alt='Family Song'>
+      <a href='https://www.youtube.com/watch?v=MqHfdqK5VvI'>
+        <img src='https://i.ytimg.com/vi/MqHfdqK5VvI/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLC8MqnzlRrBGatfFUmQTc06aw7kXA' width='200px' alt='Michi Teyu Ku (Overflowing)'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=1GQ07JcqH48'>Family Song</a>
+      <a href='https://www.youtube.com/watch?v=MqHfdqK5VvI'>Michi Teyu Ku (Overflowing)</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=vAfgHtZt6gs'>
-        <img src='https://i.ytimg.com/vi/vAfgHtZt6gs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeNAV46w1eCS5FzH7yrnp2Zp2eIg' width='200px' alt='大丈夫'>
+      <a href='https://www.youtube.com/watch?v=f8mKfvnsYM4'>
+        <img src='https://i.ytimg.com/vi/f8mKfvnsYM4/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDmOC8QgUgoL8oISt2SK7gqsdJj_g' width='200px' alt='ばかまじめ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=vAfgHtZt6gs'>大丈夫</a>
+      <a href='https://www.youtube.com/watch?v=f8mKfvnsYM4'>ばかまじめ</a>
     </td>
   </tr>
 </table>
