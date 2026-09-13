@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [AppleがiPhoneの衛星通信機能の無料アクセス期間をさらに1年間延長](https://gigazine.net/news/20260912-apple-extends-free-iphone-satellite-access/)
-- [「救急隊員の靴は脱いだ形そのままに」という日本の救急隊員の呼びかけが海外で報道され「緊急時でも靴を脱ぐべきか？」という大激論に](https://gigazine.net/news/20260912-paramedics-shoes-japan-etiquette/)
-- [野生のサルが木の実を割るときに「過去に使われた石」を好むことが判明](https://gigazine.net/news/20260912-wild-monkeys-track-tool-record/)
-- [無停電電源装置(UPS)を選ぶ際の「正弦波」「出力波形」で知っておくと役立つことまとめ](https://gigazine.net/news/20260911-ups-output-waveform/)
-- [Appleの新CEOジョン・ターナスとグレッグ・ジョスウィアックがiPhone Duoの開発秘話や魅力に欠けるAndroid折りたたみスマホについて語る](https://gigazine.net/news/20260911-apple-ceo-john-ternus-iphone-duo/)
-- [Macをフリーズさせるウェブページ「The Deathray」](https://gigazine.net/news/20260911-the-deathray/)
+- [「AppleはiPhone Duoのディスプレイ1枚につきSamsungに3万8000円支払う」と著名リーカー](https://gigazine.net/news/20260913-apple-pay-250-per-iphone-duo-display-samsung/)
+- [ロボット掃除機の撮影機能で不倫の証拠を掴んだ男性が逆にプライバシー侵害で訴えられてしまう](https://gigazine.net/news/20260913-man-jailed-record-wife-adultery/)
+- [「体の炎症に注意を向けること」が免疫反応を調節するのに役立つ可能性](https://gigazine.net/news/20260912-paying-attention-body-immune-response/)
+- [映画『楽園追放 心のレゾナンス』劇場限定予告編がYouTubeでも公開され前作主人公アンジェラの登場が明らかに](https://gigazine.net/news/20260912-expelled-from-paradise-resonance-theater-trailer/)
+- [ヴァイキングに対抗してイングランドの歴史を形作った女王「エセルフリーダ」](https://gigazine.net/news/20260912-viking-nun/)
+- [無料のオープンソースAIエージェント「goose」、デスクトップアプリ・CLI・APIなどコード・ワークフロー・その他あらゆる用途に対応](https://gigazine.net/news/20260912-goose/)
 <!-- GIGAZINE-NEWS-END -->
