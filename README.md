@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=olsv91gZylw'>
-        <img src='https://i.ytimg.com/vi/olsv91gZylw/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLCkyuT1QQKvMqNmnWsLyGxbVd5iDA' width='200px' alt='悲しみなんて笑い飛ばせ'>
+      <a href='https://www.youtube.com/watch?v=mj4Pa0ldUp8'>
+        <img src='https://i.ytimg.com/vi/mj4Pa0ldUp8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD14lODcjMhcKlqfeZWoy1pyMFyqg' width='200px' alt='地獄でなぜ悪い'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=olsv91gZylw'>悲しみなんて笑い飛ばせ</a>
+      <a href='https://www.youtube.com/watch?v=mj4Pa0ldUp8'>地獄でなぜ悪い</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=1jS94sWWokk'>
-        <img src='https://i.ytimg.com/vi/1jS94sWWokk/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAbpelTJzWC9KZxh2OMvF_tQAmPRw' width='200px' alt='MIRROR MIRROR'>
+      <a href='https://www.youtube.com/watch?v=kNDbaYEp0tU'>
+        <img src='https://i.ytimg.com/vi/kNDbaYEp0tU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvX1Ba1QNm2i-8CkQ93gpnsd2H7g' width='200px' alt='怪獣の花唄'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=1jS94sWWokk'>MIRROR MIRROR</a>
+      <a href='https://www.youtube.com/watch?v=kNDbaYEp0tU'>怪獣の花唄</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=-Zr0mLgdAQc'>
-        <img src='https://i.ytimg.com/vi/-Zr0mLgdAQc/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDMvOggbIGdjizZkz4GPs27_Ir-zQ' width='200px' alt='ゲッタバンバン'>
+      <a href='https://www.youtube.com/watch?v=x9v8aNl6Aps'>
+        <img src='https://i.ytimg.com/vi/x9v8aNl6Aps/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVvWYRclYEKfr0HcfVA2vAvYjv6g' width='200px' alt='ONE OK ROCK - Heartache [Studio Jam Session]'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=-Zr0mLgdAQc'>ゲッタバンバン</a>
+      <a href='https://www.youtube.com/watch?v=x9v8aNl6Aps'>ONE OK ROCK - Heartache [Studio Jam Session]</a>
     </td>
   </tr>
 </table>
