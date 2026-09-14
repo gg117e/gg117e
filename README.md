@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [「AppleはiPhone Duoのディスプレイ1枚につきSamsungに3万8000円支払う」と著名リーカー](https://gigazine.net/news/20260913-apple-pay-250-per-iphone-duo-display-samsung/)
-- [ロボット掃除機の撮影機能で不倫の証拠を掴んだ男性が逆にプライバシー侵害で訴えられてしまう](https://gigazine.net/news/20260913-man-jailed-record-wife-adultery/)
-- [「体の炎症に注意を向けること」が免疫反応を調節するのに役立つ可能性](https://gigazine.net/news/20260912-paying-attention-body-immune-response/)
-- [映画『楽園追放 心のレゾナンス』劇場限定予告編がYouTubeでも公開され前作主人公アンジェラの登場が明らかに](https://gigazine.net/news/20260912-expelled-from-paradise-resonance-theater-trailer/)
-- [ヴァイキングに対抗してイングランドの歴史を形作った女王「エセルフリーダ」](https://gigazine.net/news/20260912-viking-nun/)
-- [無料のオープンソースAIエージェント「goose」、デスクトップアプリ・CLI・APIなどコード・ワークフロー・その他あらゆる用途に対応](https://gigazine.net/news/20260912-goose/)
+- [LGが自社製スマートテレビがユーザーの音声を密かに録音しているという報道を公式に否定](https://gigazine.net/news/20260914-lg-officially-denies-smart-tvs-secretly-recording/)
+- [WordPress共同創設者のマット・マレンウェッグ氏がAutomatticのCEOに復帰、休職からわずか2日で](https://gigazine.net/news/20260914-matt-mullenweg-comes-back-automattic-ceo/)
+- [音波を使って数秒で火を消す音響消火器を16才の少女が開発](https://gigazine.net/news/20260914-acoustic-fire-extinguisher/)
+- [Shopifyがスマホアプリ開発でReact NativeからSwiftとKotlinに回帰、コーディングAIの性能向上が理由](https://gigazine.net/news/20260914-shopify-back-to-native-mobile-ai/)
+- [幼児が「頭の中だけで言葉を使う」ようになる時期の目安が日本の研究で判明](https://gigazine.net/news/20260914-children-inner-speech-development/)
+- [女性は他の女性からの反発を避けるため戦略的に謙虚さを装っている可能性](https://gigazine.net/news/20260913-women-strategically-use-modesty/)
 <!-- GIGAZINE-NEWS-END -->
