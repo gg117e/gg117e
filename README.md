@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
+      <a href='https://www.youtube.com/watch?v=eoQAnGx4Pss'>
+        <img src='https://i.ytimg.com/vi/eoQAnGx4Pss/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFEUw0WZq7w7oBTR2L_48UsOCpsw' width='200px' alt='Wherever you are'>
+      </a>
+      <br />
+      <a href='https://www.youtube.com/watch?v=eoQAnGx4Pss'>Wherever you are</a>
+    </td>
+    <td align='center'>
+      <a href='https://www.youtube.com/watch?v=HBqH4uJS0PU'>
+        <img src='https://i.ytimg.com/vi/HBqH4uJS0PU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGkaM2ZcnyB8o3mbXgfhwYnNF3NQ' width='200px' alt='Magnetic'>
+      </a>
+      <br />
+      <a href='https://www.youtube.com/watch?v=HBqH4uJS0PU'>Magnetic</a>
+    </td>
+    <td align='center'>
       <a href='https://www.youtube.com/watch?v=kNDbaYEp0tU'>
         <img src='https://i.ytimg.com/vi/kNDbaYEp0tU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvX1Ba1QNm2i-8CkQ93gpnsd2H7g' width='200px' alt='怪獣の花唄'>
       </a>
       <br />
       <a href='https://www.youtube.com/watch?v=kNDbaYEp0tU'>怪獣の花唄</a>
-    </td>
-    <td align='center'>
-      <a href='https://www.youtube.com/watch?v=mctEybOqY6s'>
-        <img src='https://i.ytimg.com/vi/mctEybOqY6s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB97mzRbYaNpDzDeEqCkFLBMUFafQ' width='200px' alt='勇者'>
-      </a>
-      <br />
-      <a href='https://www.youtube.com/watch?v=mctEybOqY6s'>勇者</a>
-    </td>
-    <td align='center'>
-      <a href='https://www.youtube.com/watch?v=FJOUiX0uuYM'>
-        <img src='https://i.ytimg.com/vi/FJOUiX0uuYM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCRluchGpZf-uIfzjnVnCzRAENzg' width='200px' alt='さよならエレジー'>
-      </a>
-      <br />
-      <a href='https://www.youtube.com/watch?v=FJOUiX0uuYM'>さよならエレジー</a>
     </td>
   </tr>
 </table>
