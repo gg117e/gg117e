@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=mj4Pa0ldUp8'>
-        <img src='https://i.ytimg.com/vi/mj4Pa0ldUp8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD14lODcjMhcKlqfeZWoy1pyMFyqg' width='200px' alt='地獄でなぜ悪い'>
+      <a href='https://www.youtube.com/watch?v=mLBe332PrQ0'>
+        <img src='https://i.ytimg.com/vi/mLBe332PrQ0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCn6a1PepAWYqVhrPmg2106R8n7UQ' width='200px' alt='Magic'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=mj4Pa0ldUp8'>地獄でなぜ悪い</a>
+      <a href='https://www.youtube.com/watch?v=mLBe332PrQ0'>Magic</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=29vX07Sz3kw'>
-        <img src='https://i.ytimg.com/vi/29vX07Sz3kw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKaU55q7u0HPNBVdmcF1-ZubeeJA' width='200px' alt='Believe'>
+      <a href='https://www.youtube.com/watch?v=I8fxhn_l08g'>
+        <img src='https://i.ytimg.com/vi/I8fxhn_l08g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDSBeXOzTWFpJfP7MAMG5QX5MRHA' width='200px' alt='OFFICIAL HIGE DANDISM  - Choral A [Official Video]'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=29vX07Sz3kw'>Believe</a>
+      <a href='https://www.youtube.com/watch?v=I8fxhn_l08g'>OFFICIAL HIGE DANDISM  - Choral A [Official Video]</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=lFGguUWgrkc'>
-        <img src='https://i.ytimg.com/vi/lFGguUWgrkc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDztK_FjWUbCrRad7BEkd3LL4YhTg' width='200px' alt='虹'>
+      <a href='https://www.youtube.com/watch?v=q-fHmduwxBg'>
+        <img src='https://i.ytimg.com/vi/q-fHmduwxBg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9OTsLYdBH_rbeNrt7xEptfvW_vQ' width='200px' alt='ビンテージ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=lFGguUWgrkc'>虹</a>
+      <a href='https://www.youtube.com/watch?v=q-fHmduwxBg'>ビンテージ</a>
     </td>
   </tr>
 </table>
