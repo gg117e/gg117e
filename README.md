@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [LGが自社製スマートテレビがユーザーの音声を密かに録音しているという報道を公式に否定](https://gigazine.net/news/20260914-lg-officially-denies-smart-tvs-secretly-recording/)
-- [WordPress共同創設者のマット・マレンウェッグ氏がAutomatticのCEOに復帰、休職からわずか2日で](https://gigazine.net/news/20260914-matt-mullenweg-comes-back-automattic-ceo/)
-- [音波を使って数秒で火を消す音響消火器を16才の少女が開発](https://gigazine.net/news/20260914-acoustic-fire-extinguisher/)
-- [Shopifyがスマホアプリ開発でReact NativeからSwiftとKotlinに回帰、コーディングAIの性能向上が理由](https://gigazine.net/news/20260914-shopify-back-to-native-mobile-ai/)
-- [幼児が「頭の中だけで言葉を使う」ようになる時期の目安が日本の研究で判明](https://gigazine.net/news/20260914-children-inner-speech-development/)
-- [女性は他の女性からの反発を避けるため戦略的に謙虚さを装っている可能性](https://gigazine.net/news/20260913-women-strategically-use-modesty/)
+- [「ロボットがロボットを作る」人型ロボット工場が生産を開始](https://gigazine.net/news/20260915-robot-building-robot-ubtech/)
+- [Microsoftが「人間はAIより重要」とするAI行動規範を発表、AIの意識や権利を否定](https://gigazine.net/news/20260915-microsoft-humanist-ai-code-of-conduct/)
+- [「iOS 27」「macOS 27」「iPadOS 27」など一斉リリース、ただしAI Siriの日本語対応は後日](https://gigazine.net/news/20260915-ios-27-macos-ipados/)
+- [「筋肉を読むリストバンド」をMac用ジェスチャーコントローラーにする「Kinesis」が登場、指の動きでデスクトップ切り替えや音量調整が可能](https://gigazine.net/news/20260915-kinesis-meta-neural-band/)
+- [Steam公式VRゴーグル「Steam Frame」が発売、「PCと無線接続してゲームプレイ」「ゴーグル本体でゲームプレイ」両対応で非VRゲームも遊べる](https://gigazine.net/news/20260915-steam-frame/)
+- [Anthropicの新規株式公開に対してNVIDIAがアンカー投資家として1.5兆円の出資を検討か](https://gigazine.net/news/20260915-anthropic-mega-ipo/)
 <!-- GIGAZINE-NEWS-END -->
