@@ -33,18 +33,18 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=lFGguUWgrkc'>
-        <img src='https://i.ytimg.com/vi/lFGguUWgrkc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDztK_FjWUbCrRad7BEkd3LL4YhTg' width='200px' alt='虹'>
+      <a href='https://www.youtube.com/watch?v=V6TEcoNUmc8'>
+        <img src='https://i.ytimg.com/vi/V6TEcoNUmc8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSLIKEiQCOt42rwL4jDoKMEret8g' width='200px' alt='Ditto'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=lFGguUWgrkc'>虹</a>
+      <a href='https://www.youtube.com/watch?v=V6TEcoNUmc8'>Ditto</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=TDpJAuxpfMs'>
-        <img src='https://i.ytimg.com/vi/TDpJAuxpfMs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9Cz2hEIi2OAbI-OqYwpBuvb91ZQ' width='200px' alt='愛に出会い恋は続く／HoneyWorks feat.Kotoha'>
+      <a href='https://www.youtube.com/watch?v=DO_aopUeFnw'>
+        <img src='https://i.ytimg.com/vi/DO_aopUeFnw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKWBCw1miJEhYdmMNyNruwf_BWDA' width='200px' alt='Lilac'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=TDpJAuxpfMs'>愛に出会い恋は続く／HoneyWorks feat.Kotoha</a>
+      <a href='https://www.youtube.com/watch?v=DO_aopUeFnw'>Lilac</a>
     </td>
     <td align='center'>
       <a href='https://www.youtube.com/watch?v=3qvMBFAPgD8'>
