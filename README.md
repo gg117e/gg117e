@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [日本での自動運転タクシー商用化を2027年中に実現するべくGOとWaymoと日本交通が戦略的パートナーシップを締結](https://gigazine.net/news/20260916-go-waymo-nihon-kotsu-commercial-launch/)
-- [Windows 11向けに定例外の緊急パッチ「KB5129195」配信、リモートデスクトップの障害やUSBオーディオ機能の不具合などを修正](https://gigazine.net/news/20260916-windows-update-kb5129195/)
-- [M6とM5 Ultraのベンチマーク結果がGeekbenchに登場、M5 UltraはマルチコアスコアがM1から6倍も向上](https://gigazine.net/news/20260916-m6-m5-ultra-benchmark/)
-- [NVIDIAのジェンスン・フアンCEOが講演中にトランプ大統領から突然の着信、果たして会場の聴衆に何を語ったのか？](https://gigazine.net/news/20260916-donald-trump-call-nvidia-jensen-huang/)
-- [「AI企業の取り締まりに新法を待つ必要はなく既存の枠組みでも可能」と連邦取引委員会前委員長が主張](https://gigazine.net/news/20260916-former-ftc-chair-claims-about-ai-legal-regimes/)
-- [頭の中で人や物を思い浮かべられない「アファンタジア」の研究が想像力に関する理論に影響を与えている](https://gigazine.net/news/20260916-aphantasia-mental-imagery-brain-network/)
+- [ClaudeのチャットAIとCoworkが統合される](https://gigazine.net/news/20260917-claude-cowork-merged/)
+- [13歳未満のSNS・AIチャットボット・オンラインゲーム利用を厳しく制限する「EUキッズ法」案を欧州委員会が検討](https://gigazine.net/news/20260917-eu-kids-act/)
+- [イランによるAmazonのデータセンターへの攻撃により顧客データが永久に失われる](https://gigazine.net/news/20260917-aws-middle-east-data-center-unable-to-restore/)
+- [流星を観測する学術団体・国際流星機構がサイバー攻撃により深刻な打撃を受ける](https://gigazine.net/news/20260917-tracks-meteors-critical-blow-cyberattack/)
+- [FirefoxのAI機能を拡充するべくMozillaがAI企業「Mistral AI」とパートナーシップを締結](https://gigazine.net/news/20260917-firefox-ai-mozilla-mistral/)
+- [NVIDIAはAIの中央銀行と化している](https://gigazine.net/news/20260917-nvidia-central-bank-ai/)
 <!-- GIGAZINE-NEWS-END -->
