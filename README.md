@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=uTt67zwzLdo'>
-        <img src='https://i.ytimg.com/vi/uTt67zwzLdo/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBmbYjA5loTIP_04XgOlQZUmfTjcQ' width='200px' alt='あなたがいることで'>
+      <a href='https://www.youtube.com/watch?v=W8Q9Hs7Tgzg'>
+        <img src='https://i.ytimg.com/vi/W8Q9Hs7Tgzg/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLCvEYW2MXG56B1ZW49vBOJjBfd0hQ' width='200px' alt='Wanted! Wanted!'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=uTt67zwzLdo'>あなたがいることで</a>
+      <a href='https://www.youtube.com/watch?v=W8Q9Hs7Tgzg'>Wanted! Wanted!</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=l-6ag1J9MJI'>
-        <img src='https://i.ytimg.com/vi/l-6ag1J9MJI/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCffBjRSc49EifjAW-ABBJ3umSCmQ' width='200px' alt='Continues'>
+      <a href='https://www.youtube.com/watch?v=i7Jy4GC3l6U'>
+        <img src='https://i.ytimg.com/vi/i7Jy4GC3l6U/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAuoA4MU4lj4Yi8hr-lrNiZ6-s7tA' width='200px' alt='Nachtmusik'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=l-6ag1J9MJI'>Continues</a>
+      <a href='https://www.youtube.com/watch?v=i7Jy4GC3l6U'>Nachtmusik</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Def4ipTm-y4'>
-        <img src='https://i.ytimg.com/vi/Def4ipTm-y4/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBlGd-IeCYqMBWYL7LtkG0k7nQnoA' width='200px' alt='Lovin''>
+      <a href='https://www.youtube.com/watch?v=hmTKQf7khaE'>
+        <img src='https://i.ytimg.com/vi/hmTKQf7khaE/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLD-EY_Sj1jB0c258hrzFwKHwkClFA' width='200px' alt='Automatic'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Def4ipTm-y4'>Lovin'</a>
+      <a href='https://www.youtube.com/watch?v=hmTKQf7khaE'>Automatic</a>
     </td>
   </tr>
 </table>
