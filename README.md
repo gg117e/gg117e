@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=rqJgOLXsr3M'>
-        <img src='https://i.ytimg.com/vi/rqJgOLXsr3M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCec-aruTMcKZDIMW7DHuBnHIVUnA' width='200px' alt='おもかげ (produced by Vaundy)'>
+      <a href='https://www.youtube.com/watch?v=H2r25lVcIHw'>
+        <img src='https://i.ytimg.com/vi/H2r25lVcIHw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgiffVYvt42FuGzVoZ1W9jo3MUFQ' width='200px' alt='花の塔'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=rqJgOLXsr3M'>おもかげ (produced by Vaundy)</a>
+      <a href='https://www.youtube.com/watch?v=H2r25lVcIHw'>花の塔</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Def4ipTm-y4'>
-        <img src='https://i.ytimg.com/vi/Def4ipTm-y4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCixEcYjMmjLWOaqoEVhRfGcylceQ' width='200px' alt='Lovin''>
+      <a href='https://www.youtube.com/watch?v=A0plb7gdzW4'>
+        <img src='https://i.ytimg.com/vi/A0plb7gdzW4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhPB6jEwaOqitRIOiPhQQSfsOuDw' width='200px' alt='Attitude'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Def4ipTm-y4'>Lovin'</a>
+      <a href='https://www.youtube.com/watch?v=A0plb7gdzW4'>Attitude</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=3jwzfhaIf3U'>
-        <img src='https://i.ytimg.com/vi/3jwzfhaIf3U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyDkEcU9JaqmusItqe-hAV56rH3A' width='200px' alt='Eikouno Kakehashi'>
+      <a href='https://www.youtube.com/watch?v=SCRS1GAIiWw'>
+        <img src='https://i.ytimg.com/vi/SCRS1GAIiWw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfxYBNMAcUPbXvd6iovLYBMlViiQ' width='200px' alt='サイレントマジョリティー'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=3jwzfhaIf3U'>Eikouno Kakehashi</a>
+      <a href='https://www.youtube.com/watch?v=SCRS1GAIiWw'>サイレントマジョリティー</a>
     </td>
   </tr>
 </table>
