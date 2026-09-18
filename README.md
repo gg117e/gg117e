@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [ClaudeのチャットAIとCoworkが統合される](https://gigazine.net/news/20260917-claude-cowork-merged/)
-- [13歳未満のSNS・AIチャットボット・オンラインゲーム利用を厳しく制限する「EUキッズ法」案を欧州委員会が検討](https://gigazine.net/news/20260917-eu-kids-act/)
-- [イランによるAmazonのデータセンターへの攻撃により顧客データが永久に失われる](https://gigazine.net/news/20260917-aws-middle-east-data-center-unable-to-restore/)
-- [流星を観測する学術団体・国際流星機構がサイバー攻撃により深刻な打撃を受ける](https://gigazine.net/news/20260917-tracks-meteors-critical-blow-cyberattack/)
-- [FirefoxのAI機能を拡充するべくMozillaがAI企業「Mistral AI」とパートナーシップを締結](https://gigazine.net/news/20260917-firefox-ai-mozilla-mistral/)
-- [NVIDIAはAIの中央銀行と化している](https://gigazine.net/news/20260917-nvidia-central-bank-ai/)
+- [Qwen3.8 27Bを5.9GBまで小型化しつつ性能は98.2％維持したAIモデル「Ternary Bonsai 2 27B」が登場](https://gigazine.net/news/20260918-bonsai-2-27b/)
+- [「Factorio」の乱数生成器を解析して「レジェンド品質のアイテム」が出る未来を予測する試み](https://gigazine.net/news/20260918-reversing-factorio-rng/)
+- [自閉症の人には「他の自閉症の人の気持ちが分かる」という強みがあるかもしれない](https://gigazine.net/news/20260918-autism-emotion-reading/)
+- [CUDA対応のWindowsアプリをAMD製GPU上で実行できる「CUDA for AMD on Windows」](https://gigazine.net/news/20260918-cuda-for-amd-windows/)
+- [AIコーディングエージェントにとってハーネスはどれほど重要なのか？](https://gigazine.net/news/20260917-harnesstax-ai-coding-agents/)
+- [OpenAIのHugging Face攻撃事件などで調査を担当しているAI監査組織「METR」とは何なのか？](https://gigazine.net/news/20260917-model-evaluation-and-threat-research/)
 <!-- GIGAZINE-NEWS-END -->
