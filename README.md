@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=p1qM75a9FeE'>
-        <img src='https://i.ytimg.com/vi/p1qM75a9FeE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClYikOff8dhkp27FSkVQFXZWivEA' width='200px' alt='OFFICIAL HIGE DANDISM - HELLO［Official Video］'>
+      <a href='https://www.youtube.com/watch?v=GcXurBc6vao'>
+        <img src='https://i.ytimg.com/vi/GcXurBc6vao/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1h2cOKqsHtyYt1ytLA3FK8W9TZA' width='200px' alt='カタオモイ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=p1qM75a9FeE'>OFFICIAL HIGE DANDISM - HELLO［Official Video］</a>
+      <a href='https://www.youtube.com/watch?v=GcXurBc6vao'>カタオモイ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Q6MCyXi7ygA'>
-        <img src='https://i.ytimg.com/vi/Q6MCyXi7ygA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyF8uAZ8LWVRze3HuSHjbzwarW9A' width='200px' alt='Grand Escape'>
+      <a href='https://www.youtube.com/watch?v=_HGPxXTIrvg'>
+        <img src='https://i.ytimg.com/vi/_HGPxXTIrvg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCntFc3OMMdrjs0ZHthaVaWH5snw' width='200px' alt='サマータイムシンデレラ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Q6MCyXi7ygA'>Grand Escape</a>
+      <a href='https://www.youtube.com/watch?v=_HGPxXTIrvg'>サマータイムシンデレラ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=1jS94sWWokk'>
-        <img src='https://i.ytimg.com/vi/1jS94sWWokk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxqYiCxzeXYaMH_2cNJD-UWssuIQ' width='200px' alt='MIRROR MIRROR'>
+      <a href='https://www.youtube.com/watch?v=-_PKhPMXMDY'>
+        <img src='https://i.ytimg.com/vi/-_PKhPMXMDY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA96C28QeG6Y8XikTP7sXlae0UcmA' width='200px' alt='Tokimeki / Vaundy：MUSIC VIDEO'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=1jS94sWWokk'>MIRROR MIRROR</a>
+      <a href='https://www.youtube.com/watch?v=-_PKhPMXMDY'>Tokimeki / Vaundy：MUSIC VIDEO</a>
     </td>
   </tr>
 </table>
