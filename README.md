@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [Qwen3.8 27Bを5.9GBまで小型化しつつ性能は98.2％維持したAIモデル「Ternary Bonsai 2 27B」が登場](https://gigazine.net/news/20260918-bonsai-2-27b/)
-- [「Factorio」の乱数生成器を解析して「レジェンド品質のアイテム」が出る未来を予測する試み](https://gigazine.net/news/20260918-reversing-factorio-rng/)
-- [自閉症の人には「他の自閉症の人の気持ちが分かる」という強みがあるかもしれない](https://gigazine.net/news/20260918-autism-emotion-reading/)
-- [CUDA対応のWindowsアプリをAMD製GPU上で実行できる「CUDA for AMD on Windows」](https://gigazine.net/news/20260918-cuda-for-amd-windows/)
-- [AIコーディングエージェントにとってハーネスはどれほど重要なのか？](https://gigazine.net/news/20260917-harnesstax-ai-coding-agents/)
-- [OpenAIのHugging Face攻撃事件などで調査を担当しているAI監査組織「METR」とは何なのか？](https://gigazine.net/news/20260917-model-evaluation-and-threat-research/)
+- [ハッカーがAnthropicのClaudeを使ってOpenAIに侵入](https://gigazine.net/news/20260919-hack-openai-claude/)
+- [計算できるウマ「賢馬ハンス」はどうやって正しい答えを出していたのか？](https://gigazine.net/news/20260919-clever-hans-horse-mystery/)
+- [本当は仕事を辞めたいのに経済的理由で退職できない高齢者はメンタルヘルスや健康状態が悪化する](https://gigazine.net/news/20260919-working-out-of-necessity-older-health/)
+- [職場のトイレで死亡したプログラマーがPCの電源を入れていなかったため労災と認められず](https://gigazine.net/news/20260919-dead-china-programmer-not-work-related/)
+- [言葉による指示やスケッチで建物や家具を自由自在に3D化できるAI搭載3Dモデリングツール「Cartesian」](https://gigazine.net/news/20260918-cartesian-formas-ai-3d-model/)
+- [AI標準化団体設立をめぐりザッカーバーグ＆マスク＆フアンがトランプ大統領とともに反対の方針で同調](https://gigazine.net/news/20260918-trump-ai-regulation/)
 <!-- GIGAZINE-NEWS-END -->
