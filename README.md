@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [ハッカーがAnthropicのClaudeを使ってOpenAIに侵入](https://gigazine.net/news/20260919-hack-openai-claude/)
-- [計算できるウマ「賢馬ハンス」はどうやって正しい答えを出していたのか？](https://gigazine.net/news/20260919-clever-hans-horse-mystery/)
-- [本当は仕事を辞めたいのに経済的理由で退職できない高齢者はメンタルヘルスや健康状態が悪化する](https://gigazine.net/news/20260919-working-out-of-necessity-older-health/)
-- [職場のトイレで死亡したプログラマーがPCの電源を入れていなかったため労災と認められず](https://gigazine.net/news/20260919-dead-china-programmer-not-work-related/)
-- [言葉による指示やスケッチで建物や家具を自由自在に3D化できるAI搭載3Dモデリングツール「Cartesian」](https://gigazine.net/news/20260918-cartesian-formas-ai-3d-model/)
-- [AI標準化団体設立をめぐりザッカーバーグ＆マスク＆フアンがトランプ大統領とともに反対の方針で同調](https://gigazine.net/news/20260918-trump-ai-regulation/)
+- [「高速鉄道網の発達」が中国におけるEV普及の後押しになった可能性](https://gigazine.net/news/20260920-china-bullet-trains-fueled-ev-boom/)
+- [警察官が監視カメラを使って元交際相手のナンバープレートを1万回以上検索したとして告発される](https://gigazine.net/news/20260920-lufkin-officer-accused-search-license-plate/)
+- [VRAM容量32GBで30万円未満なIntelグラボ「Intel Arc Pro B70 Creator 32GB」でローカルLLM「Qwen3.8 27B」や動画生成AI「MiniMax H3」を実行して生成速度を確かめてみた](https://gigazine.net/news/20260919-arc-pro-b70-llm-review/)
+- [料理漫画の金字塔が『新 美味しんぼ』として新たなTVアニメ化決定](https://gigazine.net/news/20260919-new-oishinbo-anime-teaser/)
+- [Meta独自のスマートグラス「Meta Glasses」フォトレビュー、本体のデザインからケース・付属品までチェック](https://gigazine.net/news/20260919-meta-adventurer/)
+- [無料でAIエージェントの追跡・評価・プロンプト管理・本番環境の監視ができる「Opik」、セルフホスト可能](https://gigazine.net/news/20260919-opik/)
 <!-- GIGAZINE-NEWS-END -->
