@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [「高速鉄道網の発達」が中国におけるEV普及の後押しになった可能性](https://gigazine.net/news/20260920-china-bullet-trains-fueled-ev-boom/)
-- [警察官が監視カメラを使って元交際相手のナンバープレートを1万回以上検索したとして告発される](https://gigazine.net/news/20260920-lufkin-officer-accused-search-license-plate/)
-- [VRAM容量32GBで30万円未満なIntelグラボ「Intel Arc Pro B70 Creator 32GB」でローカルLLM「Qwen3.8 27B」や動画生成AI「MiniMax H3」を実行して生成速度を確かめてみた](https://gigazine.net/news/20260919-arc-pro-b70-llm-review/)
-- [料理漫画の金字塔が『新 美味しんぼ』として新たなTVアニメ化決定](https://gigazine.net/news/20260919-new-oishinbo-anime-teaser/)
-- [Meta独自のスマートグラス「Meta Glasses」フォトレビュー、本体のデザインからケース・付属品までチェック](https://gigazine.net/news/20260919-meta-adventurer/)
-- [無料でAIエージェントの追跡・評価・プロンプト管理・本番環境の監視ができる「Opik」、セルフホスト可能](https://gigazine.net/news/20260919-opik/)
+- [関税をかけると物価や雇用はどう変わるのか？](https://gigazine.net/news/20260921-tariffs-global-economy/)
+- [Geminiが使えるスマートウォッチ「Google Pixel Watch 5」を使ってみた](https://gigazine.net/news/20260921-google-pixel-watch-review/)
+- [「宇宙の膨張は加速していない」という可能性が超新星の観測データの再分析で示される](https://gigazine.net/news/20260920-supernova-cosmic-acceleration-questioned/)
+- [Disney+がプレミアムを含む全プランで広告表示へ](https://gigazine.net/news/20260920-disney-plus-ads-on-every-plan/)
+- [netcatと同様だがTailscaleのデータプレーン上で動作する「Tailcat」](https://gigazine.net/news/20260920-tailcat/)
+- [VisaとMastercardは何をしているのか、カード会社とは何が違うのか？](https://gigazine.net/news/20260920-card-networks-intro/)
 <!-- GIGAZINE-NEWS-END -->
