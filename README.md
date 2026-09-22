@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [関税をかけると物価や雇用はどう変わるのか？](https://gigazine.net/news/20260921-tariffs-global-economy/)
-- [Geminiが使えるスマートウォッチ「Google Pixel Watch 5」を使ってみた](https://gigazine.net/news/20260921-google-pixel-watch-review/)
-- [「宇宙の膨張は加速していない」という可能性が超新星の観測データの再分析で示される](https://gigazine.net/news/20260920-supernova-cosmic-acceleration-questioned/)
-- [Disney+がプレミアムを含む全プランで広告表示へ](https://gigazine.net/news/20260920-disney-plus-ads-on-every-plan/)
-- [netcatと同様だがTailscaleのデータプレーン上で動作する「Tailcat」](https://gigazine.net/news/20260920-tailcat/)
-- [VisaとMastercardは何をしているのか、カード会社とは何が違うのか？](https://gigazine.net/news/20260920-card-networks-intro/)
+- [単価の安いAIモデルを使うとかえってコストが高くつくことがあるという研究結果](https://gigazine.net/news/20260922-cheaper-ai-coding-cost/)
+- [AIに頼って登山計画を立てた登山者たちが救助される](https://gigazine.net/news/20260922-ai-climber-rescued/)
+- [オーストラリア政府が公共の場でのスマートグラス規制を検討](https://gigazine.net/news/20260921-australia-government-considers-ban-smart-glass/)
+- [「スマホを見る時間を減らす目標」を立てることが毎日のスクリーンタイムを削減するのに役立つかもしれない](https://gigazine.net/news/20260921-simple-trick-cut-down-screen-time/)
+- [iPhoneに搭載されたApple製AIとチャットする方法、無料アプリで「Apple Foundation Models」のローカル処理能力を試せる](https://gigazine.net/news/20260921-locally-ai-apple-foundation-models/)
+- [プロセスが終了しても入出力は行われるのか？プロセスが終了するとio_uringはどうなるのか？](https://gigazine.net/news/20260921-what-happens-to-io-uring-when-process-dies/)
 <!-- GIGAZINE-NEWS-END -->
