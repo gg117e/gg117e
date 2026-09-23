@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [単価の安いAIモデルを使うとかえってコストが高くつくことがあるという研究結果](https://gigazine.net/news/20260922-cheaper-ai-coding-cost/)
-- [AIに頼って登山計画を立てた登山者たちが救助される](https://gigazine.net/news/20260922-ai-climber-rescued/)
-- [オーストラリア政府が公共の場でのスマートグラス規制を検討](https://gigazine.net/news/20260921-australia-government-considers-ban-smart-glass/)
-- [「スマホを見る時間を減らす目標」を立てることが毎日のスクリーンタイムを削減するのに役立つかもしれない](https://gigazine.net/news/20260921-simple-trick-cut-down-screen-time/)
-- [iPhoneに搭載されたApple製AIとチャットする方法、無料アプリで「Apple Foundation Models」のローカル処理能力を試せる](https://gigazine.net/news/20260921-locally-ai-apple-foundation-models/)
-- [プロセスが終了しても入出力は行われるのか？プロセスが終了するとio_uringはどうなるのか？](https://gigazine.net/news/20260921-what-happens-to-io-uring-when-process-dies/)
+- [ロボタクシーのWaymoが公共交通機関との併用を推奨するプログラムを発表](https://gigazine.net/news/20260923-waymo-introducing-transit-rewards/)
+- [Firefoxに「ピクチャーインピクチャーで再生する動画の速度調整」や「新規タブにウェブサイトの未読通知をバッジで表示」などの新機能が追加予定](https://gigazine.net/news/20260923-firefox-pip-speed-new-tab/)
+- [幼少期からのPCなどの画面を見る時間が長いほど青年期の認知処理能力が向上するという研究結果](https://gigazine.net/news/20260923-screentime-cognition/)
+- [携帯可能で低消費電力のアナログガイガーカウンターを自作した記録](https://gigazine.net/news/20260922-analog-geiger-counter/)
+- [OpenAIが10億人以上・40ペタバイト超えのユーザーデータを扱う自社製ストレージシステム「Habitat」について解説](https://gigazine.net/news/20260922-openai-storage-habitat/)
+- [マキタの18Vバッテリーにも対応済み、リチウムイオンバッテリーの診断と修理をブラウザから無料で実行できる「Open Battery Information」](https://gigazine.net/news/20260922-open-battery-information/)
 <!-- GIGAZINE-NEWS-END -->
