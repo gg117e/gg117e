@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [ロボタクシーのWaymoが公共交通機関との併用を推奨するプログラムを発表](https://gigazine.net/news/20260923-waymo-introducing-transit-rewards/)
-- [Firefoxに「ピクチャーインピクチャーで再生する動画の速度調整」や「新規タブにウェブサイトの未読通知をバッジで表示」などの新機能が追加予定](https://gigazine.net/news/20260923-firefox-pip-speed-new-tab/)
-- [幼少期からのPCなどの画面を見る時間が長いほど青年期の認知処理能力が向上するという研究結果](https://gigazine.net/news/20260923-screentime-cognition/)
-- [携帯可能で低消費電力のアナログガイガーカウンターを自作した記録](https://gigazine.net/news/20260922-analog-geiger-counter/)
-- [OpenAIが10億人以上・40ペタバイト超えのユーザーデータを扱う自社製ストレージシステム「Habitat」について解説](https://gigazine.net/news/20260922-openai-storage-habitat/)
-- [マキタの18Vバッテリーにも対応済み、リチウムイオンバッテリーの診断と修理をブラウザから無料で実行できる「Open Battery Information」](https://gigazine.net/news/20260922-open-battery-information/)
+- [どんなサブスクを使ってる？解約できないダークパターンに遭遇したことはある？](https://gigazine.net/news/20260924-subscription-gigazine-user-dark-pattern/)
+- [「9.11」追悼企画アート掲載サイトがドキュメンタリー映画の影響で復活](https://gigazine.net/news/20260924-911-memorial-secret-mall-apartment/)
+- [わずか4Bの小型AIを強化学習したらPostgreSQLより1.81倍高速なクエリプランを生成できたという報告](https://gigazine.net/news/20260924-qorl/)
+- [自分らしさを損なわずにAIで文章を手直しするための2つのルール](https://gigazine.net/news/20260924-ai-writing-copyeditor/)
+- [Vlogにぴったりな小型カメラ「Osmo Pocket 4」レビュー記事・SF作家のAI論などAmazonで売上トップ10のGIGAZINE記事ランキング2026年8月版はコレ！](https://gigazine.net/news/20260924-gigazine-kindle-ranking-2026-08/)
+- [ウェブカメラに向かって手を振って演奏できる「エア・テルミン」](https://gigazine.net/news/20260923-air-theremin/)
 <!-- GIGAZINE-NEWS-END -->
