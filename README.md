@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=1AVErqlUdpM'>
-        <img src='https://i.ytimg.com/vi/1AVErqlUdpM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnLrfABUDxabUUOguKRh1NAcHb-A' width='200px' alt='ギャグ'>
+      <a href='https://www.youtube.com/watch?v=A1g9Ev-Ml5g'>
+        <img src='https://i.ytimg.com/vi/A1g9Ev-Ml5g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYaQo0xKzXpdDNtCRer4QMwIqPwg' width='200px' alt='虹'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=1AVErqlUdpM'>ギャグ</a>
+      <a href='https://www.youtube.com/watch?v=A1g9Ev-Ml5g'>虹</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=GOIuU0ejpzc'>
-        <img src='https://i.ytimg.com/vi/GOIuU0ejpzc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPs_NzMHy2jXKKNMWZW7ccM4HxGg' width='200px' alt='GReeeeN / アカリ 【TBS系 日曜劇場『TOKYO MER～走る緊急救命室～』主題歌】'>
+      <a href='https://www.youtube.com/watch?v=KJBoof4rjrg'>
+        <img src='https://i.ytimg.com/vi/KJBoof4rjrg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYlPGVYfBk7q9cXddAm78dnu8oAQ' width='200px' alt='Tatta'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=GOIuU0ejpzc'>GReeeeN / アカリ 【TBS系 日曜劇場『TOKYO MER～走る緊急救命室～』主題歌】</a>
+      <a href='https://www.youtube.com/watch?v=KJBoof4rjrg'>Tatta</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=A0plb7gdzW4'>
-        <img src='https://i.ytimg.com/vi/A0plb7gdzW4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhPB6jEwaOqitRIOiPhQQSfsOuDw' width='200px' alt='Attitude'>
+      <a href='https://www.youtube.com/watch?v=Q-y3TtiKxsU'>
+        <img src='https://i.ytimg.com/vi/Q-y3TtiKxsU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJYbnkxTXam_a4M0GF97NMTrAoHg' width='200px' alt='チャンカパーナ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=A0plb7gdzW4'>Attitude</a>
+      <a href='https://www.youtube.com/watch?v=Q-y3TtiKxsU'>チャンカパーナ</a>
     </td>
   </tr>
 </table>
