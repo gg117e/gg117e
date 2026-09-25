@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [どんなサブスクを使ってる？解約できないダークパターンに遭遇したことはある？](https://gigazine.net/news/20260924-subscription-gigazine-user-dark-pattern/)
-- [「9.11」追悼企画アート掲載サイトがドキュメンタリー映画の影響で復活](https://gigazine.net/news/20260924-911-memorial-secret-mall-apartment/)
-- [わずか4Bの小型AIを強化学習したらPostgreSQLより1.81倍高速なクエリプランを生成できたという報告](https://gigazine.net/news/20260924-qorl/)
-- [自分らしさを損なわずにAIで文章を手直しするための2つのルール](https://gigazine.net/news/20260924-ai-writing-copyeditor/)
-- [Vlogにぴったりな小型カメラ「Osmo Pocket 4」レビュー記事・SF作家のAI論などAmazonで売上トップ10のGIGAZINE記事ランキング2026年8月版はコレ！](https://gigazine.net/news/20260924-gigazine-kindle-ranking-2026-08/)
-- [ウェブカメラに向かって手を振って演奏できる「エア・テルミン」](https://gigazine.net/news/20260923-air-theremin/)
+- [イヤホンなどのオーディオデバイスでAI機能を強化するチップ「Snapdragon Sound Elite Gen 2」が発表される](https://gigazine.net/news/20260925-snapdragon-sound-elite-gen-2/)
+- [RSAを素因数分解せずに破る攻撃を大規模実証、1024ビットRSAの署名偽造に成功](https://gigazine.net/news/20260925-rsa-nsnfsssfsfn/)
+- [Googleが宇宙にAIデータセンターを設置する実証実験「Project Suncatcher」でAI専用チップ・TPUを搭載した人工衛星を10月1日に打ち上げ](https://gigazine.net/news/20260925-google-project-suncatcher/)
+- [Android用アプリストア「F-Droid」のバージョン2.0が登場、自動アップデートや検索改善など](https://gigazine.net/news/20260925-f-droid-2-0/)
+- [Claudeで「セーフガードにブロックされたAI処理」に対する課金が開始される](https://gigazine.net/news/20260925-claude-safeguard-block-request/)
+- [「iPhone 18 Pro」を分解してみた動画が公開中、カメラの可変絞りはどんな感じになっているのか？](https://gigazine.net/news/20260925-ifixit-inside-iphone-18-pro-max/)
 <!-- GIGAZINE-NEWS-END -->
