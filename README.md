@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=wggigwtz4dQ'>
-        <img src='https://i.ytimg.com/vi/wggigwtz4dQ/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAqVmoZB__INcYQqwQxyUXwJ8SObg' width='200px' alt='IRIS OUT'>
+      <a href='https://www.youtube.com/watch?v=HrZX4KFfniU'>
+        <img src='https://i.ytimg.com/vi/HrZX4KFfniU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCj4NYNo6f32MhY3ua3KFVZQcplOw' width='200px' alt='Earthchild'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=wggigwtz4dQ'>IRIS OUT</a>
+      <a href='https://www.youtube.com/watch?v=HrZX4KFfniU'>Earthchild</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Fay3ZhHS1rU'>
-        <img src='https://i.ytimg.com/vi/Fay3ZhHS1rU/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBc520PcCzyypyUaCxMwoCNx_BtkQ' width='200px' alt='桑田佳祐 – 100万年の幸せ!!（Full ver.）'>
+      <a href='https://www.youtube.com/watch?v=_HGPxXTIrvg'>
+        <img src='https://i.ytimg.com/vi/_HGPxXTIrvg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCntFc3OMMdrjs0ZHthaVaWH5snw' width='200px' alt='サマータイムシンデレラ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Fay3ZhHS1rU'>桑田佳祐 – 100万年の幸せ!!（Full ver.）</a>
+      <a href='https://www.youtube.com/watch?v=_HGPxXTIrvg'>サマータイムシンデレラ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=LoM7YXDKmYQ'>
-        <img src='https://i.ytimg.com/vi/LoM7YXDKmYQ/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBD-0DtiBTCjEJqGHvZlAYG8Etvpg' width='200px' alt='3月の帰り道'>
+      <a href='https://www.youtube.com/watch?v=eoQAnGx4Pss'>
+        <img src='https://i.ytimg.com/vi/eoQAnGx4Pss/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFEUw0WZq7w7oBTR2L_48UsOCpsw' width='200px' alt='Wherever you are'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=LoM7YXDKmYQ'>3月の帰り道</a>
+      <a href='https://www.youtube.com/watch?v=eoQAnGx4Pss'>Wherever you are</a>
     </td>
   </tr>
 </table>
