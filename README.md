@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [イヤホンなどのオーディオデバイスでAI機能を強化するチップ「Snapdragon Sound Elite Gen 2」が発表される](https://gigazine.net/news/20260925-snapdragon-sound-elite-gen-2/)
-- [RSAを素因数分解せずに破る攻撃を大規模実証、1024ビットRSAの署名偽造に成功](https://gigazine.net/news/20260925-rsa-nsnfsssfsfn/)
-- [Googleが宇宙にAIデータセンターを設置する実証実験「Project Suncatcher」でAI専用チップ・TPUを搭載した人工衛星を10月1日に打ち上げ](https://gigazine.net/news/20260925-google-project-suncatcher/)
-- [Android用アプリストア「F-Droid」のバージョン2.0が登場、自動アップデートや検索改善など](https://gigazine.net/news/20260925-f-droid-2-0/)
-- [Claudeで「セーフガードにブロックされたAI処理」に対する課金が開始される](https://gigazine.net/news/20260925-claude-safeguard-block-request/)
-- [「iPhone 18 Pro」を分解してみた動画が公開中、カメラの可変絞りはどんな感じになっているのか？](https://gigazine.net/news/20260925-ifixit-inside-iphone-18-pro-max/)
+- [Apple Watch Series 12を1週間つけてみたレビュー、ヘルスケアトラッカーが新しくなってバッテリーの持ちも向上](https://gigazine.net/news/20260926-apple-watch-series-12-usage/)
+- [「AI家庭教師と人間の専門家による指導の学習効果は同等」という研究結果、正答率の向上にかかる費用は918分の1](https://gigazine.net/news/20260926-ai-tutor-human-gre-cost/)
+- [中国・北京がドローンを全面規制、飛行だけでなく所持・保管・持ち込みも禁止へ](https://gigazine.net/news/20260926-beijing-ban-drone/)
+- [超高度な文明は「外」に向かって拡大するのではなく「内」に向かって小さな世界を意のままに操るのかもしれない](https://gigazine.net/news/20260925-godlike-civilization/)
+- [Meta Glassesを装着してMeta社員に絡む動画がFacebookとInstagramで削除される](https://gigazine.net/news/20260925-meta-glasses-video-ban/)
+- [名作ADVに登場した「金属製ジョッキをわずか35秒で溶かす液体」は実在するのか？](https://gigazine.net/news/20260925-science-of-monkey-island/)
 <!-- GIGAZINE-NEWS-END -->
