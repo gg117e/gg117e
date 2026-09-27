@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=tIKnAwgjHWU'>
-        <img src='https://i.ytimg.com/vi/tIKnAwgjHWU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMg_KeVtmmXSjur37sZtESTrMehg' width='200px' alt='Shunshu'>
+      <a href='https://www.youtube.com/watch?v=KQNT6hbgf6g'>
+        <img src='https://i.ytimg.com/vi/KQNT6hbgf6g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9u_NKnOrjXZLJMcCymhOCKrr5FA' width='200px' alt='Toku Toku (2012 Remaster)'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=tIKnAwgjHWU'>Shunshu</a>
+      <a href='https://www.youtube.com/watch?v=KQNT6hbgf6g'>Toku Toku (2012 Remaster)</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=aRtoPwe4ado'>
-        <img src='https://i.ytimg.com/vi/aRtoPwe4ado/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9PXwnyKWh73Tc7PGeIqoYftngtg' width='200px' alt='Sanitizer'>
+      <a href='https://www.youtube.com/watch?v=H_oxAmLvufM'>
+        <img src='https://i.ytimg.com/vi/H_oxAmLvufM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdaJT8v26IBiINKiuNPqHQR_5vAQ' width='200px' alt='BE:FIRST / I Want You Back -Official Audio-'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=aRtoPwe4ado'>Sanitizer</a>
+      <a href='https://www.youtube.com/watch?v=H_oxAmLvufM'>BE:FIRST / I Want You Back -Official Audio-</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=1GQ07JcqH48'>
-        <img src='https://i.ytimg.com/vi/1GQ07JcqH48/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSPACmTI9ygMCW0JC14xxWjsnbSA' width='200px' alt='Family Song'>
+      <a href='https://www.youtube.com/watch?v=UitnwW70eic'>
+        <img src='https://i.ytimg.com/vi/UitnwW70eic/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3st8qo7M3jM2zixcX6Wq1iLLaKg' width='200px' alt='レオ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=1GQ07JcqH48'>Family Song</a>
+      <a href='https://www.youtube.com/watch?v=UitnwW70eic'>レオ</a>
     </td>
   </tr>
 </table>
