@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [Apple Watch Series 12を1週間つけてみたレビュー、ヘルスケアトラッカーが新しくなってバッテリーの持ちも向上](https://gigazine.net/news/20260926-apple-watch-series-12-usage/)
-- [「AI家庭教師と人間の専門家による指導の学習効果は同等」という研究結果、正答率の向上にかかる費用は918分の1](https://gigazine.net/news/20260926-ai-tutor-human-gre-cost/)
-- [中国・北京がドローンを全面規制、飛行だけでなく所持・保管・持ち込みも禁止へ](https://gigazine.net/news/20260926-beijing-ban-drone/)
-- [超高度な文明は「外」に向かって拡大するのではなく「内」に向かって小さな世界を意のままに操るのかもしれない](https://gigazine.net/news/20260925-godlike-civilization/)
-- [Meta Glassesを装着してMeta社員に絡む動画がFacebookとInstagramで削除される](https://gigazine.net/news/20260925-meta-glasses-video-ban/)
-- [名作ADVに登場した「金属製ジョッキをわずか35秒で溶かす液体」は実在するのか？](https://gigazine.net/news/20260925-science-of-monkey-island/)
+- [Steam公式ワイヤレスVRゴーグル「Steam Frame」が届いたので外観を詳しく撮影してみた、「メガネは入るのか？」「重さは何gか？」など](https://gigazine.net/news/20260927-steam-frame-appearance/)
+- [「Apple Watch Ultra 4」使ってみたレビュー、重いしデカイけどバッテリー持ちはバツグンでiPhoneなしでも高精度](https://gigazine.net/news/20260927-apple-watch-ultra-4-review/)
+- [AI搭載の監視カメラを混乱させる「デジタル迷彩シャツ」](https://gigazine.net/news/20260927-digital-camouflage-shirt/)
+- [1日の歩数は変わらなくても「歩くペース」を上げれば死亡リスクが下がる可能性](https://gigazine.net/news/20260926-stepping-pace-lower-risk-death/)
+- [Apple純正のオープンイヤー型ワイヤレスイヤホン「AirPods 5」使用レビュー、使い心地や強化されたアクティブノイズキャンセリング機能はどれほどのものか？](https://gigazine.net/news/20260926-airpods-5-wireless-charging-case-review/)
+- [darktableをフォークして余分な機能を排除しデザイン面の使い勝手を洗練させた「Ansel」](https://gigazine.net/news/20260926-ansel/)
 <!-- GIGAZINE-NEWS-END -->
