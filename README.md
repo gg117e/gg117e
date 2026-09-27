@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Mr2EWEPFtwk'>
-        <img src='https://i.ytimg.com/vi/Mr2EWEPFtwk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB40b7gpdm4JT-YxCurTEsFUH324g' width='200px' alt='花になって - Be a flower'>
+      <a href='https://www.youtube.com/watch?v=OF45OXeH5VM'>
+        <img src='https://i.ytimg.com/vi/OF45OXeH5VM/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLD-HzcAn2VgKWp8HvPd4PBiOGliSQ' width='200px' alt='感電'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Mr2EWEPFtwk'>花になって - Be a flower</a>
+      <a href='https://www.youtube.com/watch?v=OF45OXeH5VM'>感電</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=I8fxhn_l08g'>
-        <img src='https://i.ytimg.com/vi/I8fxhn_l08g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDSBeXOzTWFpJfP7MAMG5QX5MRHA' width='200px' alt='OFFICIAL HIGE DANDISM  - Choral A [Official Video]'>
+      <a href='https://www.youtube.com/watch?v=o3YbBDqEiGc'>
+        <img src='https://i.ytimg.com/vi/o3YbBDqEiGc/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAx1knyyQSStaQq9xNa6mFQsW_e5g' width='200px' alt='春擬き'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=I8fxhn_l08g'>OFFICIAL HIGE DANDISM  - Choral A [Official Video]</a>
+      <a href='https://www.youtube.com/watch?v=o3YbBDqEiGc'>春擬き</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=H_oxAmLvufM'>
-        <img src='https://i.ytimg.com/vi/H_oxAmLvufM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdaJT8v26IBiINKiuNPqHQR_5vAQ' width='200px' alt='BE:FIRST / I Want You Back -Official Audio-'>
+      <a href='https://www.youtube.com/watch?v=vs-cO8XXDTc'>
+        <img src='https://i.ytimg.com/vi/vs-cO8XXDTc/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLA0eIE7W6eaUEpjsGWaXowOwANOQw' width='200px' alt='ファーストラヴ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=H_oxAmLvufM'>BE:FIRST / I Want You Back -Official Audio-</a>
+      <a href='https://www.youtube.com/watch?v=vs-cO8XXDTc'>ファーストラヴ</a>
     </td>
   </tr>
 </table>
