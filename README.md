@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [Steam公式ワイヤレスVRゴーグル「Steam Frame」が届いたので外観を詳しく撮影してみた、「メガネは入るのか？」「重さは何gか？」など](https://gigazine.net/news/20260927-steam-frame-appearance/)
-- [「Apple Watch Ultra 4」使ってみたレビュー、重いしデカイけどバッテリー持ちはバツグンでiPhoneなしでも高精度](https://gigazine.net/news/20260927-apple-watch-ultra-4-review/)
-- [AI搭載の監視カメラを混乱させる「デジタル迷彩シャツ」](https://gigazine.net/news/20260927-digital-camouflage-shirt/)
-- [1日の歩数は変わらなくても「歩くペース」を上げれば死亡リスクが下がる可能性](https://gigazine.net/news/20260926-stepping-pace-lower-risk-death/)
-- [Apple純正のオープンイヤー型ワイヤレスイヤホン「AirPods 5」使用レビュー、使い心地や強化されたアクティブノイズキャンセリング機能はどれほどのものか？](https://gigazine.net/news/20260926-airpods-5-wireless-charging-case-review/)
-- [darktableをフォークして余分な機能を排除しデザイン面の使い勝手を洗練させた「Ansel」](https://gigazine.net/news/20260926-ansel/)
+- [OpenAIのAIエージェントが国連のウェブサイトにブルートフォース攻撃を試みる](https://gigazine.net/news/20260928-openai-agents-try-bruteforce-un-website/)
+- [Microsoft製AI「Copilot」にWord・Excel・PowerPointが統合される＆OpenClawベースの「Autopilot」も追加されて単一アプリで事務処理からコーディングまで可能に](https://gigazine.net/news/20260928-copilot-home-code-autopilot/)
+- [OpenAIが「最も高性能なAIモデル」の学習を一時停止、AIエージェントの挙動を大規模調査中](https://gigazine.net/news/20260928-openai-pauses-training-ai/)
+- [CTスキャンを読み取りガンを含む約150種類の腹部疾患を特定できる医療用画像言語モデル「RADAR」をAlibaba傘下のDamo Academyがオープンソース化し公開](https://gigazine.net/news/20260928-damo-radar/)
+- [成人後にADHDと診断された女性の中には「過集中」をスーパーパワーと捉える人もいる](https://gigazine.net/news/20260928-late-adhd-women-hyperfocus/)
+- [MicrosoftとQualcommが展開してきた「Copilot+ PC」ブランドが実質的に消滅](https://gigazine.net/news/20260927-microsoft-copilot-plus-brand-is-dead/)
 <!-- GIGAZINE-NEWS-END -->
