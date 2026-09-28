@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=W8-P1WQalQw'>
-        <img src='https://i.ytimg.com/vi/W8-P1WQalQw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRO1xzNXSPZOruZidXBs7kgiq-VA' width='200px' alt='Seikai (18Fes Version)'>
+      <a href='https://www.youtube.com/watch?v=WjIsq1-ZBaw'>
+        <img src='https://i.ytimg.com/vi/WjIsq1-ZBaw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCh9rmrKCmdRlaAejuSaWKVb-hTg' width='200px' alt='平井 大 / 栄光の扉（Music Video）'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=W8-P1WQalQw'>Seikai (18Fes Version)</a>
+      <a href='https://www.youtube.com/watch?v=WjIsq1-ZBaw'>平井 大 / 栄光の扉（Music Video）</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=JX8UNk5bAK8'>
-        <img src='https://i.ytimg.com/vi/JX8UNk5bAK8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8_mjwoEimkQONjmS2J0waFkwd9Q' width='200px' alt='のびしろ'>
+      <a href='https://www.youtube.com/watch?v=l2nqfPAMrSo'>
+        <img src='https://i.ytimg.com/vi/l2nqfPAMrSo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0nDqcmoaPuUfFdBbIX_7HAyJA8w' width='200px' alt='Chessboard'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=JX8UNk5bAK8'>のびしろ</a>
+      <a href='https://www.youtube.com/watch?v=l2nqfPAMrSo'>Chessboard</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=A1g9Ev-Ml5g'>
-        <img src='https://i.ytimg.com/vi/A1g9Ev-Ml5g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYaQo0xKzXpdDNtCRer4QMwIqPwg' width='200px' alt='虹'>
+      <a href='https://www.youtube.com/watch?v=n2m9ebS3tEo'>
+        <img src='https://i.ytimg.com/vi/n2m9ebS3tEo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXzDib6DqcUgUEmhX8e254Si2mQw' width='200px' alt='Beautiful Fin'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=A1g9Ev-Ml5g'>虹</a>
+      <a href='https://www.youtube.com/watch?v=n2m9ebS3tEo'>Beautiful Fin</a>
     </td>
   </tr>
 </table>
