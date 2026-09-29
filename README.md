@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [OpenAIのAIエージェントが国連のウェブサイトにブルートフォース攻撃を試みる](https://gigazine.net/news/20260928-openai-agents-try-bruteforce-un-website/)
-- [Microsoft製AI「Copilot」にWord・Excel・PowerPointが統合される＆OpenClawベースの「Autopilot」も追加されて単一アプリで事務処理からコーディングまで可能に](https://gigazine.net/news/20260928-copilot-home-code-autopilot/)
-- [OpenAIが「最も高性能なAIモデル」の学習を一時停止、AIエージェントの挙動を大規模調査中](https://gigazine.net/news/20260928-openai-pauses-training-ai/)
-- [CTスキャンを読み取りガンを含む約150種類の腹部疾患を特定できる医療用画像言語モデル「RADAR」をAlibaba傘下のDamo Academyがオープンソース化し公開](https://gigazine.net/news/20260928-damo-radar/)
-- [成人後にADHDと診断された女性の中には「過集中」をスーパーパワーと捉える人もいる](https://gigazine.net/news/20260928-late-adhd-women-hyperfocus/)
-- [MicrosoftとQualcommが展開してきた「Copilot+ PC」ブランドが実質的に消滅](https://gigazine.net/news/20260927-microsoft-copilot-plus-brand-is-dead/)
+- [AIの間違った要約を読むと「自分で見た出来事」まで間違って記憶することが実験で判明](https://gigazine.net/news/20260929-misleading-ai-generated-summaries/)
+- [ShopifyがブラウザベースのAIエージェントによる会計機能を発表、AIにお買い物を完全おまかせ可能に](https://gigazine.net/news/20260929-shopify-opens-checkout-browser-based-ai-agents/)
+- [音楽とネコが大好きな探偵気取りの「宮舞モカ」がPC画面に登場して独り言を言いまくるDesktop Mateの新DLCを使ってみた](https://gigazine.net/news/20260929-desktop-mate-moca-dlc/)
+- [「Claude Sonnet 5.5」が登場、前モデルより30％高速・30％安価でGPT-6 Solより高性能](https://gigazine.net/news/20260929-claude-sonnet-5-5/)
+- [AMDが3D世界を構築するAI企業「World Labs」を買収、「AIのゴッドマザー」が率いる画像・動画・3D空間の生成が可能な世界モデルの開発企業](https://gigazine.net/news/20260929-amd-acquire-world-labs/)
+- [ChromeOSは2034年にサポート終了、「Googlebook OS」への移行をGoogleが発表](https://gigazine.net/news/20260929-from-chromeos-to-googlebook-os/)
 <!-- GIGAZINE-NEWS-END -->
