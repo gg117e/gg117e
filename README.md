@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [AIの間違った要約を読むと「自分で見た出来事」まで間違って記憶することが実験で判明](https://gigazine.net/news/20260929-misleading-ai-generated-summaries/)
-- [ShopifyがブラウザベースのAIエージェントによる会計機能を発表、AIにお買い物を完全おまかせ可能に](https://gigazine.net/news/20260929-shopify-opens-checkout-browser-based-ai-agents/)
-- [音楽とネコが大好きな探偵気取りの「宮舞モカ」がPC画面に登場して独り言を言いまくるDesktop Mateの新DLCを使ってみた](https://gigazine.net/news/20260929-desktop-mate-moca-dlc/)
-- [「Claude Sonnet 5.5」が登場、前モデルより30％高速・30％安価でGPT-6 Solより高性能](https://gigazine.net/news/20260929-claude-sonnet-5-5/)
-- [AMDが3D世界を構築するAI企業「World Labs」を買収、「AIのゴッドマザー」が率いる画像・動画・3D空間の生成が可能な世界モデルの開発企業](https://gigazine.net/news/20260929-amd-acquire-world-labs/)
-- [ChromeOSは2034年にサポート終了、「Googlebook OS」への移行をGoogleが発表](https://gigazine.net/news/20260929-from-chromeos-to-googlebook-os/)
+- [OpenAIが「Codex CLI」を大幅刷新＆Codexをクラウド上で動作させる「Codex Cloud」も登場](https://gigazine.net/news/20260930-openai-codex-cli-cloud/)
+- [AirPods 5がバラバラに分解されこれまで交換不可能だったバッテリーがついに交換できるようになっていることが明らかに](https://gigazine.net/news/20260930-ifixit-teardown-airpods-5/)
+- [OpenAIが常時稼働型のAIアシスタント「Dots」を公開、GPT‑6 Astra を搭載して専用のクラウドコンピューターで稼働](https://gigazine.net/news/20260930-openai-dots/)
+- [GTA6のRockstar Gamesをハッキングしたハッカー集団「ShinyHunters」のリーダーと思しき男が逮捕される](https://gigazine.net/news/20260930-suspected-shinyhunters-leader-arrested/)
+- [OpenAIがゲームボーイカラーっぽいゲーム機「Chromatic」とコラボしてCodexでレトロゲームを作成可能に](https://gigazine.net/news/20260930-chromatic-codex/)
+- [Anthropicが「高度なAIが人類存亡に関わるリスクをもたらす可能性がある」と新規株式公開(IPO)の目論見書で警告](https://gigazine.net/news/20260930-anthropic-ai-existential-risk-to-humanity/)
 <!-- GIGAZINE-NEWS-END -->
