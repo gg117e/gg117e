@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [OpenAIが「Codex CLI」を大幅刷新＆Codexをクラウド上で動作させる「Codex Cloud」も登場](https://gigazine.net/news/20260930-openai-codex-cli-cloud/)
-- [AirPods 5がバラバラに分解されこれまで交換不可能だったバッテリーがついに交換できるようになっていることが明らかに](https://gigazine.net/news/20260930-ifixit-teardown-airpods-5/)
-- [OpenAIが常時稼働型のAIアシスタント「Dots」を公開、GPT‑6 Astra を搭載して専用のクラウドコンピューターで稼働](https://gigazine.net/news/20260930-openai-dots/)
-- [GTA6のRockstar Gamesをハッキングしたハッカー集団「ShinyHunters」のリーダーと思しき男が逮捕される](https://gigazine.net/news/20260930-suspected-shinyhunters-leader-arrested/)
-- [OpenAIがゲームボーイカラーっぽいゲーム機「Chromatic」とコラボしてCodexでレトロゲームを作成可能に](https://gigazine.net/news/20260930-chromatic-codex/)
-- [Anthropicが「高度なAIが人類存亡に関わるリスクをもたらす可能性がある」と新規株式公開(IPO)の目論見書で警告](https://gigazine.net/news/20260930-anthropic-ai-existential-risk-to-humanity/)
+- [「何を食べるか」だけでなく「誰と食べるか」も血糖値に影響するとの実験結果](https://gigazine.net/news/20261001-who-eat-with-matters-blood-sugar/)
+- [「ウィッチャー3 ワイルドハント リマスター」の同接プレイヤー数がSteamで12万人を突破、既にオリジナルを上回る記録](https://gigazine.net/news/20261001-the-witcher-3-remastered-120000-players/)
+- [Appleのジョン・ターナスCEOは新製品のリリース頻度をもっと上げようと考えている](https://gigazine.net/news/20261001-apple-john-ternuss-strategy/)
+- [Anthropicの営業チームはClaudeの自動返信で成約件数を2.5倍にした](https://gigazine.net/news/20261001-inbound-claude-managed-agents/)
+- [RedditがAIボット対策としてRSSフィードを廃止し公開APIへのアクセスを終了すると発表](https://gigazine.net/news/20261001-reddit-killing-rss-feeds-end-public-api/)
+- [OpenAIが「中国のAI企業が1万5000以上のユーザーを使ってモデルの思考を盗み取る蒸留攻撃を実行していた」と報告](https://gigazine.net/news/20261001-openai-model-distillation-campaign/)
 <!-- GIGAZINE-NEWS-END -->
