@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=0izDjaaBa-A'>
-        <img src='https://i.ytimg.com/vi/0izDjaaBa-A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcNhcK-msy0yxQQnDdt5sDKgKU3w' width='200px' alt='光の跡'>
+      <a href='https://www.youtube.com/watch?v=0Ac1TwKuwCQ'>
+        <img src='https://i.ytimg.com/vi/0Ac1TwKuwCQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqufMDYaRonIKh0kldxsPueBAd9g' width='200px' alt='ラストソング'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=0izDjaaBa-A'>光の跡</a>
+      <a href='https://www.youtube.com/watch?v=0Ac1TwKuwCQ'>ラストソング</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=V6TEcoNUmc8'>
-        <img src='https://i.ytimg.com/vi/V6TEcoNUmc8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSLIKEiQCOt42rwL4jDoKMEret8g' width='200px' alt='Ditto'>
+      <a href='https://www.youtube.com/watch?v=xFL1OO6siJI'>
+        <img src='https://i.ytimg.com/vi/xFL1OO6siJI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCH_W3xlqcSThQ65fOuXCwQWmIZng' width='200px' alt='Dokokade Hi Wa Noboru'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=V6TEcoNUmc8'>Ditto</a>
+      <a href='https://www.youtube.com/watch?v=xFL1OO6siJI'>Dokokade Hi Wa Noboru</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=12IZ8oyF6X4'>
-        <img src='https://i.ytimg.com/vi/12IZ8oyF6X4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTHYqp8jlD6v-pEq1V60UnghEk6Q' width='200px' alt='Shuhasu'>
+      <a href='https://www.youtube.com/watch?v=Uwhbouk64K4'>
+        <img src='https://i.ytimg.com/vi/Uwhbouk64K4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKHPfVfHTzdk0VxCwn9_cdeQqAbw' width='200px' alt='Smile Again'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=12IZ8oyF6X4'>Shuhasu</a>
+      <a href='https://www.youtube.com/watch?v=Uwhbouk64K4'>Smile Again</a>
     </td>
   </tr>
 </table>
