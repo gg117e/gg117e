@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [「何を食べるか」だけでなく「誰と食べるか」も血糖値に影響するとの実験結果](https://gigazine.net/news/20261001-who-eat-with-matters-blood-sugar/)
-- [「ウィッチャー3 ワイルドハント リマスター」の同接プレイヤー数がSteamで12万人を突破、既にオリジナルを上回る記録](https://gigazine.net/news/20261001-the-witcher-3-remastered-120000-players/)
-- [Appleのジョン・ターナスCEOは新製品のリリース頻度をもっと上げようと考えている](https://gigazine.net/news/20261001-apple-john-ternuss-strategy/)
-- [Anthropicの営業チームはClaudeの自動返信で成約件数を2.5倍にした](https://gigazine.net/news/20261001-inbound-claude-managed-agents/)
-- [RedditがAIボット対策としてRSSフィードを廃止し公開APIへのアクセスを終了すると発表](https://gigazine.net/news/20261001-reddit-killing-rss-feeds-end-public-api/)
-- [OpenAIが「中国のAI企業が1万5000以上のユーザーを使ってモデルの思考を盗み取る蒸留攻撃を実行していた」と報告](https://gigazine.net/news/20261001-openai-model-distillation-campaign/)
+- [PS5にAIアップスケーリング技術の「QSSR」が導入される](https://gigazine.net/news/20261002-ps5-qssr/)
+- [Appleは動画を録画せずにテキスト形式で起こった出来事を伝えるプライバシー配慮のスマートホームカメラを開発中との報道](https://gigazine.net/news/20261002-apple-smart-home-camera-no-video-recording/)
+- [Amazon Kindleシリーズ4モデルが刷新、全モデルがフラットなフロントデザインになって11月11日発売](https://gigazine.net/news/20261002-amazon-kindle-renewal-2026/)
+- [画像生成AI「FLUX 3 Image」が登場、「最大4K生成」「被写体の位置指定」「一部分のみ編集」など高機能でオープンモデル版も数週間後に登場予定](https://gigazine.net/news/20261002-flux-3-image/)
+- [安ホテルの一室で「植物の歴史」に関わる重大な生物学的発見がされていた](https://gigazine.net/news/20261002-motel-room-life-history-discovery/)
+- [停電が頻発していたデリーで電力損失率を50％から5％へ改善した方法](https://gigazine.net/news/20261002-delhi-electricity-loss/)
 <!-- GIGAZINE-NEWS-END -->
