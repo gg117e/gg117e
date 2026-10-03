@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [PS5にAIアップスケーリング技術の「QSSR」が導入される](https://gigazine.net/news/20261002-ps5-qssr/)
-- [Appleは動画を録画せずにテキスト形式で起こった出来事を伝えるプライバシー配慮のスマートホームカメラを開発中との報道](https://gigazine.net/news/20261002-apple-smart-home-camera-no-video-recording/)
-- [Amazon Kindleシリーズ4モデルが刷新、全モデルがフラットなフロントデザインになって11月11日発売](https://gigazine.net/news/20261002-amazon-kindle-renewal-2026/)
-- [画像生成AI「FLUX 3 Image」が登場、「最大4K生成」「被写体の位置指定」「一部分のみ編集」など高機能でオープンモデル版も数週間後に登場予定](https://gigazine.net/news/20261002-flux-3-image/)
-- [安ホテルの一室で「植物の歴史」に関わる重大な生物学的発見がされていた](https://gigazine.net/news/20261002-motel-room-life-history-discovery/)
-- [停電が頻発していたデリーで電力損失率を50％から5％へ改善した方法](https://gigazine.net/news/20261002-delhi-electricity-loss/)
+- [AppleがAIエージェントのリスクを鑑みMacのフルディスクアクセスに制限を設ける](https://gigazine.net/news/20261003-apple-limit-mac-full-disk-access-ai-agents-risk/)
+- [社会主義の東ドイツで育った高齢者は西ドイツ育ちよりも認知機能が良好との研究結果](https://gigazine.net/news/20261003-growing-up-east-germany-cognitive-health/)
+- [アツアツのお茶やコーヒーを飲むと食道がんの発症リスクが3倍高まる](https://gigazine.net/news/20261003-very-hot-tea-coffee-cancer-risk/)
+- [中国へのGPU密輸はなぜ続くのか、そしてなぜアメリカ政府は取り締まることができないのか？](https://gigazine.net/news/20261002-gpu-black-market-in-china/)
+- [無料でカスタマイズ可能SVGパターンをいろいろ作成できる「Book of Shapes」](https://gigazine.net/news/20261002-book-of-shapes/)
+- [無料メールアプリ「Thunderbird for iOS」の詳細がついに判明、iPhone・iPad向けにアカウント自動設定やバックグラウンド同期を開発中で数カ月以内のコミュニティテストを目指す](https://gigazine.net/news/20261002-thunderbird-for-ios/)
 <!-- GIGAZINE-NEWS-END -->
