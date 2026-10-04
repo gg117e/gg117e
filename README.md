@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [AppleがAIエージェントのリスクを鑑みMacのフルディスクアクセスに制限を設ける](https://gigazine.net/news/20261003-apple-limit-mac-full-disk-access-ai-agents-risk/)
-- [社会主義の東ドイツで育った高齢者は西ドイツ育ちよりも認知機能が良好との研究結果](https://gigazine.net/news/20261003-growing-up-east-germany-cognitive-health/)
-- [アツアツのお茶やコーヒーを飲むと食道がんの発症リスクが3倍高まる](https://gigazine.net/news/20261003-very-hot-tea-coffee-cancer-risk/)
-- [中国へのGPU密輸はなぜ続くのか、そしてなぜアメリカ政府は取り締まることができないのか？](https://gigazine.net/news/20261002-gpu-black-market-in-china/)
-- [無料でカスタマイズ可能SVGパターンをいろいろ作成できる「Book of Shapes」](https://gigazine.net/news/20261002-book-of-shapes/)
-- [無料メールアプリ「Thunderbird for iOS」の詳細がついに判明、iPhone・iPad向けにアカウント自動設定やバックグラウンド同期を開発中で数カ月以内のコミュニティテストを目指す](https://gigazine.net/news/20261002-thunderbird-for-ios/)
+- [localhostを爆速でインターネットへ安全に公開する「Cloudflare Quick Tunnels」、たった1つのコマンドで暗号化された公開URLを作成可能でアカウント・DNSレコード・ポート開放は一切不要](https://gigazine.net/news/20261004-cloudflare-quick-tunnels/)
+- [OpenAIの安全担当従業員が辞職、「会社の文化が崩壊している」と主張](https://gigazine.net/news/20261004-openai-safety-employee-resigns-culture-broken/)
+- [レーザービーム式蚊撃ち器の予約受付が開始される](https://gigazine.net/news/20261004-photon-matrix/)
+- [Windowsのスクロールバーには「一瞬でクリックした場所まで移動」などの隠し操作がある、Windows 2000で実装](https://gigazine.net/news/20261003-windows-scroll-bar/)
+- [25倍ズームレンズを搭載したソニーのレンズ一体型カメラ「RX10 V」の外観はこんな感じ](https://gigazine.net/news/20261003-sony-rx10-v-appearance/)
+- [鬼滅の刃・LONA・プリズマ☆イリヤ・Fate・魔法使いの夜がマチ★アソビ vol.31に向けて徳島阿波おどり空港をアニメジャック](https://gigazine.net/news/20261003-airport-machiasobi31/)
 <!-- GIGAZINE-NEWS-END -->
