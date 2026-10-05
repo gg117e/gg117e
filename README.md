@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [localhostを爆速でインターネットへ安全に公開する「Cloudflare Quick Tunnels」、たった1つのコマンドで暗号化された公開URLを作成可能でアカウント・DNSレコード・ポート開放は一切不要](https://gigazine.net/news/20261004-cloudflare-quick-tunnels/)
-- [OpenAIの安全担当従業員が辞職、「会社の文化が崩壊している」と主張](https://gigazine.net/news/20261004-openai-safety-employee-resigns-culture-broken/)
-- [レーザービーム式蚊撃ち器の予約受付が開始される](https://gigazine.net/news/20261004-photon-matrix/)
-- [Windowsのスクロールバーには「一瞬でクリックした場所まで移動」などの隠し操作がある、Windows 2000で実装](https://gigazine.net/news/20261003-windows-scroll-bar/)
-- [25倍ズームレンズを搭載したソニーのレンズ一体型カメラ「RX10 V」の外観はこんな感じ](https://gigazine.net/news/20261003-sony-rx10-v-appearance/)
-- [鬼滅の刃・LONA・プリズマ☆イリヤ・Fate・魔法使いの夜がマチ★アソビ vol.31に向けて徳島阿波おどり空港をアニメジャック](https://gigazine.net/news/20261003-airport-machiasobi31/)
+- [飼いネコが多い国は「国民の幸福度」が高い傾向にあることが判明](https://gigazine.net/news/20261005-cats-and-happiness-link-93-countries/)
+- [DeepSeek製コーディングエージェント「DeepSeek Harness」のデスクトップ版が登場](https://gigazine.net/news/20261005-deepseek-harness/)
+- [AIによるバグ報告が爆増したためGoogleがバグ報奨金プログラムを一時停止](https://gigazine.net/news/20261005-google-froze-open-source-bug-bounty-program/)
+- [AIロボット企業・Figureがアーノルド・シュワルツェネッガーの提案で旧型ロボットを溶鉱炉へ、「ターミネーター2」の名場面を完全再現](https://gigazine.net/news/20261005-figure-02-decommission/)
+- [iPhone 18 Proのバッテリー持続時間と有線・無線での充電速度を検証してみたよレビュー](https://gigazine.net/news/20261005-iphone-18-pro-battery-charge/)
+- [警察が押収したiPhoneの自動再起動を回避してデータを抽出しやすくするツールが登場している](https://gigazine.net/news/20261005-cops-bypass-iphone-automatic-inactivity-reboot/)
 <!-- GIGAZINE-NEWS-END -->
