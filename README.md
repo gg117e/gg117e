@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [飼いネコが多い国は「国民の幸福度」が高い傾向にあることが判明](https://gigazine.net/news/20261005-cats-and-happiness-link-93-countries/)
-- [DeepSeek製コーディングエージェント「DeepSeek Harness」のデスクトップ版が登場](https://gigazine.net/news/20261005-deepseek-harness/)
-- [AIによるバグ報告が爆増したためGoogleがバグ報奨金プログラムを一時停止](https://gigazine.net/news/20261005-google-froze-open-source-bug-bounty-program/)
-- [AIロボット企業・Figureがアーノルド・シュワルツェネッガーの提案で旧型ロボットを溶鉱炉へ、「ターミネーター2」の名場面を完全再現](https://gigazine.net/news/20261005-figure-02-decommission/)
-- [iPhone 18 Proのバッテリー持続時間と有線・無線での充電速度を検証してみたよレビュー](https://gigazine.net/news/20261005-iphone-18-pro-battery-charge/)
-- [警察が押収したiPhoneの自動再起動を回避してデータを抽出しやすくするツールが登場している](https://gigazine.net/news/20261005-cops-bypass-iphone-automatic-inactivity-reboot/)
+- [ChatGPTで2026年10月後半から「画像付き広告」のテスト開始、まずはユーザーが画像を生成している間に広告表示](https://gigazine.net/news/20261006-chatgpt-visual-ads/)
+- [長時間無呼吸で潜水するフリーダイビングが脳に大規模な再編成を引き起こす可能性](https://gigazine.net/news/20261006-freediving-reorganize-human-brain/)
+- [中国のオープンソースAIに対抗するためReflectionがパラメーター数5010億のオープンモデル「Beam」を発表、GLM 5.2に匹敵し使用する計算量は3～4分の1でAIエージェントタスクではQwen3.8-Maxに匹敵すると主張](https://gigazine.net/news/20261006-beam-reflection-501b-open-weight-model/)
+- [Claudeを日記として使用した女性がAnthropicに内容を通報されて逮捕される](https://gigazine.net/news/20261006-woman-arrested-claude-diary/)
+- [AI利用のうち32％で安いモデルを使ったときの方が総コストが高くなったことが判明](https://gigazine.net/news/20261006-ai-cheaper-model-more-cost/)
+- [OpenAIがChatGPTのテキストに透かしを入れる取り組みを開始](https://gigazine.net/news/20261006-openai-start-watermarking-chatgpt-text-eu/)
 <!-- GIGAZINE-NEWS-END -->
