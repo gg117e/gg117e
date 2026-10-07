@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [ChatGPTで2026年10月後半から「画像付き広告」のテスト開始、まずはユーザーが画像を生成している間に広告表示](https://gigazine.net/news/20261006-chatgpt-visual-ads/)
-- [長時間無呼吸で潜水するフリーダイビングが脳に大規模な再編成を引き起こす可能性](https://gigazine.net/news/20261006-freediving-reorganize-human-brain/)
-- [中国のオープンソースAIに対抗するためReflectionがパラメーター数5010億のオープンモデル「Beam」を発表、GLM 5.2に匹敵し使用する計算量は3～4分の1でAIエージェントタスクではQwen3.8-Maxに匹敵すると主張](https://gigazine.net/news/20261006-beam-reflection-501b-open-weight-model/)
-- [Claudeを日記として使用した女性がAnthropicに内容を通報されて逮捕される](https://gigazine.net/news/20261006-woman-arrested-claude-diary/)
-- [AI利用のうち32％で安いモデルを使ったときの方が総コストが高くなったことが判明](https://gigazine.net/news/20261006-ai-cheaper-model-more-cost/)
-- [OpenAIがChatGPTのテキストに透かしを入れる取り組みを開始](https://gigazine.net/news/20261006-openai-start-watermarking-chatgpt-text-eu/)
+- [Googleが画像生成AI「Nano Banana 2.1」を公開、人物の一貫性や編集機能が向上](https://gigazine.net/news/20261007-nano-banana-2-1/)
+- [「Google Chrome 155」安定版リリース、JPEG XLに対応＆耐量子暗号も利用可能に](https://gigazine.net/news/20261007-google-chrome-155/)
+- [ドイツ連邦情報局元長官が外国に情報を渡したスパイ容疑で逮捕](https://gigazine.net/news/20261007-ex-bnd-chief-august-hanning-arrested/)
+- [ClaudeがGoogleドキュメントやGoogleスプレッドシートと接続可能に](https://gigazine.net/news/20261007-claude-for-google-workspace/)
+- [がん患者の生存率向上に一般的な抗うつ薬が役立つ可能性](https://gigazine.net/news/20261007-common-antidepressants-ssri-cancer-survival/)
+- [XBOXがGTA6のクラウドストリーミング独占権を獲得したとの報道、本当ならPCでもすぐプレイ可能に](https://gigazine.net/news/20261007-xbpx-exclusive-cloud-gta6/)
 <!-- GIGAZINE-NEWS-END -->
