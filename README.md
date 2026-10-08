@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [Googleが画像生成AI「Nano Banana 2.1」を公開、人物の一貫性や編集機能が向上](https://gigazine.net/news/20261007-nano-banana-2-1/)
-- [「Google Chrome 155」安定版リリース、JPEG XLに対応＆耐量子暗号も利用可能に](https://gigazine.net/news/20261007-google-chrome-155/)
-- [ドイツ連邦情報局元長官が外国に情報を渡したスパイ容疑で逮捕](https://gigazine.net/news/20261007-ex-bnd-chief-august-hanning-arrested/)
-- [ClaudeがGoogleドキュメントやGoogleスプレッドシートと接続可能に](https://gigazine.net/news/20261007-claude-for-google-workspace/)
-- [がん患者の生存率向上に一般的な抗うつ薬が役立つ可能性](https://gigazine.net/news/20261007-common-antidepressants-ssri-cancer-survival/)
-- [XBOXがGTA6のクラウドストリーミング独占権を獲得したとの報道、本当ならPCでもすぐプレイ可能に](https://gigazine.net/news/20261007-xbpx-exclusive-cloud-gta6/)
+- [ロシアで「ペストの流行」が起きる可能性について専門家が解説](https://gigazine.net/news/20261008-russian-sparked-plague-fears-experts/)
+- [イーロン・マスクがTSMCのTerafab運営関与を否定、敷地の一部を貸与する可能性のみ](https://gigazine.net/news/20261008-elon-musk-tsmc-terafab/)
+- [Amazon傘下のRingが初のスマートロックを発表、バッテリーが切れても文鎮化しないバックアップ機能付き](https://gigazine.net/news/20261008-ring-smart-lock/)
+- [ChatGPTの無料プランでも「GPT-6 Luna」が利用可能に、画像やグラフを組み合わせて回答する新機能「インテリジェントUI」も登場](https://gigazine.net/news/20261008-openai-gpt-6-luna/)
+- [メモリ128GBでAI処理特化なRTX Spark搭載のMicrosoft製ノートPC「Surface Laptop Ultra」とミニPC「Surface RTX Spark Dev Box」の予約販売が始まる](https://gigazine.net/news/20261008-microsoft-surface-nvidia-rtx-spark/)
+- [「Claude Haiku 5.5」が登場、GPT-6 Lunaより高性能で前モデルより9割引きの安価なモデル](https://gigazine.net/news/20261008-claude-haiku-5-5/)
 <!-- GIGAZINE-NEWS-END -->
