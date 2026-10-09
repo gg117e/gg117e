@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [ロシアで「ペストの流行」が起きる可能性について専門家が解説](https://gigazine.net/news/20261008-russian-sparked-plague-fears-experts/)
-- [イーロン・マスクがTSMCのTerafab運営関与を否定、敷地の一部を貸与する可能性のみ](https://gigazine.net/news/20261008-elon-musk-tsmc-terafab/)
-- [Amazon傘下のRingが初のスマートロックを発表、バッテリーが切れても文鎮化しないバックアップ機能付き](https://gigazine.net/news/20261008-ring-smart-lock/)
-- [ChatGPTの無料プランでも「GPT-6 Luna」が利用可能に、画像やグラフを組み合わせて回答する新機能「インテリジェントUI」も登場](https://gigazine.net/news/20261008-openai-gpt-6-luna/)
-- [メモリ128GBでAI処理特化なRTX Spark搭載のMicrosoft製ノートPC「Surface Laptop Ultra」とミニPC「Surface RTX Spark Dev Box」の予約販売が始まる](https://gigazine.net/news/20261008-microsoft-surface-nvidia-rtx-spark/)
-- [「Claude Haiku 5.5」が登場、GPT-6 Lunaより高性能で前モデルより9割引きの安価なモデル](https://gigazine.net/news/20261008-claude-haiku-5-5/)
+- [Anthropicがオープンソースプロジェクト向けに無料AIセキュリティスキャンサービスの「OSS Scanner」を開始](https://gigazine.net/news/20261009-anthropic-oss-scanner/)
+- [AmazonがAndroid搭載の「Alexaタブレット」をリリース、15年続いた「Fire」ブランドは終了](https://gigazine.net/news/20261009-alexa-tablets/)
+- [「サイコパスが書いた文章」にみられる特徴とは？](https://gigazine.net/news/20261009-3-psychopathic-traits-in-writing/)
+- [有機ELディスプレイを30カ月・8000時間にわたってわざと焼き付きやすい状態で使い続けるとどうなるのか？](https://gigazine.net/news/20261009-oled-burn-in-test/)
+- [Apple初のタッチスクリーン搭載MacBookが10月後半に発表されるとの報道](https://gigazine.net/news/20261009-apple-reportedly-debut-first-touchscreen-macbook/)
+- [Let’s Encryptが2027年2月から証明書の有効期間を64日間に短縮](https://gigazine.net/news/20261009-lets-encrypt-cuts-certificate-lifetimes-64-days/)
 <!-- GIGAZINE-NEWS-END -->
