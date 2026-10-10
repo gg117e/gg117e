@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Nn3LD3C4Q-0'>
-        <img src='https://i.ytimg.com/vi/Nn3LD3C4Q-0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgR8BhgWkP37YPy3vimvza0g4onw' width='200px' alt='ナイスアイディア！'>
+      <a href='https://www.youtube.com/watch?v=hN5MBlGv2Ac'>
+        <img src='https://i.ytimg.com/vi/hN5MBlGv2Ac/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzbQItH3L-YHCHcM1KJ1pRu6gpGA' width='200px' alt='OFFICIAL HIGE DANDISM - Subtitle [Official Video]'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Nn3LD3C4Q-0'>ナイスアイディア！</a>
+      <a href='https://www.youtube.com/watch?v=hN5MBlGv2Ac'>OFFICIAL HIGE DANDISM - Subtitle [Official Video]</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=HBqH4uJS0PU'>
-        <img src='https://i.ytimg.com/vi/HBqH4uJS0PU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGkaM2ZcnyB8o3mbXgfhwYnNF3NQ' width='200px' alt='Magnetic'>
+      <a href='https://www.youtube.com/watch?v=xFL1OO6siJI'>
+        <img src='https://i.ytimg.com/vi/xFL1OO6siJI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCH_W3xlqcSThQ65fOuXCwQWmIZng' width='200px' alt='Dokokade Hi Wa Noboru'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=HBqH4uJS0PU'>Magnetic</a>
+      <a href='https://www.youtube.com/watch?v=xFL1OO6siJI'>Dokokade Hi Wa Noboru</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=XtBUrzpLjGQ'>
-        <img src='https://i.ytimg.com/vi/XtBUrzpLjGQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChrRq5NxAovVcUY4eqeydpNsNh_w' width='200px' alt='Aiuta'>
+      <a href='https://www.youtube.com/watch?v=wPCO-7xW9WI'>
+        <img src='https://i.ytimg.com/vi/wPCO-7xW9WI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9tWioBHokmqNRNhQNPvsbay361g' width='200px' alt='Shizuku'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=XtBUrzpLjGQ'>Aiuta</a>
+      <a href='https://www.youtube.com/watch?v=wPCO-7xW9WI'>Shizuku</a>
     </td>
   </tr>
 </table>
