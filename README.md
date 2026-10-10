@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [Anthropicがオープンソースプロジェクト向けに無料AIセキュリティスキャンサービスの「OSS Scanner」を開始](https://gigazine.net/news/20261009-anthropic-oss-scanner/)
-- [AmazonがAndroid搭載の「Alexaタブレット」をリリース、15年続いた「Fire」ブランドは終了](https://gigazine.net/news/20261009-alexa-tablets/)
-- [「サイコパスが書いた文章」にみられる特徴とは？](https://gigazine.net/news/20261009-3-psychopathic-traits-in-writing/)
-- [有機ELディスプレイを30カ月・8000時間にわたってわざと焼き付きやすい状態で使い続けるとどうなるのか？](https://gigazine.net/news/20261009-oled-burn-in-test/)
-- [Apple初のタッチスクリーン搭載MacBookが10月後半に発表されるとの報道](https://gigazine.net/news/20261009-apple-reportedly-debut-first-touchscreen-macbook/)
-- [Let’s Encryptが2027年2月から証明書の有効期間を64日間に短縮](https://gigazine.net/news/20261009-lets-encrypt-cuts-certificate-lifetimes-64-days/)
+- [無料でOpenStreetMapにスマホから店舗や施設を追加できる「Every Door」](https://gigazine.net/news/20261010-every-door/)
+- [2026年第3四半期のPC出荷台数は前年比で20.1％も減少](https://gigazine.net/news/20261010-pc-market-shipments-fall-20-q3-2026/)
+- [バックアップはなぜ難しいのか、ファイルをコピーするだけでは済まない理由とは？](https://gigazine.net/news/20261010-data-backups-arent-simple/)
+- [月面都市は「水がないため不可能」と専門家](https://gigazine.net/news/20261010-no-cities-on-the-moon/)
+- [自動運転技術は毎年58万人の命を救う可能性がある](https://gigazine.net/news/20261009-self-driving-tech-prevent-58k-deaths-every-year/)
+- [jevやGPT-6 Luna Decisionsなどの素早い判断に特化した確率モデルがパックマンをプレイするベンチマーク「jevman」](https://gigazine.net/news/20261009-jevman/)
 <!-- GIGAZINE-NEWS-END -->
