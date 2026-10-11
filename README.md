@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [無料でOpenStreetMapにスマホから店舗や施設を追加できる「Every Door」](https://gigazine.net/news/20261010-every-door/)
-- [2026年第3四半期のPC出荷台数は前年比で20.1％も減少](https://gigazine.net/news/20261010-pc-market-shipments-fall-20-q3-2026/)
-- [バックアップはなぜ難しいのか、ファイルをコピーするだけでは済まない理由とは？](https://gigazine.net/news/20261010-data-backups-arent-simple/)
-- [月面都市は「水がないため不可能」と専門家](https://gigazine.net/news/20261010-no-cities-on-the-moon/)
-- [自動運転技術は毎年58万人の命を救う可能性がある](https://gigazine.net/news/20261009-self-driving-tech-prevent-58k-deaths-every-year/)
-- [jevやGPT-6 Luna Decisionsなどの素早い判断に特化した確率モデルがパックマンをプレイするベンチマーク「jevman」](https://gigazine.net/news/20261009-jevman/)
+- [無料でmacOS 27のApple Intelligenceをオフにして空きディスク容量を増やす方法](https://gigazine.net/news/20261011-removemacai/)
+- [AnthropicのAIが未解決殺人事件に関する虚偽の情報を提供](https://gigazine.net/news/20261011-anthropic-ai-gave-fake-tip-unsolved-homicide/)
+- [誰が自殺願望を持つかを予測するのは難しいので自らを銃で撃てないようにする方が簡単だという専門家の提言](https://gigazine.net/news/20261011-hard-to-predict-suicidal/)
+- [ADHDの人は便秘や過敏性腸症候群などの「腸の問題」を抱えやすいことが約200万人の分析で判明](https://gigazine.net/news/20261010-adhd-higher-odds-gut-problems/)
+- [世界で発生するがん症例全体の約12％は感染症が原因である可能性が高いことがWHOの研究で示される](https://gigazine.net/news/20261010-cancers-infection/)
+- [無料のオープンソースEPUB・PDFリーダー「Readest」、Windows・Linux・macOS・Android・iOS・ブラウザ・KOReaderでハイライト・メモ・分割画面読書・AIテキスト読み上げ・AI自動翻訳・クラウド同期が可能](https://gigazine.net/news/20261010-readest/)
 <!-- GIGAZINE-NEWS-END -->
