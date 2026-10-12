@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [無料でmacOS 27のApple Intelligenceをオフにして空きディスク容量を増やす方法](https://gigazine.net/news/20261011-removemacai/)
-- [AnthropicのAIが未解決殺人事件に関する虚偽の情報を提供](https://gigazine.net/news/20261011-anthropic-ai-gave-fake-tip-unsolved-homicide/)
-- [誰が自殺願望を持つかを予測するのは難しいので自らを銃で撃てないようにする方が簡単だという専門家の提言](https://gigazine.net/news/20261011-hard-to-predict-suicidal/)
-- [ADHDの人は便秘や過敏性腸症候群などの「腸の問題」を抱えやすいことが約200万人の分析で判明](https://gigazine.net/news/20261010-adhd-higher-odds-gut-problems/)
-- [世界で発生するがん症例全体の約12％は感染症が原因である可能性が高いことがWHOの研究で示される](https://gigazine.net/news/20261010-cancers-infection/)
-- [無料のオープンソースEPUB・PDFリーダー「Readest」、Windows・Linux・macOS・Android・iOS・ブラウザ・KOReaderでハイライト・メモ・分割画面読書・AIテキスト読み上げ・AI自動翻訳・クラウド同期が可能](https://gigazine.net/news/20261010-readest/)
+- [「言語モデルはテキストを理解していない」ことを意味する「確率的オウム」とは？](https://gigazine.net/news/20261012-stochastic-parrot/)
+- [AppleのスマートホームハブはA18チップ搭載＆壁掛けモデルも用意され「HomeView」という名称で11月出荷か](https://gigazine.net/news/20261012-apple-smart-home-homeview/)
+- [似たような精神疾患を抱える人々は一緒にいることが多いので家族内でのリスクを高めるという研究結果](https://gigazine.net/news/20261012-people-similar-mental-health/)
+- [スマホ依存を解消するためにiPhoneの機能制限システム「Apple Configurator」が役立つ](https://gigazine.net/news/20261011-apple-configurator/)
+- [折りたたみスマホ8世代分の進化を薄型ボディに凝縮した「Galaxy Z Fold8 Ultra」「Galaxy Z Fold8」「Galaxy Z Flip8」外観レビュー](https://gigazine.net/news/20261011-samsung-galaxy-z-fold8-ultra-fold8-flip8-appearance/)
+- [「出産した回数」が母親の寿命に影響を与える可能性がある](https://gigazine.net/news/20261011-number-of-kids-affect-lifespan/)
 <!-- GIGAZINE-NEWS-END -->
