@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [「言語モデルはテキストを理解していない」ことを意味する「確率的オウム」とは？](https://gigazine.net/news/20261012-stochastic-parrot/)
-- [AppleのスマートホームハブはA18チップ搭載＆壁掛けモデルも用意され「HomeView」という名称で11月出荷か](https://gigazine.net/news/20261012-apple-smart-home-homeview/)
-- [似たような精神疾患を抱える人々は一緒にいることが多いので家族内でのリスクを高めるという研究結果](https://gigazine.net/news/20261012-people-similar-mental-health/)
-- [スマホ依存を解消するためにiPhoneの機能制限システム「Apple Configurator」が役立つ](https://gigazine.net/news/20261011-apple-configurator/)
-- [折りたたみスマホ8世代分の進化を薄型ボディに凝縮した「Galaxy Z Fold8 Ultra」「Galaxy Z Fold8」「Galaxy Z Flip8」外観レビュー](https://gigazine.net/news/20261011-samsung-galaxy-z-fold8-ultra-fold8-flip8-appearance/)
-- [「出産した回数」が母親の寿命に影響を与える可能性がある](https://gigazine.net/news/20261011-number-of-kids-affect-lifespan/)
+- [MicrosoftがJevっぽい意思決定モデル「Microsoft-Decision-1」をリリース](https://gigazine.net/news/20261013-microsoft-decision-1/)
+- [X・Grok・Cursorのサブスクを統合した「The X Subscription」が登場、1つのサブスクでX有料機能や有料AIを使用可能に](https://gigazine.net/news/20261013-the-x-subscription/)
+- [ハッカーがサイバー攻撃でスーパーの冷蔵庫を50℃まで加熱](https://gigazine.net/news/20261013-french-refrigerator-hacked/)
+- [世界のスマホ出荷台数は2012年以来14年ぶりの最低水準を記録](https://gigazine.net/news/20261013-smartphone-market-decline-2026-q3/)
+- [Microsoftが第3世代AIチップ「Maia 300」を発表、最新の推論モデルやエージェントタスクの処理能力向上へ向けて2027年に導入予定](https://gigazine.net/news/20261013-microsoft-maia-300-chip/)
+- [仮想通貨ウォレット「Ledger Nano X」に盗聴回路、日本のAmazonやヤフオクでも改造品が見つかる](https://gigazine.net/news/20261013-ledger-nano-x-implant/)
 <!-- GIGAZINE-NEWS-END -->
