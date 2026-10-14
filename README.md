@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [MicrosoftがJevっぽい意思決定モデル「Microsoft-Decision-1」をリリース](https://gigazine.net/news/20261013-microsoft-decision-1/)
-- [X・Grok・Cursorのサブスクを統合した「The X Subscription」が登場、1つのサブスクでX有料機能や有料AIを使用可能に](https://gigazine.net/news/20261013-the-x-subscription/)
-- [ハッカーがサイバー攻撃でスーパーの冷蔵庫を50℃まで加熱](https://gigazine.net/news/20261013-french-refrigerator-hacked/)
-- [世界のスマホ出荷台数は2012年以来14年ぶりの最低水準を記録](https://gigazine.net/news/20261013-smartphone-market-decline-2026-q3/)
-- [Microsoftが第3世代AIチップ「Maia 300」を発表、最新の推論モデルやエージェントタスクの処理能力向上へ向けて2027年に導入予定](https://gigazine.net/news/20261013-microsoft-maia-300-chip/)
-- [仮想通貨ウォレット「Ledger Nano X」に盗聴回路、日本のAmazonやヤフオクでも改造品が見つかる](https://gigazine.net/news/20261013-ledger-nano-x-implant/)
+- [パスワードが「123456」の企業アカウント経由でデンマークの国家登録簿から880万人分の個人情報が流出](https://gigazine.net/news/20261014-denmark-123456-password/)
+- [今日は毎月恒例「Windows Update」の日、過去最多となる1411件の脆弱性を修正](https://gigazine.net/news/20261014-windows-update/)
+- [Apple IntelligenceとSiri AIでスマートホームを一元管理できる「Apple HomeView」が登場](https://gigazine.net/news/20261014-apple-homeview/)
+- [「Gemini 4 Argon」を正式リリース、Claude Fable 5.1やGPT-6 Astraと同等性能で久しぶりにGoogleがAIトップ競争に追いつく](https://gigazine.net/news/20261014-gemini-4-argon-available-for-everyone/)
+- [Microsoftが「XBOX LABS」を立ち上げ、AIを活用したレトロゲームの移植が目標か](https://gigazine.net/news/20261014-microsoft-xbox-labs/)
+- [Mozillaが企業や組織向けの有料ブラウザ管理・セキュリティプラットフォーム「Firefox Enterprise」を発表](https://gigazine.net/news/20261014-firefox-enterprise/)
 <!-- GIGAZINE-NEWS-END -->
