@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [パスワードが「123456」の企業アカウント経由でデンマークの国家登録簿から880万人分の個人情報が流出](https://gigazine.net/news/20261014-denmark-123456-password/)
-- [今日は毎月恒例「Windows Update」の日、過去最多となる1411件の脆弱性を修正](https://gigazine.net/news/20261014-windows-update/)
-- [Apple IntelligenceとSiri AIでスマートホームを一元管理できる「Apple HomeView」が登場](https://gigazine.net/news/20261014-apple-homeview/)
-- [「Gemini 4 Argon」を正式リリース、Claude Fable 5.1やGPT-6 Astraと同等性能で久しぶりにGoogleがAIトップ競争に追いつく](https://gigazine.net/news/20261014-gemini-4-argon-available-for-everyone/)
-- [Microsoftが「XBOX LABS」を立ち上げ、AIを活用したレトロゲームの移植が目標か](https://gigazine.net/news/20261014-microsoft-xbox-labs/)
-- [Mozillaが企業や組織向けの有料ブラウザ管理・セキュリティプラットフォーム「Firefox Enterprise」を発表](https://gigazine.net/news/20261014-firefox-enterprise/)
+- [Googleが論文や技術文書の誤りをAIで検証する「Deep Review」を一般公開、週2回まで無料で利用可能](https://gigazine.net/news/20261015-google-deep-review/)
+- [「荷物をお届けできません」「料金が未払いです」などの日本人を狙った詐欺メッセージの送信を支える電子市場をMicrosoftと警察庁が解体](https://gigazine.net/news/20261015-microsoft-japan-took-down-cybercrime-network/)
+- [Windows Updateによりリモートデスクトップの障害が発生する不具合](https://gigazine.net/news/20261015-windows-update-rds-issue/)
+- [Squareが決済端末の「Square Kiosk」を発表](https://gigazine.net/news/20261015-square-kiosk/)
+- [Appleが使われていないMacを集めて仮想GPUクラウドを構築する「Minions」を開発、AI処理の待ち時間を10時間以上から数分に短縮](https://gigazine.net/news/20261015-apple-minions/)
+- [Microsoft Wordの代替を目指すオープンソースの文書作成アプリ「WordCraft」、Rust製ネイティブアプリでAIエージェントでの使用も考慮](https://gigazine.net/news/20261015-wordcraft-open-source-word-processor/)
 <!-- GIGAZINE-NEWS-END -->
