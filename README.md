@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=3qvMBFAPgD8'>
-        <img src='https://i.ytimg.com/vi/3qvMBFAPgD8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeKQJOW3hP4i6nsR5UUMv4-USrxw' width='200px' alt='ベテルギウス'>
+      <a href='https://www.youtube.com/watch?v=Mr2EWEPFtwk'>
+        <img src='https://i.ytimg.com/vi/Mr2EWEPFtwk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB40b7gpdm4JT-YxCurTEsFUH324g' width='200px' alt='花になって - Be a flower'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=3qvMBFAPgD8'>ベテルギウス</a>
+      <a href='https://www.youtube.com/watch?v=Mr2EWEPFtwk'>花になって - Be a flower</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ZosT1iyOU2g'>
-        <img src='https://i.ytimg.com/vi/ZosT1iyOU2g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDiKwFTggMjRRJLDfVRhNfXfoYJw' width='200px' alt='手紙 〜拝啓　十五の君へ〜'>
+      <a href='https://www.youtube.com/watch?v=BUG9r-s56II'>
+        <img src='https://i.ytimg.com/vi/BUG9r-s56II/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBvZsmOoGEgA_UCAVPi1PDbjkUDQ' width='200px' alt='舞台に立って'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ZosT1iyOU2g'>手紙 〜拝啓　十五の君へ〜</a>
+      <a href='https://www.youtube.com/watch?v=BUG9r-s56II'>舞台に立って</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=YFOg4grr_yA'>
-        <img src='https://i.ytimg.com/vi/YFOg4grr_yA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA78r8IZpJxtjfrvHIwGm6oVawSAg' width='200px' alt='紙一重'>
+      <a href='https://www.youtube.com/watch?v=pyDCubgU57g'>
+        <img src='https://i.ytimg.com/vi/pyDCubgU57g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB37uBdxYISYHLCGDBUZUW3NbL7Hw' width='200px' alt='蒼のワルツ - Eve MV'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=YFOg4grr_yA'>紙一重</a>
+      <a href='https://www.youtube.com/watch?v=pyDCubgU57g'>蒼のワルツ - Eve MV</a>
     </td>
   </tr>
 </table>
