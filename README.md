@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [Googleが論文や技術文書の誤りをAIで検証する「Deep Review」を一般公開、週2回まで無料で利用可能](https://gigazine.net/news/20261015-google-deep-review/)
-- [「荷物をお届けできません」「料金が未払いです」などの日本人を狙った詐欺メッセージの送信を支える電子市場をMicrosoftと警察庁が解体](https://gigazine.net/news/20261015-microsoft-japan-took-down-cybercrime-network/)
-- [Windows Updateによりリモートデスクトップの障害が発生する不具合](https://gigazine.net/news/20261015-windows-update-rds-issue/)
-- [Squareが決済端末の「Square Kiosk」を発表](https://gigazine.net/news/20261015-square-kiosk/)
-- [Appleが使われていないMacを集めて仮想GPUクラウドを構築する「Minions」を開発、AI処理の待ち時間を10時間以上から数分に短縮](https://gigazine.net/news/20261015-apple-minions/)
-- [Microsoft Wordの代替を目指すオープンソースの文書作成アプリ「WordCraft」、Rust製ネイティブアプリでAIエージェントでの使用も考慮](https://gigazine.net/news/20261015-wordcraft-open-source-word-processor/)
+- [ネット広告を表示するだけでスパイウェアに感染するゼロクリック攻撃「AdFection」が確認される、イスラエルの広告企業が仕掛けていた攻撃の手口とは？](https://gigazine.net/news/20261016-adfection/)
+- [【電子書籍50％オフセール】半額でマンガもインタビュー集も世界旅行記も買える感謝祭セールを開催！【2026年10月19日(月)まで】](https://gigazine.net/news/20261016-ebook-sale/)
+- [わずか0.43GBでスマホ動作可能なAI「Ternary Bonsai 2」シリーズがオープンモデルとして登場、iPhone 18 Pro Maxで毎秒120トークンの高速処理が可能](https://gigazine.net/news/20261016-ternary-bonsai-2-2b-4b-9b/)
+- [BlueskyのAIツール「Attie」でミニゲームなどのウェブアプリを作成・共有可能に](https://gigazine.net/news/20261016-bluesky-ai-attie/)
+- [モバイル詐欺から身を守るための新しいAndroid保護機能がリリースされる](https://gigazine.net/news/20261016-android-new-scam-protection/)
+- [自宅のイラストを「エアコンや照明を操作できる絵」に改造してスマートホーム化を進めた記録](https://gigazine.net/news/20261016-illustrated-smart-home-dashboard/)
 <!-- GIGAZINE-NEWS-END -->
