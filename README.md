@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [ネット広告を表示するだけでスパイウェアに感染するゼロクリック攻撃「AdFection」が確認される、イスラエルの広告企業が仕掛けていた攻撃の手口とは？](https://gigazine.net/news/20261016-adfection/)
-- [【電子書籍50％オフセール】半額でマンガもインタビュー集も世界旅行記も買える感謝祭セールを開催！【2026年10月19日(月)まで】](https://gigazine.net/news/20261016-ebook-sale/)
-- [わずか0.43GBでスマホ動作可能なAI「Ternary Bonsai 2」シリーズがオープンモデルとして登場、iPhone 18 Pro Maxで毎秒120トークンの高速処理が可能](https://gigazine.net/news/20261016-ternary-bonsai-2-2b-4b-9b/)
-- [BlueskyのAIツール「Attie」でミニゲームなどのウェブアプリを作成・共有可能に](https://gigazine.net/news/20261016-bluesky-ai-attie/)
-- [モバイル詐欺から身を守るための新しいAndroid保護機能がリリースされる](https://gigazine.net/news/20261016-android-new-scam-protection/)
-- [自宅のイラストを「エアコンや照明を操作できる絵」に改造してスマートホーム化を進めた記録](https://gigazine.net/news/20261016-illustrated-smart-home-dashboard/)
+- [「マチ★アソビ vol.31」全記事一覧まとめ](https://gigazine.net/news/20261017-summary-machiasobi31/)
+- [Appleが未発表の「iPad mini(第8世代)」の存在をうっかりお漏らしか](https://gigazine.net/news/20261017-apple-website-hinted-ipad-mini-8/)
+- [エンジニアが勤務先の管理者アカウントをロックして約1億円相当の身代金を要求したとして有罪判決を受ける](https://gigazine.net/news/20261017-cyberattack-engineer-sentenced/)
+- [マチ★アソビ Vol.31前夜祭は3時間超でトークありクイズありの大祭りに](https://gigazine.net/news/20261016-pre-event-machiasobi31/)
+- [Perplexityが安全な自律型AIエージェント構築支援のためサンドボックスプラットフォーム「SPACE」をオープンソース化](https://gigazine.net/news/20261016-perplexity-space/)
+- [Googleが「魔法状態の培養」を量子プロセッサ「Willow」で実証、量子ビットのエラーを約40分の1に減らすことに成功](https://gigazine.net/news/20261016-google-quantum-ai-magic-state-cultivation/)
 <!-- GIGAZINE-NEWS-END -->
