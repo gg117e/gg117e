@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=1jS94sWWokk'>
-        <img src='https://i.ytimg.com/vi/1jS94sWWokk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxqYiCxzeXYaMH_2cNJD-UWssuIQ' width='200px' alt='MIRROR MIRROR'>
+      <a href='https://www.youtube.com/watch?v=Uv_m-vcPlsw'>
+        <img src='https://i.ytimg.com/vi/Uv_m-vcPlsw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdJGOfDvDRGCIz8C7eoa0E5MEmtA' width='200px' alt='Koi'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=1jS94sWWokk'>MIRROR MIRROR</a>
+      <a href='https://www.youtube.com/watch?v=Uv_m-vcPlsw'>Koi</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ZF5w7kkk7Yo'>
-        <img src='https://i.ytimg.com/vi/ZF5w7kkk7Yo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeQUEP3L5-r_AuGcf6CLbp0loxww' width='200px' alt='What's Going On?'>
+      <a href='https://www.youtube.com/watch?v=Q-y3TtiKxsU'>
+        <img src='https://i.ytimg.com/vi/Q-y3TtiKxsU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJYbnkxTXam_a4M0GF97NMTrAoHg' width='200px' alt='チャンカパーナ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ZF5w7kkk7Yo'>What's Going On?</a>
+      <a href='https://www.youtube.com/watch?v=Q-y3TtiKxsU'>チャンカパーナ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=-xFtbSnu7R8'>
-        <img src='https://i.ytimg.com/vi/-xFtbSnu7R8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3SlWDyHFeatTYP7tLv700w_aWhg' width='200px' alt='Okuru Kotoba'>
+      <a href='https://www.youtube.com/watch?v=8E2VN7GO5eM'>
+        <img src='https://i.ytimg.com/vi/8E2VN7GO5eM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjez16ntm7mb1BHVpaPnxkJht3Mg' width='200px' alt='気まぐれロマンティック'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=-xFtbSnu7R8'>Okuru Kotoba</a>
+      <a href='https://www.youtube.com/watch?v=8E2VN7GO5eM'>気まぐれロマンティック</a>
     </td>
   </tr>
 </table>
