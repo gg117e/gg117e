@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [「マチ★アソビ vol.31」全記事一覧まとめ](https://gigazine.net/news/20261017-summary-machiasobi31/)
-- [Appleが未発表の「iPad mini(第8世代)」の存在をうっかりお漏らしか](https://gigazine.net/news/20261017-apple-website-hinted-ipad-mini-8/)
-- [エンジニアが勤務先の管理者アカウントをロックして約1億円相当の身代金を要求したとして有罪判決を受ける](https://gigazine.net/news/20261017-cyberattack-engineer-sentenced/)
-- [マチ★アソビ Vol.31前夜祭は3時間超でトークありクイズありの大祭りに](https://gigazine.net/news/20261016-pre-event-machiasobi31/)
-- [Perplexityが安全な自律型AIエージェント構築支援のためサンドボックスプラットフォーム「SPACE」をオープンソース化](https://gigazine.net/news/20261016-perplexity-space/)
-- [Googleが「魔法状態の培養」を量子プロセッサ「Willow」で実証、量子ビットのエラーを約40分の1に減らすことに成功](https://gigazine.net/news/20261016-google-quantum-ai-magic-state-cultivation/)
+- [「椅子に座る時の姿勢」によってリスクを取るかどうかが変化する可能性](https://gigazine.net/news/20261018-desk-setups-posture-risk-taking/)
+- [「NieR(ニーア)」シリーズのゲーミングチェアやPCケースが「マチ★アソビ vol.31」の会場で販売されていた、ヨコオタロウ氏のサイン会も開催](https://gigazine.net/news/20261018-nier-automata-machiasobi31/)
+- [『銀河特急 ミルキー☆サブウェイ』のカート＆マックスのパネル展示を見てきた【マチ★アソビ vol.31】](https://gigazine.net/news/20261018-milky-subway-machiasobi31/)
+- [国立公文書館の所蔵文書をコンテンツ産業に活用してもらう試みが進行中](https://gigazine.net/news/20261017-archives-machiasobi31/)
+- [マチ★アソビ vol.31では眉山の上にサウナやキャンプ場が用意されている](https://gigazine.net/news/20261017-sauna-camp-machiasobi31/)
+- [無料オープンソースオフィススイート「ibisOffice」をibisPaint開発元がリリース、ブラウザまたはWindows・Mac版アプリでWord・Excel・PowerPointファイルの閲覧と編集が可能](https://gigazine.net/news/20261017-ibisOffice/)
 <!-- GIGAZINE-NEWS-END -->
