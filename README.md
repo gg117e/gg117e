@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [「椅子に座る時の姿勢」によってリスクを取るかどうかが変化する可能性](https://gigazine.net/news/20261018-desk-setups-posture-risk-taking/)
-- [「NieR(ニーア)」シリーズのゲーミングチェアやPCケースが「マチ★アソビ vol.31」の会場で販売されていた、ヨコオタロウ氏のサイン会も開催](https://gigazine.net/news/20261018-nier-automata-machiasobi31/)
-- [『銀河特急 ミルキー☆サブウェイ』のカート＆マックスのパネル展示を見てきた【マチ★アソビ vol.31】](https://gigazine.net/news/20261018-milky-subway-machiasobi31/)
-- [国立公文書館の所蔵文書をコンテンツ産業に活用してもらう試みが進行中](https://gigazine.net/news/20261017-archives-machiasobi31/)
-- [マチ★アソビ vol.31では眉山の上にサウナやキャンプ場が用意されている](https://gigazine.net/news/20261017-sauna-camp-machiasobi31/)
-- [無料オープンソースオフィススイート「ibisOffice」をibisPaint開発元がリリース、ブラウザまたはWindows・Mac版アプリでWord・Excel・PowerPointファイルの閲覧と編集が可能](https://gigazine.net/news/20261017-ibisOffice/)
+- [配達ロボットの進路を妨害したとして女性が逮捕される](https://gigazine.net/news/20261019-woman-arrested-blocking-delivery-robot/)
+- [コーディングベンチでGPT-6 Astraを超えつつ超安価な中国製AIモデル「DeepSeek-V4.1-Flash-1017」が登場](https://gigazine.net/news/20261019-deepseek-v4-1-flash-1017/)
+- [天井に取り付けるシーリングファンのデザインがすさまじいことになっている理由](https://gigazine.net/news/20261019-ceiling-fans/)
+- [人気アニメの動画をダウンロードしたつもりが中身はマルウェアだった話](https://gigazine.net/news/20261019-torrent-sites-malware/)
+- [コロコロ連載の人気作を全力でアニメ化する『運命の巻戻士』ステージイベントにクロノ役・小村将さん登場](https://gigazine.net/news/20261018-makimodosi-machiasobi31/)
+- [血液検査の前に必ず絶食する必要はないという研究結果](https://gigazine.net/news/20261018-fasting-duration-differences/)
 <!-- GIGAZINE-NEWS-END -->
