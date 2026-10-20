@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=bVqeqvwu7NU'>
-        <img src='https://i.ytimg.com/vi/bVqeqvwu7NU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDe4lxrobQ3H1YHOPDK-W1dYWjsPA' width='200px' alt='Shining One'>
+      <a href='https://www.youtube.com/watch?v=TDpJAuxpfMs'>
+        <img src='https://i.ytimg.com/vi/TDpJAuxpfMs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9Cz2hEIi2OAbI-OqYwpBuvb91ZQ' width='200px' alt='愛に出会い恋は続く／HoneyWorks feat.Kotoha'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=bVqeqvwu7NU'>Shining One</a>
+      <a href='https://www.youtube.com/watch?v=TDpJAuxpfMs'>愛に出会い恋は続く／HoneyWorks feat.Kotoha</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=92pdJyzIGbw'>
-        <img src='https://i.ytimg.com/vi/92pdJyzIGbw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnnOpsSe2wV7d2I75yBidX_Mx8Ww' width='200px' alt='Week End'>
+      <a href='https://www.youtube.com/watch?v=8E2VN7GO5eM'>
+        <img src='https://i.ytimg.com/vi/8E2VN7GO5eM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjez16ntm7mb1BHVpaPnxkJht3Mg' width='200px' alt='気まぐれロマンティック'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=92pdJyzIGbw'>Week End</a>
+      <a href='https://www.youtube.com/watch?v=8E2VN7GO5eM'>気まぐれロマンティック</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=V6TEcoNUmc8'>
-        <img src='https://i.ytimg.com/vi/V6TEcoNUmc8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSLIKEiQCOt42rwL4jDoKMEret8g' width='200px' alt='Ditto'>
+      <a href='https://www.youtube.com/watch?v=FXsGCieXm1E'>
+        <img src='https://i.ytimg.com/vi/FXsGCieXm1E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1rYgKc_4VlK6EQPnl6f2NeSjsuw' width='200px' alt='Renai Circulation「恋愛サーキュレーション」Kana Hanazawa'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=V6TEcoNUmc8'>Ditto</a>
+      <a href='https://www.youtube.com/watch?v=FXsGCieXm1E'>Renai Circulation「恋愛サーキュレーション」Kana Hanazawa</a>
     </td>
   </tr>
 </table>
