@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [配達ロボットの進路を妨害したとして女性が逮捕される](https://gigazine.net/news/20261019-woman-arrested-blocking-delivery-robot/)
-- [コーディングベンチでGPT-6 Astraを超えつつ超安価な中国製AIモデル「DeepSeek-V4.1-Flash-1017」が登場](https://gigazine.net/news/20261019-deepseek-v4-1-flash-1017/)
-- [天井に取り付けるシーリングファンのデザインがすさまじいことになっている理由](https://gigazine.net/news/20261019-ceiling-fans/)
-- [人気アニメの動画をダウンロードしたつもりが中身はマルウェアだった話](https://gigazine.net/news/20261019-torrent-sites-malware/)
-- [コロコロ連載の人気作を全力でアニメ化する『運命の巻戻士』ステージイベントにクロノ役・小村将さん登場](https://gigazine.net/news/20261018-makimodosi-machiasobi31/)
-- [血液検査の前に必ず絶食する必要はないという研究結果](https://gigazine.net/news/20261018-fasting-duration-differences/)
+- [ハッカーが企業のシステムに侵入して8億円分のギフトカードを不正発行、全米の店舗で高額商品を買いあさっていたことが判明](https://gigazine.net/news/20261020-chinese-crime-ring-hacked-staples/)
+- [曲げてもねじっても3D形状を読み取れる柔らかいセンサーシートをMITが開発、VRやリハビリへの応用に期待](https://gigazine.net/news/20261020-optical-waveguide-arrays-shape-sensing/)
+- [イーロン・マスクがSpaceX株をアメリカのすべての子どもに贈ると発表、トランプ口座を通じて提供予定](https://gigazine.net/news/20261020-elon-musk-spacex-stock-trump-accounts/)
+- [コンビニのおにぎり1個に払える金額は？GIGAZINE読者から圧倒的支持を集める3大コンビニは？](https://gigazine.net/news/20261020-gigazine-convenience-store-rice-ball/)
+- [エミュレーターを使わずにブラウザ上でPSPゲームが動作するというプロジェクト「PSP Web Recomp」](https://gigazine.net/news/20261020-psp-web-recomp/)
+- [イギリスとアメリカをつないでいた極秘ホットラインプロジェクト「SIGSALY」とは？](https://gigazine.net/news/20261020-sigsaly/)
 <!-- GIGAZINE-NEWS-END -->
