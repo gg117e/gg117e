@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [ハッカーが企業のシステムに侵入して8億円分のギフトカードを不正発行、全米の店舗で高額商品を買いあさっていたことが判明](https://gigazine.net/news/20261020-chinese-crime-ring-hacked-staples/)
-- [曲げてもねじっても3D形状を読み取れる柔らかいセンサーシートをMITが開発、VRやリハビリへの応用に期待](https://gigazine.net/news/20261020-optical-waveguide-arrays-shape-sensing/)
-- [イーロン・マスクがSpaceX株をアメリカのすべての子どもに贈ると発表、トランプ口座を通じて提供予定](https://gigazine.net/news/20261020-elon-musk-spacex-stock-trump-accounts/)
-- [コンビニのおにぎり1個に払える金額は？GIGAZINE読者から圧倒的支持を集める3大コンビニは？](https://gigazine.net/news/20261020-gigazine-convenience-store-rice-ball/)
-- [エミュレーターを使わずにブラウザ上でPSPゲームが動作するというプロジェクト「PSP Web Recomp」](https://gigazine.net/news/20261020-psp-web-recomp/)
-- [イギリスとアメリカをつないでいた極秘ホットラインプロジェクト「SIGSALY」とは？](https://gigazine.net/news/20261020-sigsaly/)
+- [次世代XBOXの価格は最大28万円超というトンデモ高価格になり2028年に発売されるとの報道](https://gigazine.net/news/20261021-next-gen-xbox-project-helix-1800-launch-2028/)
+- [DeepSeekがAI推論システム「DeepInfer」を公開、DeepSeekの本番サービスで実際に使われているシステムのオープンソース版](https://gigazine.net/news/20261021-deepseek-deepinfer-recipe/)
+- [OpenAIが医薬品開発プラットフォームのOrchestra Bioを買収](https://gigazine.net/news/20261021-openai-acquires-orchestra-bio/)
+- [ヒッタイト王国の粘土板文書131枚がトルコで発掘される、3400年前の流行病や当時の兵站などが明らかに](https://gigazine.net/news/20261021-hittite-royal-archive-tablets-turkiye/)
+- [WineがOpenBSDに移植される](https://gigazine.net/news/20261021-openbsd-ports-wine/)
+- [同じ問題を解決してもAIによってコードの増加量に大きな差、AIモデルを比較するベンチマーク「Parsimony」が登場](https://gigazine.net/news/20261020-parsimony/)
 <!-- GIGAZINE-NEWS-END -->
