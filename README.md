@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=V6TEcoNUmc8'>
-        <img src='https://i.ytimg.com/vi/V6TEcoNUmc8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSLIKEiQCOt42rwL4jDoKMEret8g' width='200px' alt='Ditto'>
+      <a href='https://www.youtube.com/watch?v=Hp9Z5TP1WfA'>
+        <img src='https://i.ytimg.com/vi/Hp9Z5TP1WfA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DDgjgwvGIBhjg6gQg4KgB&rs=AOn4CLCmAsnqxlGqid8pCKOCLABWpN_NCw&usqp=CBU' width='200px' alt='115万キロのフィルム'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=V6TEcoNUmc8'>Ditto</a>
+      <a href='https://www.youtube.com/watch?v=Hp9Z5TP1WfA'>115万キロのフィルム</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=BUG9r-s56II'>
-        <img src='https://i.ytimg.com/vi/BUG9r-s56II/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBvZsmOoGEgA_UCAVPi1PDbjkUDQ' width='200px' alt='舞台に立って'>
+      <a href='https://www.youtube.com/watch?v=TDpJAuxpfMs'>
+        <img src='https://i.ytimg.com/vi/TDpJAuxpfMs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9Cz2hEIi2OAbI-OqYwpBuvb91ZQ' width='200px' alt='愛に出会い恋は続く／HoneyWorks feat.Kotoha'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=BUG9r-s56II'>舞台に立って</a>
+      <a href='https://www.youtube.com/watch?v=TDpJAuxpfMs'>愛に出会い恋は続く／HoneyWorks feat.Kotoha</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=HUEoF7ntswo'>
-        <img src='https://i.ytimg.com/vi/HUEoF7ntswo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIjbJtv5eJ_d1UP7Ty9mQ5ADAXyQ' width='200px' alt='Love Song'>
+      <a href='https://www.youtube.com/watch?v=l2nqfPAMrSo'>
+        <img src='https://i.ytimg.com/vi/l2nqfPAMrSo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DDgi-5-OlBhjg6gQg4KgB&rs=AOn4CLDtT9pyd11osBVycGmIqlTZ6g18Jg&usqp=CBU' width='200px' alt='Chessboard'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=HUEoF7ntswo'>Love Song</a>
+      <a href='https://www.youtube.com/watch?v=l2nqfPAMrSo'>Chessboard</a>
     </td>
   </tr>
 </table>
