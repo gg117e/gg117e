@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [次世代XBOXの価格は最大28万円超というトンデモ高価格になり2028年に発売されるとの報道](https://gigazine.net/news/20261021-next-gen-xbox-project-helix-1800-launch-2028/)
-- [DeepSeekがAI推論システム「DeepInfer」を公開、DeepSeekの本番サービスで実際に使われているシステムのオープンソース版](https://gigazine.net/news/20261021-deepseek-deepinfer-recipe/)
-- [OpenAIが医薬品開発プラットフォームのOrchestra Bioを買収](https://gigazine.net/news/20261021-openai-acquires-orchestra-bio/)
-- [ヒッタイト王国の粘土板文書131枚がトルコで発掘される、3400年前の流行病や当時の兵站などが明らかに](https://gigazine.net/news/20261021-hittite-royal-archive-tablets-turkiye/)
-- [WineがOpenBSDに移植される](https://gigazine.net/news/20261021-openbsd-ports-wine/)
-- [同じ問題を解決してもAIによってコードの増加量に大きな差、AIモデルを比較するベンチマーク「Parsimony」が登場](https://gigazine.net/news/20261020-parsimony/)
+- [「Baldur’s Gate」「Mass Effect」「Dragon Age」を生んだ老舗ゲーム会社BioWareが30年以上の歴史に幕、Mass Effectの新作プロジェクトも終了](https://gigazine.net/news/20261022-ea-shut-down-bioware/)
+- [人間の指示なしでAIが自発的にタスクを実行するClaudeのエージェントアプリ「Claude Duet」が発表される](https://gigazine.net/news/20261022-claude-duet/)
+- [GoogleとOpenAIが提携、Google Cloudで「GPT-6 Astra」などOpenAIのAIモデルを提供へ](https://gigazine.net/news/20261022-google-cloud-openai-models/)
+- [神の如く自由な都市開発を行うのではなく市民の要望を聞き建設計画には議会の承認が必要となる都市シミュレーター「Permit Pending」](https://gigazine.net/news/20261022-permit-pending/)
+- [ディープウォーター・ホライズン原油流出事故から16年が経過してもメキシコ湾の深海生物は約6割減ったまま回復していない実態が明らかに](https://gigazine.net/news/20261022-deepwater-horizon-deep-sea-life/)
+- [eMudhraで侵害された8つの認証局すべての秘密鍵はなんとたった「1バイト」で秘密鍵の1つは「4」、Mozilla・Microsoft・Apple・Chromeのルートプログラムや多くの下流トラストストアによって信頼されているルート証明書に連鎖](https://gigazine.net/news/20261022-emudhra-problem/)
 <!-- GIGAZINE-NEWS-END -->
