@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [「Baldur’s Gate」「Mass Effect」「Dragon Age」を生んだ老舗ゲーム会社BioWareが30年以上の歴史に幕、Mass Effectの新作プロジェクトも終了](https://gigazine.net/news/20261022-ea-shut-down-bioware/)
-- [人間の指示なしでAIが自発的にタスクを実行するClaudeのエージェントアプリ「Claude Duet」が発表される](https://gigazine.net/news/20261022-claude-duet/)
-- [GoogleとOpenAIが提携、Google Cloudで「GPT-6 Astra」などOpenAIのAIモデルを提供へ](https://gigazine.net/news/20261022-google-cloud-openai-models/)
-- [神の如く自由な都市開発を行うのではなく市民の要望を聞き建設計画には議会の承認が必要となる都市シミュレーター「Permit Pending」](https://gigazine.net/news/20261022-permit-pending/)
-- [ディープウォーター・ホライズン原油流出事故から16年が経過してもメキシコ湾の深海生物は約6割減ったまま回復していない実態が明らかに](https://gigazine.net/news/20261022-deepwater-horizon-deep-sea-life/)
-- [eMudhraで侵害された8つの認証局すべての秘密鍵はなんとたった「1バイト」で秘密鍵の1つは「4」、Mozilla・Microsoft・Apple・Chromeのルートプログラムや多くの下流トラストストアによって信頼されているルート証明書に連鎖](https://gigazine.net/news/20261022-emudhra-problem/)
+- [中国政府と関係するサイバー攻撃者が世界中の数百の組織に対してAIエージェント「ARTEX」を用いて攻撃を実施していたことがMicrosoftの調査で判明](https://gigazine.net/news/20261023-storm-0940-artex-cyber-attack/)
+- [Airbnbが宿泊客に食器洗いやゴミ出しを求めることを原則禁止へ](https://gigazine.net/news/20261023-airbnb-checkout-chores-ban/)
+- [Interop 2027で注目すべき未来のCSS](https://gigazine.net/news/20261023-future-of-css/)
+- [Windows 11には31年前の「Windows 95のメモリ管理機能」が今も隠されている](https://gigazine.net/news/20261022-windows-11-95-memory-manager/)
+- [家庭にある電子レンジを使って「ソーラーパネル」を作る方法とは？](https://gigazine.net/news/20261022-making-solar-panels-with-microwave/)
+- [2026年10月22日のヘッドラインニュース](https://gigazine.net/news/20261022-headline/)
 <!-- GIGAZINE-NEWS-END -->
