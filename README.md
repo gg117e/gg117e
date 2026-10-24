@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=TDpJAuxpfMs'>
-        <img src='https://i.ytimg.com/vi/TDpJAuxpfMs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9Cz2hEIi2OAbI-OqYwpBuvb91ZQ' width='200px' alt='愛に出会い恋は続く／HoneyWorks feat.Kotoha'>
+      <a href='https://www.youtube.com/watch?v=HBqH4uJS0PU'>
+        <img src='https://i.ytimg.com/vi/HBqH4uJS0PU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGkaM2ZcnyB8o3mbXgfhwYnNF3NQ' width='200px' alt='Magnetic'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=TDpJAuxpfMs'>愛に出会い恋は続く／HoneyWorks feat.Kotoha</a>
+      <a href='https://www.youtube.com/watch?v=HBqH4uJS0PU'>Magnetic</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=107UoVP2fAA'>
-        <img src='https://i.ytimg.com/vi/107UoVP2fAA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1eFCwYYYAUQ0JdHKBnC37uSW5_w' width='200px' alt='Heroine'>
+      <a href='https://www.youtube.com/watch?v=RuSNeIcPamk'>
+        <img src='https://i.ytimg.com/vi/RuSNeIcPamk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACQElNN-4SFIx_aT1F-ScHtTlzJA' width='200px' alt='【Official】Uru 『Love Song』  フジテレビ系 木曜劇場「推しの王子様」主題歌'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=107UoVP2fAA'>Heroine</a>
+      <a href='https://www.youtube.com/watch?v=RuSNeIcPamk'>【Official】Uru 『Love Song』  フジテレビ系 木曜劇場「推しの王子様」主題歌</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=WHKlMwYHb34'>
-        <img src='https://i.ytimg.com/vi/WHKlMwYHb34/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJt9CGgZ8JoQ_HT18Wl7xKSjJ9fw' width='200px' alt='The Peak'>
+      <a href='https://www.youtube.com/watch?v=5X_wSeKhPAU'>
+        <img src='https://i.ytimg.com/vi/5X_wSeKhPAU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBq3r0bpKi6IiOhtkcgzu-FS_beg' width='200px' alt='Orange'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=WHKlMwYHb34'>The Peak</a>
+      <a href='https://www.youtube.com/watch?v=5X_wSeKhPAU'>Orange</a>
     </td>
   </tr>
 </table>
