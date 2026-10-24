@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [中国政府と関係するサイバー攻撃者が世界中の数百の組織に対してAIエージェント「ARTEX」を用いて攻撃を実施していたことがMicrosoftの調査で判明](https://gigazine.net/news/20261023-storm-0940-artex-cyber-attack/)
-- [Airbnbが宿泊客に食器洗いやゴミ出しを求めることを原則禁止へ](https://gigazine.net/news/20261023-airbnb-checkout-chores-ban/)
-- [Interop 2027で注目すべき未来のCSS](https://gigazine.net/news/20261023-future-of-css/)
-- [Windows 11には31年前の「Windows 95のメモリ管理機能」が今も隠されている](https://gigazine.net/news/20261022-windows-11-95-memory-manager/)
-- [家庭にある電子レンジを使って「ソーラーパネル」を作る方法とは？](https://gigazine.net/news/20261022-making-solar-panels-with-microwave/)
-- [2026年10月22日のヘッドラインニュース](https://gigazine.net/news/20261022-headline/)
+- [アヒル型ロボット「Microduck」の予約注文数が2万台を突破、NVIDIAのジェンスン・フアンCEOとの戯れで爆売れ](https://gigazine.net/news/20261024-nvidia-ceo-plays-microduck-20000-sell/)
+- [GIGAZINE記事でコメント機能のテスト開始！そして2026年度9月分のGIGAZINEのアクセス解析結果はコレ](https://gigazine.net/news/20261024-access/)
+- [フォートナイトで「捜査官を撃つ」と発言した容疑でFBIが29歳の男を逮捕](https://gigazine.net/news/20261024-fbi-arrests-fortnite-threats/)
+- [XBOXがクラウドゲーミングサービスの「時間売り」のテストを開始、料金は1時間当たり約38～63円](https://gigazine.net/news/20261024-xbox-cloud-playtime-pricing/)
+- [史上最高の小説100選・「投資の神様」のオススメ本・宇宙戦艦ヤマトインタビューなどAmazonで売上トップ100のGIGAZINE記事ランキング2026年第3四半期版まとめ](https://gigazine.net/news/20261024-gigazine-kindle-ranking-2026-q3/)
+- [Androidスマホ上でiPhoneのiOSを起動できる「HackiOS」](https://gigazine.net/news/20261023-hackios/)
 <!-- GIGAZINE-NEWS-END -->
