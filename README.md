@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [アヒル型ロボット「Microduck」の予約注文数が2万台を突破、NVIDIAのジェンスン・フアンCEOとの戯れで爆売れ](https://gigazine.net/news/20261024-nvidia-ceo-plays-microduck-20000-sell/)
-- [GIGAZINE記事でコメント機能のテスト開始！そして2026年度9月分のGIGAZINEのアクセス解析結果はコレ](https://gigazine.net/news/20261024-access/)
-- [フォートナイトで「捜査官を撃つ」と発言した容疑でFBIが29歳の男を逮捕](https://gigazine.net/news/20261024-fbi-arrests-fortnite-threats/)
-- [XBOXがクラウドゲーミングサービスの「時間売り」のテストを開始、料金は1時間当たり約38～63円](https://gigazine.net/news/20261024-xbox-cloud-playtime-pricing/)
-- [史上最高の小説100選・「投資の神様」のオススメ本・宇宙戦艦ヤマトインタビューなどAmazonで売上トップ100のGIGAZINE記事ランキング2026年第3四半期版まとめ](https://gigazine.net/news/20261024-gigazine-kindle-ranking-2026-q3/)
-- [Androidスマホ上でiPhoneのiOSを起動できる「HackiOS」](https://gigazine.net/news/20261023-hackios/)
+- [XBOX初のCOOが就任からわずか数カ月で退任](https://gigazine.net/news/20261025-xbox-first-ever-coo-leaving/)
+- [読み込み14.9GB/sのPCIe 5.0対応SSD「SANDISK Optimus GX PRO 8100 NVMe SSD」の2TBモデルでベンチマークテストを実行してみたよレビュー](https://gigazine.net/news/20261025-sandisk-optimus-gx-pro-8100-nvme-ssd/)
+- [ファイルシステム「ZFS」の内部構造や動作原理をアニメーションや図解を通じて無料で学べる「Uberblok」](https://gigazine.net/news/20261025-uberblok/)
+- [マドンナの声が科学的に年齢不詳であることが判明](https://gigazine.net/news/20261025-madonna-voice-age/)
+- [人間とAIエージェント両方のために設計されたワークスペース全体を対象としたローカルファースト検索「zg」](https://gigazine.net/news/20261024-zvec-grep/)
+- [折りたたみスマホ「Galaxy Z Fold8 Ultra・Fold8・Flip8」で写真撮影するとこんな感じになる](https://gigazine.net/news/20261024-samsung-galaxy-z-fold8-ultra-fold8-flip8-photos/)
 <!-- GIGAZINE-NEWS-END -->
