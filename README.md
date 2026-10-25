@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=hyz4f5gGGC8'>
-        <img src='https://i.ytimg.com/vi/hyz4f5gGGC8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2PPvbXgTXIwB3tTt5KVAj53sAog' width='200px' alt='わたしの一番かわいいところ'>
+      <a href='https://www.youtube.com/watch?v=LkCEumWZfF4'>
+        <img src='https://i.ytimg.com/vi/LkCEumWZfF4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyaPQcgdwfRFGuZtUyRhWWfBnpUg' width='200px' alt='平井 大 / もしも、僕がいなくても。（Music Video）'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=hyz4f5gGGC8'>わたしの一番かわいいところ</a>
+      <a href='https://www.youtube.com/watch?v=LkCEumWZfF4'>平井 大 / もしも、僕がいなくても。（Music Video）</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ZosT1iyOU2g'>
-        <img src='https://i.ytimg.com/vi/ZosT1iyOU2g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDiKwFTggMjRRJLDfVRhNfXfoYJw' width='200px' alt='手紙 〜拝啓　十五の君へ〜'>
+      <a href='https://www.youtube.com/watch?v=OEsV1iQNQFw'>
+        <img src='https://i.ytimg.com/vi/OEsV1iQNQFw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnGdeEWZl4JUUFduoF9VdWrDnQOw' width='200px' alt='相思相愛'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ZosT1iyOU2g'>手紙 〜拝啓　十五の君へ〜</a>
+      <a href='https://www.youtube.com/watch?v=OEsV1iQNQFw'>相思相愛</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=PLNtwcIjgJE'>
-        <img src='https://i.ytimg.com/vi/PLNtwcIjgJE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRAewsfJBCUN9YE1jmdT2Zsd9E0A' width='200px' alt='Misenainamidawa Kittoitsuka'>
+      <a href='https://www.youtube.com/watch?v=fdnoxPq_Is8'>
+        <img src='https://i.ytimg.com/vi/fdnoxPq_Is8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPWxvixtaadySgnUIvVPraig7Ohw' width='200px' alt='Ola!!'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=PLNtwcIjgJE'>Misenainamidawa Kittoitsuka</a>
+      <a href='https://www.youtube.com/watch?v=fdnoxPq_Is8'>Ola!!</a>
     </td>
   </tr>
 </table>
