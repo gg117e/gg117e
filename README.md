@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [XBOX初のCOOが就任からわずか数カ月で退任](https://gigazine.net/news/20261025-xbox-first-ever-coo-leaving/)
-- [読み込み14.9GB/sのPCIe 5.0対応SSD「SANDISK Optimus GX PRO 8100 NVMe SSD」の2TBモデルでベンチマークテストを実行してみたよレビュー](https://gigazine.net/news/20261025-sandisk-optimus-gx-pro-8100-nvme-ssd/)
-- [ファイルシステム「ZFS」の内部構造や動作原理をアニメーションや図解を通じて無料で学べる「Uberblok」](https://gigazine.net/news/20261025-uberblok/)
-- [マドンナの声が科学的に年齢不詳であることが判明](https://gigazine.net/news/20261025-madonna-voice-age/)
-- [人間とAIエージェント両方のために設計されたワークスペース全体を対象としたローカルファースト検索「zg」](https://gigazine.net/news/20261024-zvec-grep/)
-- [折りたたみスマホ「Galaxy Z Fold8 Ultra・Fold8・Flip8」で写真撮影するとこんな感じになる](https://gigazine.net/news/20261024-samsung-galaxy-z-fold8-ultra-fold8-flip8-photos/)
+- [Valveの開発者が公の場で「Half-Life」新作と思われるコード名を漏らす](https://gigazine.net/news/20261026-half-life-hlx/)
+- [四足歩行ロボットが巨大ルービックキューブを脚だけで解くことに成功](https://gigazine.net/news/20261026-robot-solved-giant-rubiks-cube/)
+- [かなり人間っぽい会話が可能なAI「Dessa」をジャック・ドーシー率いるBlockが発表、テキストを省いて会話音声のみで訓練しMacBook Proでローカル実行可能](https://gigazine.net/news/20261026-dessa-conversation-ai/)
+- [iFixitがiPhone Duoをバラバラに分解しディスプレイ故障の原因を調査](https://gigazine.net/news/20261026-iphone-duo-teardown-ifixit/)
+- [海底火山をエネルギー源とする世界初の海底地熱発電所の実証実験、海面下約1.6kmにある活火山付近で水中発電に成功](https://gigazine.net/news/20261026-underwater-volcano-energy/)
+- [「地球上のどこにも存在しない花」を遺伝子工学で作り出す植物生物学者とは？](https://gigazine.net/news/20261026-how-to-design-flowers/)
 <!-- GIGAZINE-NEWS-END -->
