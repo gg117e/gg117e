@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Qsz6WoK5GWk'>
-        <img src='https://i.ytimg.com/vi/Qsz6WoK5GWk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-06hgBny-IdAYM450HQ-rlDr2wA' width='200px' alt='風に吹かれて'>
+      <a href='https://www.youtube.com/watch?v=-QZAivfOiaM'>
+        <img src='https://i.ytimg.com/vi/-QZAivfOiaM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDGdiV4fp1JM9qu3MuJ9uY6z5BXA' width='200px' alt='P.S.'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Qsz6WoK5GWk'>風に吹かれて</a>
+      <a href='https://www.youtube.com/watch?v=-QZAivfOiaM'>P.S.</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=bUnfuRew3PU'>
-        <img src='https://i.ytimg.com/vi/bUnfuRew3PU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCN7upglmRfybcjPg13tGydKO9bNA' width='200px' alt='Hello Song'>
+      <a href='https://www.youtube.com/watch?v=Ih2eEKTJXRg'>
+        <img src='https://i.ytimg.com/vi/Ih2eEKTJXRg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQmV1_CEd8Wt2-BmONx_nowgTjJg' width='200px' alt='タイムパラドックス'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=bUnfuRew3PU'>Hello Song</a>
+      <a href='https://www.youtube.com/watch?v=Ih2eEKTJXRg'>タイムパラドックス</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=sFd0qdA32d8'>
-        <img src='https://i.ytimg.com/vi/sFd0qdA32d8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsbiKsqGRozBBhXS18xarw4KRGhw' width='200px' alt='Turquoise'>
+      <a href='https://www.youtube.com/watch?v=Fay3ZhHS1rU'>
+        <img src='https://i.ytimg.com/vi/Fay3ZhHS1rU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjDVfcid0spA__YFixGLdGLPV6kA' width='200px' alt='桑田佳祐 – 100万年の幸せ!!（Full ver.）'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=sFd0qdA32d8'>Turquoise</a>
+      <a href='https://www.youtube.com/watch?v=Fay3ZhHS1rU'>桑田佳祐 – 100万年の幸せ!!（Full ver.）</a>
     </td>
   </tr>
 </table>
