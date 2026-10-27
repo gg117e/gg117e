@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [Valveの開発者が公の場で「Half-Life」新作と思われるコード名を漏らす](https://gigazine.net/news/20261026-half-life-hlx/)
-- [四足歩行ロボットが巨大ルービックキューブを脚だけで解くことに成功](https://gigazine.net/news/20261026-robot-solved-giant-rubiks-cube/)
-- [かなり人間っぽい会話が可能なAI「Dessa」をジャック・ドーシー率いるBlockが発表、テキストを省いて会話音声のみで訓練しMacBook Proでローカル実行可能](https://gigazine.net/news/20261026-dessa-conversation-ai/)
-- [iFixitがiPhone Duoをバラバラに分解しディスプレイ故障の原因を調査](https://gigazine.net/news/20261026-iphone-duo-teardown-ifixit/)
-- [海底火山をエネルギー源とする世界初の海底地熱発電所の実証実験、海面下約1.6kmにある活火山付近で水中発電に成功](https://gigazine.net/news/20261026-underwater-volcano-energy/)
-- [「地球上のどこにも存在しない花」を遺伝子工学で作り出す植物生物学者とは？](https://gigazine.net/news/20261026-how-to-design-flowers/)
+- [InstagramがYouTube対抗の最大90分の長尺横型動画フォーマットをテスト中](https://gigazine.net/news/20261027-instagram-test-long-form-video/)
+- [英語以外の言語を使うとAIモデルのコストは高くなる](https://gigazine.net/news/20261027-tokenizer-tax/)
+- [AppleがiPhone Duoのディスプレイひび割れ報告に回答](https://gigazine.net/news/20261027-apple-responds-iphone-duo-crack/)
+- [ChatGPTにSNSのアカウント停止について相談すると「ジャーナリストに連絡すべき」と勧められるケースが増加](https://gigazine.net/news/20261027-chatgpt-media-tech-support/)
+- [「GPT-6.1 Terra」が登場、コスパ良好＆高速なモデルでテストによってはGPT-6 Astraと同等性能](https://gigazine.net/news/20261027-gpt-6-1-terra/)
+- [有機EL(OLED)ディスプレイ＆A20 Pro搭載の新型iPad miniが11月6日に発売、価格は税込11万9800円から](https://gigazine.net/news/20261027-ipad-mini-oled-a20-pro/)
 <!-- GIGAZINE-NEWS-END -->
