@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [InstagramがYouTube対抗の最大90分の長尺横型動画フォーマットをテスト中](https://gigazine.net/news/20261027-instagram-test-long-form-video/)
-- [英語以外の言語を使うとAIモデルのコストは高くなる](https://gigazine.net/news/20261027-tokenizer-tax/)
-- [AppleがiPhone Duoのディスプレイひび割れ報告に回答](https://gigazine.net/news/20261027-apple-responds-iphone-duo-crack/)
-- [ChatGPTにSNSのアカウント停止について相談すると「ジャーナリストに連絡すべき」と勧められるケースが増加](https://gigazine.net/news/20261027-chatgpt-media-tech-support/)
-- [「GPT-6.1 Terra」が登場、コスパ良好＆高速なモデルでテストによってはGPT-6 Astraと同等性能](https://gigazine.net/news/20261027-gpt-6-1-terra/)
-- [有機EL(OLED)ディスプレイ＆A20 Pro搭載の新型iPad miniが11月6日に発売、価格は税込11万9800円から](https://gigazine.net/news/20261027-ipad-mini-oled-a20-pro/)
+- [クランベリージュースは歯垢の細菌増殖を抑制して虫歯予防に役立つ可能性](https://gigazine.net/news/20261028-cranberry-juice-suppress-dental-plaque/)
+- [AppleがM6搭載の14インチ「MacBook Pro」を発表](https://gigazine.net/news/20261028-m6-macbook-pro/)
+- [Googleが仮想世界をリアルタイムで生成するAI「Genie 4」を発表、人物の動きや会話もリアルに生成可能](https://gigazine.net/news/20261028-google-genie-4/)
+- [パーマー・ラッキー率いる防衛企業のAndurilとQualcommがアメリカ製の新型ノートPC「BlueChip」を発表](https://gigazine.net/news/20261028-anduril-qualcomm-bluechip/)
+- [AIから園芸までGIGAZINE読者の「オタク趣味」調査結果まとめ、年代・性別・他の設問との関連など細かい分析もあり](https://gigazine.net/news/20261028-gigazine-user-otaku/)
+- [身近な物を説明するとAIが手描き風で実際に機能するボタン付きで描いてくれる「Colorfigures」](https://gigazine.net/news/20261028-colorfigures/)
 <!-- GIGAZINE-NEWS-END -->
