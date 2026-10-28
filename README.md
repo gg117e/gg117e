@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Nn3LD3C4Q-0'>
-        <img src='https://i.ytimg.com/vi/Nn3LD3C4Q-0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgR8BhgWkP37YPy3vimvza0g4onw' width='200px' alt='ナイスアイディア！'>
+      <a href='https://www.youtube.com/watch?v=TDpJAuxpfMs'>
+        <img src='https://i.ytimg.com/vi/TDpJAuxpfMs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9Cz2hEIi2OAbI-OqYwpBuvb91ZQ' width='200px' alt='愛に出会い恋は続く／HoneyWorks feat.Kotoha'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Nn3LD3C4Q-0'>ナイスアイディア！</a>
+      <a href='https://www.youtube.com/watch?v=TDpJAuxpfMs'>愛に出会い恋は続く／HoneyWorks feat.Kotoha</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=bVqeqvwu7NU'>
-        <img src='https://i.ytimg.com/vi/bVqeqvwu7NU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDe4lxrobQ3H1YHOPDK-W1dYWjsPA' width='200px' alt='Shining One'>
+      <a href='https://www.youtube.com/watch?v=Jm2jOK45btw'>
+        <img src='https://i.ytimg.com/vi/Jm2jOK45btw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPMCDVE0qm5SI2owO0-6JB-sPNYw' width='200px' alt='Aiueongaku'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=bVqeqvwu7NU'>Shining One</a>
+      <a href='https://www.youtube.com/watch?v=Jm2jOK45btw'>Aiueongaku</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=XtBUrzpLjGQ'>
-        <img src='https://i.ytimg.com/vi/XtBUrzpLjGQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChrRq5NxAovVcUY4eqeydpNsNh_w' width='200px' alt='Aiuta'>
+      <a href='https://www.youtube.com/watch?v=oJd3TP5kb6k'>
+        <img src='https://i.ytimg.com/vi/oJd3TP5kb6k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVr-TA9PEhiwjzoFO-DmLlBYVIAg' width='200px' alt='New My Normal'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=XtBUrzpLjGQ'>Aiuta</a>
+      <a href='https://www.youtube.com/watch?v=oJd3TP5kb6k'>New My Normal</a>
     </td>
   </tr>
 </table>
