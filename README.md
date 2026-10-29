@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [クランベリージュースは歯垢の細菌増殖を抑制して虫歯予防に役立つ可能性](https://gigazine.net/news/20261028-cranberry-juice-suppress-dental-plaque/)
-- [AppleがM6搭載の14インチ「MacBook Pro」を発表](https://gigazine.net/news/20261028-m6-macbook-pro/)
-- [Googleが仮想世界をリアルタイムで生成するAI「Genie 4」を発表、人物の動きや会話もリアルに生成可能](https://gigazine.net/news/20261028-google-genie-4/)
-- [パーマー・ラッキー率いる防衛企業のAndurilとQualcommがアメリカ製の新型ノートPC「BlueChip」を発表](https://gigazine.net/news/20261028-anduril-qualcomm-bluechip/)
-- [AIから園芸までGIGAZINE読者の「オタク趣味」調査結果まとめ、年代・性別・他の設問との関連など細かい分析もあり](https://gigazine.net/news/20261028-gigazine-user-otaku/)
-- [身近な物を説明するとAIが手描き風で実際に機能するボタン付きで描いてくれる「Colorfigures」](https://gigazine.net/news/20261028-colorfigures/)
+- [Xに広告利用に誘導するための巨大な「手」が出現](https://gigazine.net/news/20261029-x-promotion-with-hand/)
+- [Amazonが「Echo Show 16」「Echo Time」「Alexa Photo Frame」など発表、Alexa Home Mapもプレビュー公開](https://gigazine.net/news/20261029-amazon-echo-show-16-time-alexa-photo-frame/)
+- [ホロライブの人気VTuber「森カリオペ」がPC画面で動き回って録り下ろしボイスをしゃべる「Desktop Mate」新DLCを使ってみた](https://gigazine.net/news/20261029-desktop-mate-mori-calliope-dlc/)
+- [Google親会社Alphabetの収益は前年同期比25％増加、クラウド事業の収益は2倍以上](https://gigazine.net/news/20261029-alphabet-q3-earning/)
+- [iPhone Duoは2027年には折りたたみスマホ市場の30％を占める可能性](https://gigazine.net/news/20261029-iphone-duo-foldable-market-2027/)
+- [政府への意見公募約12万件のうち76％がボットによる偽回答だったことが判明、電子たばこの規制阻止を狙った疑い](https://gigazine.net/news/20261029-bot-generated-consultation/)
 <!-- GIGAZINE-NEWS-END -->
