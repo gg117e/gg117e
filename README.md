@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [Xに広告利用に誘導するための巨大な「手」が出現](https://gigazine.net/news/20261029-x-promotion-with-hand/)
-- [Amazonが「Echo Show 16」「Echo Time」「Alexa Photo Frame」など発表、Alexa Home Mapもプレビュー公開](https://gigazine.net/news/20261029-amazon-echo-show-16-time-alexa-photo-frame/)
-- [ホロライブの人気VTuber「森カリオペ」がPC画面で動き回って録り下ろしボイスをしゃべる「Desktop Mate」新DLCを使ってみた](https://gigazine.net/news/20261029-desktop-mate-mori-calliope-dlc/)
-- [Google親会社Alphabetの収益は前年同期比25％増加、クラウド事業の収益は2倍以上](https://gigazine.net/news/20261029-alphabet-q3-earning/)
-- [iPhone Duoは2027年には折りたたみスマホ市場の30％を占める可能性](https://gigazine.net/news/20261029-iphone-duo-foldable-market-2027/)
-- [政府への意見公募約12万件のうち76％がボットによる偽回答だったことが判明、電子たばこの規制阻止を狙った疑い](https://gigazine.net/news/20261029-bot-generated-consultation/)
+- [Redditはログインしないと利用できなくなる、トラフィックの減少が理由](https://gigazine.net/news/20261030-reddit-log-in-only-experience/)
+- [Geminiのチャット内で文書ファイルや表計算データを作成して直接編集可能に](https://gigazine.net/news/20261030-gemini-document-spreadsheet-edit/)
+- [Appleがペニスのサイズを嘲笑しているとの懸念からか韓国でiPad miniの広告を修正](https://gigazine.net/news/20261030-ipad-mini-korea-remove-gesture/)
+- [9900億円相当の仮想通貨が盗まれたと仮想通貨取引所のBinanceが認める、侵入経路はエンジニアのノートPCか](https://gigazine.net/news/20261030-binance-pauses-withdrawals-hackers-stealing-crypto/)
+- [アメリカ当局がNVIDIAのフアンCEOと親しいデータセンター企業幹部を中国のスパイだと断定](https://gigazine.net/news/20261030-jensen-huang-targeted-chinese-spy/)
+- [AIモデル内部でプログラムを実行できる「Qwenputer」が登場、「AIの中にCPUを作る」という異色の試み](https://gigazine.net/news/20261030-qwenputer/)
 <!-- GIGAZINE-NEWS-END -->
