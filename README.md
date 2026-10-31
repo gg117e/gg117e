@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [Redditはログインしないと利用できなくなる、トラフィックの減少が理由](https://gigazine.net/news/20261030-reddit-log-in-only-experience/)
-- [Geminiのチャット内で文書ファイルや表計算データを作成して直接編集可能に](https://gigazine.net/news/20261030-gemini-document-spreadsheet-edit/)
-- [Appleがペニスのサイズを嘲笑しているとの懸念からか韓国でiPad miniの広告を修正](https://gigazine.net/news/20261030-ipad-mini-korea-remove-gesture/)
-- [9900億円相当の仮想通貨が盗まれたと仮想通貨取引所のBinanceが認める、侵入経路はエンジニアのノートPCか](https://gigazine.net/news/20261030-binance-pauses-withdrawals-hackers-stealing-crypto/)
-- [アメリカ当局がNVIDIAのフアンCEOと親しいデータセンター企業幹部を中国のスパイだと断定](https://gigazine.net/news/20261030-jensen-huang-targeted-chinese-spy/)
-- [AIモデル内部でプログラムを実行できる「Qwenputer」が登場、「AIの中にCPUを作る」という異色の試み](https://gigazine.net/news/20261030-qwenputer/)
+- [宇宙からスペースシャトルを着陸させる方法](https://gigazine.net/news/20261031-landing-space-shuttle/)
+- [AIに性格診断をやらせてみたところ言語を切り替えると結果が変わることが判明](https://gigazine.net/news/20261031-ai-personality-profile-language-bias/)
+- [Waymoが日本で自動運転タクシーにトヨタbZ4Xを採用し2027年に運行開始すると発表](https://gigazine.net/news/20261031-toyota-waymo-bz4x-robotaxi-2027/)
+- [『鬼滅の刃』フィギュア・『この世界の片隅に』片渕須直監督インタビュー・書店の減少問題などAmazonで売上トップ10のGIGAZINE記事ランキング2026年9月版はコレ！](https://gigazine.net/news/20261031-gigazine-kindle-ranking-2026-09/)
+- [プライバシー重視メール「Proton Mail」の開発企業はAIの導入に突き進んでおりCEOが社員を日常的に叱責](https://gigazine.net/news/20261030-proton-ceo-ai/)
+- [Google検索の売上高がAlphabetの総売上高の50％を史上初めて下回る](https://gigazine.net/news/20261030-google-search-alphabet-revenue/)
 <!-- GIGAZINE-NEWS-END -->
