@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [宇宙からスペースシャトルを着陸させる方法](https://gigazine.net/news/20261031-landing-space-shuttle/)
-- [AIに性格診断をやらせてみたところ言語を切り替えると結果が変わることが判明](https://gigazine.net/news/20261031-ai-personality-profile-language-bias/)
-- [Waymoが日本で自動運転タクシーにトヨタbZ4Xを採用し2027年に運行開始すると発表](https://gigazine.net/news/20261031-toyota-waymo-bz4x-robotaxi-2027/)
-- [『鬼滅の刃』フィギュア・『この世界の片隅に』片渕須直監督インタビュー・書店の減少問題などAmazonで売上トップ10のGIGAZINE記事ランキング2026年9月版はコレ！](https://gigazine.net/news/20261031-gigazine-kindle-ranking-2026-09/)
-- [プライバシー重視メール「Proton Mail」の開発企業はAIの導入に突き進んでおりCEOが社員を日常的に叱責](https://gigazine.net/news/20261030-proton-ceo-ai/)
-- [Google検索の売上高がAlphabetの総売上高の50％を史上初めて下回る](https://gigazine.net/news/20261030-google-search-alphabet-revenue/)
+- [なぜアメリカにはあんなにたくさん普段使わないモノを収納するための「セルフストレージ施設」があるのか？](https://gigazine.net/news/20261101-american-religion-of-self-storage-facilities/)
+- [Apple純正マップがNASAやアメリカ軍基地の航空写真をぼかしはじめる](https://gigazine.net/news/20261101-apple-maps-blur-nasa-space-force-bases/)
+- [アメリカ人の5人に1人は定期的にTikTokでニュースをチェックしている](https://gigazine.net/news/20261101-american-adult-get-news-on-tiktok/)
+- [男性管理職は娘が生まれると女性従業員の雇用を増やす傾向があるとの研究結果](https://gigazine.net/news/20261101-male-managers-daughter-hiring-women/)
+- [アニソンヒット曲を聞いて年代を当てる音楽カードゲーム「HITSTER アニソン」プレイレポート](https://gigazine.net/news/20261031-hitster-anison/)
+- [「ハッカーに身代金を支払うことなく暗号化されたファイルを復元できる」というセキュリティ企業が実際は被害者から得た高額な手数料の中から身代金を支払っていたとしてCEOが起訴される](https://gigazine.net/news/20261031-monstercloud-ransomware-victims/)
 <!-- GIGAZINE-NEWS-END -->
