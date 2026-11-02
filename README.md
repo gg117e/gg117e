@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [なぜアメリカにはあんなにたくさん普段使わないモノを収納するための「セルフストレージ施設」があるのか？](https://gigazine.net/news/20261101-american-religion-of-self-storage-facilities/)
-- [Apple純正マップがNASAやアメリカ軍基地の航空写真をぼかしはじめる](https://gigazine.net/news/20261101-apple-maps-blur-nasa-space-force-bases/)
-- [アメリカ人の5人に1人は定期的にTikTokでニュースをチェックしている](https://gigazine.net/news/20261101-american-adult-get-news-on-tiktok/)
-- [男性管理職は娘が生まれると女性従業員の雇用を増やす傾向があるとの研究結果](https://gigazine.net/news/20261101-male-managers-daughter-hiring-women/)
-- [アニソンヒット曲を聞いて年代を当てる音楽カードゲーム「HITSTER アニソン」プレイレポート](https://gigazine.net/news/20261031-hitster-anison/)
-- [「ハッカーに身代金を支払うことなく暗号化されたファイルを復元できる」というセキュリティ企業が実際は被害者から得た高額な手数料の中から身代金を支払っていたとしてCEOが起訴される](https://gigazine.net/news/20261031-monstercloud-ransomware-victims/)
+- [Cloudflareの「人間であることを確認」ページを偽装してコマンドを実行させる攻撃が確認される](https://gigazine.net/news/20261102-cloudflare-clickfix/)
+- [誰でも簡単にAndroidやiPhoneで広告ブロックできる「AdGuard 広告ブロッカー」のインストールと使い方、迷惑広告・詐欺広告を全部まとめて一気に削除](https://gigazine.net/news/20261102-adguard-adblocking/)
+- [ネット通信量1GB当たりに約10円課税する法案がフランス議会で可決、GoogleやMetaなどの大手IT企業が対象だがフランス政府は反対](https://gigazine.net/news/20261102-france-gigabyte-tax/)
+- [サウナに30分入るだけで即座に血液中の白血球が増加して免疫反応が向上する可能性](https://gigazine.net/news/20261102-30-minutes-sauna-immune-response/)
+- [Apple HomeViewの内蔵カメラはセキュリティカメラとしても使える](https://gigazine.net/news/20261102-apple-homeview-built-in-camera-security/)
+- [「AI学習への使用拒否をウェブサイト側から明示できる仕組み」にGoogle・OpenAI・Microsoftが対応表明、各社が同じ仕組みを採用し対応の手間が緩和される予定](https://gigazine.net/news/20261102-ai-training-control/)
 <!-- GIGAZINE-NEWS-END -->
