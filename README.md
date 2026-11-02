@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=9aveQLtaK30'>
-        <img src='https://i.ytimg.com/vi/9aveQLtaK30/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHLn-eCWxffBVVG5Hi7FNb98J-PA' width='200px' alt='ひまわり'>
+      <a href='https://www.youtube.com/watch?v=ED8Q0ipvhg8'>
+        <img src='https://i.ytimg.com/vi/ED8Q0ipvhg8/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLC5ekT_Owxq0Exg1V34382qDOFlwQ' width='200px' alt='Haruwo Machiwabite'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=9aveQLtaK30'>ひまわり</a>
+      <a href='https://www.youtube.com/watch?v=ED8Q0ipvhg8'>Haruwo Machiwabite</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=v87I8nzcek4'>
-        <img src='https://i.ytimg.com/vi/v87I8nzcek4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDh_mgv0ssvYLbXwKji5DAd0FexqA' width='200px' alt='Floriginal'>
+      <a href='https://www.youtube.com/watch?v=uhY5LztYnoQ'>
+        <img src='https://i.ytimg.com/vi/uhY5LztYnoQ/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDuNkqgECtEeRWg5Xv7dyG8KoGbYA' width='200px' alt='ありがとうの輪'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=v87I8nzcek4'>Floriginal</a>
+      <a href='https://www.youtube.com/watch?v=uhY5LztYnoQ'>ありがとうの輪</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=3eQJUAXy_kU'>
-        <img src='https://i.ytimg.com/vi/3eQJUAXy_kU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHbfg4lj9LHnyG5hF1-qvNr2NFuw' width='200px' alt='恋の前ならえ'>
+      <a href='https://www.youtube.com/watch?v=WjIsq1-ZBaw'>
+        <img src='https://i.ytimg.com/vi/WjIsq1-ZBaw/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBW-HpoZxds_CHixQxiCgbs-kSWsw' width='200px' alt='平井 大 / 栄光の扉（Music Video）'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=3eQJUAXy_kU'>恋の前ならえ</a>
+      <a href='https://www.youtube.com/watch?v=WjIsq1-ZBaw'>平井 大 / 栄光の扉（Music Video）</a>
     </td>
   </tr>
 </table>
