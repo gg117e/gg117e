@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [Cloudflareの「人間であることを確認」ページを偽装してコマンドを実行させる攻撃が確認される](https://gigazine.net/news/20261102-cloudflare-clickfix/)
-- [誰でも簡単にAndroidやiPhoneで広告ブロックできる「AdGuard 広告ブロッカー」のインストールと使い方、迷惑広告・詐欺広告を全部まとめて一気に削除](https://gigazine.net/news/20261102-adguard-adblocking/)
-- [ネット通信量1GB当たりに約10円課税する法案がフランス議会で可決、GoogleやMetaなどの大手IT企業が対象だがフランス政府は反対](https://gigazine.net/news/20261102-france-gigabyte-tax/)
-- [サウナに30分入るだけで即座に血液中の白血球が増加して免疫反応が向上する可能性](https://gigazine.net/news/20261102-30-minutes-sauna-immune-response/)
-- [Apple HomeViewの内蔵カメラはセキュリティカメラとしても使える](https://gigazine.net/news/20261102-apple-homeview-built-in-camera-security/)
-- [「AI学習への使用拒否をウェブサイト側から明示できる仕組み」にGoogle・OpenAI・Microsoftが対応表明、各社が同じ仕組みを採用し対応の手間が緩和される予定](https://gigazine.net/news/20261102-ai-training-control/)
+- [アメリカ産基板を中国産の2倍の速さで爆速納品可能な工業規模ロボット「The Grid」、注文に応じて回路基板を製造可能](https://gigazine.net/news/20261103-circuithub-the-grid/)
+- [GoogleとAppleの電子書籍ストア開設したので90％オフの記念セール実施中！【2026年11月10日(火)まで】](https://gigazine.net/news/20261103-ebook-google-apple/)
+- [Appleが2026年度第4四半期の業績を発表、前年同期比で12％増の18兆円超の売上高を記録](https://gigazine.net/news/20261103-apple-2026q4-earnings-reports/)
+- [猛スピードで海面に突撃する鳥の背骨はなぜ折れないのか？](https://gigazine.net/news/20261103-plunge-diving-seabirds-without-breaking-neck/)
+- [Evernoteの大幅値上げの裏では200回超の実験を通じて料金や機能の調整が進められていた](https://gigazine.net/news/20261103-evernote-pricing-experiments/)
+- [nanochatの日本語版フォーク「nanochat-jp」、トークナイザ学習・事前学習・SFT・RL・評価・推論を単一リポジトリで完結させ、SentencePiece Unigram トークナイザ・日本語コーパスと日本語 SFT/RL データ・日本語ベンチマーク（CORE / ChatCORE）・HuggingFace形式への変換器あり](https://gigazine.net/news/20261102-nanochat-jp/)
 <!-- GIGAZINE-NEWS-END -->
