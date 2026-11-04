@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [アメリカ産基板を中国産の2倍の速さで爆速納品可能な工業規模ロボット「The Grid」、注文に応じて回路基板を製造可能](https://gigazine.net/news/20261103-circuithub-the-grid/)
-- [GoogleとAppleの電子書籍ストア開設したので90％オフの記念セール実施中！【2026年11月10日(火)まで】](https://gigazine.net/news/20261103-ebook-google-apple/)
-- [Appleが2026年度第4四半期の業績を発表、前年同期比で12％増の18兆円超の売上高を記録](https://gigazine.net/news/20261103-apple-2026q4-earnings-reports/)
-- [猛スピードで海面に突撃する鳥の背骨はなぜ折れないのか？](https://gigazine.net/news/20261103-plunge-diving-seabirds-without-breaking-neck/)
-- [Evernoteの大幅値上げの裏では200回超の実験を通じて料金や機能の調整が進められていた](https://gigazine.net/news/20261103-evernote-pricing-experiments/)
-- [nanochatの日本語版フォーク「nanochat-jp」、トークナイザ学習・事前学習・SFT・RL・評価・推論を単一リポジトリで完結させ、SentencePiece Unigram トークナイザ・日本語コーパスと日本語 SFT/RL データ・日本語ベンチマーク（CORE / ChatCORE）・HuggingFace形式への変換器あり](https://gigazine.net/news/20261102-nanochat-jp/)
+- [「GPT-6 AstraがQwen3.5-0.8Bの重みを書き換えて数学性能を約6倍に改善した」との研究結果、ただし「誤解を招く」との批判も](https://gigazine.net/news/20261104-gpt-6-astra-qwen-weight-space-programming/)
+- [Canvaが全従業員の22％に影響を与える組織改編を発表](https://gigazine.net/news/20261104-canva-change-organization/)
+- [果物や野菜で最も食物繊維が豊富なのは可食部ではなく「通常は捨てられてしまう部分」だとの研究結果](https://gigazine.net/news/20261104-healthiest-parts-fruit-vegetables/)
+- [「Google Chrome 157」安定版リリース、Android版でオンデバイスの言語判定が可能に](https://gigazine.net/news/20261104-google-chrome-157/)
+- [Googleが学校向けに検索機能をオフにするオプションを実装、代わりに学習者向けAIを搭載した検索機能を提供](https://gigazine.net/news/20261104-google-guided-learning-search/)
+- [「特定のAIモデルで出力が生成されたこと」を証明できる仕組み「FlashProve」をAnthropicが開発](https://gigazine.net/news/20261104-anthropic-flashprove/)
 <!-- GIGAZINE-NEWS-END -->
