@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [「GPT-6 AstraがQwen3.5-0.8Bの重みを書き換えて数学性能を約6倍に改善した」との研究結果、ただし「誤解を招く」との批判も](https://gigazine.net/news/20261104-gpt-6-astra-qwen-weight-space-programming/)
-- [Canvaが全従業員の22％に影響を与える組織改編を発表](https://gigazine.net/news/20261104-canva-change-organization/)
-- [果物や野菜で最も食物繊維が豊富なのは可食部ではなく「通常は捨てられてしまう部分」だとの研究結果](https://gigazine.net/news/20261104-healthiest-parts-fruit-vegetables/)
-- [「Google Chrome 157」安定版リリース、Android版でオンデバイスの言語判定が可能に](https://gigazine.net/news/20261104-google-chrome-157/)
-- [Googleが学校向けに検索機能をオフにするオプションを実装、代わりに学習者向けAIを搭載した検索機能を提供](https://gigazine.net/news/20261104-google-guided-learning-search/)
-- [「特定のAIモデルで出力が生成されたこと」を証明できる仕組み「FlashProve」をAnthropicが開発](https://gigazine.net/news/20261104-anthropic-flashprove/)
+- [「Kimi K3.1 Pro」の重みが無料で公開される](https://gigazine.net/news/20261105-kimi-k3-1-pro-model-weight-release/)
+- [国産日本語翻訳AI「PLaMo 3 Translate」の4モデルをPFNが無料公開、スマホ上のローカル動作でも爆速＆高精度の日本語翻訳が可能になったので試してみた](https://gigazine.net/news/20261105-plamo-3-translate-open-weight/)
+- [中国・Tencentが高性能AIモデル「Hy4」を発表、オープンモデルとして公開することを約束](https://gigazine.net/news/20261105-tencent-hy4/)
+- [イーロン・マスクは中間選挙に700億円以上を費やしたが応援した候補はほぼ敗北](https://gigazine.net/news/20261105-elon-musk-wasted-446-million-usd/)
+- [ブリーフのような「きつい下着」を履く男性は精子の質が低下する可能性](https://gigazine.net/news/20261105-men-tight-underwear-sperm-quality/)
+- [Googleが130万台のAndroid TVで密かに稼働していたボットネットを解体](https://gigazine.net/news/20261105-xcpe-down/)
 <!-- GIGAZINE-NEWS-END -->
