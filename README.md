@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [「Kimi K3.1 Pro」の重みが無料で公開される](https://gigazine.net/news/20261105-kimi-k3-1-pro-model-weight-release/)
-- [国産日本語翻訳AI「PLaMo 3 Translate」の4モデルをPFNが無料公開、スマホ上のローカル動作でも爆速＆高精度の日本語翻訳が可能になったので試してみた](https://gigazine.net/news/20261105-plamo-3-translate-open-weight/)
-- [中国・Tencentが高性能AIモデル「Hy4」を発表、オープンモデルとして公開することを約束](https://gigazine.net/news/20261105-tencent-hy4/)
-- [イーロン・マスクは中間選挙に700億円以上を費やしたが応援した候補はほぼ敗北](https://gigazine.net/news/20261105-elon-musk-wasted-446-million-usd/)
-- [ブリーフのような「きつい下着」を履く男性は精子の質が低下する可能性](https://gigazine.net/news/20261105-men-tight-underwear-sperm-quality/)
-- [Googleが130万台のAndroid TVで密かに稼働していたボットネットを解体](https://gigazine.net/news/20261105-xcpe-down/)
+- [女性を物のように見てしまう「性的対象化」は電気刺激で矯正可能という研究結果](https://gigazine.net/news/20261106-sexual-objectification/)
+- [Claudeに個人向け資産管理機能が追加される、「読み取り専用」で毎月の支出などにアドバイス](https://gigazine.net/news/20261106-claude-personal-finance/)
+- [Googleが動画生成AI「Gemini Omni 1.2 Flash」をリリース、最大15秒の動画を出力可能](https://gigazine.net/news/20261106-gemini-omni-1-2-flash/)
+- [電気で細菌を死滅させる歯ブラシが開発される、歯磨きの動きで発電するため電池不要](https://gigazine.net/news/20261106-self-charged-toothbrush/)
+- [Perplexityが独自の業務特化型AIエージェント「Teammates」を発表](https://gigazine.net/news/20261106-perplexity-teammates/)
+- [OpenAIがLinuxの脆弱性948件を発見、費やしたAPIコストは約1億9200万円](https://gigazine.net/news/20261106-openai-built-linux-vulnerability/)
 <!-- GIGAZINE-NEWS-END -->
