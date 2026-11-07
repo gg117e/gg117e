@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [女性を物のように見てしまう「性的対象化」は電気刺激で矯正可能という研究結果](https://gigazine.net/news/20261106-sexual-objectification/)
-- [Claudeに個人向け資産管理機能が追加される、「読み取り専用」で毎月の支出などにアドバイス](https://gigazine.net/news/20261106-claude-personal-finance/)
-- [Googleが動画生成AI「Gemini Omni 1.2 Flash」をリリース、最大15秒の動画を出力可能](https://gigazine.net/news/20261106-gemini-omni-1-2-flash/)
-- [電気で細菌を死滅させる歯ブラシが開発される、歯磨きの動きで発電するため電池不要](https://gigazine.net/news/20261106-self-charged-toothbrush/)
-- [Perplexityが独自の業務特化型AIエージェント「Teammates」を発表](https://gigazine.net/news/20261106-perplexity-teammates/)
-- [OpenAIがLinuxの脆弱性948件を発見、費やしたAPIコストは約1億9200万円](https://gigazine.net/news/20261106-openai-built-linux-vulnerability/)
+- [無料で近くにスマートグラスがあるかどうかを教えてくれるアプリ「Nearby Glasses」](https://gigazine.net/news/20261107-nearby-glasses/)
+- [PROLED XDRディスプレイ搭載MacBook Proで10年ぶりに復活した「光るAppleロゴ」は消灯することも可能](https://gigazine.net/news/20261107-apple-how-turn-off-macbook-glowing-logo/)
+- [歌詞の「感情表現」が時間の経過とともに減少し非道徳的な歌詞が増えていることが判明](https://gigazine.net/news/20261107-lyrics-less-emotion/)
+- [無料でローカルAIを簡単にオフライン利用できるオープンソースアプリ「Hob」、Windows・Mac・Linux対応でPCに適したAIモデルの自動選択・ファイル操作・外部アプリ連携が可能](https://gigazine.net/news/20261106-hob/)
+- [AIのオープンモデル利用率が大きく拡大中、オープンウェイトモデルとクローズドウェイトモデルの違いは何か？](https://gigazine.net/news/20261106-open-closed-weight/)
+- [なぜかWindowsの「ペイント」にリモートコード実行の脆弱性](https://gigazine.net/news/20261106-ms-paint-remote-code-execution-vulnerability/)
 <!-- GIGAZINE-NEWS-END -->
