@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [無料で近くにスマートグラスがあるかどうかを教えてくれるアプリ「Nearby Glasses」](https://gigazine.net/news/20261107-nearby-glasses/)
-- [PROLED XDRディスプレイ搭載MacBook Proで10年ぶりに復活した「光るAppleロゴ」は消灯することも可能](https://gigazine.net/news/20261107-apple-how-turn-off-macbook-glowing-logo/)
-- [歌詞の「感情表現」が時間の経過とともに減少し非道徳的な歌詞が増えていることが判明](https://gigazine.net/news/20261107-lyrics-less-emotion/)
-- [無料でローカルAIを簡単にオフライン利用できるオープンソースアプリ「Hob」、Windows・Mac・Linux対応でPCに適したAIモデルの自動選択・ファイル操作・外部アプリ連携が可能](https://gigazine.net/news/20261106-hob/)
-- [AIのオープンモデル利用率が大きく拡大中、オープンウェイトモデルとクローズドウェイトモデルの違いは何か？](https://gigazine.net/news/20261106-open-closed-weight/)
-- [なぜかWindowsの「ペイント」にリモートコード実行の脆弱性](https://gigazine.net/news/20261106-ms-paint-remote-code-execution-vulnerability/)
+- [AI生成の証拠「透かし」がユーザー追跡の「スパイマーク」と化している](https://gigazine.net/news/20261108-spymarks-not-watermarks/)
+- [521日間監禁されていた少女が「Among Us」で助けを求め誘拐犯から救出される](https://gigazine.net/news/20261108-missing-teen-saved-kidnapper-help-among-us/)
+- [人が驚くと瞳孔が拡大するのはなぜか？研究者が解説](https://gigazine.net/news/20261108-pupils-dilation-surprise/)
+- [手厚い社会福祉制度は国民の寿命を延ばすのか？](https://gigazine.net/news/20261107-social-safety-nets-longer-lives/)
+- [「Kindle」2026年最新モデルをじっくり使ってみたレビュー、進化した使い心地はどのようなものか？](https://gigazine.net/news/20261107-kindle-2026-review/)
+- [無料でDiscordのようなチャット・音声・動画・ボットなどを駆使した小さなコミュニティを自分たちで運営できる「Harmony」、既存のDiscordサーバーと接続できるブリッジ機能もオープンソースでセルフホスト可能](https://gigazine.net/news/20261107-harmony/)
 <!-- GIGAZINE-NEWS-END -->
