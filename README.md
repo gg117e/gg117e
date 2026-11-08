@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=U6iReNSghS4'>
-        <img src='https://i.ytimg.com/vi/U6iReNSghS4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAL7XssFoF2SkL5wNau6M8VbXLtjQ' width='200px' alt='Kiseki'>
+      <a href='https://www.youtube.com/watch?v=gd5-TdPJ3AQ'>
+        <img src='https://i.ytimg.com/vi/gd5-TdPJ3AQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNjAMJ8Kxvjdhc3SeaC0UwgqFcWg' width='200px' alt='Bokuno Koto'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=U6iReNSghS4'>Kiseki</a>
+      <a href='https://www.youtube.com/watch?v=gd5-TdPJ3AQ'>Bokuno Koto</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ED8Q0ipvhg8'>
-        <img src='https://i.ytimg.com/vi/ED8Q0ipvhg8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDr8DalCaVoHA8DtY0mxyBK_QYifQ' width='200px' alt='Haruwo Machiwabite'>
+      <a href='https://www.youtube.com/watch?v=TDpJAuxpfMs'>
+        <img src='https://i.ytimg.com/vi/TDpJAuxpfMs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9Cz2hEIi2OAbI-OqYwpBuvb91ZQ' width='200px' alt='愛に出会い恋は続く／HoneyWorks feat.Kotoha'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ED8Q0ipvhg8'>Haruwo Machiwabite</a>
+      <a href='https://www.youtube.com/watch?v=TDpJAuxpfMs'>愛に出会い恋は続く／HoneyWorks feat.Kotoha</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=QlyW9kYHTDo'>
-        <img src='https://i.ytimg.com/vi/QlyW9kYHTDo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQFnLrxul-P672hEh7Ctcb3KYlmw' width='200px' alt='Time Machine'>
+      <a href='https://www.youtube.com/watch?v=dhgaMyKT-l0'>
+        <img src='https://i.ytimg.com/vi/dhgaMyKT-l0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0RNrPMVRqJn3jAsnvDMXYtlKm9A' width='200px' alt='Kuchibue'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=QlyW9kYHTDo'>Time Machine</a>
+      <a href='https://www.youtube.com/watch?v=dhgaMyKT-l0'>Kuchibue</a>
     </td>
   </tr>
 </table>
