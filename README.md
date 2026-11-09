@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=iUUZPdV_fto'>
-        <img src='https://i.ytimg.com/vi/iUUZPdV_fto/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_ICcoHDAP&rs=AOn4CLAV03k82NO8AHGZMArSWpQ6UEtp8g' width='200px' alt='SEKAI NO OWARI「Romantic」【Official Audio】'>
+      <a href='https://www.youtube.com/watch?v=i7Jy4GC3l6U'>
+        <img src='https://i.ytimg.com/vi/i7Jy4GC3l6U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCejND-9KtsWSEPV3xhsot3dcMUYQ&usqp=CBQ' width='200px' alt='Nachtmusik'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=iUUZPdV_fto'>SEKAI NO OWARI「Romantic」【Official Audio】</a>
+      <a href='https://www.youtube.com/watch?v=i7Jy4GC3l6U'>Nachtmusik</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=1mcvbnDZFho'>
-        <img src='https://i.ytimg.com/vi/1mcvbnDZFho/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDYxeG6Q-a14U8TM3MZcWxjcmfvg' width='200px' alt='ドラマティックおいでよ'>
+      <a href='https://www.youtube.com/watch?v=qKymy-TvdVE'>
+        <img src='https://i.ytimg.com/vi/qKymy-TvdVE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDP1yLmmRvXLT_Vim3sYALhDOyskw&usqp=CBQ' width='200px' alt='Rain'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=1mcvbnDZFho'>ドラマティックおいでよ</a>
+      <a href='https://www.youtube.com/watch?v=qKymy-TvdVE'>Rain</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=bFG7vT99Y_Q'>
-        <img src='https://i.ytimg.com/vi/bFG7vT99Y_Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWStkU-qU8U77B0aJaq_3E7tu_NA' width='200px' alt='Namidazora'>
+      <a href='https://www.youtube.com/watch?v=Tt__9q0JEOI'>
+        <img src='https://i.ytimg.com/vi/Tt__9q0JEOI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4QvFidAb2oKxtlArfQGs68apPGQ&usqp=CBQ' width='200px' alt='Wasurenagusa'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=bFG7vT99Y_Q'>Namidazora</a>
+      <a href='https://www.youtube.com/watch?v=Tt__9q0JEOI'>Wasurenagusa</a>
     </td>
   </tr>
 </table>
