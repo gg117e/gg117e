@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [AI生成の証拠「透かし」がユーザー追跡の「スパイマーク」と化している](https://gigazine.net/news/20261108-spymarks-not-watermarks/)
-- [521日間監禁されていた少女が「Among Us」で助けを求め誘拐犯から救出される](https://gigazine.net/news/20261108-missing-teen-saved-kidnapper-help-among-us/)
-- [人が驚くと瞳孔が拡大するのはなぜか？研究者が解説](https://gigazine.net/news/20261108-pupils-dilation-surprise/)
-- [手厚い社会福祉制度は国民の寿命を延ばすのか？](https://gigazine.net/news/20261107-social-safety-nets-longer-lives/)
-- [「Kindle」2026年最新モデルをじっくり使ってみたレビュー、進化した使い心地はどのようなものか？](https://gigazine.net/news/20261107-kindle-2026-review/)
-- [無料でDiscordのようなチャット・音声・動画・ボットなどを駆使した小さなコミュニティを自分たちで運営できる「Harmony」、既存のDiscordサーバーと接続できるブリッジ機能もオープンソースでセルフホスト可能](https://gigazine.net/news/20261107-harmony/)
+- [日本語でリアルタイム会話可能なAI「Shizuku-Duplex」が登場、80ミリ秒ごとに高速処理して相づちやウェブ検索にも対応](https://gigazine.net/news/20261109-shizuku-duplex-natural-conversation-ai/)
+- [【期間限定最大75％オフ】YouTubeなどの動画サイト1000以上からダウンロードできる「VideoProc Converter AI」と簡単に低解像度から自然に4K高画質化できる「Aiarty Video Enhancer」を使ってみたよレビュー](https://gigazine.net/news/20261109-videoproc-converter-ai-aiarty-video-enhancer/)
+- [Appleが2026年に約4300億円の税金を節約、シンガポールがアイルランドを上回りApple最大のタックスヘイブンに](https://gigazine.net/news/20261109-apple-saves-2-7-billion-taxes-singapore/)
+- [NVIDIAのジェンスン・フアンCEOが中国の女スパイとの不倫を認める＆取締役会も調査を開始](https://gigazine.net/news/20261109-nvidia-spy/)
+- [Claude Codeの「次回から表示しない」でパスワードが流出する恐れ、GitHubで2539件の秘密情報が見つかる](https://gigazine.net/news/20261109-claude-code-leak-secrets/)
+- [ウクライナが地下ガスパイプライン内に潜むロシア軍を追跡する戦闘ロボットを開発](https://gigazine.net/news/20261109-ukraine-underground-combat-robot/)
 <!-- GIGAZINE-NEWS-END -->
