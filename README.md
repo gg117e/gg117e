@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [日本語でリアルタイム会話可能なAI「Shizuku-Duplex」が登場、80ミリ秒ごとに高速処理して相づちやウェブ検索にも対応](https://gigazine.net/news/20261109-shizuku-duplex-natural-conversation-ai/)
-- [【期間限定最大75％オフ】YouTubeなどの動画サイト1000以上からダウンロードできる「VideoProc Converter AI」と簡単に低解像度から自然に4K高画質化できる「Aiarty Video Enhancer」を使ってみたよレビュー](https://gigazine.net/news/20261109-videoproc-converter-ai-aiarty-video-enhancer/)
-- [Appleが2026年に約4300億円の税金を節約、シンガポールがアイルランドを上回りApple最大のタックスヘイブンに](https://gigazine.net/news/20261109-apple-saves-2-7-billion-taxes-singapore/)
-- [NVIDIAのジェンスン・フアンCEOが中国の女スパイとの不倫を認める＆取締役会も調査を開始](https://gigazine.net/news/20261109-nvidia-spy/)
-- [Claude Codeの「次回から表示しない」でパスワードが流出する恐れ、GitHubで2539件の秘密情報が見つかる](https://gigazine.net/news/20261109-claude-code-leak-secrets/)
-- [ウクライナが地下ガスパイプライン内に潜むロシア軍を追跡する戦闘ロボットを開発](https://gigazine.net/news/20261109-ukraine-underground-combat-robot/)
+- [「肉を食べるとテストステロンが増える」という説は本当なのか？](https://gigazine.net/news/20261110-animal-protein-lower-testosterone/)
+- [誰でも簡単にWindowsやMacで広告ブロックできる「AdGuard 広告ブロッカー」のインストールと使い方、ブラウザだけでなくアプリやスタートメニューに出る広告までまとめて削除](https://gigazine.net/news/20261110-adguard-windows-mac/)
+- [スポーツ賭博で4800万円超を失った男性が違法賭博を提供したとしてKalshiを提訴](https://gigazine.net/news/20261110-lost-308000-sports-bets-sues-kalshi-illegal-gambling/)
+- [NVIDIAのCEO不倫事件関連でスパイ疑惑のMegaspeed社に対する調査にNVIDIAが介入しようとしていたことが判明](https://gigazine.net/news/20261110-nvidia-megaspeed-commerce-dept-investigation/)
+- [『ゴジラ-0.0』が爆音過ぎると報告される、映画の音はどのように調整されているのか？](https://gigazine.net/news/20261110-godzilla-minus-zero-loud/)
+- [Metaの最小・低コストなAIモデル「Muse Ember」各種ベンチマーク結果、本当にコスパが良いのか？](https://gigazine.net/news/20261110-meta-muse-ember-benchmark/)
 <!-- GIGAZINE-NEWS-END -->
