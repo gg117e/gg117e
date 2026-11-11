@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [「肉を食べるとテストステロンが増える」という説は本当なのか？](https://gigazine.net/news/20261110-animal-protein-lower-testosterone/)
-- [誰でも簡単にWindowsやMacで広告ブロックできる「AdGuard 広告ブロッカー」のインストールと使い方、ブラウザだけでなくアプリやスタートメニューに出る広告までまとめて削除](https://gigazine.net/news/20261110-adguard-windows-mac/)
-- [スポーツ賭博で4800万円超を失った男性が違法賭博を提供したとしてKalshiを提訴](https://gigazine.net/news/20261110-lost-308000-sports-bets-sues-kalshi-illegal-gambling/)
-- [NVIDIAのCEO不倫事件関連でスパイ疑惑のMegaspeed社に対する調査にNVIDIAが介入しようとしていたことが判明](https://gigazine.net/news/20261110-nvidia-megaspeed-commerce-dept-investigation/)
-- [『ゴジラ-0.0』が爆音過ぎると報告される、映画の音はどのように調整されているのか？](https://gigazine.net/news/20261110-godzilla-minus-zero-loud/)
-- [Metaの最小・低コストなAIモデル「Muse Ember」各種ベンチマーク結果、本当にコスパが良いのか？](https://gigazine.net/news/20261110-meta-muse-ember-benchmark/)
+- [Claude内で表計算アプリをそのまま実行できる「Claude Sheets」が登場、「Claude Whiteboards」と「Claude Data」も](https://gigazine.net/news/20261111-claude-sheets-whiteboards-data/)
+- [ジェンスン・フアンCEOの不倫関係を利用して1兆円分以上のNVIDIA製半導体が中国に出荷されていた疑い](https://gigazine.net/news/20261111-nvidia-spy-affair-ai-chip-shipments-to-china/)
+- [AI搭載人工衛星に音声で命令して宇宙で『DOOM』を起動することに成功](https://gigazine.net/news/20261111-doom-satelite-ops-sat/)
+- [日常生活で「強い光」を浴びる量が認知症リスクに肥満よりも強く関連しているとの研究結果](https://gigazine.net/news/20261111-less-bright-light-predictor-dementia/)
+- [Amazon Ringが家の中を巡回するセキュリティロボットの「Ring Rover Cam」と屋内用ドローン「Ring Drone Cam」を発表](https://gigazine.net/news/20261111-amazon-ring-robotics/)
+- [Adobeが2027年のMCP対応を予告、PhotoshopやPremiere ProをAIエージェントから操作可能に](https://gigazine.net/news/20261111-adobe-creative-tools-mcp-support/)
 <!-- GIGAZINE-NEWS-END -->
