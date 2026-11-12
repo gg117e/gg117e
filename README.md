@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [Claude内で表計算アプリをそのまま実行できる「Claude Sheets」が登場、「Claude Whiteboards」と「Claude Data」も](https://gigazine.net/news/20261111-claude-sheets-whiteboards-data/)
-- [ジェンスン・フアンCEOの不倫関係を利用して1兆円分以上のNVIDIA製半導体が中国に出荷されていた疑い](https://gigazine.net/news/20261111-nvidia-spy-affair-ai-chip-shipments-to-china/)
-- [AI搭載人工衛星に音声で命令して宇宙で『DOOM』を起動することに成功](https://gigazine.net/news/20261111-doom-satelite-ops-sat/)
-- [日常生活で「強い光」を浴びる量が認知症リスクに肥満よりも強く関連しているとの研究結果](https://gigazine.net/news/20261111-less-bright-light-predictor-dementia/)
-- [Amazon Ringが家の中を巡回するセキュリティロボットの「Ring Rover Cam」と屋内用ドローン「Ring Drone Cam」を発表](https://gigazine.net/news/20261111-amazon-ring-robotics/)
-- [Adobeが2027年のMCP対応を予告、PhotoshopやPremiere ProをAIエージェントから操作可能に](https://gigazine.net/news/20261111-adobe-creative-tools-mcp-support/)
+- [動画系AIのRunwayが動画から世界を理解してロボットを動かすためのAI「Praxis-1」を公開](https://gigazine.net/news/20261112-praxis-1/)
+- [Googleの落とし物トラッカー「Pixel Tag」が日本で発売される](https://gigazine.net/news/20261112-pixel-tag-release/)
+- [Verisignが「.name」のサードレベルドメイン廃止計画を撤回](https://gigazine.net/news/20261112-dot-name-third-level-reversal/)
+- [Googleが意思決定AIモデルの「Gemini Decisions 1」をリリース](https://gigazine.net/news/20261112-gemini-decisions-1/)
+- [AppleがローカルAI実行アプリ「Harbor」を開発中であることが判明、複数のMacを接続してメモリを共有可能](https://gigazine.net/news/20261112-apple-claris-harbor-local-ai/)
+- [任天堂がGitHubでSwitch関連改造チップファームウェアのDMCA削除要請を申請](https://gigazine.net/news/20261112-switch-modchip-firmware/)
 <!-- GIGAZINE-NEWS-END -->
