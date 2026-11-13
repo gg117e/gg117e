@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=fdnoxPq_Is8'>
-        <img src='https://i.ytimg.com/vi/fdnoxPq_Is8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPWxvixtaadySgnUIvVPraig7Ohw' width='200px' alt='Ola!!'>
+      <a href='https://www.youtube.com/watch?v=1GQ07JcqH48'>
+        <img src='https://i.ytimg.com/vi/1GQ07JcqH48/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSPACmTI9ygMCW0JC14xxWjsnbSA' width='200px' alt='Family Song'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=fdnoxPq_Is8'>Ola!!</a>
+      <a href='https://www.youtube.com/watch?v=1GQ07JcqH48'>Family Song</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=zRBcYVY5A2Y'>
-        <img src='https://i.ytimg.com/vi/zRBcYVY5A2Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlLQ_iSmc_4l96GUYylm0lVUsknQ' width='200px' alt='ノーダウト'>
+      <a href='https://www.youtube.com/watch?v=Q6MCyXi7ygA'>
+        <img src='https://i.ytimg.com/vi/Q6MCyXi7ygA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyF8uAZ8LWVRze3HuSHjbzwarW9A' width='200px' alt='Grand Escape'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=zRBcYVY5A2Y'>ノーダウト</a>
+      <a href='https://www.youtube.com/watch?v=Q6MCyXi7ygA'>Grand Escape</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=ZI6kQh30aLs'>
-        <img src='https://i.ytimg.com/vi/ZI6kQh30aLs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOt-OJxA0AVDoneSRZp4glsrs0QQ' width='200px' alt='Be Free'>
+      <a href='https://www.youtube.com/watch?v=SQcq990N5NY'>
+        <img src='https://i.ytimg.com/vi/SQcq990N5NY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWlOgX0s6Lzh8Clxs5rWiyYXwfUg' width='200px' alt='また逢う日まで'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=ZI6kQh30aLs'>Be Free</a>
+      <a href='https://www.youtube.com/watch?v=SQcq990N5NY'>また逢う日まで</a>
     </td>
   </tr>
 </table>
