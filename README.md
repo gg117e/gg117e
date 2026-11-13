@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [動画系AIのRunwayが動画から世界を理解してロボットを動かすためのAI「Praxis-1」を公開](https://gigazine.net/news/20261112-praxis-1/)
-- [Googleの落とし物トラッカー「Pixel Tag」が日本で発売される](https://gigazine.net/news/20261112-pixel-tag-release/)
-- [Verisignが「.name」のサードレベルドメイン廃止計画を撤回](https://gigazine.net/news/20261112-dot-name-third-level-reversal/)
-- [Googleが意思決定AIモデルの「Gemini Decisions 1」をリリース](https://gigazine.net/news/20261112-gemini-decisions-1/)
-- [AppleがローカルAI実行アプリ「Harbor」を開発中であることが判明、複数のMacを接続してメモリを共有可能](https://gigazine.net/news/20261112-apple-claris-harbor-local-ai/)
-- [任天堂がGitHubでSwitch関連改造チップファームウェアのDMCA削除要請を申請](https://gigazine.net/news/20261112-switch-modchip-firmware/)
+- [「GeForce RTX 5080」がNVIDIAのアメリカ向け公式ストアから一時姿を消す、実売価格は希望小売価格の約2.2倍に](https://gigazine.net/news/20261113-nvidia-rtx-5080-store-price/)
+- [Microsoft 365で世界規模の大規模障害が発生し復旧したサーバーも再び停止する事態に、OutlookやTeamsなど幅広いサービスに影響](https://gigazine.net/news/20261113-microsoft-365-down/)
+- [Anthropicの株式は11月19日に取引開始、日本でもIPO抽選に参加可能](https://gigazine.net/news/20261113-anthropic-ipo/)
+- [「宝くじの高額当選」は未婚男性が結婚する確率を高めるが既婚女性では離婚率を上昇させる可能性](https://gigazine.net/news/20261113-winning-lottery-men-marry-women-divorce/)
+- [人間が初めて写ったとされる写真の「靴磨き」と「客」がいた場所を188年越しに特定](https://gigazine.net/news/20261113-first-photographed-humans-location/)
+- [わざと不規則な構造にして衝撃吸収性能を高めたメタマテリアルをMITなどが開発](https://gigazine.net/news/20261113-scale-rich-network-based-nanomaterial-mit/)
 <!-- GIGAZINE-NEWS-END -->
