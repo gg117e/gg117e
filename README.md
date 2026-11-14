@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=nhfIpEUU9tc'>
-        <img src='https://i.ytimg.com/vi/nhfIpEUU9tc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgBpk2hSaERwDjiPaFIRz-Tc45rA' width='200px' alt='光るなら'>
+      <a href='https://www.youtube.com/watch?v=MgNzn7TGuAU'>
+        <img src='https://i.ytimg.com/vi/MgNzn7TGuAU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDe4ondBSw5TVArzEvNpw7SNixRRw' width='200px' alt='儚くない'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=nhfIpEUU9tc'>光るなら</a>
+      <a href='https://www.youtube.com/watch?v=MgNzn7TGuAU'>儚くない</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=asVlmxMXKb4'>
-        <img src='https://i.ytimg.com/vi/asVlmxMXKb4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWo0sJb27OZVeryzeBVI-3VNsYQw' width='200px' alt='Happiness'>
+      <a href='https://www.youtube.com/watch?v=bt2j17P7XVE'>
+        <img src='https://i.ytimg.com/vi/bt2j17P7XVE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfLPyZRgXU9JFZzFkCBW1iTiq4QA' width='200px' alt='Pride'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=asVlmxMXKb4'>Happiness</a>
+      <a href='https://www.youtube.com/watch?v=bt2j17P7XVE'>Pride</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=wykx9MzjL-8'>
-        <img src='https://i.ytimg.com/vi/wykx9MzjL-8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaoH4EOxmPn7by1akUA2OC7YMMhg' width='200px' alt='AAA / "Wake up!"Music Video'>
+      <a href='https://www.youtube.com/watch?v=KKi7KXynBwA'>
+        <img src='https://i.ytimg.com/vi/KKi7KXynBwA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFTKwBCcvNjWzxputKmC9GKipoZQ' width='200px' alt='名前を呼ぶよ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=wykx9MzjL-8'>AAA / "Wake up!"Music Video</a>
+      <a href='https://www.youtube.com/watch?v=KKi7KXynBwA'>名前を呼ぶよ</a>
     </td>
   </tr>
 </table>
