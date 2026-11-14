@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [「GeForce RTX 5080」がNVIDIAのアメリカ向け公式ストアから一時姿を消す、実売価格は希望小売価格の約2.2倍に](https://gigazine.net/news/20261113-nvidia-rtx-5080-store-price/)
-- [Microsoft 365で世界規模の大規模障害が発生し復旧したサーバーも再び停止する事態に、OutlookやTeamsなど幅広いサービスに影響](https://gigazine.net/news/20261113-microsoft-365-down/)
-- [Anthropicの株式は11月19日に取引開始、日本でもIPO抽選に参加可能](https://gigazine.net/news/20261113-anthropic-ipo/)
-- [「宝くじの高額当選」は未婚男性が結婚する確率を高めるが既婚女性では離婚率を上昇させる可能性](https://gigazine.net/news/20261113-winning-lottery-men-marry-women-divorce/)
-- [人間が初めて写ったとされる写真の「靴磨き」と「客」がいた場所を188年越しに特定](https://gigazine.net/news/20261113-first-photographed-humans-location/)
-- [わざと不規則な構造にして衝撃吸収性能を高めたメタマテリアルをMITなどが開発](https://gigazine.net/news/20261113-scale-rich-network-based-nanomaterial-mit/)
+- [ゲーム開発者の40％が生成AIを使用しているもののそれ以上に多くの人が生成AIは有害だと考えている](https://gigazine.net/news/20261114-developers-games-industry-using-generative-ai/)
+- [現代のソフトウェアは劣化しているかもしれないが昔のソフトウェアはもっとひどかったという指摘](https://gigazine.net/news/20261114-software-used-to-be-horrible/)
+- [AIを使って科学論文を偽造してみたらこうなった](https://gigazine.net/news/20261114-ai-generated-scientific-papers/)
+- [幻覚がひどいAIでも言葉遣いが洗練されていれば人を簡単に騙せることが判明](https://gigazine.net/news/20261114-llm-fluency-credible/)
+- [無料・インストール不要で日本語を含む13言語のリアルタイム文字起こしがブラウザからできる「Voxtral Mini 4B Realtime WebGPU」、WebGPUを駆使して完全ローカル動作可能](https://gigazine.net/news/20261113-voxtral-mini-4b-realtime-webgpu/)
+- [古い機器をスマートホームデバイスとしてよみがえらせる「Home Assistant Connect AUX-2」が発売開始](https://gigazine.net/news/20261113-home-assistant-connect-aux-2/)
 <!-- GIGAZINE-NEWS-END -->
