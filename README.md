@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [ゲーム開発者の40％が生成AIを使用しているもののそれ以上に多くの人が生成AIは有害だと考えている](https://gigazine.net/news/20261114-developers-games-industry-using-generative-ai/)
-- [現代のソフトウェアは劣化しているかもしれないが昔のソフトウェアはもっとひどかったという指摘](https://gigazine.net/news/20261114-software-used-to-be-horrible/)
-- [AIを使って科学論文を偽造してみたらこうなった](https://gigazine.net/news/20261114-ai-generated-scientific-papers/)
-- [幻覚がひどいAIでも言葉遣いが洗練されていれば人を簡単に騙せることが判明](https://gigazine.net/news/20261114-llm-fluency-credible/)
-- [無料・インストール不要で日本語を含む13言語のリアルタイム文字起こしがブラウザからできる「Voxtral Mini 4B Realtime WebGPU」、WebGPUを駆使して完全ローカル動作可能](https://gigazine.net/news/20261113-voxtral-mini-4b-realtime-webgpu/)
-- [古い機器をスマートホームデバイスとしてよみがえらせる「Home Assistant Connect AUX-2」が発売開始](https://gigazine.net/news/20261113-home-assistant-connect-aux-2/)
+- [「義務教育期間を1年延ばす」という政策が後の認知症発症率を大きく引き下げた可能性](https://gigazine.net/news/20261115-more-education-reduces-dementia-risk/)
+- [AIは答えを出せても「聞くべきこと」を見落とすことが税務の仕事を再現したテストで判明](https://gigazine.net/news/20261115-dayjob-tax/)
+- [AIが便利になればなるほど深刻になる「自動化の皮肉」に人間はどう対処すべきか](https://gigazine.net/news/20261115-ai-isnt-replacing-sres-its-deskilling/)
+- [ナルシシストはSNSの登場で増加しているのか？](https://gigazine.net/news/20261115-narcissists-sns/)
+- [摂取量が多い人ほど認知機能が速く低下する傾向が見られた6種の甘味料とは？](https://gigazine.net/news/20261114-sugar-substitutes-cognitive-decline/)
+- [高速回転するホイールが発する火花を超スローモーションで捉えたムービー](https://gigazine.net/news/20261114-10-billion-sparks/)
 <!-- GIGAZINE-NEWS-END -->
