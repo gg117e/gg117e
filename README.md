@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [「義務教育期間を1年延ばす」という政策が後の認知症発症率を大きく引き下げた可能性](https://gigazine.net/news/20261115-more-education-reduces-dementia-risk/)
-- [AIは答えを出せても「聞くべきこと」を見落とすことが税務の仕事を再現したテストで判明](https://gigazine.net/news/20261115-dayjob-tax/)
-- [AIが便利になればなるほど深刻になる「自動化の皮肉」に人間はどう対処すべきか](https://gigazine.net/news/20261115-ai-isnt-replacing-sres-its-deskilling/)
-- [ナルシシストはSNSの登場で増加しているのか？](https://gigazine.net/news/20261115-narcissists-sns/)
-- [摂取量が多い人ほど認知機能が速く低下する傾向が見られた6種の甘味料とは？](https://gigazine.net/news/20261114-sugar-substitutes-cognitive-decline/)
-- [高速回転するホイールが発する火花を超スローモーションで捉えたムービー](https://gigazine.net/news/20261114-10-billion-sparks/)
+- [Uberで数千人のドライバーの免許証情報が盗まれるデータ侵害が発生](https://gigazine.net/news/20261116-uber-stole-data/)
+- [刺しゅう機の専用アプリでサブスクが必要だったのでChatGPTを使ってサブスク不要のアプリを自作](https://gigazine.net/news/20261116-embroidery-machine-need-subscription-built-app/)
+- [Microsoft 365のシステム障害によりホテル宿泊客15人が塩素ガス中毒に見舞われる](https://gigazine.net/news/20261116-microsoft-365-gas-poisoning/)
+- [ついに「llama.cpp」がバージョン1.0.0に到達](https://gigazine.net/news/20261116-llama-cpp-ggml-milestone/)
+- [人間の顔に「飼いネコの目や特徴」が重なって見えるという奇妙な症例が報告される](https://gigazine.net/news/20261116-man-seeing-cats-peoples-faces/)
+- [SpaceXが宇宙船「Starship(スターシップ)」本体の空中キャッチに初成功](https://gigazine.net/news/20261116-spacex-starship/)
 <!-- GIGAZINE-NEWS-END -->
