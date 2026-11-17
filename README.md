@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=0Ac1TwKuwCQ'>
-        <img src='https://i.ytimg.com/vi/0Ac1TwKuwCQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqufMDYaRonIKh0kldxsPueBAd9g' width='200px' alt='ラストソング'>
+      <a href='https://www.youtube.com/watch?v=eIftMq4xQKI'>
+        <img src='https://i.ytimg.com/vi/eIftMq4xQKI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApxz6mKZjU2jDXshcbcolcKs7iFw' width='200px' alt='Anohino Orange'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=0Ac1TwKuwCQ'>ラストソング</a>
+      <a href='https://www.youtube.com/watch?v=eIftMq4xQKI'>Anohino Orange</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=sssoboSVd6A'>
-        <img src='https://i.ytimg.com/vi/sssoboSVd6A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABqS6M3D5Tk6on9fa68IULKZQALA' width='200px' alt='Ayumi'>
+      <a href='https://www.youtube.com/watch?v=p1qM75a9FeE'>
+        <img src='https://i.ytimg.com/vi/p1qM75a9FeE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClYikOff8dhkp27FSkVQFXZWivEA' width='200px' alt='OFFICIAL HIGE DANDISM - HELLO［Official Video］'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=sssoboSVd6A'>Ayumi</a>
+      <a href='https://www.youtube.com/watch?v=p1qM75a9FeE'>OFFICIAL HIGE DANDISM - HELLO［Official Video］</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=dGZqpVCJP3k'>
-        <img src='https://i.ytimg.com/vi/dGZqpVCJP3k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7TuZC6EGVoQIpgUkBaKKSxjMCrw' width='200px' alt='群青'>
+      <a href='https://www.youtube.com/watch?v=NiwkUVkXIlU'>
+        <img src='https://i.ytimg.com/vi/NiwkUVkXIlU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDKRjNV_fHOvPi0ubAUVpNyMy8Bg' width='200px' alt='Zenryoku Syounen'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=dGZqpVCJP3k'>群青</a>
+      <a href='https://www.youtube.com/watch?v=NiwkUVkXIlU'>Zenryoku Syounen</a>
     </td>
   </tr>
 </table>
