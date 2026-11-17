@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [Uberで数千人のドライバーの免許証情報が盗まれるデータ侵害が発生](https://gigazine.net/news/20261116-uber-stole-data/)
-- [刺しゅう機の専用アプリでサブスクが必要だったのでChatGPTを使ってサブスク不要のアプリを自作](https://gigazine.net/news/20261116-embroidery-machine-need-subscription-built-app/)
-- [Microsoft 365のシステム障害によりホテル宿泊客15人が塩素ガス中毒に見舞われる](https://gigazine.net/news/20261116-microsoft-365-gas-poisoning/)
-- [ついに「llama.cpp」がバージョン1.0.0に到達](https://gigazine.net/news/20261116-llama-cpp-ggml-milestone/)
-- [人間の顔に「飼いネコの目や特徴」が重なって見えるという奇妙な症例が報告される](https://gigazine.net/news/20261116-man-seeing-cats-peoples-faces/)
-- [SpaceXが宇宙船「Starship(スターシップ)」本体の空中キャッチに初成功](https://gigazine.net/news/20261116-spacex-starship/)
+- [ネアンデルタール人から受け継いだ遺伝子が現代人の脳や統合失調症リスクに影響している可能性](https://gigazine.net/news/20261117-neanderthals-gene-human-brains-schizophrenia/)
+- [OpenAIによるHugging Faceハッキング事件でカリフォルニア州司法長官がOpenAIを提訴](https://gigazine.net/news/20261117-california-doj-sue-openai/)
+- [OpenAIが児童ポルノ検出ツールを開発し監視団体に提供開始](https://gigazine.net/news/20261117-openai-child-safety/)
+- [Metaが1400億円超の罰金を科される、Androidの写真をスキャンするFacebook機能が原因](https://gigazine.net/news/20261117-italy-fines-meta-facebook-scan/)
+- [Appleがアプリのデータアクセス範囲をわかりやすく詳細に指定できるようにアップデート、AIエージェントの意図せぬデータアクセスを防ぐことが狙いか](https://gigazine.net/news/20261117-macos-control-data-access-full-disk/)
+- [MicrosoftがOutlookの大規模障害の原因を公表、2026年7月のバグ修正が引き金となりサーバーの80％以上が応答不能に](https://gigazine.net/news/20261117-microsoft-outlook-incidents-updates/)
 <!-- GIGAZINE-NEWS-END -->
