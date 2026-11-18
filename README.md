@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=whlXRYLhgx0'>
-        <img src='https://i.ytimg.com/vi/whlXRYLhgx0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGlE00IU9bwRQqqzhxwGDuajZ0HA' width='200px' alt='Bedroom Talk'>
+      <a href='https://www.youtube.com/watch?v=Q-y3TtiKxsU'>
+        <img src='https://i.ytimg.com/vi/Q-y3TtiKxsU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJYbnkxTXam_a4M0GF97NMTrAoHg' width='200px' alt='チャンカパーナ'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=whlXRYLhgx0'>Bedroom Talk</a>
+      <a href='https://www.youtube.com/watch?v=Q-y3TtiKxsU'>チャンカパーナ</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=bVqeqvwu7NU'>
-        <img src='https://i.ytimg.com/vi/bVqeqvwu7NU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDe4lxrobQ3H1YHOPDK-W1dYWjsPA' width='200px' alt='Shining One'>
+      <a href='https://www.youtube.com/watch?v=iUUZPdV_fto'>
+        <img src='https://i.ytimg.com/vi/iUUZPdV_fto/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_ICcoHDAP&rs=AOn4CLAV03k82NO8AHGZMArSWpQ6UEtp8g' width='200px' alt='SEKAI NO OWARI「Romantic」【Official Audio】'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=bVqeqvwu7NU'>Shining One</a>
+      <a href='https://www.youtube.com/watch?v=iUUZPdV_fto'>SEKAI NO OWARI「Romantic」【Official Audio】</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=8DPaNJjI-8Y'>
-        <img src='https://i.ytimg.com/vi/8DPaNJjI-8Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqhZF3yGmxLSsRRDBPDCEm_IBuYw' width='200px' alt='Stand by me, Stand by you.'>
+      <a href='https://www.youtube.com/watch?v=zRBcYVY5A2Y'>
+        <img src='https://i.ytimg.com/vi/zRBcYVY5A2Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlLQ_iSmc_4l96GUYylm0lVUsknQ' width='200px' alt='ノーダウト'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=8DPaNJjI-8Y'>Stand by me, Stand by you.</a>
+      <a href='https://www.youtube.com/watch?v=zRBcYVY5A2Y'>ノーダウト</a>
     </td>
   </tr>
 </table>
