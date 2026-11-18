@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [ネアンデルタール人から受け継いだ遺伝子が現代人の脳や統合失調症リスクに影響している可能性](https://gigazine.net/news/20261117-neanderthals-gene-human-brains-schizophrenia/)
-- [OpenAIによるHugging Faceハッキング事件でカリフォルニア州司法長官がOpenAIを提訴](https://gigazine.net/news/20261117-california-doj-sue-openai/)
-- [OpenAIが児童ポルノ検出ツールを開発し監視団体に提供開始](https://gigazine.net/news/20261117-openai-child-safety/)
-- [Metaが1400億円超の罰金を科される、Androidの写真をスキャンするFacebook機能が原因](https://gigazine.net/news/20261117-italy-fines-meta-facebook-scan/)
-- [Appleがアプリのデータアクセス範囲をわかりやすく詳細に指定できるようにアップデート、AIエージェントの意図せぬデータアクセスを防ぐことが狙いか](https://gigazine.net/news/20261117-macos-control-data-access-full-disk/)
-- [MicrosoftがOutlookの大規模障害の原因を公表、2026年7月のバグ修正が引き金となりサーバーの80％以上が応答不能に](https://gigazine.net/news/20261117-microsoft-outlook-incidents-updates/)
+- [OpenAIが「GPT-6.2 Astra」「GPT-6.2 Sol」をリリース、資料作成やPC操作が進化＆少ないトークンで複雑な業務を処理可能に](https://gigazine.net/news/20261118-openai-gpt-6-2-astra-sol/)
+- [OpenJDKのBase64デコーダにおけるメモリ破損の脆弱性「Java4Shell」をOpenAIのCodexで発見、わずか3時間で攻撃実証まで成功](https://gigazine.net/news/20261118-java4shell/)
+- [NVIDIAのコレット・クレス暫定CEOが中国向けのH200販売終了を発表](https://gigazine.net/news/20261118-nvidia-ends-to-sell-chip-to-china/)
+- [サイコパシーやサディズムの傾向がある人は初回のデートで異性から高い評価を受ける可能性](https://gigazine.net/news/20261118-psychopathy-sadism-more-appealing-dates/)
+- [Nintendo Switch 2版「ゼルダの伝説 時のオカリナ」が発売からわずか3日で2026年に最も売れたパッケージ版ゲームに](https://gigazine.net/news/20261118-zelda-ocarina-of-time-best-selling/)
+- [イーロン・マスクの母親がゲーム「インフィニティニキ」のアップデート予告に登場してプレイヤーは困惑](https://gigazine.net/news/20261118-infinity-nikki-elon-musk-mom-appears-trailers/)
 <!-- GIGAZINE-NEWS-END -->
