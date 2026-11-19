@@ -33,25 +33,25 @@
 <table>
   <tr>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=Q-y3TtiKxsU'>
-        <img src='https://i.ytimg.com/vi/Q-y3TtiKxsU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJYbnkxTXam_a4M0GF97NMTrAoHg' width='200px' alt='チャンカパーナ'>
+      <a href='https://www.youtube.com/watch?v=92pdJyzIGbw'>
+        <img src='https://i.ytimg.com/vi/92pdJyzIGbw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnnOpsSe2wV7d2I75yBidX_Mx8Ww' width='200px' alt='Week End'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=Q-y3TtiKxsU'>チャンカパーナ</a>
+      <a href='https://www.youtube.com/watch?v=92pdJyzIGbw'>Week End</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=iUUZPdV_fto'>
-        <img src='https://i.ytimg.com/vi/iUUZPdV_fto/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_ICcoHDAP&rs=AOn4CLAV03k82NO8AHGZMArSWpQ6UEtp8g' width='200px' alt='SEKAI NO OWARI「Romantic」【Official Audio】'>
+      <a href='https://www.youtube.com/watch?v=FJOUiX0uuYM'>
+        <img src='https://i.ytimg.com/vi/FJOUiX0uuYM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCRluchGpZf-uIfzjnVnCzRAENzg' width='200px' alt='さよならエレジー'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=iUUZPdV_fto'>SEKAI NO OWARI「Romantic」【Official Audio】</a>
+      <a href='https://www.youtube.com/watch?v=FJOUiX0uuYM'>さよならエレジー</a>
     </td>
     <td align='center'>
-      <a href='https://www.youtube.com/watch?v=zRBcYVY5A2Y'>
-        <img src='https://i.ytimg.com/vi/zRBcYVY5A2Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlLQ_iSmc_4l96GUYylm0lVUsknQ' width='200px' alt='ノーダウト'>
+      <a href='https://www.youtube.com/watch?v=29vX07Sz3kw'>
+        <img src='https://i.ytimg.com/vi/29vX07Sz3kw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKaU55q7u0HPNBVdmcF1-ZubeeJA' width='200px' alt='Believe'>
       </a>
       <br />
-      <a href='https://www.youtube.com/watch?v=zRBcYVY5A2Y'>ノーダウト</a>
+      <a href='https://www.youtube.com/watch?v=29vX07Sz3kw'>Believe</a>
     </td>
   </tr>
 </table>
