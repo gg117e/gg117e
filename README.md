@@ -61,10 +61,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [OpenAIが「GPT-6.2 Astra」「GPT-6.2 Sol」をリリース、資料作成やPC操作が進化＆少ないトークンで複雑な業務を処理可能に](https://gigazine.net/news/20261118-openai-gpt-6-2-astra-sol/)
-- [OpenJDKのBase64デコーダにおけるメモリ破損の脆弱性「Java4Shell」をOpenAIのCodexで発見、わずか3時間で攻撃実証まで成功](https://gigazine.net/news/20261118-java4shell/)
-- [NVIDIAのコレット・クレス暫定CEOが中国向けのH200販売終了を発表](https://gigazine.net/news/20261118-nvidia-ends-to-sell-chip-to-china/)
-- [サイコパシーやサディズムの傾向がある人は初回のデートで異性から高い評価を受ける可能性](https://gigazine.net/news/20261118-psychopathy-sadism-more-appealing-dates/)
-- [Nintendo Switch 2版「ゼルダの伝説 時のオカリナ」が発売からわずか3日で2026年に最も売れたパッケージ版ゲームに](https://gigazine.net/news/20261118-zelda-ocarina-of-time-best-selling/)
-- [イーロン・マスクの母親がゲーム「インフィニティニキ」のアップデート予告に登場してプレイヤーは困惑](https://gigazine.net/news/20261118-infinity-nikki-elon-musk-mom-appears-trailers/)
+- [「高校時代のバイト経験」が中年期のキャリアに影響を及ぼすことが判明](https://gigazine.net/news/20261119-high-school-job-mid-life-career/)
+- [「Google検索の利用禁止」をアメリカの複数の学区が検討中、学生のAI使用を禁止した影響でGoogle検索も一緒に利用できなくなるため](https://gigazine.net/news/20261119-school-consider-ditching-google-search/)
+- [ペンシルベニア州の高校が日用品を銃と誤認し続けるAI武器探知機を無効化](https://gigazine.net/news/20261119-hempfield-delay-weapon-detection-system/)
+- [AI音楽生成サービスの「Suno」がAI音楽用のPVを作成できる「Visuals」を発表](https://gigazine.net/news/20261119-suno-visuals/)
+- [ケンブリッジ辞典が2026年度版「今年の単語」に「人間(human)」を選出](https://gigazine.net/news/20261119-cambridge-dictionary-word-of-the-year-human/)
+- [宇宙空間でのたった1回の核爆発で低軌道を周回する人工衛星のほぼすべてが機能停止に陥る可能性](https://gigazine.net/news/20261119-nuclear-blast-cripple-satellite/)
 <!-- GIGAZINE-NEWS-END -->
