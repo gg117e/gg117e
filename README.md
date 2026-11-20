@@ -62,10 +62,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [「高校時代のバイト経験」が中年期のキャリアに影響を及ぼすことが判明](https://gigazine.net/news/20261119-high-school-job-mid-life-career/)
-- [「Google検索の利用禁止」をアメリカの複数の学区が検討中、学生のAI使用を禁止した影響でGoogle検索も一緒に利用できなくなるため](https://gigazine.net/news/20261119-school-consider-ditching-google-search/)
-- [ペンシルベニア州の高校が日用品を銃と誤認し続けるAI武器探知機を無効化](https://gigazine.net/news/20261119-hempfield-delay-weapon-detection-system/)
-- [AI音楽生成サービスの「Suno」がAI音楽用のPVを作成できる「Visuals」を発表](https://gigazine.net/news/20261119-suno-visuals/)
-- [ケンブリッジ辞典が2026年度版「今年の単語」に「人間(human)」を選出](https://gigazine.net/news/20261119-cambridge-dictionary-word-of-the-year-human/)
-- [宇宙空間でのたった1回の核爆発で低軌道を周回する人工衛星のほぼすべてが機能停止に陥る可能性](https://gigazine.net/news/20261119-nuclear-blast-cripple-satellite/)
+- [MetaのAIアシスタント搭載小型デバイス「Muse Charm」の価格は4万円台か](https://gigazine.net/news/20261120-muse-charm-may-cost-300-usd/)
+- [Appleは独自のAIエージェントを開発するためにエンジニアを募集している](https://gigazine.net/news/20261120-apple-hiring-engineers-build-ai-agent/)
+- [重力を使って壁越しにメッセージを送信することに成功、遮断がほぼ不可能な通信方法だが1ビット送るのに1分かかる](https://gigazine.net/news/20261120-unblockable-message-gravity/)
+- [Blueskyで投稿の閲覧数を確認できる機能のベータテストが始まる](https://gigazine.net/news/20261120-bluesky-impression/)
+- [濡れ場に合わせて映画館の座席が動く4DXならぬ4Dセックスが流行、「まるで3人で致したみたいだった」と鑑賞者は語る](https://gigazine.net/news/20261120-4dx-love-scene/)
+- [不気味なAI生成風ビジュアルが話題のOpenAIのサム・アルトマンCEO解任騒動を描く映画「Artificial」のポスターは人間が作ったもの](https://gigazine.net/news/20261120-artificial-unsettling-ai-poster-made-human/)
 <!-- GIGAZINE-NEWS-END -->
