@@ -62,10 +62,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [MetaのAIアシスタント搭載小型デバイス「Muse Charm」の価格は4万円台か](https://gigazine.net/news/20261120-muse-charm-may-cost-300-usd/)
-- [Appleは独自のAIエージェントを開発するためにエンジニアを募集している](https://gigazine.net/news/20261120-apple-hiring-engineers-build-ai-agent/)
-- [重力を使って壁越しにメッセージを送信することに成功、遮断がほぼ不可能な通信方法だが1ビット送るのに1分かかる](https://gigazine.net/news/20261120-unblockable-message-gravity/)
-- [Blueskyで投稿の閲覧数を確認できる機能のベータテストが始まる](https://gigazine.net/news/20261120-bluesky-impression/)
-- [濡れ場に合わせて映画館の座席が動く4DXならぬ4Dセックスが流行、「まるで3人で致したみたいだった」と鑑賞者は語る](https://gigazine.net/news/20261120-4dx-love-scene/)
-- [不気味なAI生成風ビジュアルが話題のOpenAIのサム・アルトマンCEO解任騒動を描く映画「Artificial」のポスターは人間が作ったもの](https://gigazine.net/news/20261120-artificial-unsettling-ai-poster-made-human/)
+- [BlenderのGPUアクセラレーション対応UIを他のアプリケーションから再利用可能にする「BUI」](https://gigazine.net/news/20261121-bui/)
+- [SpaceXは圏外エリアを撲滅しあらゆる場所で通信できるようにするため屋上設置型基地局の設計を完了したとイーロン・マスクが語る](https://gigazine.net/news/20261121-elon-musk-spacex-plan-eliminate-cell-phone-dead-zones/)
+- [退役したジェットエンジンがAIデータセンターの動力源として使われている](https://gigazine.net/news/20261121-jet-engine-ai-power/)
+- [VPN通信に使うWireGuardやOpenVPNをターミナルUIの1画面で管理できる「Vortix」、マルチトンネル制御・リアルタイムテレメトリ・リークガード機能を搭載](https://gigazine.net/news/20261120-vortix/)
+- [SSDの価格は2027年後半に下落し始める可能性あり](https://gigazine.net/news/20261120-ssd-prices-outlook/)
+- [RTX Spark搭載ノートPCで画像生成AIや動画生成AIのローカル実行速度を検証した結果が公開される](https://gigazine.net/news/20261120-rtx-spark-image-video-generation/)
 <!-- GIGAZINE-NEWS-END -->
