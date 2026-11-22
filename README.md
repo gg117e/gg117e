@@ -62,10 +62,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [BlenderのGPUアクセラレーション対応UIを他のアプリケーションから再利用可能にする「BUI」](https://gigazine.net/news/20261121-bui/)
-- [SpaceXは圏外エリアを撲滅しあらゆる場所で通信できるようにするため屋上設置型基地局の設計を完了したとイーロン・マスクが語る](https://gigazine.net/news/20261121-elon-musk-spacex-plan-eliminate-cell-phone-dead-zones/)
-- [退役したジェットエンジンがAIデータセンターの動力源として使われている](https://gigazine.net/news/20261121-jet-engine-ai-power/)
-- [VPN通信に使うWireGuardやOpenVPNをターミナルUIの1画面で管理できる「Vortix」、マルチトンネル制御・リアルタイムテレメトリ・リークガード機能を搭載](https://gigazine.net/news/20261120-vortix/)
-- [SSDの価格は2027年後半に下落し始める可能性あり](https://gigazine.net/news/20261120-ssd-prices-outlook/)
-- [RTX Spark搭載ノートPCで画像生成AIや動画生成AIのローカル実行速度を検証した結果が公開される](https://gigazine.net/news/20261120-rtx-spark-image-video-generation/)
+- [無料のWindows用Pingツール「PingTool」、TCPポートチェック・速度テスト・Wake-on-LAN機能あり](https://gigazine.net/news/20261122-ping-tool/)
+- [Anthropicの研究者がAI「Claude」とともに数学の未解決問題「リーマン予想」を証明したと発表、1700万行の証明コードを専門家が検証中](https://gigazine.net/news/20261122-anthropic-claude-said-riemann-hypothesis-solved/)
+- [SignalがAIエージェントによる情報収集を防ぐためアプリでのAIによるスクリーンショット撮影を制限、OSレベルのAIエージェントによる情報収集に警鐘](https://gigazine.net/news/20261122-signal-restricts-mobile-screenshots-threat-ai-surveillance/)
+- [多様性を受け入れるには「幸福感」が重要かもしれないとの研究結果](https://gigazine.net/news/20261122-happiness-emotional-lever-openness-diversity/)
+- [出社してオフィスで働く頻度の最適解とは？](https://gigazine.net/news/20261122-work-at-office/)
+- [無料でセルフホストできWindows・macOS・LinuxアプリもあるRSSリーダー「WyrmRSS」、YouTube動画の再生やDiscord・Slackへの新着通知も可能](https://gigazine.net/news/20261121-wyrmrss/)
 <!-- GIGAZINE-NEWS-END -->
