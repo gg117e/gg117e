@@ -62,10 +62,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [無料のWindows用Pingツール「PingTool」、TCPポートチェック・速度テスト・Wake-on-LAN機能あり](https://gigazine.net/news/20261122-ping-tool/)
-- [Anthropicの研究者がAI「Claude」とともに数学の未解決問題「リーマン予想」を証明したと発表、1700万行の証明コードを専門家が検証中](https://gigazine.net/news/20261122-anthropic-claude-said-riemann-hypothesis-solved/)
-- [SignalがAIエージェントによる情報収集を防ぐためアプリでのAIによるスクリーンショット撮影を制限、OSレベルのAIエージェントによる情報収集に警鐘](https://gigazine.net/news/20261122-signal-restricts-mobile-screenshots-threat-ai-surveillance/)
-- [多様性を受け入れるには「幸福感」が重要かもしれないとの研究結果](https://gigazine.net/news/20261122-happiness-emotional-lever-openness-diversity/)
-- [出社してオフィスで働く頻度の最適解とは？](https://gigazine.net/news/20261122-work-at-office/)
-- [無料でセルフホストできWindows・macOS・LinuxアプリもあるRSSリーダー「WyrmRSS」、YouTube動画の再生やDiscord・Slackへの新着通知も可能](https://gigazine.net/news/20261121-wyrmrss/)
+- [無料でMacのアプリのウィンドウをiPhoneやiPadからリアルタイムに操作できる「Sill」、オープンソースで中継サーバー不要](https://gigazine.net/news/20261123-sill/)
+- [Amazonが配送業務の委託を阻止する配送保護法に対抗して配送物にラベルを貼り始める](https://gigazine.net/news/20261123-amazon-complaining-nyc-council-shipping-labels/)
+- [世界初の直径200mm単結晶ダイヤモンドウェハーは何を変えるのか、AIチップの99％をダイヤモンドにする構想とは？](https://gigazine.net/news/20261123-diamond-foundrysingle-crystal-diamond/)
+- [「世界の果て」の島で19世紀の漂流者キャンプ跡と思われる場所が発見される](https://gigazine.net/news/20261123-19th-century-shipwreck-found/)
+- [ケガの応急処置や飲料水の入手方法など膨大なサバイバル情報をPCに保存してオフラインで閲覧可能にする「Lastbook」](https://gigazine.net/news/20261123-lastbook-offline-knowledge/)
+- [「PCの父」のオススメ本・史上最高の小説100選・ソニー「WF-1000XM5」レビューなどAmazonで売上トップ10のGIGAZINE記事ランキング2026年10月版はコレ！](https://gigazine.net/news/20261123-gigazine-kindle-ranking-2026-10/)
 <!-- GIGAZINE-NEWS-END -->
