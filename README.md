@@ -62,10 +62,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [無料でMacのアプリのウィンドウをiPhoneやiPadからリアルタイムに操作できる「Sill」、オープンソースで中継サーバー不要](https://gigazine.net/news/20261123-sill/)
-- [Amazonが配送業務の委託を阻止する配送保護法に対抗して配送物にラベルを貼り始める](https://gigazine.net/news/20261123-amazon-complaining-nyc-council-shipping-labels/)
-- [世界初の直径200mm単結晶ダイヤモンドウェハーは何を変えるのか、AIチップの99％をダイヤモンドにする構想とは？](https://gigazine.net/news/20261123-diamond-foundrysingle-crystal-diamond/)
-- [「世界の果て」の島で19世紀の漂流者キャンプ跡と思われる場所が発見される](https://gigazine.net/news/20261123-19th-century-shipwreck-found/)
-- [ケガの応急処置や飲料水の入手方法など膨大なサバイバル情報をPCに保存してオフラインで閲覧可能にする「Lastbook」](https://gigazine.net/news/20261123-lastbook-offline-knowledge/)
-- [「PCの父」のオススメ本・史上最高の小説100選・ソニー「WF-1000XM5」レビューなどAmazonで売上トップ10のGIGAZINE記事ランキング2026年10月版はコレ！](https://gigazine.net/news/20261123-gigazine-kindle-ranking-2026-10/)
+- [好みの柄の猫ちゃんを思う存分なでなでできる「猫撫でシミュレーター」が登場、デブ猫やちび猫やゴロゴロ音まで完全再現](https://gigazine.net/news/20261124-cat-pet-simulator/)
+- [【ブラックフライデーセール開催中】誰でも簡単にAI時代に役立つスキルが動画でわかる「Udemy」おすすめ講座まとめ、Claude Code・AIエージェント・要件定義・Linux・AWS認定資格・AIセキュリティなど](https://gigazine.net/news/20261124-udemy/)
+- [冷笑的な敵意や自己主張の欠如は後の人生におけるうつ病症状の悪化と関連している](https://gigazine.net/news/20261124-cynical-hostility-lack-assertiveness-depression/)
+- [独自開発のブラウザエンジンを搭載した独立系ウェブブラウザ「Ladybird」のアルファ版が登場](https://gigazine.net/news/20261124-ladybird-now-alpha/)
+- [GTA6のXBOX版実行ファイルが第三者により公開される](https://gigazine.net/news/20261124-gta6-xbox-build-leaked/)
+- [AIがプルリクエストのレビューや修正を行い自動承認までしてくれる「Claude Ship」が登場](https://gigazine.net/news/20261124-claude-ship/)
 <!-- GIGAZINE-NEWS-END -->
