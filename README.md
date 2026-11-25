@@ -62,10 +62,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [好みの柄の猫ちゃんを思う存分なでなでできる「猫撫でシミュレーター」が登場、デブ猫やちび猫やゴロゴロ音まで完全再現](https://gigazine.net/news/20261124-cat-pet-simulator/)
-- [【ブラックフライデーセール開催中】誰でも簡単にAI時代に役立つスキルが動画でわかる「Udemy」おすすめ講座まとめ、Claude Code・AIエージェント・要件定義・Linux・AWS認定資格・AIセキュリティなど](https://gigazine.net/news/20261124-udemy/)
-- [冷笑的な敵意や自己主張の欠如は後の人生におけるうつ病症状の悪化と関連している](https://gigazine.net/news/20261124-cynical-hostility-lack-assertiveness-depression/)
-- [独自開発のブラウザエンジンを搭載した独立系ウェブブラウザ「Ladybird」のアルファ版が登場](https://gigazine.net/news/20261124-ladybird-now-alpha/)
-- [GTA6のXBOX版実行ファイルが第三者により公開される](https://gigazine.net/news/20261124-gta6-xbox-build-leaked/)
-- [AIがプルリクエストのレビューや修正を行い自動承認までしてくれる「Claude Ship」が登場](https://gigazine.net/news/20261124-claude-ship/)
+- [NVIDIAのジェンスン・フアンCEOが従業員に謝罪し「NVIDIAは最も政治と無縁な会社」と主張](https://gigazine.net/news/20261125-jensen-huang-apologizes-to-nvidia-employees/)
+- [AI導入事例の多くはコスト削減ではなく生産性の向上と加速によって価値を生み出しており、AIで構築されたアプリ100件のうち80％が手作業を自動化していることがAnthropicのレポートで明らかに](https://gigazine.net/news/20261125-anthropic-working-with-ai/)
+- [Anthropicが「アプリとしてインストール」ベータ版をリリース、Claudeアーティファクトが通知機能・オプションのフルコンピュータアクセスなどを備えたWindows・Mac用アプリに変換される](https://gigazine.net/news/20261125-anthropic-claude-install-as-app/)
+- [人気の肥満治療薬が「精子の質の改善」や「テストステロン値の増加」をもたらす可能性がある](https://gigazine.net/news/20261125-semaglutide-liraglutide-sperm-quality-testosterone/)
+- [Anthropicが「わざとセキュリティの甘いサンドボックスにAIを配置して行動を観察する」というセキュリティ評価手法「Siren」について解説](https://gigazine.net/news/20261125-ai-sandbox-escape-siren/)
+- [GPT-6シリーズが生物学に特化したAIなしでタンパク質を設計できることが判明、実験室での検証にも成功](https://gigazine.net/news/20261125-openai-gpt-6-protein/)
 <!-- GIGAZINE-NEWS-END -->
