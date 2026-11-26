@@ -62,10 +62,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [NVIDIAのジェンスン・フアンCEOが従業員に謝罪し「NVIDIAは最も政治と無縁な会社」と主張](https://gigazine.net/news/20261125-jensen-huang-apologizes-to-nvidia-employees/)
-- [AI導入事例の多くはコスト削減ではなく生産性の向上と加速によって価値を生み出しており、AIで構築されたアプリ100件のうち80％が手作業を自動化していることがAnthropicのレポートで明らかに](https://gigazine.net/news/20261125-anthropic-working-with-ai/)
-- [Anthropicが「アプリとしてインストール」ベータ版をリリース、Claudeアーティファクトが通知機能・オプションのフルコンピュータアクセスなどを備えたWindows・Mac用アプリに変換される](https://gigazine.net/news/20261125-anthropic-claude-install-as-app/)
-- [人気の肥満治療薬が「精子の質の改善」や「テストステロン値の増加」をもたらす可能性がある](https://gigazine.net/news/20261125-semaglutide-liraglutide-sperm-quality-testosterone/)
-- [Anthropicが「わざとセキュリティの甘いサンドボックスにAIを配置して行動を観察する」というセキュリティ評価手法「Siren」について解説](https://gigazine.net/news/20261125-ai-sandbox-escape-siren/)
-- [GPT-6シリーズが生物学に特化したAIなしでタンパク質を設計できることが判明、実験室での検証にも成功](https://gigazine.net/news/20261125-openai-gpt-6-protein/)
+- [手書き文字やスケッチを生成できるAIモデル「PenGPT」](https://gigazine.net/news/20261126-pengpt/)
+- [AIがゼロから設計した新しいCPU「Frostbite」が従来型CPUの4.59倍の電力効率を示す](https://gigazine.net/news/20261126-frostbite-cpu/)
+- [「ネット上で発生した被害を防げなかったテック企業に最大で全世界売上高の5％の制裁金を科す」という法律がオーストラリアで成立](https://gigazine.net/news/20261126-digital-duty-of-care-australia/)
+- [読書は単なる暇つぶしだけでなく「ストレス軽減」「認知機能の向上」「孤独感の解消」などに役立つ](https://gigazine.net/news/20261126-reading-psychology-lower-stress-reduced-dementia/)
+- [NVIDIAのスキャンダルを巡るトランプ大統領の言動にスティーブン・キングが「国家安全保障を犠牲に株式市場を守っている」と非難](https://gigazine.net/news/20261126-stephen-king-trump/)
+- [曲げたり引っ張ったりすればするほど強度を増す素材が開発される](https://gigazine.net/news/20261126-get-stronger-polymer/)
 <!-- GIGAZINE-NEWS-END -->
