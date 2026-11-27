@@ -62,10 +62,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [手書き文字やスケッチを生成できるAIモデル「PenGPT」](https://gigazine.net/news/20261126-pengpt/)
-- [AIがゼロから設計した新しいCPU「Frostbite」が従来型CPUの4.59倍の電力効率を示す](https://gigazine.net/news/20261126-frostbite-cpu/)
-- [「ネット上で発生した被害を防げなかったテック企業に最大で全世界売上高の5％の制裁金を科す」という法律がオーストラリアで成立](https://gigazine.net/news/20261126-digital-duty-of-care-australia/)
-- [読書は単なる暇つぶしだけでなく「ストレス軽減」「認知機能の向上」「孤独感の解消」などに役立つ](https://gigazine.net/news/20261126-reading-psychology-lower-stress-reduced-dementia/)
-- [NVIDIAのスキャンダルを巡るトランプ大統領の言動にスティーブン・キングが「国家安全保障を犠牲に株式市場を守っている」と非難](https://gigazine.net/news/20261126-stephen-king-trump/)
-- [曲げたり引っ張ったりすればするほど強度を増す素材が開発される](https://gigazine.net/news/20261126-get-stronger-polymer/)
+- [NVIDIAが海賊版書籍を配布しAdobeと共有したと著者らが主張](https://gigazine.net/news/20261127-nvidia-adobe-pirate/)
+- [人間の生きた細胞にビートルズの歌詞を保存＆細胞分裂後も正確に読み取ることに成功](https://gigazine.net/news/20261127-human-cells-dna-storage/)
+- [メモリ不足により2026年第3四半期のラテンアメリカにおけるスマートフォン出荷台数は前年同期比24％減を記録](https://gigazine.net/news/20261127-latam-smartphone/)
+- [生産終了がアナウンスされたテスラのCybertruck(サイバートラック)は中古車市場で最も売れやすいトラック](https://gigazine.net/news/20261127-tesla-cybertruck-fastest-selling-used-truck/)
+- [NVIDIAが画像生成AI「Nemotron-Labs-Image-30B-A3B」を公開、拡散モデルではなく自己回帰モデルを採用しハーネスと組み合わせてGPT-Image-2超えを達成](https://gigazine.net/news/20261127-nemotron-labs-image-30b-a3b/)
+- [中国への過度なハイテク輸出規制は「国内開発体制の加速につながる」と半導体露光装置メーカー・ASMLのフーケCEOが警告](https://gigazine.net/news/20261127-asml-ceo-warn-to-export-ban/)
 <!-- GIGAZINE-NEWS-END -->
