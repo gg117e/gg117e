@@ -62,10 +62,10 @@
 ## Daily Recommend News
 
 <!-- GIGAZINE-NEWS-START -->
-- [NVIDIAが海賊版書籍を配布しAdobeと共有したと著者らが主張](https://gigazine.net/news/20261127-nvidia-adobe-pirate/)
-- [人間の生きた細胞にビートルズの歌詞を保存＆細胞分裂後も正確に読み取ることに成功](https://gigazine.net/news/20261127-human-cells-dna-storage/)
-- [メモリ不足により2026年第3四半期のラテンアメリカにおけるスマートフォン出荷台数は前年同期比24％減を記録](https://gigazine.net/news/20261127-latam-smartphone/)
-- [生産終了がアナウンスされたテスラのCybertruck(サイバートラック)は中古車市場で最も売れやすいトラック](https://gigazine.net/news/20261127-tesla-cybertruck-fastest-selling-used-truck/)
-- [NVIDIAが画像生成AI「Nemotron-Labs-Image-30B-A3B」を公開、拡散モデルではなく自己回帰モデルを採用しハーネスと組み合わせてGPT-Image-2超えを達成](https://gigazine.net/news/20261127-nemotron-labs-image-30b-a3b/)
-- [中国への過度なハイテク輸出規制は「国内開発体制の加速につながる」と半導体露光装置メーカー・ASMLのフーケCEOが警告](https://gigazine.net/news/20261127-asml-ceo-warn-to-export-ban/)
+- [リモートワークをすると1日あたり「21分」の運動時間を失うという研究結果](https://gigazine.net/news/20261128-remote-work-costs-21-minutes-exercise/)
+- [AppleのiPhoneは中国最大のネット通販セールイベントで最も売れたスマホ10機種のうち6機種を占める](https://gigazine.net/news/20261128-china-double-11-iphone-domination/)
+- [人類は350年前にどうやって「光にも速さがある」と気づいたのか？](https://gigazine.net/news/20261128-light-speed-discovered-350-years-ago/)
+- [AI音声による虚偽通報が深刻化](https://gigazine.net/news/20261128-fake-911-call-ai/)
+- [シンプルな構文で美しい図を自動生成する「D2」が進化、非営利化で独自レイアウトエンジンもオープンソース化](https://gigazine.net/news/20261127-d2/)
+- [ゴミ捨て場で大量のアポピスの儀式の痕跡が見つかり古代エジプトでは呪いの儀式が広く行われていたことが明らかに](https://gigazine.net/news/20261127-curse-ritual-widespread-ancient-egypt/)
 <!-- GIGAZINE-NEWS-END -->
